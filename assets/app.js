@@ -789,6 +789,7 @@
   // scripts/serve.js exposes /api/status and /api/review. On a static host these do not exist, so the page stays hidden.
   let reviewOn = false, pending = [], gitState = null;
   async function loadReview() {
+    if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname)) return;
     try {
       const s = await fetch("/api/status", { cache: "no-store" }); if (!s.ok) return;
       const st = await s.json(); reviewOn = !!st.review; gitState = st.git || null;
