@@ -76,7 +76,10 @@ Visitors switch languages with the **Af-Soomaali / English** button in the heade
 
 ## Publishing
 
-Any static host works: GitHub Pages, Netlify, Cloudflare Pages, or any web server. Upload the whole folder. To update the site, edit the JSON files and upload them again.
+The public site is **https://phostine.github.io/somalia-tracker/**, hosted on GitHub Pages from the repository `Phostine/somalia-tracker`.
+- **Live wire:** `.github/workflows/wire.yml` refreshes the headlines and redeploys every 15 minutes, even when this computer is off. GitHub may delay scheduled runs by a few minutes, and pauses them if the repository has no activity for 60 days.
+- **Tracker changes:** start the local server (`node scripts/serve.js`) and open `http://localhost:8427/#/review`. Approving a draft adds it, runs the checker and, if the checker passes, pushes to GitHub, and the site updates about a minute later. For other local edits (for example after the monthly update), the Review page shows a **Publish now** button.
+- **Never uploaded:** `data/pending.json`, `updates/` (editor reports and the review log) and `.claude/` (see `.gitignore`).
 
 ## Suggested next steps
 
