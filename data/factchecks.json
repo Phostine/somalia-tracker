@@ -1,0 +1,601 @@
+[
+  {
+    "id": "fc-2023-03-drought-43000-deaths",
+    "date": "2023-03-20",
+    "date_precision": "day",
+    "claim": "Somalia's 2022 drought killed 43,000 people.",
+    "circulated_by": "International news headlines and social media posts summarising a March 2023 Ministry of Health/WHO/UNICEF study as a confirmed death toll.",
+    "verdict": "partly-true",
+    "finding": "The 43,000 figure is a statistical model estimate of 'excess deaths' in 2022 compared with the 2017-2018 drought, not a count of recorded deaths. The study says the deaths 'might have occurred', and about half of them were estimated to be children under five. A follow-up study published in January 2025 put estimated drought-related excess deaths at about 71,000 for January 2022 to June 2024. Famine was not declared: the IPC found that Famine (Phase 5) thresholds were not reached in October-December 2022, although it had projected famine for parts of Bay region.",
+    "official_position": "The Federal Ministry of Health and Human Services co-published the study and released its findings on 20 March 2023, alongside WHO and UNICEF.",
+    "independent_evidence": "UNICEF and WHO describe the figure as an estimate from modelling by the London School of Hygiene and Tropical Medicine and Imperial College London. The IPC/FSNAU December 2022 update said famine had been averted for the time being because aid was scaled up.",
+    "sector": "social",
+    "sources": [
+      {
+        "name": "UNICEF Somalia press release: 43,000 excess deaths may have occurred in 2022",
+        "url": "https://www.unicef.org/somalia/press-releases/new-study-finds-43000-excess-deaths-may-have-occurred-2022-drought-somalia",
+        "type": "international",
+        "date": "2023-03-20"
+      },
+      {
+        "name": "WHO EMRO: New study finds 43,000 excess deaths (PDF)",
+        "url": "https://www.emro.who.int/pdf/somalia/news/new-study-finds-that-43000-excess-deaths-may-have-occurred-in-2022-from-the-drought-in-somalia.pdf",
+        "type": "international",
+        "date": "2023-03-20"
+      },
+      {
+        "name": "UNICEF Somalia: 71,000 drought-related excess deaths 2022-2024",
+        "url": "https://www.unicef.org/somalia/press-releases/71000-drought-related-excess-deaths",
+        "type": "international"
+      },
+      {
+        "name": "UNICEF: Humanitarian situation in Somalia remains extremely serious (Dec 2022 IPC)",
+        "url": "https://www.unicef.org/press-releases/humanitarian-situation-somalia-remains-extremely-serious-assistance-must-be",
+        "type": "international",
+        "date": "2022-12-13"
+      },
+      {
+        "name": "Irish Times: Somalia in crisis but not yet at famine levels",
+        "url": "https://www.irishtimes.com/world/africa/2022/12/13/somalia-in-crisis-but-not-yet-at-famine-levels",
+        "type": "media",
+        "date": "2022-12-13"
+      }
+    ],
+    "claim_so": "Abaartii Soomaaliya ee 2022 waxay dishay 43,000 qof.",
+    "circulated_by_so": "Cinwaanno warbaahin caalami ah iyo qoraallo baraha bulshada ah oo daraasad Maarso 2023 ay soo saareen Wasaaradda Caafimaadka/WHO/UNICEF u soo koobay inay tahay tirada dhimashada oo la xaqiijiyay.",
+    "finding_so": "Tirada 43,000 waa qiyaas ka timid nidaam xisaabeed (statistical model) oo ku saabsan 'dhimashada dheeraadka ah' ee 2022 marka la barbar dhigo abaartii 2017-2018, ee ma aha tirinta dhimashooyin la diiwaangeliyay. Daraasaddu waxay sheegaysaa in dhimashooyinku 'laga yaabo inay dhaceen', qiyaastii kala badhkoodna waxaa lagu qiyaasay inay ahaayeen carruur ka yar shan sano. Daraasad dabagal ah oo la daabacay Janaayo 2025 ayaa dhimashada dheeraadka ah ee la xiriirta abaarta ku qiyaastay qiyaastii 71,000 inta u dhaxaysay Janaayo 2022 iyo Juun 2024. Macluul laguma dhawaaqin: IPC waxay ogaatay in heerarka Macluusha (Wejiga 5) aan la gaarin Oktoobar-Diseembar 2022, inkastoo ay hore u saadaalisay macluul qaybo ka mid ah gobolka Baay.",
+    "official_position_so": "Wasaaradda Caafimaadka iyo Adeegyada Aadanaha ee Federaalka ayaa wada-daabacday daraasadda, waxayna natiijooyinkeeda soo saartay 20 Maarso 2023, iyadoo la jirta WHO iyo UNICEF.",
+    "independent_evidence_so": "UNICEF iyo WHO waxay tirada ku tilmaameen qiyaas ka timid nidaam xisaabeed oo ay sameeyeen London School of Hygiene and Tropical Medicine iyo Imperial College London. Warbixinta cusbooneysiinta IPC/FSNAU ee Diseembar 2022 waxay sheegtay in macluusha laga hortagay xilligaas sababtoo ah gargaarka ayaa la kordhiyay.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2024-02-turkey-territorial-waters",
+    "date": "2024-02-22",
+    "date_precision": "day",
+    "claim": "Somalia has handed over (or 'sold') its territorial waters to Turkey under the February 2024 defence deal.",
+    "circulated_by": "Headlines in some regional and Arab outlets, Somali opposition commentary and social media after the cabinet and parliament approved the deal on 21 February 2024.",
+    "verdict": "misleading",
+    "finding": "The 10-year Defence and Economic Cooperation Framework Agreement, signed on 8 February 2024, commits Turkey to train, equip and help rebuild Somalia's navy and to support maritime security. Analysts report that Turkey will receive about 30% of revenue from Somalia's exclusive economic zone in return. That is a substantial concession, but it is not a sale or transfer of sovereignty over the sea. The full text has not been published, so the precise scope of Turkey's 'authority' cannot be independently verified.",
+    "official_position": "The federal government presented the deal as a way to protect Somalia's waters after the Ethiopia-Somaliland MoU. The president said it was not aimed at any other country, and officials said Somalia's territorial integrity was not negotiable. The cabinet and both houses of parliament approved it.",
+    "independent_evidence": "Analyses in The Conversation and an ISS-authored Daily Maverick op-ed describe a revenue-for-security arrangement (a reported 30% share of marine revenue) and call for transparency on how revenue is calculated. Al-Monitor reported Turkey's confirmation of the maritime security deal.",
+    "sector": "diplomacy",
+    "sources": [
+      {
+        "name": "The New Arab: 'Somalia hands over its territorial waters to Turkey' (claim as reported)",
+        "url": "https://www.newarab.com/news/turkey-defend-somalia-waters-and-reap-fishing-revenues",
+        "type": "media",
+        "date": "2024-02-22"
+      },
+      {
+        "name": "The Conversation: Why Turkey is helping Somalia defend its waters",
+        "url": "https://theconversation.com/red-sea-politics-why-turkey-is-helping-somalia-defend-its-waters-224377",
+        "type": "media",
+        "date": "2024-02-28"
+      },
+      {
+        "name": "Daily Maverick (op-ed): Somalia-Turkey maritime security partnership faces stormy waters",
+        "url": "https://www.dailymaverick.co.za/article/2024-03-04-somalia-turkey-maritime-security-partnership-faces-stormy-waters/",
+        "type": "media",
+        "date": "2024-03-04"
+      },
+      {
+        "name": "Al-Monitor: Turkey confirms Somalia maritime security deal",
+        "url": "https://www.al-monitor.com/originals/2024/02/turkey-confirms-somalia-maritime-security-deal-amid-somaliland-tensions",
+        "type": "media"
+      }
+    ],
+    "claim_so": "Soomaaliya waxay biyaheeda badda u wareejisay (ama 'u iibisay') Turkiga iyadoo la raacayo heshiiska difaaca ee Febraayo 2024.",
+    "circulated_by_so": "Cinwaanno ka soo baxay qaar ka mid ah warbaahinta gobolka iyo Carabta, faallooyinka mucaaradka Soomaaliyeed iyo baraha bulshada kadib markii golaha wasiirrada iyo baarlamaanku ay heshiiska ansixiyeen 21 Febraayo 2024.",
+    "finding_so": "Heshiiska Qaab-dhismeedka Iskaashiga Difaaca iyo Dhaqaalaha ee 10-ka sano ah, oo la saxiixay 8 Febraayo 2024, wuxuu Turkiga ku waajibinayaa inuu tababaro, qalabeeyo oo ka caawiyo dib-u-dhiska ciidamada badda Soomaaliya, isla markaana taageero amniga badda. Falanqeeyayaashu waxay sheegaan in Turkigu beddelkeeda heli doono qiyaastii 30% dakhliga aagga dhaqaalaha gaarka ah ee Soomaaliya. Taasi waa tanaasul weyn, laakiin ma aha iibin ama wareejin madax-bannaanida badda. Qoraalka buuxa lama daabicin, sidaas darteed baaxadda saxda ah ee 'awoodda' Turkiga si madax-bannaan looma xaqiijin karo.",
+    "official_position_so": "Dowladda federaalka waxay heshiiska u soo bandhigtay hab lagu ilaalinayo biyaha Soomaaliya kadib heshiiskii is-afgarad ee Itoobiya iyo Soomaaliland. Madaxweynaha ayaa sheegay inaan loogu talagalin dal kale, saraakiishuna waxay sheegeen in midnimada dhuleed ee Soomaaliya aan laga gorgortamin. Golaha wasiirrada iyo labada aqal ee baarlamaanka ayaa ansixiyay.",
+    "independent_evidence_so": "Falanqeyno ka soo baxay The Conversation iyo maqaal ra'yi ah oo Daily Maverick uu qoray qoraa ka tirsan ISS ayaa ku tilmaamay heshiis dakhli lagu beddelanayo amni (qayb la sheegay oo ah 30% dakhliga badda), waxayna ku baaqeen daah-furnaan ku saabsan sida dakhliga loo xisaabinayo. Al-Monitor waxay ka warrantay xaqiijinta Turkiga ee heshiiska amniga badda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2024-03-paris-club-99-percent",
+    "date": "2024-03-14",
+    "date_precision": "day",
+    "claim": "Paris Club creditors cancelled 99% of Somalia's debt, so Somalia's debt has been wiped out.",
+    "circulated_by": "News headlines ('Somalia has 99% of debt cancelled') and social media posts, some celebrating Somalia as debt-free.",
+    "verdict": "partly-true",
+    "finding": "The 99% figure refers only to debt owed to Paris Club governments. On 13 March 2024 they agreed to cancel more than US$2.0 billion, which is 99% of the debt owed to them as of January 2023 (about $1.2bn under HIPC terms plus about $815m in voluntary bilateral relief). Somalia's total external debt was not wiped out. At the HIPC Completion Point (December 2023), external public debt fell from about US$5.3bn (end-2018) to about US$0.6bn in present-value terms. Ministry of Finance data cited in September 2025 still showed a nominal debt stock of about $1.4bn, mostly owed to non-Paris Club Arab bilateral lenders and multilaterals, with arrears negotiations ongoing.",
+    "official_position": "The federal government and the Ministry of Finance hailed the Paris Club deal as a major milestone. The Ministry's debt management reports acknowledge remaining arrears to non-Paris Club bilateral creditors and say talks with them are continuing.",
+    "independent_evidence": "The IMF and World Bank announced US$4.5bn in total debt relief on 13 December 2023. The IMF says external debt fell from 64% of GDP (2018) to under 6% of GDP (end-2023). The Paris Club figure applies only to its members' claims.",
+    "sector": "economy",
+    "sources": [
+      {
+        "name": "World Bank/IMF press release: US$4.5 billion in debt relief for Somalia",
+        "url": "https://www.worldbank.org/en/news/press-release/2023/12/13/imf-and-world-bank-announce-us-4-5-billion-in-debt-relief-for-somalia-afe-1223",
+        "type": "international",
+        "date": "2023-12-13"
+      },
+      {
+        "name": "IMF Press Release 23/438",
+        "url": "https://www.imf.org/en/News/Articles/2023/12/13/pr23438-imf-and-world-bank-announce-us-4-5-billion-in-debt-relief-for-somalia",
+        "type": "international",
+        "date": "2023-12-13"
+      },
+      {
+        "name": "Arab News (Reuters): Somalia creditors agree to cancel $2 billion of debt",
+        "url": "https://www.arabnews.com/node/2476851/amp",
+        "type": "media",
+        "date": "2024-03-14"
+      },
+      {
+        "name": "The EastAfrican: Paris Club creditors agree to cancel over $2bn of Somali debt",
+        "url": "https://www.theeastafrican.co.ke/tea/business/paris-club-creditors-agree-to-cancel-over-2bn-of-somali-debt-4556304",
+        "type": "media",
+        "date": "2024-03-14"
+      },
+      {
+        "name": "Zawya/The EastAfrican: After $4.5bn write-off, Somalia courts creditors for more debt relief",
+        "url": "https://www.zawya.com/en/economy/africa/after-45bln-write-off-somalia-courts-creditors-for-more-debt-relief-s7s5kewh",
+        "type": "media"
+      }
+    ],
+    "claim_so": "Deyn-bixiyayaasha Naadiga Paris (Paris Club) waxay cafiyeen 99% deynta Soomaaliya, sidaas darteed deynta Soomaaliya gebi ahaanba waa la tirtiray.",
+    "circulated_by_so": "Cinwaanno warbaahineed ('Soomaaliya oo laga cafiyay 99% deynteeda') iyo qoraallo baraha bulshada ah, qaarkood oo u dabaaldegayay in Soomaaliya ay deyn la'aan noqotay.",
+    "finding_so": "Tirada 99% waxay khuseysaa oo keliya deynta lagu leeyahay dowladaha Naadiga Paris. 13 Maarso 2024 waxay isku raaceen inay cafiyaan in ka badan US$2.0 bilyan, taas oo ah 99% deyntii lagu lahaa ilaa Janaayo 2023 (qiyaastii $1.2 bilyan oo hoos timaadda shuruudaha HIPC iyo qiyaastii $815 milyan oo cafis laba-geesood ah oo ikhtiyaari ah). Deynta dibadda ee guud ee Soomaaliya lama tirtirin. Marxaladda Dhammaystirka HIPC (Diseembar 2023), deynta dibadda ee dowladda waxay ka dhacday qiyaastii US$5.3 bilyan (dhammaadka 2018) ilaa qiyaastii US$0.6 bilyan marka loo eego qiimaha hadda (present value). Xog Wasaaradda Maaliyadda oo la soo xigtay Sebtembar 2025 ayaa weli muujinaysay deyn magac ahaan (nominal) ah oo qiyaastii $1.4 bilyan ah, oo badankeed lagu leeyahay deyn-bixiyayaal Carbeed oo laba-geesood ah oo aan ka tirsanayn Naadiga Paris iyo hay'ado badan-geesood ah, iyadoo wadahadallada deymaha dib u dhacay ay socdaan.",
+    "official_position_so": "Dowladda federaalka iyo Wasaaradda Maaliyadda waxay heshiiska Naadiga Paris ku ammaaneen horumar weyn. Warbixinnada maareynta deynta ee Wasaaradda waxay qirayaan deymo dib u dhacay oo weli lagu leeyahay deyn-bixiyayaal laba-geesood ah oo aan ka tirsanayn Naadiga Paris, waxayna sheegaan in wadahadallada lala yeelanayo ay socdaan.",
+    "independent_evidence_so": "IMF iyo Bangiga Adduunka waxay 13 Diseembar 2023 ku dhawaaqeen cafinta deynta oo guud ahaan ah US$4.5 bilyan. IMF waxay sheegtay in deynta dibadda ay ka dhacday 64% GDP-ga (2018) ilaa wax ka yar 6% GDP-ga (dhammaadka 2023). Tirada Naadiga Paris waxay khuseysaa oo keliya sheegashooyinka xubnihiisa.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2024-09-puntland-weapons-images",
+    "date": "2024-09-24",
+    "date_precision": "month",
+    "claim": "Photos show weapons from Ethiopia that Puntland recovered (or that were seized at the Somalia-Ethiopia border) in September 2024.",
+    "circulated_by": "Facebook posts during the 2024 dispute between the federal government, Puntland and Ethiopia over arms shipments.",
+    "verdict": "misleading",
+    "finding": "PesaCheck rated the posts PARTLY FALSE. One image was from August 2024 (a Puntland seizure in Bosaso). Another was a 2016 photo of weapons captured from al-Shabaab in Lower Shabelle. A third showed weapons that the Australian Navy seized off Oman in 2016. Accompanying photos of regional leaders came from unrelated meetings in 2021-2022.",
+    "official_position": "The federal government had separately accused Ethiopia of sending 'unauthorised' arms shipments to Puntland. The images, however, did not document that.",
+    "independent_evidence": "Reverse image searches (Google, TinEye, Yandex) by PesaCheck traced the photos to 2016, 2019, 2021, 2022 and August 2024 publications, including Sky News and The Times.",
+    "sector": "security",
+    "sources": [
+      {
+        "name": "PesaCheck via Hiiraan Online: PARTLY FALSE: These images are not of weapons recovered by Puntland in September 2024",
+        "url": "https://www.hiiraan.com/news4/2024/sept/198240/partly_false_these_images_are_not_of_weapons_recovered_by_puntland_state_in_september_2024.aspx",
+        "type": "ngo",
+        "date": "2024-09"
+      }
+    ],
+    "claim_so": "Sawirro ayaa muujinaya hub ka yimid Itoobiya oo Puntland ay qabatay (ama lagu qabtay xadka Soomaaliya iyo Itoobiya) Sebtembar 2024.",
+    "circulated_by_so": "Qoraallo Facebook ah oo la faafiyay inta lagu jiray khilaafkii 2024 ee u dhexeeyay dowladda federaalka, Puntland iyo Itoobiya ee ku saabsanaa shixnadaha hubka.",
+    "finding_so": "PesaCheck waxay qoraallada ku qiimeysay QAYB AHAAN BEEN. Sawir kow wuxuu ahaa Ogoosto 2024 (hub ay Puntland ku qabatay Boosaaso). Mid kale wuxuu ahaa sawir 2016 ah oo hub laga qabtay Al-Shabaab oo ka yimid Shabeellaha Hoose. Mid saddexaadna wuxuu muujinayay hub ay ciidamada badda Australia ku qabteen meel ka baxsan Cumaan 2016. Sawirrada hoggaamiyeyaasha gobollada ee la socday waxay ka yimaadeen shirar aan xiriir la lahayn oo dhacay 2021-2022.",
+    "official_position_so": "Dowladda federaalka si gooni ah ayay Itoobiya ugu eedaysay inay u dirtay shixnado hub oo 'aan la oggolaan' Puntland. Si kastaba ha ahaatee, sawirradu taas ma caddaynayn.",
+    "independent_evidence_so": "Baaritaanno sawir-dib-u-raadin ah (Google, TinEye, Yandex) oo ay samaysay PesaCheck ayaa sawirrada u raadisay daabacaadyo 2016, 2019, 2021, 2022 iyo Ogoosto 2024, oo ay ku jiraan Sky News iyo The Times.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2024-09-somaliland-brawl-video",
+    "date": "2024-09-10",
+    "date_precision": "day",
+    "claim": "Video shows Somalia's federal MPs fighting over the weapons shipment Egypt sent to Somalia.",
+    "circulated_by": "Amharic-language Facebook post (about 22,000 views) published on 3 September 2024.",
+    "verdict": "false",
+    "finding": "AFP Fact Check found that the clip shows Somaliland's parliament in Hargeisa, where members clashed over a motion to lift a colleague's immunity. It has nothing to do with Egypt's military shipments to Mogadishu.",
+    "official_position": "No federal statement is needed. The footage is not of the federal parliament.",
+    "independent_evidence": "AFP Fact Check (AFP Ethiopia) matched the footage to the Somaliland legislature.",
+    "sector": "politics",
+    "sources": [
+      {
+        "name": "AFP Fact Check (republished): Brawl in Somaliland's parliament falsely linked to Egypt weapons",
+        "url": "https://ethiopanorama.com/?p=247941",
+        "type": "media",
+        "date": "2024-09-10"
+      }
+    ],
+    "claim_so": "Muuqaal ayaa muujinaya xildhibaannada federaalka Soomaaliya oo ku dagaallamaya shixnadda hubka ee Masar u dirtay Soomaaliya.",
+    "circulated_by_so": "Qoraal Facebook ah oo af-Amxaari ku qoran (qiyaastii 22,000 daawasho) oo la daabacay 3 Sebtembar 2024.",
+    "finding_so": "AFP Fact Check waxay ogaatay in muuqaalku uu muujinayo baarlamaanka Soomaaliland ee Hargeysa, halkaas oo xubnuhu isku dhaceen mooshin lagu qaadayay xasaanadda xildhibaan. Wax xiriir ah lama laha shixnadaha militari ee Masar u dirtay Muqdisho.",
+    "official_position_so": "Bayaan federaal looma baahna. Muuqaalku ma aha baarlamaanka federaalka.",
+    "independent_evidence_so": "AFP Fact Check (AFP Itoobiya) ayaa muuqaalka u aqoonsatay golaha sharci-dejinta Soomaaliland.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2025-04-turkey-90-percent-oil",
+    "date": "2025-04-23",
+    "date_precision": "day",
+    "claim": "Turkey will get 90% of Somalia's oil and gas revenue, and Somalia only 5%.",
+    "circulated_by": "Nordic Monitor report on the leaked July 2024 TPAO-Somali Petroleum Authority contract, picked up by Garowe Online and The EastAfrican and spread widely on Somali social media and by opposition politicians.",
+    "verdict": "misleading",
+    "finding": "Article 4.7 of the leaked production-sharing agreement lets TPAO recover its costs from up to 90% of annual output ('cost petroleum'). Somalia gets a royalty of up to 5% from the start, and the remaining 'profit petroleum' is shared after costs are recovered. '90% of revenue' therefore conflates a cost-recovery ceiling with ownership or profit share. The criticism of the terms is still substantive: the cost-recovery ceiling is high, signature bonuses and fees are waived, and MPs say they never saw the full text before approving it. The final revenue split depends on undisclosed profit-share terms and actual costs.",
+    "official_position": "President Hassan Sheikh Mohamud called the deal mutually beneficial. Somalia's ambassador to Turkey said 'cost recovery is not the same as profit share' and that Somalia remains at the exploration stage.",
+    "independent_evidence": "Explainers by Radio Dalsan and Caasimada (cited by Türkiye Today) rate the '90% of oil' framing as false. Garowe Online, The EastAfrican and DeSmog report opposition and parliamentary-committee concerns about transparency and lopsided terms. Türkiye Today is Turkish media, and Nordic Monitor is run by exiled Turkish journalists critical of Ankara.",
+    "sector": "economy",
+    "sources": [
+      {
+        "name": "Garowe Online: Turkey to secure up to 90% of Somalia's oil and gas revenue, document reveals",
+        "url": "https://garoweonline.com/en/news/somalia/turkey-to-secure-up-to-90-of-somalia-s-oil-and-gas-revenue-document-reveals",
+        "type": "media",
+        "date": "2025-04-23"
+      },
+      {
+        "name": "Zawya/The EastAfrican: Somalia President defends 'lopsided' oil deal with Türkiye",
+        "url": "https://zawya.com/en/economy/africa/somalia-president-defends-lopsided-oil-deal-with-turkiye-iz8vr0v6",
+        "type": "media",
+        "date": "2025-05-05"
+      },
+      {
+        "name": "Türkiye Today: Does Türkiye steal Somalia's oil? (interview with Somali ambassador)",
+        "url": "https://www.turkiyetoday.com/world/does-turkiye-steal-somalias-oil-top-official-shuts-down-piracy-claims-3222722",
+        "type": "media",
+        "date": "2026-06-26"
+      },
+      {
+        "name": "DeSmog: Somalia's parliament and public are questioning the president's oil deal with Turkey",
+        "url": "https://www.desmog.com/2026/11/10/somalia-turkey-offshore-oil-drilling-mohamud-erdogan/",
+        "type": "media",
+        "date": "2026-11-10"
+      }
+    ],
+    "claim_so": "Turkigu wuxuu heli doonaa 90% dakhliga saliidda iyo gaaska Soomaaliya, Soomaaliyana 5% oo keliya.",
+    "circulated_by_so": "Warbixin Nordic Monitor oo ku saabsan qandaraaskii Luulyo 2024 ee TPAO iyo Hay'adda Batroolka Soomaaliya ee la soo daadiyay, oo ay qaateen Garowe Online iyo The EastAfrican, kuna faafay si ballaaran baraha bulshada Soomaaliyeed iyo siyaasiyiinta mucaaradka.",
+    "finding_so": "Qodobka 4.7 ee heshiiska wadaagga wax-soo-saarka ee la soo daadiyay wuxuu TPAO u oggolaanayaa inay kharashkeeda ka soo celiso ilaa 90% wax-soo-saarka sanadlaha ah ('batroolka kharashka'). Soomaaliya waxay helaysaa khidmad (royalty) ilaa 5% ah laga bilaabo bilowga, 'batroolka faa'iidada' ee harana waa la qaybsanayaa kadib marka kharashka la soo celiyo. Sidaas darteed '90% dakhliga' waxay isku qastaa xadka sare ee soo-celinta kharashka iyo lahaanshaha ama qaybta faa'iidada. Dhaleeceynta shuruudaha weli waa mid miisaan leh: xadka soo-celinta kharashka waa sarreeyaa, gunnooyinka saxiixa iyo khidmadaha waa laga dhaafay, xildhibaannaduna waxay sheegaan inaysan waligood arkin qoraalka buuxa ka hor intaysan ansixin. Qaybsiga ugu dambeeya ee dakhliga wuxuu ku xiran yahay shuruudaha qaybta faa'iidada ee aan la shaacin iyo kharashka dhabta ah.",
+    "official_position_so": "Madaxweyne Xasan Sheekh Maxamuud ayaa heshiiska ku tilmaamay mid labada dhinacba faa'iido u leh. Safiirka Soomaaliya u fadhiya Turkiga ayaa sheegay in 'soo-celinta kharashku aysan la mid ahayn qaybta faa'iidada' iyo in Soomaaliya ay weli ku jirto marxaladda sahaminta.",
+    "independent_evidence_so": "Sharraxaadyo ay sameeyeen Radio Dalsan iyo Caasimada (oo uu soo xigtay Türkiye Today) ayaa qaabka '90% saliidda' ku qiimeeyay been. Garowe Online, The EastAfrican iyo DeSmog waxay ka warrameen walaaca mucaaradka iyo guddiga baarlamaanka ee ku saabsan daah-furnaanta iyo shuruudo hal dhinac u janjeera. Türkiye Today waa warbaahin Turki ah, Nordic Monitor-na waxaa maamula suxufiyiin Turki ah oo dibad-joog ah oo dhaleeceeya Ankara.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2025-05-turkey-20bn-barrels-discovery",
+    "date": "2025-05-08",
+    "date_precision": "day",
+    "claim": "Turkey has discovered up to 20 billion barrels of commercially viable oil in two of its three Somali offshore blocks.",
+    "circulated_by": "Somali and regional news sites and social media in May 2025, attributed to Turkish announcements and Somali Guardian reporting.",
+    "verdict": "false",
+    "finding": "No well had been drilled when the claim circulated. A discovery cannot be confirmed without drilling. Seismic surveys ran in 2024-2025. Turkey's drilling ship Cagri Bey only reached Mogadishu in April 2026 to begin the Curad-1 well, planned to take about 288 days. 'Up to 30 billion barrels' is a long-standing estimate of undiscovered resources (cited by the US International Trade Administration), not a proven find.",
+    "official_position": "No Somali Petroleum Authority or ministry data confirming a commercial discovery has been published. Officials at the April 2026 drilling launch said they hoped the vessel would 'discover our riches', which implies no discovery had yet been made.",
+    "independent_evidence": "Al-Monitor's April 2026 report on the first drilling mission. Former foreign minister Abdisaid Muse Ali publicly called the May 2025 claim 'propaganda' because no seismic or drilling data had been released.",
+    "sector": "economy",
+    "sources": [
+      {
+        "name": "Horseed Media: Turkey strikes major oil find in Somalia with reserves estimated at 20 billion barrels (claim)",
+        "url": "https://horseedmedia.net/turkey-strikes-major-oil-find-in-east-africa-with-reserves-estimated-at-20-billion-barrels/404701/",
+        "type": "media",
+        "date": "2025-05-08"
+      },
+      {
+        "name": "Radio Daljir: Somalia isn't fooled by Turkish claims of 20 billion barrels discovered",
+        "url": "https://daljir.com/?p=179489",
+        "type": "media",
+        "date": "2025-05-11"
+      },
+      {
+        "name": "Al-Monitor: Turkey launches first overseas drilling mission in Somalia",
+        "url": "https://www.al-monitor.com/originals/2026/04/turkey-launches-first-overseas-drilling-mission-somalia-what-know",
+        "type": "media",
+        "date": "2026-04-09"
+      }
+    ],
+    "claim_so": "Turkigu wuxuu ka helay ilaa 20 bilyan oo foosto oo saliid ah oo ganacsi ahaan la isticmaali karo laba ka mid ah saddexda baloog ee badda Soomaaliya ee uu haysto.",
+    "circulated_by_so": "Mareegaha wararka Soomaaliyeed iyo kuwa gobolka iyo baraha bulshada May 2025, iyadoo loo nisbeeyay ogeysiisyo Turki ah iyo warbixinnada Somali Guardian.",
+    "finding_so": "Ceel lama qodin markii sheegashadu faaftay. Helitaan lama xaqiijin karo qodid la'aan. Sahamin seismic ah ayaa socotay 2024-2025. Markabka qodidda ee Turkiga Cagri Bey wuxuu Muqdisho yimid Abriil 2026 oo keliya si uu u bilaabo ceelka Curad-1, oo la qorsheeyay inuu qaato qiyaastii 288 maalmood. 'Ilaa 30 bilyan oo foosto' waa qiyaas muddo dheer jirtay oo ku saabsan kheyraad aan weli la helin (oo ay soo xigatay Maamulka Ganacsiga Caalamiga ee Mareykanka), ee ma aha helitaan la xaqiijiyay.",
+    "official_position_so": "Lama daabicin xog ka timid Hay'adda Batroolka Soomaaliya ama wasaarad oo xaqiijinaysa helitaan ganacsi. Saraakiisha ka qaybgalay daah-furka qodidda ee Abriil 2026 waxay sheegeen inay rajeynayaan in markabku 'helo kheyraadkeenna', taas oo tilmaamaysa in aan weli wax la helin.",
+    "independent_evidence_so": "Warbixinta Al-Monitor ee Abriil 2026 ee ku saabsan hawlgalkii qodidda ee ugu horreeyay. Wasiirkii hore ee arrimaha dibadda Cabdisaciid Muuse Cali ayaa si cad sheegashadii May 2025 ugu tilmaamay 'dacaayad' maadaama aan la soo saarin wax xog seismic ah ama qodid ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2025-06-garowe-snow-video",
+    "date": "2025-06-24",
+    "date_precision": "day",
+    "claim": "Video shows the first snowfall in Garowe, Puntland.",
+    "circulated_by": "Facebook and TikTok posts from 13 June 2025, after heavy seasonal rains in Puntland.",
+    "verdict": "false",
+    "finding": "PesaCheck rated the clip SATIRE: a staged comedy sketch with a 'reporter' interviewing an elderly man covered in fake snow. Garowe's semi-arid climate does not produce snow. Puntland had seen rainfall in May-June 2025.",
+    "official_position": "Puntland's Water and Land Resources Center and the federal Ministry of Environment reported rainfall, not snow.",
+    "independent_evidence": "PesaCheck analysis (republished by MISA Lesotho).",
+    "sector": "social",
+    "sources": [
+      {
+        "name": "PesaCheck via MISA Lesotho: SATIRE: This video showing snowfall in Garowe is fake",
+        "url": "https://lesotho.misa.org/2025/06/24/satire-this-video-showing-snowfall-in-somalias-garowe-town-is-fake/",
+        "type": "ngo",
+        "date": "2025-06-24"
+      }
+    ],
+    "claim_so": "Muuqaal ayaa muujinaya barafkii ugu horreeyay ee ka da'a Garoowe, Puntland.",
+    "circulated_by_so": "Qoraallo Facebook iyo TikTok ah laga bilaabo 13 Juun 2025, kadib roobab xilliyeed oo culus oo ka da'ay Puntland.",
+    "finding_so": "PesaCheck waxay muuqaalka ku qiimeysay KAFTAN (satire): riwaayad majaajillo ah oo la diyaariyay, oo 'weriye' uu waraysanayo oday baraf been abuur ah lagu daboolay. Cimilada Garoowe ee badh-oonaha ah baraf ma keento. Puntland waxaa ka da'ay roob May-Juun 2025.",
+    "official_position_so": "Xarunta Kheyraadka Biyaha iyo Dhulka ee Puntland iyo Wasaaradda Deegaanka ee federaalka waxay ka warrameen roob, ee ma aha baraf.",
+    "independent_evidence_so": "Falanqeynta PesaCheck (oo dib u daabacday MISA Lesotho).",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2025-07-mogadishu-about-to-fall",
+    "date": "2025-08-10",
+    "date_precision": "day",
+    "claim": "Mogadishu is on the brink of falling to al-Shabaab, like Kabul in 2021.",
+    "circulated_by": "Foreign media framing (The Economist, 24 July 2025; The Telegraph, 10 August 2025), amplified on social media.",
+    "verdict": "misleading",
+    "finding": "The underlying deterioration is real. Since February 2025 al-Shabaab has retaken dozens of towns in Hirshabelle and Middle Shabelle, including Moqokori, and briefly reached villages within about 50 km of the capital. However, no credible evidence shows an imminent takeover of Mogadishu, which is defended by more than 40,000 Somali army troops plus AUSSOM forces and air support. Analysts quoted even in the critical coverage said the city was not in immediate military danger. Some specific 'town has fallen' reports in this period were also wrong (for example Sabid and Anole remained in government and AU hands).",
+    "official_position": "Federal officials and commanders rejected the comparison with Kabul. Former army chief Gen. Indha Qarshe cited SNA strength of over 40,000, compared with about 16,000 in 2013-2015.",
+    "independent_evidence": "The Telegraph's own report quoted an analyst saying Mogadishu was not 'immediately in danger in military terms'. Crisis Group analysts warned of further al-Shabaab advances while calling the capital secure. Goobjoog and Radio Dalsan reported Somali pushback. Goobjoog's piece is an opinion column.",
+    "sector": "security",
+    "sources": [
+      {
+        "name": "The Telegraph (via Yahoo News): Somalia gripped by fears of militant Islamic uprising",
+        "url": "https://www.yahoo.com/news/articles/somalia-gripped-fears-militant-islamic-130000164.html",
+        "type": "media",
+        "date": "2025-08-10"
+      },
+      {
+        "name": "Goobjoog: Why the Telegraph is wrong: Mogadishu is not on the brink of falling",
+        "url": "https://en.goobjoog.com/why-the-telegraph-is-wrong-mogadishu-is-not-on-the-brink-of-falling-to-al-shabaab",
+        "type": "media",
+        "date": "2025-08-17"
+      },
+      {
+        "name": "Radio Dalsan via AllAfrica: Somalis push back against The Economist's grim take on Mogadishu",
+        "url": "https://allafrica.com/stories/202507280522.html",
+        "type": "media",
+        "date": "2025-07-27"
+      },
+      {
+        "name": "Garowe Online: Somali, AU troops still hold Sabid and Anole, officials say",
+        "url": "https://www.garoweonline.com/en/news/somalia/somali-au-troops-still-hold-sabid-and-anole-officials-say",
+        "type": "media"
+      }
+    ],
+    "claim_so": "Muqdisho waxay qarka u saaran tahay inay Al-Shabaab gacanteeda u gasho, sida Kabul 2021.",
+    "circulated_by_so": "Qaab-soo-bandhigid warbaahin shisheeye (The Economist, 24 Luulyo 2025; The Telegraph, 10 Ogoosto 2025), oo baraha bulshada lagu sii faafiyay.",
+    "finding_so": "Xumaanshaha xaaladda ee ka dambeeya waa mid dhab ah. Tan iyo Febraayo 2025, Al-Shabaab waxay dib u qabsatay tobanaan magaalo oo Hirshabeelle iyo Shabeellaha Dhexe ah, oo ay ku jirto Moqokori, waxayna muddo kooban gaartay tuulooyin qiyaastii 50 km caasimadda u jira. Si kastaba ha ahaatee, ma jiro caddeyn la isku hallayn karo oo muujinaysa la wareegid dhow oo Muqdisho ah, taas oo ay difaacaan in ka badan 40,000 askari oo ka tirsan ciidanka Soomaaliyeed, ciidamada AUSSOM iyo taageero cirka ah. Falanqeeyayaal laga soo xigtay xitaa warbixinnada dhaleeceynta ah ayaa sheegay in magaaladu aysan ku jirin khatar militari oo degdeg ah. Warbixinno gaar ah oo xilligan ahaa oo sheegayay 'magaalo ayaa dhacday' qaarkood sidoo kale waxay ahaayeen khalad (tusaale ahaan Sabiid iyo Caanoole waxay weli ku jireen gacanta dowladda iyo AU).",
+    "official_position_so": "Saraakiisha federaalka iyo taliyayaashu waxay diideen isbarbardhigga Kabul. Taliyihii hore ee ciidamada Jen. Indha Qarshe ayaa sheegay in tirada ciidanka Xoogga Dalka ay ka badan tahay 40,000, marka la barbar dhigo qiyaastii 16,000 sanadihii 2013-2015.",
+    "independent_evidence_so": "Warbixinta The Telegraph lafteedu waxay soo xigatay falanqeeye sheegay in Muqdisho aysan ku jirin 'khatar degdeg ah marka loo eego dhinaca militariga'. Falanqeeyayaasha Crisis Group waxay ka digeen horusocod kale oo Al-Shabaab, iyagoo isla markaas caasimadda ku tilmaamay mid ammaan ah. Goobjoog iyo Radio Dalsan waxay ka warrameen diidmada Soomaaliyeed. Qoraalka Goobjoog waa maqaal ra'yi ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-01-us-recognises-somaliland",
+    "date": "2026-01-24",
+    "date_precision": "day",
+    "claim": "The United States has recognised Somaliland as an independent state and signed a multi-billion-dollar deal with it.",
+    "circulated_by": "A fabricated 'US State Department' press statement shared on Facebook and X, attributed to a non-existent official ('Michael R Thompson').",
+    "verdict": "false",
+    "finding": "No US recognition of Somaliland exists. The named official does not appear in State Department records, and no announcement was made on official US channels. On 24 January 2026 the US Embassy in Mogadishu publicly called the statement fake news. (Israel, separately, did recognise Somaliland. That is the only such recognition, and it does not make the US claim true.)",
+    "official_position": "The US Embassy in Somalia dismissed the statement as fake via its official X account. The federal government continues to reject any recognition of Somaliland.",
+    "independent_evidence": "Africa Check found no record of the official or the announcement.",
+    "sector": "diplomacy",
+    "sources": [
+      {
+        "name": "Africa Check: No, US has not recognised Somaliland or signed multi-billion deal",
+        "url": "https://africacheck.org/fact-checks/meta-programme-fact-checks/no-us-has-not-recognised-somaliland-or-signed-multi-billion",
+        "type": "ngo",
+        "date": "2026-01"
+      }
+    ],
+    "claim_so": "Mareykanku wuxuu Soomaaliland u aqoonsaday dal madax-bannaan, wuxuuna la saxiixay heshiis dhowr bilyan oo doollar ah.",
+    "circulated_by_so": "Bayaan saxaafadeed oo been abuur ah oo loo nisbeeyay 'Wasaaradda Arrimaha Dibadda Mareykanka', lagana faafiyay Facebook iyo X, loona nisbeeyay sarkaal aan jirin ('Michael R Thompson').",
+    "finding_so": "Ma jirto aqoonsi Mareykan oo Soomaaliland ah. Sarkaalka magaciisa la sheegay kuma jiro diiwaannada Wasaaradda Arrimaha Dibadda, wax ogeysiis ahna lagama samayn kanaallada rasmiga ah ee Mareykanka. 24 Janaayo 2026, Safaaradda Mareykanka ee Muqdisho ayaa si cad bayaanka ugu tilmaantay war been abuur ah. (Israa'iil, si gooni ah, way aqoonsatay Soomaaliland. Taasi waa aqoonsiga keliya ee noocaas ah, mana ka dhigayso sheegashada Mareykanka mid run ah.)",
+    "official_position_so": "Safaaradda Mareykanka ee Soomaaliya ayaa bayaanka ku beenisay inuu been abuur yahay iyadoo adeegsanaysa akoonkeeda rasmiga ah ee X. Dowladda federaalka waxay sii wadaysaa diidmada aqoonsi kasta oo Soomaaliland ah.",
+    "independent_evidence_so": "Africa Check ma helin wax diiwaan ah oo ku saabsan sarkaalka ama ogeysiiska.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-01-india-somaliland-talks",
+    "date": "2026-01-03",
+    "date_precision": "day",
+    "claim": "Indian PM Narendra Modi held official talks with Somaliland's president and India will soon recognise Somaliland; Somalia recalled its ambassador in response.",
+    "circulated_by": "Viral X/Facebook posts, including one by the account 'ME24 – Middle East 24', after Israel's recognition of Somaliland.",
+    "verdict": "false",
+    "finding": "India's Ministry of External Affairs FactCheck unit labelled the posts fake on 3 January 2026. No record of any such call appears in MEA releases. India has made no move towards recognition, and the claimed recall of Somalia's ambassador also did not happen.",
+    "official_position": "India's MEA called the posts fake and later reiterated respect for Somalia's 'sovereignty and territorial integrity'.",
+    "independent_evidence": "The Quint (WebQoof) and DigitEye fact-checks rated the claim false. Garowe Online reported India's denial.",
+    "sector": "diplomacy",
+    "sources": [
+      {
+        "name": "Garowe Online: India rejects claims of talks with Somaliland",
+        "url": "https://www.garoweonline.com/en/news/somalia/india-rejects-claims-of-talks-with-somaliland-denies-any-move-toward-recognition",
+        "type": "media",
+        "date": "2026-01-03"
+      },
+      {
+        "name": "Tribune India: India debunks fake claims of talks with Somaliland",
+        "url": "https://www.tribuneindia.com/news/world/india-debunks-fake-claims-of-talks-with-somaliland-denies-recognition-move/",
+        "type": "media",
+        "date": "2026-01-03"
+      },
+      {
+        "name": "The Quint WebQoof: Somaliland India recognition claim is false",
+        "url": "https://www.thequint.com/news/webqoof/somaliland-india-recognition-false-claim-fact-check",
+        "type": "media"
+      }
+    ],
+    "claim_so": "Ra'iisul Wasaaraha Hindiya Narendra Modi wuxuu wadahadal rasmi ah la yeeshay madaxweynaha Soomaaliland, Hindiyana dhowaan way aqoonsan doontaa Soomaaliland; Soomaaliya waxay jawaab ahaan u yeeratay safiirkeeda.",
+    "circulated_by_so": "Qoraallo X/Facebook ah oo si weyn u faafay, oo uu ku jiro mid uu qoray akoonka 'ME24 – Middle East 24', kadib aqoonsigii Israa'iil ee Soomaaliland.",
+    "finding_so": "Qaybta FactCheck ee Wasaaradda Arrimaha Dibadda Hindiya (MEA) ayaa qoraallada ku tilmaantay been abuur 3 Janaayo 2026. Wax diiwaan ah oo ku saabsan wicitaan noocaas ah kuma jiro war-saxaafadeedyada MEA. Hindiya ma qaadin wax tallaabo ah oo xagga aqoonsiga ah, yeerista la sheegay ee safiirka Soomaaliyana sidoo kale ma dhicin.",
+    "official_position_so": "MEA ee Hindiya waxay qoraallada ku tilmaantay been abuur, waxayna markii dambe ku celisay inay ixtiraamayso 'madax-bannaanida iyo midnimada dhuleed' ee Soomaaliya.",
+    "independent_evidence_so": "Xaqiijinnada xaqiiqada ee The Quint (WebQoof) iyo DigitEye ayaa sheegashada ku qiimeeyay been. Garowe Online waxay ka warrantay beeninta Hindiya.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-01-china-fm-cancelled-visit",
+    "date": "2026-01-30",
+    "date_precision": "day",
+    "claim": "China cancelled its foreign minister's visit to Mogadishu mid-flight over security threats, according to an official Chinese foreign ministry statement dated 9 January 2026.",
+    "circulated_by": "A fabricated document shared on Facebook during Wang Yi's January 2026 Africa tour.",
+    "verdict": "false",
+    "finding": "The Chinese embassy in Somalia said the document was fabricated. A Somalia stop had been announced but was dropped because of a scheduling adjustment, not because of a security assessment.",
+    "official_position": "The Chinese embassy in Somalia dismissed the document as fake.",
+    "independent_evidence": "Africa Check found the document's format inconsistent with genuine Chinese MFA statements and found no matching official release.",
+    "sector": "diplomacy",
+    "sources": [
+      {
+        "name": "Africa Check via AllAfrica: No, document claiming Chinese foreign minister cancelled visit to Somalia over security concerns fake",
+        "url": "https://allafrica.com/stories/202601300208.html",
+        "type": "ngo",
+        "date": "2026-01-30"
+      }
+    ],
+    "claim_so": "Shiinaha wuxuu baajiyay booqashadii wasiirkiisa arrimaha dibadda ee Muqdisho isagoo hawada ku jira, sababo la xiriira hanjabaado amni, sida uu sheegay bayaan rasmi ah oo Wasaaradda Arrimaha Dibadda Shiinaha ah oo ku taariikhaysan 9 Janaayo 2026.",
+    "circulated_by_so": "Dukumenti been abuur ah oo Facebook lagu faafiyay inta lagu jiray socdaalkii Afrika ee Wang Yi ee Janaayo 2026.",
+    "finding_so": "Safaaradda Shiinaha ee Soomaaliya ayaa sheegtay in dukumentigu uu ahaa been abuur. Joogsi Soomaaliya ah ayaa hore loogu dhawaaqay, laakiin waa laga saaray sababo la xiriira hagaajin jadwal, ee ma ahayn qiimeyn amni.",
+    "official_position_so": "Safaaradda Shiinaha ee Soomaaliya ayaa dukumentiga ku beenisay inuu been abuur yahay.",
+    "independent_evidence_so": "Africa Check waxay ogaatay in qaabka dukumentigu aanu waafaqsanayn bayaannada dhabta ah ee Wasaaradda Arrimaha Dibadda Shiinaha, mana helin war-saxaafadeed rasmi ah oo u dhigma.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-03-fake-mfa-iran-statement",
+    "date": "2026-03-01",
+    "date_precision": "day",
+    "claim": "Somalia's Ministry of Foreign Affairs issued a statement titled 'Somalia Reaffirms Support for the Islamic Republic of Iran'.",
+    "circulated_by": "A forged MFA-branded document on social media at the start of the February-March 2026 Middle East escalation.",
+    "verdict": "false",
+    "finding": "The Ministry of Foreign Affairs said on its verified X account that the document was fake and did not come from the ministry or any authorised channel. This fits a recurring pattern of forged ministry letterheads since 2023.",
+    "official_position": "MFA: the document 'is fake and was not issued by the Ministry'.",
+    "independent_evidence": "No such statement appears on the MFA website or official accounts. Reported by Raxanreeb Online.",
+    "sector": "diplomacy",
+    "sources": [
+      {
+        "name": "Raxanreeb: Somalia denies issuing statement backing Iran",
+        "url": "https://raxanreeb.com/?p=44094",
+        "type": "media",
+        "date": "2026-03-01"
+      }
+    ],
+    "claim_so": "Wasaaradda Arrimaha Dibadda Soomaaliya waxay soo saartay bayaan cinwaankiisu yahay 'Soomaaliya oo Ku Celisay Taageerada Jamhuuriyadda Islaamiga ah ee Iiraan'.",
+    "circulated_by_so": "Dukumenti been abuur ah oo wata astaanta Wasaaradda Arrimaha Dibadda oo baraha bulshada lagu faafiyay bilowgii kororkii xiisadda Bariga Dhexe ee Febraayo-Maarso 2026.",
+    "finding_so": "Wasaaradda Arrimaha Dibadda ayaa akoonkeeda X ee la xaqiijiyay ku sheegtay in dukumentigu been abuur yahay oo aanu ka imaan wasaaradda ama kanaal kasta oo la oggolaaday. Tani waxay la jaanqaadaysaa hab soo noqnoqda oo ah warqadaha wasaaradaha oo la been abuuro tan iyo 2023.",
+    "official_position_so": "Wasaaradda Arrimaha Dibadda: dukumentigu 'waa been abuur, mana soo saarin Wasaaradda'.",
+    "independent_evidence_so": "Bayaan noocaas ah kuma jiro mareegta Wasaaradda Arrimaha Dibadda ama akoonnadeeda rasmiga ah. Waxaa ka warrantay Raxanreeb Online.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-05-president-minnesota-fraud-funds",
+    "date": "2026-05-07",
+    "date_precision": "day",
+    "claim": "President Hassan Sheikh Mohamud is connected to the Minnesota welfare-fraud schemes and is using the money to consolidate power in Mogadishu.",
+    "circulated_by": "A widely shared post on X by a high-follower foreign commentator citing 'confidential sources', amplified amid US-Somalia tensions.",
+    "verdict": "unproven",
+    "finding": "No documents, court filings or official investigative findings have been presented linking the president to the Minnesota fraud cases. Those US prosecutions concern individual Somali-American defendants. The claim rests entirely on anonymous sourcing.",
+    "official_position": "The Somali government has not issued a detailed rebuttal. Somali authorities have largely avoided responding directly to US criticism.",
+    "independent_evidence": "Somali Guardian reported that the allegations 'remain unverified and have not been supported with documentary evidence'.",
+    "sector": "politics",
+    "sources": [
+      {
+        "name": "Somali Guardian: Explosive claims link Somalia president to Minnesota welfare fraud funds",
+        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-mohamud-minnesota-fraud-explosive-claims/",
+        "type": "media",
+        "date": "2026-05-07"
+      }
+    ],
+    "claim_so": "Madaxweyne Xasan Sheekh Maxamuud wuxuu xiriir la leeyahay qorshayaasha khiyaanada gargaarka bulshada ee Minnesota, wuxuuna lacagta u isticmaalayaa inuu ku xoojiyo awoodiisa Muqdisho.",
+    "circulated_by_so": "Qoraal si weyn loo wadaagay oo X lagu daabacay, oo uu qoray faallooyin shisheeye oo leh taageerayaal badan, kuna tilmaamay 'ilo qarsoodi ah', laguna sii faafiyay xilli xiisad u dhaxaysay Mareykanka iyo Soomaaliya.",
+    "finding_so": "Lama soo bandhigin wax dukumenti ah, diiwaan maxkamadeed ama natiijooyin baaritaan rasmi ah oo madaxweynaha ku xiraya kiisaska khiyaanada Minnesota. Dacwadahaas Mareykanka waxay khuseeyaan eedeysanayaal shakhsiyaad ah oo Soomaali-Mareykan ah. Sheegashadu waxay gebi ahaanba ku dhisan tahay ilo aan magacooda la sheegin.",
+    "official_position_so": "Dowladda Soomaaliya ma soo saarin beenin faahfaahsan. Mas'uuliyiinta Soomaaliyeed inta badan way iska ilaaliyeen inay si toos ah uga jawaabaan dhaleeceynta Mareykanka.",
+    "independent_evidence_so": "Somali Guardian waxay sheegtay in eedeymahu ay 'weli yihiin kuwo aan la xaqiijin, aan lagana taageerin caddeyn dukumenti ah'.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-10-fake-mfa-trump-somaliland",
+    "date": "2026-10-13",
+    "date_precision": "day",
+    "claim": "A Somali Foreign Ministry statement expressed concern after Donald Trump called Somaliland a separate country at an Ohio rally on 12 October 2026.",
+    "circulated_by": "A document bearing the federal emblem and MFA name, shared on social media.",
+    "verdict": "false",
+    "finding": "State Minister for Foreign Affairs Ali Balcad confirmed to Dawan that the ministry did not issue the document and that it does not represent the government's position.",
+    "official_position": "MFA (State Minister Ali Balcad): the document is fake.",
+    "independent_evidence": "Dawan Africa independently confirmed the forgery with the ministry. The document does not appear on official MFA channels.",
+    "sector": "diplomacy",
+    "sources": [
+      {
+        "name": "Dawan Africa: Document on Trump's alleged Somaliland remarks is fake, state minister says",
+        "url": "https://www.dawan.africa/news/document-on-trumps-alleged-somaliland-remarks-is-fake-somalias-state-minister-says",
+        "type": "media",
+        "date": "2026-10-13"
+      }
+    ],
+    "claim_so": "Bayaan Wasaaradda Arrimaha Dibadda Soomaaliya ah ayaa walaac ka muujiyay kadib markii Donald Trump uu Soomaaliland ugu yeeray dal gooni ah shir dadweyne oo uu ku qabtay Ohio 12 Oktoobar 2026.",
+    "circulated_by_so": "Dukumenti wata astaanta federaalka iyo magaca Wasaaradda Arrimaha Dibadda, oo baraha bulshada lagu faafiyay.",
+    "finding_so": "Wasiiru Dowlaha Arrimaha Dibadda Cali Balcad ayaa Dawan u xaqiijiyay in wasaaraddu aysan soo saarin dukumentiga iyo inaanu matalin mowqifka dowladda.",
+    "official_position_so": "Wasaaradda Arrimaha Dibadda (Wasiiru Dowlaha Cali Balcad): dukumentigu waa been abuur.",
+    "independent_evidence_so": "Dawan Africa ayaa si madax-bannaan wasaaradda ugala xaqiijisay been abuurka. Dukumentigu kama muuqdo kanaallada rasmiga ah ee Wasaaradda Arrimaha Dibadda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-11-term-extension-lawful",
+    "date": "2026-11-05",
+    "date_precision": "day",
+    "claim": "The president's and parliament's terms were lawfully extended by one year, so the government's mandate runs to 2027 (official claim). A rival online claim says elections have been 'cancelled'.",
+    "circulated_by": "The federal government and presidency (term extension). Opposition and social media (the 'cancelled' claim).",
+    "verdict": "misleading",
+    "finding": "Parliament did vote on 5 March 2026 to amend the constitution, adding a year to the terms of the president and MPs. The opposition and several federal member states boycotted the vote. The president's four-year term under the 2012 provisional constitution ended in May 2026, after which the government declared a 'transition period'. On 5 November 2026 the Supreme Court ruled that the amendments could not apply retroactively to the current term and that the extension was unlawful. The day before, the president had dismissed the chief justice, and the court declared that dismissal 'null and void'. Elections have not been formally cancelled: nationwide direct elections are scheduled for April-May 2027. But the 2026 electoral deadline passed without a national vote.",
+    "official_position": "The presidency says the March 2026 amendments legally extended the mandate to prepare the first one-person-one-vote elections. It said the chief justice was dismissed over 'concerns... about the need for an efficient and fair judiciary'. The president called national talks for 14-18 November 2026.",
+    "independent_evidence": "Reuters reported the March vote. AFP (via The Standard) and ConstitutionNet reported the Supreme Court ruling. The opposition rejects the extension, and the ruling's enforcement is unresolved.",
+    "sector": "politics",
+    "sources": [
+      {
+        "name": "Reuters via The Star: Somali parliament approves constitution change to extend president's term, delay election",
+        "url": "https://www.thestar.com.my/news/world/2026/03/05/somali-parliament-approves-constitution-change-to-extend-president039s-term-delay-election",
+        "type": "media",
+        "date": "2026-03-05"
+      },
+      {
+        "name": "AFP via The Standard: Somalia president term extension 'unlawful': Supreme Court",
+        "url": "https://www.standardmedia.co.ke/health/africa/article/2001561633/somalia-president-term-extension-unlawful-supreme-court",
+        "type": "media",
+        "date": "2026-11-05"
+      },
+      {
+        "name": "ConstitutionNet: Somalia's supreme court rules extension of terms unconstitutional",
+        "url": "https://constitutionnet.org/fr/node/20633",
+        "type": "ngo"
+      },
+      {
+        "name": "AllAfrica: Somali opposition rejects any term extension for president",
+        "url": "https://allafrica.com/stories/202604220288.html",
+        "type": "media",
+        "date": "2026-04-22"
+      }
+    ],
+    "claim_so": "Muddada madaxweynaha iyo baarlamaanka si sharci ah ayaa sanad loogu kordhiyay, sidaas darteed waqtiga xukuumaddu wuxuu socdaa ilaa 2027 (sheegasho rasmi ah). Sheegasho kale oo internetka ka faafaysa ayaa sheegaysa in doorashooyinka la 'baajiyay'.",
+    "circulated_by_so": "Dowladda federaalka iyo madaxtooyada (kordhinta muddada). Mucaaradka iyo baraha bulshada (sheegashada 'la baajiyay').",
+    "finding_so": "Baarlamaanku runtii wuxuu 5 Maarso 2026 u codeeyay wax ka beddelka dastuurka, isagoo sanad ku daray muddada madaxweynaha iyo xildhibaannada. Mucaaradka iyo dhowr dowlad goboleed ayaa qaaddacay codbixinta. Muddada afarta sano ah ee madaxweynaha ee hoos timaadda dastuurka kumeelgaarka ah ee 2012 waxay dhammaatay May 2026, kadibna dowladdu waxay ku dhawaaqday 'xilli kala-guur ah'. 5 Nofembar 2026, Maxkamadda Sare waxay xukuntay in wax ka beddelku aysan si dib-u-dhac ah (retroactive) u khusayn karin muddada hadda socota iyo in kordhintu ay sharci darro tahay. Maalin ka hor, madaxweynaha ayaa xilka ka qaaday guddoomiyaha Maxkamadda Sare, maxkamaduna waxay xil ka qaadistaas ku dhawaaqday inay tahay 'waxba kama jiraan oo buray'. Doorashooyinka si rasmi ah looma baajin: doorashooyin toos ah oo dalka oo dhan ah ayaa loo qorsheeyay Abriil-May 2027. Laakiin waqtigii kama dambaysta ahaa ee doorashada 2026 wuu dhaafay iyadoo aan codbixin qaran la qabanin.",
+    "official_position_so": "Madaxtooyadu waxay sheegaysaa in wax ka beddelka Maarso 2026 uu si sharci ah u kordhiyay waqtiga xukuumadda si loo diyaariyo doorashooyinkii ugu horreeyay ee qof iyo cod. Waxay sheegtay in guddoomiyaha Maxkamadda Sare xilka looga qaaday 'walaac... ku saabsan baahida loo qabo garsoor hufan oo caddaalad ah'. Madaxweynaha ayaa ugu baaqay wadahadal qaran 14-18 Nofembar 2026.",
+    "independent_evidence_so": "Reuters waxay ka warrantay codbixintii Maarso. AFP (iyadoo loo marayo The Standard) iyo ConstitutionNet waxay ka warrameen xukunka Maxkamadda Sare. Mucaaradku wuxuu diidan yahay kordhinta, dhaqangelinta xukunkuna weli lama xallin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "fc-2026-11-uae-funding-opposition",
+    "date": "2026-11-17",
+    "date_precision": "day",
+    "claim": "The UAE has given financial and political support to regional administrations and factions opposed to the federal government, and has set up military bases and armed groups outside federal control.",
+    "circulated_by": "President Hassan Sheikh Mohamud in a televised address on 17 November 2026, then echoed by government statements and on social media. Some online headlines restated it as the UAE 'funding armed groups'.",
+    "verdict": "unproven",
+    "finding": "The president gave no documents, amounts or named recipients for the alleged financial support. None of the reports reviewed cite published evidence for it, and The Rio Times said it found none. Part of the wider complaint is on firmer ground: UAE-linked port arrangements in Berbera (Somaliland) and Bosaso (Puntland) were made with regional administrations rather than the federal government, which is why Somalia cancelled all UAE agreements in January 2026. The UAE rejects the interference accusations. Until evidence is published, the financing claim remains unproven. Headlines saying the UAE 'funds armed groups' go beyond what the reported speech text supports.",
+    "official_position": "The presidency and the Council of Ministers cite 'continued Emirati interference' that threatens Somalia's sovereignty and security. On 19 November the government gave the UAE ambassador 72 hours to leave.",
+    "independent_evidence": "Somali Guardian, Dawan Africa and The Rio Times reported the allegations without independent corroboration. UAE presidential adviser Anwar Gargash rejected the 'attack' but did not address the specific allegations.",
+    "sector": "diplomacy",
+    "sources": [
+      {
+        "name": "Dawan Africa: UAE adviser accuses Somali president of prioritising personal interests",
+        "url": "https://www.dawan.africa/news/uae-adviser-accuses-somali-president-of-prioritising-personal-interests-over-national-interests",
+        "type": "media",
+        "date": "2026-11-19"
+      },
+      {
+        "name": "The Rio Times: Somalia leader accuses UAE",
+        "url": "https://riotimesonline.com/somalia-president-accuses-uae-funding-armed-groups-2026",
+        "type": "media",
+        "date": "2026-11-18"
+      },
+      {
+        "name": "Somali Guardian: UAE's Gargash rejects Somalia president's interference claims",
+        "url": "https://www.somaliguardian.com/news/somalia-news/uae-gargash-rejects-somalia-president-interference-claims/",
+        "type": "media",
+        "date": "2026-11-18"
+      },
+      {
+        "name": "Eastleigh Voice: Somalia orders UAE ambassador to leave within 72 hours, recalls envoy",
+        "url": "https://eastleighvoice.co.ke/somalia/425709/somalia-orders-uae-ambassador-to-leave-within-72-hours-recalls-envoy-as-diplomatic-dispute-deepens",
+        "type": "media",
+        "date": "2026-11-19"
+      }
+    ],
+    "added": "2026-11-19",
+    "claim_so": "Imaaraadku wuxuu taageero maaliyadeed iyo mid siyaasadeed siiyay maamullo goboleed iyo kooxo ka soo horjeeda Dowladda Federaalka, wuxuuna dhisay saldhigyo milatari iyo kooxo hubeysan oo ka baxsan gacanta federaalka.",
+    "circulated_by_so": "Madaxweyne Xasan Sheekh Maxamuud oo khudbad telefishan ka jeediyay 17 Nofembar 2026, kaddibna ay ku celiyeen war-saxaafadeedyo dowladeed iyo baraha bulshada. Cinwaanno qaar oo internetka ah ayaa u soo gaabiyay 'Imaaraadka oo maalgeliya kooxo hubeysan'.",
+    "finding_so": "Madaxweynuhu ma soo bandhigin dukumentiyo, lacag cayiman ama magacyo qaata taageerada maaliyadeed ee la sheegay. Warbixinnada la eegay midkoodna ma soo xigan caddeyn la daabacay, The Rio Times-na waxay sheegtay inaysan helin wax caddeyn ah. Qayb ka mid ah cabashada guud ayaa sal adag leh: heshiisyada dekedaha ee Imaaraadka la xiriira ee Berbera (Soomaaliland) iyo Boosaaso (Puntland) waxaa lala galay maamullo goboleed halkii laga heli lahaa Dowladda Federaalka, taasina waa sababta Soomaaliya ay Janaayo 2026 u baajisay dhammaan heshiisyadii Imaaraadka. Imaaraadku wuu diiday eedeymaha faragelinta. Ilaa caddeyn la daabaco, sheegashada maalgelintu waa mid aan la xaqiijin. Cinwaannada leh Imaaraadku 'wuxuu maalgeliyaa kooxo hubeysan' waxay dhaafsiisan yihiin waxa qoraalka khudbadda la soo tebiyay uu taageerayo.",
+    "official_position_so": "Madaxtooyada iyo Golaha Wasiiradu waxay tilmaamayaan 'faragelin joogto ah oo Imaaraadka' ah oo khatar ku ah madaxbannaanida iyo ammaanka Soomaaliya. 19 Nofembar, dowladdu waxay safiirka Imaaraadka siisay 72 saacadood inuu dalka uga baxo.",
+    "independent_evidence_so": "Somali Guardian, Dawan Africa iyo The Rio Times ayaa ka warramay eedeymaha iyagoon si madax-bannaan u xaqiijin. La-taliyaha madaxweynaha Imaaraadka, Anwar Gargash, ayaa diiday 'weerarka', balse kama jawaabin eedeymaha gaarka ah.",
+    "translation_so": "machine"
+  }
+]

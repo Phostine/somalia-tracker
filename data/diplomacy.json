@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "dip-2023-11-24-eac-admission",
+    "date": "2023-11-24",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Regional integration",
+    "title": "EAC Summit admits Somalia as the bloc's eighth member",
+    "summary": "At its extraordinary summit, the East African Community considered the Council of Ministers' report on accession negotiations with Somalia and resolved to admit the country as a full member. The decision followed verification and negotiation rounds held during 2023.",
+    "impact": "Opened the way for Somalia to join a bloc with a customs union and common market, ending its long absence from formal regional economic integration and giving it a route into wider East African trade.",
+    "context": "Analysts questioned Somalia's readiness to meet EAC customs, fiscal and free-movement obligations, given weak federal revenue systems and insecurity.",
+    "tags": [
+      "EAC",
+      "regional integration",
+      "trade"
+    ],
+    "sources": [
+      {
+        "name": "Capital FM Kenya",
+        "url": "https://www.capitalfm.co.ke/news/2023/12/somalia-accedes-to-eac-treaty-following-admission-in-november",
+        "type": "media",
+        "date": "2023-12-15"
+      },
+      {
+        "name": "EAC press release: Somalia to sign Treaty of Accession",
+        "url": "https://eac.int/press-releases/2989-somali-to-sign-treaty-of-accession-with-the-east-african-community-today",
+        "type": "international",
+        "date": "2023-12-15"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Isdhexgalka gobolka",
+    "title_so": "Shirka EAC oo Soomaaliya ku aqbalay xubinta siddeedaad ee ururka",
+    "summary_so": "Shirkiisa gaarka ah, Bulshada Bariga Afrika (EAC) waxay ka doodday warbixinta Golaha Wasiirrada ee ku saabsanayd wada-xaajoodyada ku biirista Soomaaliya, waxayna go'aamisay in dalka loo aqbalo xubin buuxda. Go'aankan wuxuu ka dambeeyay wareegyo xaqiijin iyo wada-xaajood oo la qabtay intii lagu jiray 2023.",
+    "impact_so": "Wuxuu jidka u xaaray in Soomaaliya ku biirto urur leh midow kastam iyo suuq wadaag ah, isagoo soo afjaray maqnaanshihii dheeraa ee dalka ka maqnaa isdhexgalka dhaqaale ee gobolka ee rasmiga ah, kuna siiyay waddo uu ku galo ganacsiga ballaaran ee Bariga Afrika.",
+    "context_so": "Falanqeeyayaal ayaa shaki ka muujiyay diyaargarowga Soomaaliya ee ay ku gudanayso waajibaadka EAC ee la xiriira kastamka, maaliyadda iyo dhaqdhaqaaqa xorta ah, iyadoo la tixgelinayo daciifnimada nidaamyada dakhliga federaalka iyo xaaladda amni darro.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2023-12-15-eac-treaty-signed",
+    "date": "2023-12-15",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Regional integration",
+    "title": "Somalia signs the EAC Treaty of Accession in Entebbe",
+    "summary": "President Hassan Sheikh Mohamud signed the Treaty of Accession to the East African Community at State House, Entebbe, in a ceremony presided over by EAC summit chair Salva Kiir. Heads of state directed Somalia to deposit its instrument of ratification within six months.",
+    "impact": "Formalised Somalia's entry into the EAC as its eighth partner state, the first major regional bloc membership won by the federal government in decades.",
+    "context": "Some outlets reported the venue as Kampala; most, including EAC sources, cite State House Entebbe.",
+    "tags": [
+      "EAC",
+      "treaty",
+      "Hassan Sheikh Mohamud"
+    ],
+    "sources": [
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2023/12/16/somalia-signs-treaty-to-formally-join-east-african-community/",
+        "type": "media",
+        "date": "2023-12-16"
+      },
+      {
+        "name": "The New Times (Rwanda)",
+        "url": "https://newtimes.co.rw/article/13129/news/africa/somalia-signs-treaty-of-accession-with-eac",
+        "type": "media",
+        "date": "2023-12-15"
+      },
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/somalia-joins-east-africa-trade-bloc/7401027.html",
+        "type": "media",
+        "date": "2023-12-15"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Isdhexgalka gobolka",
+    "title_so": "Soomaaliya oo Entebbe ku saxiixday Heshiiska Ku Biirista EAC",
+    "summary_so": "Madaxweyne Xasan Sheekh Maxamuud ayaa Aqalka Madaxtooyada ee Entebbe ku saxiixay Heshiiska Ku Biirista Bulshada Bariga Afrika, xaflad uu shir guddoominayay guddoomiyaha shirka madaxda EAC, Salva Kiir. Madaxda dowladaha ayaa Soomaaliya faray inay lix bilood gudahood ku soo gudbiso dukumeentiga ansixinta.",
+    "impact_so": "Wuxuu si rasmi ah u xaqiijiyay ku biirista Soomaaliya ee EAC iyadoo ah dowladda xubinta siddeedaad, taasoo ah xubinnimadii ugu horreysay ee urur gobolleed weyn oo ay dowladda federaalku hesho muddo tobanaan sano ah.",
+    "context_so": "Warbaahinta qaar ayaa sheegtay in goobta ay ahayd Kampala; badankood, oo ay ku jiraan ilaha EAC, waxay xuseen Aqalka Madaxtooyada ee Entebbe.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-03-04-eac-ratification",
+    "date": "2024-03-04",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Regional integration",
+    "title": "Somalia deposits EAC ratification instrument, becoming a full member",
+    "summary": "Somalia deposited its instrument of ratification of the Treaty of Accession with the EAC Secretary General in Arusha, completing the accession process within the six-month deadline set by heads of state.",
+    "impact": "Made Somalia a full EAC partner state with rights to participate in the bloc's organs, including the East African Legislative Assembly.",
+    "context": "Full implementation of EAC protocols (customs union, common market, free movement) remains a multi-year process.",
+    "tags": [
+      "EAC",
+      "ratification"
+    ],
+    "sources": [
+      {
+        "name": "EAC press release",
+        "url": "https://www.eac.int/press-releases/3046-somalia-to-deposit-her-instrument-of-ratification-on-the-treaty-of-accession-to-the-eac-today",
+        "type": "international",
+        "date": "2024-03-04"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Isdhexgalka gobolka",
+    "title_so": "Soomaaliya oo gudbisay dukumeentiga ansixinta EAC, kuna noqotay xubin buuxda",
+    "summary_so": "Soomaaliya waxay Xoghayaha Guud ee EAC ee magaalada Arusha u gudbisay dukumeentiga ansixinta Heshiiska Ku Biirista, iyadoo ku dhammaystirtay hannaanka ku biirista muddadii lix bilood ahayd ee ay madaxda dowladuhu u qabteen.",
+    "impact_so": "Wuxuu Soomaaliya ka dhigay dowlad xubin buuxda ka ah EAC oo xaq u leh inay ka qayb gasho hay'adaha ururka, oo ay ku jirto Golaha Sharci-dejinta Bariga Afrika.",
+    "context_so": "Hirgelinta buuxda ee borotokoollada EAC (midowga kastamka, suuqa wadaagga ah, dhaqdhaqaaqa xorta ah) waxay weli tahay hannaan qaadan doona sannado badan.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2023-12-01-arms-embargo-lifted",
+    "date": "2023-12-01",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "UN Security Council lifts arms embargo on Somalia's government",
+    "summary": "The Security Council unanimously adopted resolution 2714 (2023), lifting the arms embargo on the Federal Government of Somalia first imposed under resolution 733 in 1992. A parallel resolution maintained an embargo targeting al-Shabaab.",
+    "impact": "Ended more than three decades of UN restrictions on the Somali state's arms procurement, a long-standing government demand tied to rebuilding its national security forces.",
+    "context": "Some analysts warned that weak weapons management could allow arms to leak to al-Shabaab or clan militias; Council members urged progress on the Somalia Transition Plan.",
+    "tags": [
+      "UN Security Council",
+      "arms embargo",
+      "resolution 2714"
+    ],
+    "sources": [
+      {
+        "name": "UN Meetings Coverage SC/15511",
+        "url": "https://press.un.org/2023/sc15511.doc.htm",
+        "type": "international",
+        "date": "2023-12-01"
+      },
+      {
+        "name": "UN Digital Library: S/RES/2714 (2023)",
+        "url": "https://digitallibrary.un.org/record/4029177",
+        "type": "international",
+        "date": "2023-12-01"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Golaha Ammaanka ee Qaramada Midoobay oo ka qaaday cunaqabateynta hubka dowladda Soomaaliya",
+    "summary_so": "Golaha Ammaanka ayaa si wadajir ah u ansixiyay qaraarka 2714 (2023), kaasoo ka qaaday cunaqabateynta hubka Dowladda Federaalka Soomaaliya ee markii ugu horreysay lagu soo rogay qaraarka 733 sannadkii 1992. Qaraar barbar socday ayaa sii hayay cunaqabateyn lagu beegsanayo Al-Shabaab.",
+    "impact_so": "Wuxuu soo afjaray in ka badan soddon sano oo xannibaado ah oo Qaramada Midoobay saartay iibsashada hubka ee dowladda Soomaaliya, taasoo ahayd dalab muddo dheer ay dowladdu ka dalbanaysay, oo la xiriira dib u dhiska ciidamadeeda amniga qaranka.",
+    "context_so": "Falanqeeyayaal qaar ayaa ka digay in maaraynta hubka oo daciif ah ay keeni karto in hubku u gudbo Al-Shabaab ama maleeshiyaad beeleed; xubnaha Golaha ayaa ku booriyay in horumar laga sameeyo Qorshaha Kala-guurka Soomaaliya.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-01-06-somaliland-mou-nullified",
+    "date": "2024-01-06",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "Somalia passes law nullifying the Ethiopia–Somaliland MoU",
+    "summary": "After Ethiopia and Somaliland signed a memorandum of understanding on 1 January 2024 reportedly granting Ethiopia sea access and a naval base in exchange for possible recognition, Somalia's cabinet declared it null and void and recalled its ambassador. On 6 January President Hassan Sheikh Mohamud signed a law nullifying the deal.",
+    "impact": "Triggered the most serious Somalia–Ethiopia crisis in years and rallied the AU, EU, US, Arab League, Turkey and Egypt behind Somalia's territorial integrity.",
+    "context": "The MoU text was never published. The nullification law was described by reporters as largely symbolic since Somalia has no control over Somaliland, which said the MoU remained valid.",
+    "tags": [
+      "Ethiopia",
+      "Somaliland",
+      "MoU",
+      "Red Sea"
+    ],
+    "sources": [
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2024/01/07/somali-president-signs-law-nullifying-illegal-ethiopia-somaliland-deal/",
+        "type": "media",
+        "date": "2024-01-07"
+      },
+      {
+        "name": "JURIST",
+        "url": "https://www.jurist.org/news/2024/01/somalia-president-nullifies-agreement-granting-ethiopia-access-to-red-sea-in-return-for-somaliland-recognition/",
+        "type": "media",
+        "date": "2024-01-07"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Soomaaliya oo meel mariso sharci buriya heshiiska is-afgarad ee Itoobiya iyo Soomaaliland",
+    "summary_so": "Kadib markii Itoobiya iyo Soomaaliland ay 1 Janaayo 2024 saxiixeen heshiis is-afgarad oo la sheegay inuu Itoobiya siinayo marin badeed iyo saldhig ciidan badeed, iyadoo lagu beddelanayo aqoonsi suurtagal ah, golaha wasiirrada Soomaaliya ayaa ku dhawaaqay inuu yahay mid waxba ka jirin oo buran, waxayna dib u yeereen safiirkooda. 6 Janaayo, Madaxweyne Xasan Sheekh Maxamuud ayaa saxiixay sharci buriya heshiiska.",
+    "impact_so": "Wuxuu dhaliyay xiisaddii ugu darnayd ee Soomaaliya iyo Itoobiya muddo sannado ah, wuxuuna Midowga Afrika, Midowga Yurub, Mareykanka, Jaamacadda Carabta, Turkiga iyo Masar ka dhigay kuwo taageera midnimada dhuleed ee Soomaaliya.",
+    "context_so": "Qoraalka heshiiska is-afgarad weligii lama daabicin. Weriyeyaal ayaa ku tilmaamay sharciga burinta mid inta badan astaan ah, maadaama Soomaaliya aysan gacanta ku hayn Soomaaliland, oo sheegtay in heshiisku uu weli ansax yahay.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-01-18-igad-kampala-summit",
+    "date": "2024-01-18",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Peace & mediation",
+    "title": "IGAD convenes extraordinary summit on Ethiopia–Somalia tensions at Somalia's request",
+    "summary": "IGAD leaders met in Kampala to discuss the crisis triggered by the Ethiopia–Somaliland MoU. Somalia requested the meeting; Ethiopia was the only IGAD member that did not attend.",
+    "impact": "Placed the dispute on the regional agenda and produced calls for de-escalation and respect for Somalia's sovereignty.",
+    "context": "Ethiopia's absence limited the summit's mediation value; the eventual breakthrough came later through Turkish facilitation.",
+    "tags": [
+      "IGAD",
+      "Ethiopia",
+      "mediation"
+    ],
+    "sources": [
+      {
+        "name": "SONNA",
+        "url": "https://sonna.so/en/igad-summit-kicks-off-in-kampala-to-tackle-ethiopia-somalia-crisis/",
+        "type": "government",
+        "date": "2024-01-18"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2024/Jan/194642/somali_president_lands_in_uganda_for_extraordinary_igad_summit_on_ethiopia_somalia_tensions.aspx",
+        "type": "media",
+        "date": "2024-01-18"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Nabadda iyo dhexdhexaadinta",
+    "title_so": "IGAD oo shir gaar ah uga yeeratay xiisadda Itoobiya iyo Soomaaliya, codsi Soomaaliya ka dib",
+    "summary_so": "Madaxda IGAD ayaa ku kulmay Kampala si ay uga doodaan xiisadda uu dhaliyay heshiiska is-afgarad ee Itoobiya iyo Soomaaliland. Soomaaliya ayaa codsatay kulanka; Itoobiya waxay ahayd xubinta kaliya ee IGAD ee aan ka soo qayb galin.",
+    "impact_so": "Wuxuu khilaafka soo geliyay ajendaha gobolka, wuxuuna keenay baaqyo lagu dejinayo xiisadda laguna ixtiraamayo madaxbannaanida Soomaaliya.",
+    "context_so": "Maqnaanshaha Itoobiya ayaa xaddiday qiimaha dhexdhexaadineed ee shirka; horumarkii dambe wuxuu yimid goor dambe iyadoo Turkigu fududeynayo.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-02-21-turkey-defence-agreement",
+    "date": "2024-02-21",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Somalia ratifies 10-year defence and economic framework agreement with Turkey",
+    "summary": "Somalia's defence minister signed a defence and economic cooperation framework agreement with Turkey in Ankara on 8 February 2024; the cabinet and parliament endorsed it on 21 February. Turkey is to help build, train and equip Somalia's navy and support maritime security in its waters.",
+    "impact": "Gave Somalia a NATO-member partner for protecting its coastline at the height of the Somaliland MoU dispute, and laid groundwork for later energy and blue-economy deals.",
+    "context": "The text was not published. Press reports that Turkey would receive 30% of revenue from Somalia's EEZ have not been officially confirmed.",
+    "tags": [
+      "Turkey",
+      "maritime security",
+      "navy"
+    ],
+    "sources": [
+      {
+        "name": "The EastAfrican",
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-signs-defence-economic-cooperation-deals-with-turkey-4533226",
+        "type": "media",
+        "date": "2024-02-22"
+      },
+      {
+        "name": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2024/02/turkey-confirms-somalia-maritime-security-deal-amid-somaliland-tensions",
+        "type": "media"
+      },
+      {
+        "name": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/turkey-somalia-solidify-power-naval-defence-deal",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Soomaaliya oo ansixisay heshiis qaab-dhismeed difaac iyo dhaqaale oo 10 sano ah oo ay la gashay Turkiga",
+    "summary_so": "Wasiirka difaaca Soomaaliya ayaa 8 Febraayo 2024 magaalada Ankara kula saxiixay Turkiga heshiis qaab-dhismeed iskaashi difaac iyo dhaqaale; golaha wasiirrada iyo baarlamaanka ayaa ansixiyay 21 Febraayo. Turkiga ayaa la filayaa inuu ka caawiyo dhisidda, tababarka iyo qalabeynta ciidanka badda Soomaaliya, isla markaana taageero amniga badda ee biyaheeda.",
+    "impact_so": "Wuxuu Soomaaliya u helay lammaane xubin ka ah NATO oo ilaaliya xeebaheeda xilligii uu ugu kululaa khilaafka heshiiska is-afgarad ee Soomaaliland, wuxuuna aasaas u dhigay heshiisyo dambe oo tamarta iyo dhaqaalaha buluugga ah.",
+    "context_so": "Qoraalka lama daabicin. Warbixinnada saxaafadda ee sheegaya in Turkigu heli doono 30% dakhliga Aagga Dhaqaale ee Gaarka ah (EEZ) ee Soomaaliya si rasmi ah looma xaqiijin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-03-turkey-hydrocarbons-agreement",
+    "date": "2024-03-01",
+    "date_precision": "month",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Somalia and Turkey sign oil and gas cooperation agreement",
+    "summary": "Somalia and Turkey signed an intergovernmental agreement on hydrocarbon exploration in March 2024, followed by a production-sharing agreement on three offshore blocks in July 2024. Turkey's Oruc Reis vessel completed a 234-day 3D seismic survey of 4,464 sq km in June 2025.",
+    "impact": "Positioned Turkey as Somalia's main partner in offshore exploration, an area with potentially significant but unproven reserves.",
+    "context": "Seismic data cannot confirm commercial reserves; Somaliland and some federal member states dispute federal control over resources.",
+    "tags": [
+      "Turkey",
+      "oil and gas",
+      "energy"
+    ],
+    "sources": [
+      {
+        "name": "bne IntelliNews",
+        "url": "https://www.intellinews.com/somalia-poised-to-begin-its-first-offshore-oil-drilling-operations-with-turkey-s-help-435908/",
+        "type": "media"
+      },
+      {
+        "name": "Turkish Ministry of Energy",
+        "url": "https://enerji.gov.tr/news-detail?id=31801",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Soomaaliya iyo Turkiga oo saxiixay heshiis iskaashi oo shidaal iyo gaas ah",
+    "summary_so": "Soomaaliya iyo Turkiga ayaa Maarso 2024 saxiixay heshiis dowladeed oo ku saabsan sahaminta hidrokarboonka, waxaana ku xigay Luulyo 2024 heshiis wadaag wax soo saar oo ku saabsan saddex blog oo badda ku yaal. Markabka Turkiga ee Oruc Reis ayaa Juun 2025 dhammaystiray sahan seismic ah oo 3D ah oo 234 maalmood qaatay, kana dhacay 4,464 km².",
+    "impact_so": "Wuxuu Turkiga ka dhigay lammaanaha ugu weyn ee Soomaaliya ee sahaminta badda, oo ah qayb ay ku jiri karaan kayd muhiim ah balse aan la xaqiijin.",
+    "context_so": "Xogta seismic-ku ma xaqiijin karto kayd ganacsi ahaan faa'iido leh; Soomaaliland iyo qaar ka mid ah dowlad goboleedyada xubinta ka ah federaalka ayaa ku muransan gacan ku haynta federaalka ee kheyraadka.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-04-04-ethiopian-ambassador-expelled",
+    "date": "2024-04-04",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "Somalia expels Ethiopia's ambassador and orders consulates in Hargeisa and Garowe closed",
+    "summary": "Somalia's cabinet gave Ethiopian ambassador Muktar Mohamed Ware 72 hours to leave, accusing Addis Ababa of interfering in internal affairs, and ordered Ethiopia's consulates in Somaliland and Puntland closed. Mogadishu also recalled its ambassador from Addis Ababa.",
+    "impact": "Marked the low point of the Somaliland MoU crisis, raising concerns over the roughly 3,000 Ethiopian troops serving in the AU mission in Somalia.",
+    "context": "Reports differ on the deadline given to close the consulates (one or two weeks).",
+    "tags": [
+      "Ethiopia",
+      "Somaliland",
+      "Puntland"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/4/4/somalia-expels-ethiopian-ambassador-amid-somaliland-port-deal",
+        "type": "media",
+        "date": "2024-04-04"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://www.garoweonline.com/en/news/somalia/somalia-expels-ethiopia-s-ambassador-in-mogadishu",
+        "type": "media",
+        "date": "2024-04-04"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Soomaaliya oo dalka ka saartay safiirka Itoobiya, amarna ku bixisay xiritaanka qunsuliyadaha Hargeysa iyo Garoowe",
+    "summary_so": "Golaha wasiirrada Soomaaliya ayaa safiirka Itoobiya, Muktar Mohamed Ware, siiyay 72 saacadood inuu dalka uga baxo, iyagoo Addis Ababa ku eedeeyay faragelin arrimaha gudaha, waxayna amar ku bixiyeen in la xiro qunsuliyadaha Itoobiya ee Soomaaliland iyo Puntland. Muqdisho ayaa sidoo kale dib uga yeeratay safiirkeeda Addis Ababa.",
+    "impact_so": "Wuxuu calaamad u ahaa heerkii ugu hooseeyay ee xiisadda heshiiska is-afgarad ee Soomaaliland, wuxuuna walaac ka dhaliyay qiyaastii 3,000 oo askari oo Itoobiyaan ah oo ka tirsan howlgalka Midowga Afrika ee Soomaaliya.",
+    "context_so": "Warbixinnadu way ku kala duwan yihiin muddada la bixiyay ee lagu xirayo qunsuliyadaha (hal ama laba toddobaad).",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-06-06-unsc-election",
+    "date": "2024-06-06",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "Somalia elected to the UN Security Council for 2025–2026",
+    "summary": "The UN General Assembly elected Somalia as a non-permanent Security Council member for 2025–2026 with 179 votes, alongside Denmark, Greece, Pakistan and Panama. It is Somalia's first Council term since 1971–72.",
+    "impact": "Returned Somalia to the Council after more than five decades, shifting it from being a standing agenda item to a voting member.",
+    "context": "Somalia ran as the endorsed African candidate, so the seat was uncontested within its regional group.",
+    "tags": [
+      "UN Security Council",
+      "UN General Assembly"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-elected-to-un-security-council-vows-global-peace-role",
+        "type": "media",
+        "date": "2024-06-06"
+      },
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/somalia-joins-un-security-council-after-more-than-50-years-/7646503.html",
+        "type": "media",
+        "date": "2024-06-06"
+      },
+      {
+        "name": "Daily Monitor (Uganda)",
+        "url": "https://monitor.co.ug/africa/news/somalia-elected-a-non-permanent-member-of-the-un--4649534",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Soomaaliya oo loo doortay Golaha Ammaanka ee Qaramada Midoobay 2025–2026",
+    "summary_so": "Golaha Guud ee Qaramada Midoobay ayaa Soomaaliya u doortay xubin aan joogto ahayn oo ka tirsan Golaha Ammaanka 2025–2026, iyadoo heshay 179 cod, oo ay weheliyaan Denmark, Giriigga, Pakistan iyo Panama. Waa markii ugu horreysay ee Soomaaliya xubin ka noqoto Golaha tan iyo 1971–72.",
+    "impact_so": "Wuxuu Soomaaliya dib ugu celiyay Golaha in ka badan konton sano kadib, isagoo ka beddelay qodob joogto ah oo ajendaha ku jira oo ka dhigay xubin codeysa.",
+    "context_so": "Soomaaliya waxay u tartantay musharax Afrikaan ah oo la ansixiyay, sidaa darteed kursiga laguma tartamin kooxdeeda gobolka gudaheeda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-08-14-egypt-defence-protocol",
+    "date": "2024-08-14",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Egypt and Somalia sign military cooperation protocol in Cairo",
+    "summary": "Presidents Abdel Fattah el-Sisi and Hassan Sheikh Mohamud witnessed the signing of a military cooperation protocol at Cairo's Ittihadiya Palace. Sisi reaffirmed support for Somalia's unity and opposed foreign interference; Egypt delivered military equipment to Mogadishu later that month.",
+    "impact": "Added Egypt as a security partner and potential troop contributor at a time of deep tension with Ethiopia.",
+    "context": "The pact deepened Egypt–Ethiopia rivalry over the Grand Ethiopian Renaissance Dam; reports of up to 10,000 Egyptian troops were not confirmed.",
+    "tags": [
+      "Egypt",
+      "defence",
+      "Ethiopia"
+    ],
+    "sources": [
+      {
+        "name": "Ahram Online",
+        "url": "https://english.ahram.org.eg/NewsContent/1/1234/530159/Egypt/Foreign-Affairs/Egypt-and-Somalia-presidents-witness-signing-milit.aspx",
+        "type": "media",
+        "date": "2024-08-14"
+      },
+      {
+        "name": "The National",
+        "url": "https://thenationalnews.com/news/mena/2024/08/14/egypt-and-somalia-sign-military-co-operation-protocol-in-cairo",
+        "type": "media",
+        "date": "2024-08-14"
+      },
+      {
+        "name": "Library of Congress Global Legal Monitor",
+        "url": "https://www.loc.gov/item/global-legal-monitor/2024-09-25/egypt-somalia-military-cooperation-agreement-signed/",
+        "type": "government",
+        "date": "2024-09-25"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Masar iyo Soomaaliya oo Qaahira ku saxiixay borotokool iskaashi militari",
+    "summary_so": "Madaxweyne Cabdifataax Al-Siisi iyo Madaxweyne Xasan Sheekh Maxamuud ayaa goob joog ka ahaa saxiixa borotokool iskaashi militari oo ka dhacay Qasriga Ittihadiya ee Qaahira. Al-Siisi ayaa xaqiijiyay taageerada midnimada Soomaaliya kana soo horjeestay faragelinta shisheeye; Masar ayaa bishaas dabayaaqadeeda Muqdisho u keentay qalab militari.",
+    "impact_so": "Wuxuu Masar ku daray lammaane amni iyo dal ciidan ku biirin kara, xilli xiisad qoto dheer ay la jirtay Itoobiya.",
+    "context_so": "Heshiisku wuxuu sii hurin xafiiltanka Masar iyo Itoobiya ee ku saabsan Biyo-xireenka Weyn ee Dib-u-soo-noolaynta Itoobiya (GERD); warbixinnada sheegayay ilaa 10,000 askari oo Masaari ah lama xaqiijin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-09-china-strategic-partnership",
+    "date": "2024-09-01",
+    "date_precision": "month",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Somalia and China elevate ties to a strategic partnership at FOCAC",
+    "summary": "On the sidelines of the Forum on China-Africa Cooperation summit in Beijing, Presidents Xi Jinping and Hassan Sheikh Mohamud upgraded relations to a strategic partnership. Xi announced a 200 million yuan grant and Somalia reaffirmed the one-China principle.",
+    "impact": "Strengthened Somalia's ties with a permanent Security Council member that backs its position against Taiwan's links with Somaliland.",
+    "tags": [
+      "China",
+      "FOCAC",
+      "Taiwan"
+    ],
+    "sources": [
+      {
+        "name": "Villa Somalia",
+        "url": "https://villasomalia.gov.so/somalia-and-china-elevate-diplomatic-ties-to-strategic-partnership-expanding-cooperation-for-shared-growth/",
+        "type": "government"
+      },
+      {
+        "name": "China Daily",
+        "url": "https://www.chinadaily.com.cn/a/202409/06/WS66da8a68a3103711928a67e9.html",
+        "type": "media",
+        "date": "2024-09-06"
+      },
+      {
+        "name": "Chinese Ministry of Foreign Affairs",
+        "url": "https://www.mfa.gov.cn/eng/xw/zyxw/202409/t20240908_11487225.html",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Soomaaliya iyo Shiinaha oo xiriirkooda gaarsiiyay iskaashi istaraatiiji ah shirka FOCAC",
+    "summary_so": "Shirka Madasha Iskaashiga Shiinaha iyo Afrika (FOCAC) ee Beijing hareerihiisa, Madaxweyne Xi Jinping iyo Madaxweyne Xasan Sheekh Maxamuud ayaa xiriirka u kordhiyay iskaashi istaraatiiji ah. Xi ayaa ku dhawaaqay deeq dhan 200 milyan yuan, Soomaaliyana waxay dib u xaqiijisay mabda'a hal Shiine.",
+    "impact_so": "Wuxuu xoojiyay xiriirka Soomaaliya iyo xubin joogto ah oo ka tirsan Golaha Ammaanka, taasoo taageerta mowqifkeeda ka dhanka ah xiriirka Taywaan iyo Soomaaliland.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-10-10-asmara-tripartite",
+    "date": "2024-10-10",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Somalia, Egypt and Eritrea form tripartite alignment at Asmara summit",
+    "summary": "Presidents Isaias Afwerki, Abdel Fattah el-Sisi and Hassan Sheikh Mohamud met in Asmara and agreed to set up a Joint Tripartite Committee of foreign ministers. The communiqué backed Somalia's capacity to protect its land and sea borders, and Egypt offered peacekeeping forces.",
+    "impact": "Created a new regional alignment backing Somalia's sovereignty during the Ethiopia dispute.",
+    "context": "Widely read as a counterweight to Ethiopia, which was not mentioned in the communiqué; critics warned it risked hardening regional rivalries.",
+    "tags": [
+      "Egypt",
+      "Eritrea",
+      "Horn of Africa"
+    ],
+    "sources": [
+      {
+        "name": "Villa Somalia: Joint Communiqué",
+        "url": "https://villasomalia.gov.so/joint-communique-of-the-tripartite-summit-between-somalia-eritrea-and-egypt/",
+        "type": "government",
+        "date": "2024-10-10"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/10/10/somalia-eritera-and-egypt-pledge-to-bloster-security-ties",
+        "type": "media",
+        "date": "2024-10-10"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Soomaaliya, Masar iyo Eritrea oo shirka Asmara ku sameeyay isbahaysi saddex geesood ah",
+    "summary_so": "Madaxweyne Isaias Afwerki, Madaxweyne Cabdifataax Al-Siisi iyo Madaxweyne Xasan Sheekh Maxamuud ayaa ku kulmay Asmara waxayna ku heshiiyeen in la sameeyo Guddi Saddex Geesood ah oo Wadajir ah oo ka kooban wasiirrada arrimaha dibadda. War-murtiyeedka ayaa taageeray awoodda Soomaaliya ee ay ku ilaalinayso xuduudaheeda berri iyo badba, Masarna waxay soo bandhigtay ciidamo nabad ilaalin ah.",
+    "impact_so": "Wuxuu abuuray isbahaysi gobolleed oo cusub oo taageeraya madaxbannaanida Soomaaliya xilligii khilaafka Itoobiya.",
+    "context_so": "Si ballaaran ayaa loogu fasiray miisaan looga hortagayo Itoobiya, oo aan lagu xusin war-murtiyeedka; dhaleeceeyayaal ayaa ka digay inay khatar ku tahay adkeynta xafiiltanka gobolka.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-10-30-untmis-established",
+    "date": "2024-10-30",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "Security Council replaces UNSOM with a time-bound transition mission (UNTMIS)",
+    "summary": "Resolution 2753 (2024), adopted unanimously, ended UNSOM on 31 October 2024 and created the UN Transitional Assistance Mission in Somalia (UNTMIS) in two phases, with the intention of ending its mandate by 31 October 2026. It followed a Somali government request for a two-year handover to the UN Country Team.",
+    "impact": "Set a clear timetable for winding down the UN political mission present since 2013, in line with the government's sovereignty agenda.",
+    "tags": [
+      "UN",
+      "UNSOM",
+      "UNTMIS",
+      "resolution 2753"
+    ],
+    "sources": [
+      {
+        "name": "UN Digital Library: S/RES/2753 (2024)",
+        "url": "https://digitallibrary.un.org/record/4065090",
+        "type": "international",
+        "date": "2024-10-30"
+      },
+      {
+        "name": "UNTMIS",
+        "url": "https://untmis.unmissions.org/en/node/64",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Golaha Ammaanka oo UNSOM ku beddelay howlgal kala-guur ah oo muddo xaddidan leh (UNTMIS)",
+    "summary_so": "Qaraarka 2753 (2024), oo si wadajir ah loo ansixiyay, ayaa soo afjaray UNSOM 31 Oktoobar 2024, wuxuuna laba weji ku aasaasay Howlgalka Kaalmada Kala-guurka ee Qaramada Midoobay ee Soomaaliya (UNTMIS), iyadoo ujeeddadu tahay in waqtigiisu dhammaado 31 Oktoobar 2026. Wuxuu ka dambeeyay codsi dowladda Soomaaliya ka timid oo ahaa wareejin laba sano ah oo loo gudbiyo Kooxda Waddanka ee Qaramada Midoobay.",
+    "impact_so": "Wuxuu jadwal cad u dejiyay xiritaanka howlgalka siyaasadeed ee Qaramada Midoobay ee joogay tan iyo 2013, isagoo la jaanqaadaya ajendaha madaxbannaanida ee dowladda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-12-11-ankara-declaration",
+    "date": "2024-12-11",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Peace & mediation",
+    "title": "Ankara Declaration eases Somalia–Ethiopia crisis",
+    "summary": "Hosted by President Erdogan, Hassan Sheikh Mohamud and Prime Minister Abiy Ahmed affirmed respect for each other's sovereignty and territorial integrity. Somalia acknowledged potential benefits of Ethiopia's assured commercial access to the sea under Somali sovereignty, and both agreed to Turkish-facilitated technical talks.",
+    "impact": "De-escalated a year-long standoff without Ethiopia recognising Somaliland; it was welcomed by the AU, US and UK.",
+    "context": "Somaliland said the declaration did not concern it and that its MoU with Ethiopia remained intact; analysts noted key questions on the form of sea access were left open.",
+    "tags": [
+      "Ethiopia",
+      "Turkey",
+      "Ankara Declaration",
+      "Somaliland"
+    ],
+    "sources": [
+      {
+        "name": "Turkish MFA: text of Ankara Declaration",
+        "url": "https://mfa.gov.tr/etiyopya-federal-demokratik-cumhuriyeti-ve-somali-federal-cumhuriyeti-nin-ankara-bildirisi.en.mfa",
+        "type": "government",
+        "date": "2024-12-11"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/12/12/somalia-ethiopia-agree-on-compromise-to-end-tension-turkish-leader-says",
+        "type": "media",
+        "date": "2024-12-12"
+      },
+      {
+        "name": "Critical Threats (AEI)",
+        "url": "https://www.criticalthreats.org/analysis/africa-file-special-edition-ankara-declaration-reduces-ethiopia-somalia-tensions-but-leaves-unresolved-gaps",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Nabadda iyo dhexdhexaadinta",
+    "title_so": "Baaqa Ankara oo dejiyay xiisadda Soomaaliya iyo Itoobiya",
+    "summary_so": "Iyadoo uu martigelinayo Madaxweyne Erdogan, Xasan Sheekh Maxamuud iyo Ra'iisul Wasaare Abiy Axmed ayaa xaqiijiyay inay ixtiraamayaan madaxbannaanida iyo midnimada dhuleed ee midba midka kale. Soomaaliya waxay qirtay faa'iidooyinka suurtagalka ah ee ka dhalan kara marin ganacsi oo badda ah oo la hubo oo Itoobiya ku hesho madaxbannaanida Soomaaliya hoosteeda, labaduba waxay ku heshiiyeen wadahadallo farsamo oo uu Turkigu fududeynayo.",
+    "impact_so": "Wuxuu dejiyay is-hortaag sannad socday iyadoo aysan Itoobiya aqoonsan Soomaaliland; waxaa soo dhaweeyay Midowga Afrika, Mareykanka iyo Boqortooyada Ingiriiska.",
+    "context_so": "Soomaaliland waxay sheegtay in baaqu aanu khuseyn, iyo in heshiiskeeda is-afgarad ee Itoobiya uu weli jiro; falanqeeyayaal ayaa xusay in su'aalo muhiim ah oo ku saabsan qaabka marinka badda la furan uga tagay.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2024-12-27-aussom-authorized",
+    "date": "2024-12-27",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "Security Council authorises AUSSOM to succeed ATMIS",
+    "summary": "Resolution 2767 (2024) endorsed the AU decision to replace ATMIS with the AU Support and Stabilisation Mission in Somalia (AUSSOM) from 1 January 2025. It passed 14-0, with the United States abstaining over financing under resolution 2719.",
+    "impact": "Kept an AU force in place to support Somali forces against al-Shabaab, while opening the door to UN assessed funding.",
+    "context": "Financing has remained chronically short, and the US abstention signalled resistance to UN assessed contributions for the mission.",
+    "tags": [
+      "AUSSOM",
+      "African Union",
+      "resolution 2767"
+    ],
+    "sources": [
+      {
+        "name": "UN Meetings Coverage SC/15955",
+        "url": "https://press.un.org/en/2024/sc15955.doc.htm",
+        "type": "international",
+        "date": "2024-12-27"
+      },
+      {
+        "name": "UN Digital Library: S/RES/2767 (2024)",
+        "url": "https://digitallibrary.un.org/record/4070382",
+        "type": "international",
+        "date": "2024-12-27"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Golaha Ammaanka oo u oggolaaday AUSSOM inay beddesho ATMIS",
+    "summary_so": "Qaraarka 2767 (2024) ayaa ansixiyay go'aanka Midowga Afrika ee ah in ATMIS lagu beddelo Howlgalka Taageerada iyo Xasilinta ee Midowga Afrika ee Soomaaliya (AUSSOM) laga bilaabo 1 Janaayo 2025. Wuxuu ku ansaxay 14-0, iyadoo Mareykanku ka aamusay codeynta sababo la xiriira maalgelinta qaraarka 2719 hoostiisa.",
+    "impact_so": "Wuxuu sii hayay ciidan Midowga Afrika ah oo taageera ciidamada Soomaaliyeed ee la dagaallamaya Al-Shabaab, isagoo albaabka u furay maalgelinta qasabka ah (assessed) ee Qaramada Midoobay.",
+    "context_so": "Maalgelintu waxay ahayd mid si joogto ah u yar, codeyn ka aamusnaanta Mareykankana waxay muujisay diidmo ku aaddan in howlgalka loo qoondeeyo wax ku biirinta qasabka ah ee Qaramada Midoobay.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-01-11-ethiopia-ties-restored",
+    "date": "2025-01-11",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Peace & mediation",
+    "title": "Somalia and Ethiopia restore full diplomatic relations",
+    "summary": "After President Hassan Sheikh Mohamud visited Addis Ababa, the two governments issued a joint communiqué committing to restore full diplomatic representation in their capitals and to deepen security cooperation against extremist groups.",
+    "impact": "Formally ended the rupture that began with the expulsion of Ethiopia's ambassador in April 2024.",
+    "context": "The rapprochement drew criticism from some of the president's supporters, and commentators questioned how durable it would be.",
+    "tags": [
+      "Ethiopia",
+      "normalisation"
+    ],
+    "sources": [
+      {
+        "name": "The National",
+        "url": "https://www.thenationalnews.com/news/mena/2025/01/12/somalia-and-ethiopia-restore-diplomatic-ties-after-president-hassan-sheikh-mohamud-visits-addis-ababa/",
+        "type": "media",
+        "date": "2025-01-12"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://www.garoweonline.com/en/news/somalia/somalia-ethiopia-restore-diplomatic-ties-after-addis-ababa-talks",
+        "type": "media",
+        "date": "2025-01-11"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Nabadda iyo dhexdhexaadinta",
+    "title_so": "Soomaaliya iyo Itoobiya oo dib u soo celiyay xiriirka diblomaasiyadeed oo buuxa",
+    "summary_so": "Kadib booqasho uu Madaxweyne Xasan Sheekh Maxamuud ku tagay Addis Ababa, labada dowladood ayaa soo saaray war-murtiyeed wadajir ah oo ay ku ballanqaadeen inay dib u soo celiyaan wakiilnimo diblomaasiyadeed oo buuxda oo ku taal caasimadahooda, iyo inay xoojiyaan iskaashiga amniga ee looga hortagayo kooxaha xagjirka ah.",
+    "impact_so": "Wuxuu si rasmi ah u soo afjaray go'doonkii bilaabmay markii la masaafuriyay safiirka Itoobiya Abriil 2024.",
+    "context_so": "Dib u heshiisiintu waxay dhaleeceyn ka heshay qaar ka mid ah taageerayaasha madaxweynaha, faallooyinna waxay su'aal ka keeneen inta ay waari doonto.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-02-27-abiy-visits-mogadishu",
+    "date": "2025-02-27",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Peace & mediation",
+    "title": "Ethiopian PM Abiy Ahmed visits Mogadishu",
+    "summary": "Abiy Ahmed made his first visit to Mogadishu since the Ankara Declaration, holding talks with President Hassan Sheikh Mohamud on security, trade and infrastructure. A joint communiqué welcomed the Ankara framework.",
+    "impact": "Signalled normalisation at the highest level and cooperation against al-Shabaab, including on Ethiopian troops in AUSSOM.",
+    "context": "Mortar fire hit near Mogadishu airport shortly before Abiy landed; it was unclear whether it was linked to the visit.",
+    "tags": [
+      "Ethiopia",
+      "Abiy Ahmed"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/ethiopia-pm-visits-somalia-as-neighbors-try-to-improve-relations/7990067.html",
+        "type": "media",
+        "date": "2025-02-27"
+      },
+      {
+        "name": "Addis Standard",
+        "url": "https://addisstandard.com/ethiopia-somalia-hail-military-agreement-as-critical-step-toward-regional-stability-after-pm-abiys-visit-to-mogadishu",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Nabadda iyo dhexdhexaadinta",
+    "title_so": "Ra'iisul Wasaaraha Itoobiya Abiy Axmed oo booqday Muqdisho",
+    "summary_so": "Abiy Axmed ayaa booqashadiisii ugu horreysay ku yimid Muqdisho tan iyo Baaqa Ankara, wuxuuna Madaxweyne Xasan Sheekh Maxamuud kala hadlay amniga, ganacsiga iyo kaabayaasha. War-murtiyeed wadajir ah ayaa soo dhaweeyay qaab-dhismeedka Ankara.",
+    "impact_so": "Wuxuu muujiyay xiriir caadi ah oo heerka ugu sarreeya ah iyo iskaashi ka dhan ah Al-Shabaab, oo ay ku jiraan ciidamada Itoobiya ee AUSSOM.",
+    "context_so": "Hoobiyeyaal ayaa ku dhacay meel u dhow garoonka diyaaradaha Muqdisho wax yar ka hor intaanu Abiy soo degin; lama caddeyn in ay xiriir la lahaayeen booqashada.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-04-30-taiwan-passport-ban",
+    "date": "2025-04-30",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "Somalia bars Taiwanese passport holders, citing one-China policy",
+    "summary": "Somalia banned entry, transit and exit for holders of Taiwanese passports, citing UN General Assembly resolution 2758. Taiwan condemned the move as Chinese pressure tied to its office in Hargeisa; Beijing welcomed it.",
+    "impact": "Aligned Mogadishu more closely with Beijing against Taiwan–Somaliland ties.",
+    "context": "Critics described the ban as largely symbolic, as few Taiwanese travel to federal Somalia; Somaliland kept its links with Taipei.",
+    "tags": [
+      "Taiwan",
+      "China",
+      "Somaliland"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/4/30/somalia-bans-entry-of-taiwanese-citizens-says-taipei",
+        "type": "media",
+        "date": "2025-04-30"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2025/Apr/201342/somalia_bans_taiwan_passport_holders_citing_one_china_policy.aspx",
+        "type": "media",
+        "date": "2025-04-30"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Soomaaliya oo mamnuucday dadka haysta baasaboorka Taywaan, iyadoo ku sababeysay siyaasadda hal Shiine",
+    "summary_so": "Soomaaliya waxay mamnuucday soo gelitaanka, marinka iyo ka bixitaanka dadka haysta baasaboorrada Taywaan, iyadoo tixraacday qaraarka 2758 ee Golaha Guud ee Qaramada Midoobay. Taywaan ayaa cambaareysay tallaabada, iyadoo ku tilmaantay cadaadis Shiine oo la xiriira xafiiskeeda Hargeysa; Beijing ayaa soo dhaweysay.",
+    "impact_so": "Wuxuu Muqdisho si dhow ula jaanqaadiyay Beijing, iyadoo ka soo horjeedda xiriirka Taywaan iyo Soomaaliland.",
+    "context_so": "Dhaleeceeyayaal ayaa mamnuucidda ku tilmaamay mid inta badan astaan ah, maadaama Taywaaniyiin yar ay u safraan Soomaaliya federaalka; Soomaaliland waxay sii haysatay xiriirkeeda Taipei.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-06-04-us-travel-ban",
+    "date": "2025-06-04",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "US includes Somalia in full travel ban",
+    "summary": "President Trump signed a proclamation fully restricting entry of nationals from 12 countries including Somalia, effective 9 June 2025. The White House cited limited government control of territory, terrorism and non-acceptance of deportees. Somalia's ambassador stressed the partnership against terrorism.",
+    "impact": "Hit Somali diaspora travel and family reunification, particularly in Minnesota, and signalled a cooler US posture.",
+    "context": "Somalia avoided harsh public criticism; US lawmakers and diaspora groups condemned the ban.",
+    "tags": [
+      "United States",
+      "travel ban",
+      "Trump administration"
+    ],
+    "sources": [
+      {
+        "name": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-restricts-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-",
+        "type": "government",
+        "date": "2025-06-04"
+      },
+      {
+        "name": "TimesLIVE (Reuters)",
+        "url": "https://www.timeslive.co.za/news/africa/2025-06-06-officials-from-sudan-chad-somalia-express-dismay-at-trump-travel-ban/",
+        "type": "media",
+        "date": "2025-06-06"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Mareykanka oo Soomaaliya ku daray mamnuucidda safarka ee buuxda",
+    "summary_so": "Madaxweyne Trump ayaa saxiixay amar si buuxda u xaddidaya soo gelitaanka muwaadiniinta 12 dal oo ay Soomaaliya ka mid tahay, kaasoo dhaqan galay 9 Juun 2025. Aqalka Cad wuxuu ku sababeeyay gacan ku hayn xaddidan oo dowladdu ku leedahay dhulka, argagixisada iyo diidmada qaabilaadda dadka la soo masaafuriyo. Safiirka Soomaaliya ayaa carrabka ku adkeeyay iskaashiga la dagaallanka argagixisada.",
+    "impact_so": "Wuxuu saameeyay safarka qurbajoogta Soomaaliyeed iyo isu-keenidda qoysaska, gaar ahaan gobolka Minnesota, wuxuuna muujiyay mowqif Mareykan oo qaboobay.",
+    "context_so": "Soomaaliya waxay iska ilaalisay dhaleeceyn culus oo fagaare ah; xildhibaanno Mareykan ah iyo kooxo qurbajoog ah ayaa cambaareeyay mamnuucidda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-09-01-etas-launch",
+    "date": "2025-09-01",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "Somalia makes online electronic travel authorisation mandatory for foreign visitors",
+    "summary": "The Immigration and Citizenship Agency launched an e-visa/eTAS system via etas.gov.so, requiring all foreign nationals to obtain entry authorisation before travel from 1 September 2025; visas on arrival were ended.",
+    "impact": "Centralised federal control over entry and created a digital border-management record.",
+    "context": "Somaliland and Puntland rejected the system, and reports said federal authorities could stop travellers without eTAS from boarding flights to those regions, sharpening centre–periphery tensions.",
+    "tags": [
+      "e-visa",
+      "immigration",
+      "eTAS"
+    ],
+    "sources": [
+      {
+        "name": "Immigration and Citizenship Agency",
+        "url": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+        "type": "government"
+      },
+      {
+        "name": "The EastAfrican",
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/somalia-launches-e-visa-system-5171732",
+        "type": "media"
+      },
+      {
+        "name": "Somali Guardian",
+        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-enforces-travel-authorisation-system-as-tensions-rise-with-somaliland-puntland/",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Soomaaliya oo waajib ka dhigtay oggolaanshaha safarka elektaroonigga ah ee onlaynka booqdayaasha shisheeye",
+    "summary_so": "Hay'adda Socdaalka iyo Jinsiyadda ayaa bilowday nidaam e-visa/eTAS ah oo laga helo etas.gov.so, kaasoo laga bilaabo 1 Sebtembar 2025 ka dalbanaya dhammaan muwaadiniinta shisheeye inay helaan oggolaansho soo gelitaan ka hor safarka; fiisaha laga bixiyo marka la yimaado waa la joojiyay.",
+    "impact_so": "Wuxuu xoojiyay gacan ku haynta dhexe ee federaalka ee soo gelitaanka, wuxuuna abuuray diiwaan dijitaal ah oo maaraynta xuduudaha.",
+    "context_so": "Soomaaliland iyo Puntland ayaa diiday nidaamka, warbixinnaduna waxay sheegeen in mas'uuliyiinta federaalku ka joojin karaan rakaabka aan haysan eTAS inay raacaan duullimaadyada aada gobolladaas, taasoo sii huriyay xiisadda u dhexeysa dowladda dhexe iyo gobollada.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-12-02-trump-remarks",
+    "date": "2025-12-02",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Trump calls Somali immigrants 'garbage'; Mogadishu opts for restraint",
+    "summary": "At a Cabinet meeting President Trump disparaged Somalia and Somali immigrants as an immigration enforcement operation targeted Somalis in Minnesota. Prime Minister Hamza Abdi Barre said it was 'better not to respond'.",
+    "impact": "Marked a low in public US rhetoric toward Somalia, though US security cooperation against al-Shabaab continued.",
+    "context": "The government's muted response was criticised by some Somalis as weakness and defended by others as strategic.",
+    "tags": [
+      "United States",
+      "Trump administration",
+      "diaspora"
+    ],
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/05/nx-s1-5632602/trumps-garbage-comment-met-with-disappointment-in-somalia",
+        "type": "media",
+        "date": "2025-12-05"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://aljazeera.com/news/2025/12/4/from-mogadishu-to-minneapolis-somalis-reject-trumps-bigoted-remarks",
+        "type": "media",
+        "date": "2025-12-04"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Trump oo soogalootiga Soomaaliyeed ku tilmaamay 'qashin'; Muqdisho oo dooratay is-celin",
+    "summary_so": "Kulan Golaha Wasiirrada ah, Madaxweyne Trump ayaa liiday Soomaaliya iyo soogalootiga Soomaaliyeed, xilli howlgal fulinta sharciga socdaalka uu beegsanayay Soomaalida Minnesota. Ra'iisul Wasaare Xamsa Cabdi Barre ayaa sheegay inay 'fiicnaan lahayd in aan laga jawaabin'.",
+    "impact_so": "Wuxuu calaamad u ahaa heerka ugu hooseeyay ee hadallada fagaaraha ee Mareykanka ee ku aaddan Soomaaliya, inkastoo iskaashiga amni ee Mareykanka ee ka dhanka ah Al-Shabaab uu sii socday.",
+    "context_so": "Jawaabta dowladda ee aamusnaanta u dhowayd waxaa qaar ka mid ah Soomaalida ku dhaleeceeyeen daciifnimo, qaar kalena waxay ku difaaceen mid istaraatiiji ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-12-res-2809-untmis-exit",
+    "date": "2025-12-01",
+    "date_precision": "month",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "Security Council extends AUSSOM and fixes UNTMIS exit for 31 October 2026",
+    "summary": "Resolution 2809 (2025), adopted unanimously, extended AUSSOM's authorisation to 31 December 2026 and confirmed that UNTMIS would close on 31 October 2026 after its second transition phase.",
+    "impact": "Locked in the end-date for the UN political mission requested by the federal government.",
+    "context": "Funding for AUSSOM remained uncertain.",
+    "tags": [
+      "UNTMIS",
+      "AUSSOM",
+      "resolution 2809"
+    ],
+    "sources": [
+      {
+        "name": "Goobjoog News",
+        "url": "https://en.goobjoog.com/un-security-council-extends-au-mission-in-somalia-to-2026-sets-exit-date-for-untmis",
+        "type": "media"
+      },
+      {
+        "name": "Mirage News",
+        "url": "https://www.miragenews.com/unsc-renews-au-mission-in-somalia-with-1595442/",
+        "type": "media"
+      },
+      {
+        "name": "Zawya (Reuters)",
+        "url": "https://www.zawya.com/en/world/africa/un-extends-african-union-somalia-mission-amid-funding-concerns-rsb8x71k",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Golaha Ammaanka oo kordhiyay AUSSOM, una qabtay bixitaanka UNTMIS 31 Oktoobar 2026",
+    "summary_so": "Qaraarka 2809 (2025), oo si wadajir ah loo ansixiyay, ayaa oggolaanshaha AUSSOM u kordhiyay ilaa 31 Diseembar 2026, wuxuuna xaqiijiyay in UNTMIS la xiri doono 31 Oktoobar 2026 kadib wejigeeda labaad ee kala-guurka.",
+    "impact_so": "Wuxuu adkeeyay taariikhda dhammaadka howlgalka siyaasadeed ee Qaramada Midoobay ee ay dowladda federaalku codsatay.",
+    "context_so": "Maalgelinta AUSSOM waxay ahaatay mid aan la hubin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-12-26-israel-recognises-somaliland",
+    "date": "2025-12-26",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "Israel recognises Somaliland; Somalia demands reversal",
+    "summary": "Israel became the first UN member state to formally recognise Somaliland. Somalia condemned the move as aggression and demanded its withdrawal; Turkey, Egypt, Nigeria and other states reaffirmed support for Somalia's unity.",
+    "impact": "The biggest challenge to Somalia's territorial claim in decades, prompting a wave of Arab, Islamic and African diplomatic support for Mogadishu.",
+    "context": "President Trump said the US would not follow Israel; the State Department reaffirmed recognition of Somalia's territorial integrity, while a US envoy at the UN defended Israel's right to its decision.",
+    "tags": [
+      "Israel",
+      "Somaliland",
+      "recognition"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals",
+        "type": "media",
+        "date": "2025-12-27"
+      },
+      {
+        "name": "Dawn",
+        "url": "https://www.dawn.com/news/1963551",
+        "type": "media"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/index.php/en/news/somalia/u-s-walks-diplomatic-tightrope-on-somalia-unity-after-israel-s-somaliland-move",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Israa'iil oo aqoonsatay Soomaaliland; Soomaaliya oo dalbatay in laga laabto",
+    "summary_so": "Israa'iil waxay noqotay dowladdii ugu horreysay ee xubin ka ah Qaramada Midoobay oo si rasmi ah u aqoonsata Soomaaliland. Soomaaliya ayaa tallaabada ku cambaareysay gardarro, waxayna dalbatay in dib loola noqdo; Turkiga, Masar, Nigeria iyo dowlado kale ayaa dib u xaqiijiyay taageerada midnimada Soomaaliya.",
+    "impact_so": "Waa caqabadda ugu weyn ee soo wajahday sheegashada dhuleed ee Soomaaliya muddo tobanaan sano ah, waxayna dhalisay mowjad taageero diblomaasiyadeed oo Carbeed, Islaami iyo Afrikaan ah oo loo muujiyay Muqdisho.",
+    "context_so": "Madaxweyne Trump ayaa sheegay in Mareykanku aanu raaci doonin Israa'iil; Wasaaradda Arrimaha Dibadda ayaa dib u xaqiijisay aqoonsiga midnimada dhuleed ee Soomaaliya, halka ergay Mareykan ah oo jooga Qaramada Midoobay uu difaacay xaqa Israa'iil ee go'aankeeda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2025-12-28-arab-league-emergency",
+    "date": "2025-12-28",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "Arab League emergency session rejects Israel's recognition of Somaliland",
+    "summary": "At Somalia's request, Arab League permanent representatives met in Cairo, declared any recognition of Somaliland null and void, and urged the UN Security Council to act.",
+    "impact": "Secured collective Arab backing for Somalia's territorial integrity within days of the recognition.",
+    "tags": [
+      "Arab League",
+      "Somaliland",
+      "Israel"
+    ],
+    "sources": [
+      {
+        "name": "WAM",
+        "url": "https://www.wam.ae/en/article/bnfapr0-arab-league-holds-emergency-meeting-sunday-reject",
+        "type": "government"
+      },
+      {
+        "name": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/717707/region/arab-league-rejects-israeli-recognition-of-somaliland",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Kulan degdeg ah oo Jaamacadda Carabta oo diiday aqoonsiga Israa'iil ee Soomaaliland",
+    "summary_so": "Codsi Soomaaliya ka dib, wakiillada joogtada ah ee Jaamacadda Carabta ayaa ku kulmay Qaahira, waxayna ku dhawaaqeen in aqoonsi kasta oo Soomaaliland la siiyo uu yahay mid buran oo aan waxba ka jirin, waxayna ku booriyeen Golaha Ammaanka ee Qaramada Midoobay inuu tallaabo qaado.",
+    "impact_so": "Wuxuu Soomaaliya u helay taageero Carbeed oo wadajir ah oo loogu muujiyay midnimadeeda dhuleed, maalmo gudahood kadib aqoonsiga.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-01-01-unsc-presidency",
+    "date": "2026-01-01",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "Somalia holds the UN Security Council presidency for January 2026",
+    "summary": "Somalia took over the rotating Council presidency from Slovenia, chairing meetings and setting the programme of work for the month. Ambassador Abukar Dahir Osman called it historic and pledged efficiency, transparency and consensus building.",
+    "impact": "The first time Somalia has presided over the Council, coinciding with the Somaliland recognition dispute.",
+    "tags": [
+      "UN Security Council",
+      "presidency"
+    ],
+    "sources": [
+      {
+        "name": "Anadolu Agency",
+        "url": "https://aa.com.tr/en/africa/somalia-assumes-un-security-council-presidency-for-january/3788115",
+        "type": "media",
+        "date": "2026-01-01"
+      },
+      {
+        "name": "Somalia MFA",
+        "url": "https://web.mfa.gov.so/somalia-steps-into-un-security-council-presidency/",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Soomaaliya oo qabatay guddoomiyenimada Golaha Ammaanka ee Qaramada Midoobay bisha Janaayo 2026",
+    "summary_so": "Soomaaliya waxay Slovenia kala wareegtay guddoomiyenimada wareegta ee Golaha, iyadoo guddoominaysa kulamada isla markaana dejinaysa barnaamijka shaqada ee bisha. Safiir Abuukar Daahir Cismaan ayaa ku tilmaamay mid taariikhi ah, wuxuuna ballanqaaday hufnaan, daahfurnaan iyo dhisidda is-afgarad.",
+    "impact_so": "Waa markii ugu horreysay ee Soomaaliya guddoomiso Golaha, waxayna ku beegantay khilaafka aqoonsiga Soomaaliland.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-01-08-us-aid-suspension",
+    "date": "2026-01-08",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "US suspends assistance benefiting Somalia's government over WFP warehouse dispute",
+    "summary": "The State Department paused aid programmes benefiting the federal government, alleging officials destroyed a US-funded WFP warehouse and seized about 76 tonnes of food. Somalia's foreign ministry denied this, saying the food stayed in WFP custody during port works; the US later said WFP food distribution would resume.",
+    "impact": "Marked a sharp low in US–Somalia relations while 4.4 million Somalis faced crisis-level hunger.",
+    "context": "WFP said port authorities demolished the warehouse; accounts conflict over whether food was seized or relocated.",
+    "tags": [
+      "United States",
+      "aid",
+      "WFP"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/1/8/us-suspends-assistance-to-somali-government-for-alleged-seizure-of-aid",
+        "type": "media",
+        "date": "2026-01-08"
+      },
+      {
+        "name": "Devex",
+        "url": "https://www.devex.com/news/us-freezes-aid-to-somalia-over-dispute-on-destroyed-wfp-warehouse-111654",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Mareykanka oo hakiyay kaalmada ka faa'iideysa dowladda Soomaaliya, khilaaf ku saabsan bakhaar WFP awgeed",
+    "summary_so": "Wasaaradda Arrimaha Dibadda ayaa hakisay barnaamijyada kaalmada ee ay ka faa'iideysato dowladda federaalka, iyadoo ku eedeysay mas'uuliyiin inay burburiyeen bakhaar WFP oo Mareykanku maalgeliyay, ayna qabsadeen qiyaastii 76 tan oo cunto ah. Wasaaradda arrimaha dibadda Soomaaliya ayaa beenisay, iyadoo sheegtay in cuntadu ay ku jirtay gacanta WFP intii howlaha dekedda socdeen; Mareykanka ayaa markii dambe sheegay in qaybinta cuntada WFP dib u bilaaban doonto.",
+    "impact_so": "Wuxuu calaamad u ahaa hoos u dhac weyn oo ku yimid xiriirka Mareykanka iyo Soomaaliya, xilli 4.4 milyan oo Soomaali ah ay wajahayeen gaajo heer xaalad culus ah.",
+    "context_so": "WFP waxay sheegtay in maamulka dekeddu dumiyay bakhaarka; xogtu way isku khilaafsan tahay haddii cuntada la qabsaday ama meel kale loo raray.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-01-12-uae-agreements-cancelled",
+    "date": "2026-01-12",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "Somalia cancels all agreements with the UAE",
+    "summary": "President Hassan Sheikh Mohamud announced the cancellation of all agreements with the United Arab Emirates, saying Abu Dhabi had not dealt with Somalia as a single sovereign state. Mogadishu suspected UAE backing for Somaliland and its recognition by Israel.",
+    "impact": "Ruptured ties with a major Gulf investor and security partner, followed by new defence pacts with Qatar and Saudi Arabia.",
+    "context": "The UAE has deep commercial interests in Berbera (Somaliland) and Bosaso (Puntland), which federal cancellations cannot easily affect. The dispute escalated in November 2026, when Somalia expelled the UAE ambassador and recalled its own envoy.",
+    "tags": [
+      "UAE",
+      "Gulf",
+      "Somaliland"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/01/12/somalia-cancels-all-agreements-with-uae-over-alleged-sovereignty-violations",
+        "type": "media",
+        "date": "2026-01-12"
+      },
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2026/01/14/somalia-cancels-uae-agreements-over-sovereignty-concerns/",
+        "type": "media",
+        "date": "2026-01-14"
+      },
+      {
+        "name": "Eastleigh Voice: Somalia orders UAE ambassador to leave within 72 hours, recalls envoy",
+        "url": "https://eastleighvoice.co.ke/somalia/425709/somalia-orders-uae-ambassador-to-leave-within-72-hours-recalls-envoy-as-diplomatic-dispute-deepens",
+        "type": "media",
+        "date": "2026-11-19"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Soomaaliya oo baajisay dhammaan heshiisyada ay la lahayd Imaaraadka",
+    "summary_so": "Madaxweyne Xasan Sheekh Maxamuud ayaa ku dhawaaqay baajinta dhammaan heshiisyada Imaaraadka Carabta ee Midoobay, isagoo sheegay in Abu Dhabi aysan Soomaaliya ula macaamilin sidii hal dowlad oo madax bannaan. Muqdisho waxay ka shakisanayd in Imaaraadku taageerayo Soomaaliland iyo aqoonsigii Israa'iil.",
+    "impact_so": "Wuxuu jaray xiriirka maalgeliye weyn oo Khaliiji ah iyo lammaane amni, waxaana ku xigay heshiisyo difaac oo cusub oo lala galay Qadar iyo Sacuudi Carabiya.",
+    "context_so": "Imaaraadku wuxuu dano ganacsi oo qoto dheer ku leeyahay Berbera (Soomaaliland) iyo Boosaaso (Puntland), kuwaasoo baajinta federaalku aysan si fudud u saameyn karin. Khilaafku wuxuu sii xumaaday Nofembar 2026, markii Soomaaliya ay dalka ka saartay safiirka Imaaraadka oo ay dib ugu yeeratay safiirkeeda.",
+    "translation_so": "machine",
+    "added": "2026-11-19"
+  },
+  {
+    "id": "dip-2026-01-13-us-tps-termination",
+    "date": "2026-01-13",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "US moves to end Temporary Protected Status for Somalis",
+    "summary": "The Department of Homeland Security announced termination of Somalia's TPS designation, published in the Federal Register on 14 January 2026, initially effective 17 March 2026. A federal lawsuit led to a stay in March 2026.",
+    "impact": "Puts thousands of Somali nationals in the US at risk of losing deportation protection and work authorisation.",
+    "context": "Litigation was ongoing as of mid-2026; the operative termination date has shifted.",
+    "tags": [
+      "United States",
+      "TPS",
+      "diaspora"
+    ],
+    "sources": [
+      {
+        "name": "Federal Register (govinfo)",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-14/html/2026-00596.htm",
+        "type": "government",
+        "date": "2026-01-14"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/somalis-temporary-protected-status-trump-administration-ending",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Mareykanka oo u dhaqaaqay soo afjaridda Xaaladda Ilaalinta Ku-meel-gaarka ah (TPS) ee Soomaalida",
+    "summary_so": "Wasaaradda Amniga Gudaha (DHS) ayaa ku dhawaaqday soo afjaridda magacaabista TPS ee Soomaaliya, taasoo lagu daabacay Diiwaanka Federaalka 14 Janaayo 2026, markii hore na la qorsheeyay inay dhaqan gasho 17 Maarso 2026. Dacwad federaal ah ayaa keentay in la hakiyo Maarso 2026.",
+    "impact_so": "Waxay kumanaan muwaadin Soomaaliyeed oo jooga Mareykanka khatar u gelinaysaa inay waayaan ilaalinta ka dhanka ah masaafurinta iyo oggolaanshaha shaqada.",
+    "context_so": "Dacwaddu waxay weli socotay bartamihii 2026; taariikhda dhaqan galka soo afjaridda ayaa isbeddeshay.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-01-oic-extraordinary-cfm",
+    "date": "2026-01-01",
+    "date_precision": "month",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "OIC foreign ministers reject Israel's recognition of Somaliland",
+    "summary": "At an extraordinary Council of Foreign Ministers session in Jeddah requested by Somalia, the Organisation of Islamic Cooperation adopted a resolution rejecting Israel's recognition as an assault on Somalia's sovereignty and territorial integrity.",
+    "impact": "Added the 57-member OIC's collective backing to Arab League and AU positions.",
+    "tags": [
+      "OIC",
+      "Somaliland",
+      "Israel"
+    ],
+    "sources": [
+      {
+        "name": "Ahram Online",
+        "url": "https://english.ahram.org.eg/News/560464.aspx",
+        "type": "media"
+      },
+      {
+        "name": "Arab News Pakistan",
+        "url": "https://www.arabnews.pk/node/2628542",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Wasiirrada arrimaha dibadda ee OIC oo diiday aqoonsiga Israa'iil ee Soomaaliland",
+    "summary_so": "Kal-fadhi gaar ah oo Golaha Wasiirrada Arrimaha Dibadda oo Jiddah lagu qabtay, Soomaaliyana codsatay, Ururka Iskaashiga Islaamka (OIC) ayaa ansixiyay qaraar diidaya aqoonsiga Israa'iil, isagoo ku tilmaamay weerar lagu qaaday madaxbannaanida iyo midnimada dhuleed ee Soomaaliya.",
+    "impact_so": "Wuxuu taageerada wadajirka ah ee OIC oo ka kooban 57 xubnood ku daray mowqifyada Jaamacadda Carabta iyo Midowga Afrika.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-01-qatar-defence-pact",
+    "date": "2026-01-01",
+    "date_precision": "month",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Somalia and Qatar sign defence cooperation agreement",
+    "summary": "Defence Minister Ahmed Moallim Fiqi and Qatar's Sheikh Saoud bin Abdulrahman Al Thani signed a defence pact at DIMDEX 2026 covering training, capacity-building and exchange of military expertise. It followed a December 2025 Joint Committee in Doha that produced several cooperation accords.",
+    "impact": "Part of Somalia's diversification of Gulf security partners after the break with the UAE.",
+    "tags": [
+      "Qatar",
+      "defence",
+      "Gulf"
+    ],
+    "sources": [
+      {
+        "name": "The National",
+        "url": "https://www.thenationalnews.com/news/gulf/2026/01/20/somalia-and-qatar-deepen-defence-ties-with-new-co-operation-agreement",
+        "type": "media",
+        "date": "2026-01-20"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202601200138.html",
+        "type": "media",
+        "date": "2026-01-20"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Soomaaliya iyo Qadar oo saxiixay heshiis iskaashi difaac",
+    "summary_so": "Wasiirka Difaaca Axmed Macallin Fiqi iyo Sheekh Sacuud bin Cabdiraxmaan Aal Thaani oo Qadar ah ayaa bandhigga DIMDEX 2026 ku saxiixay heshiis difaac oo daboolaya tababar, kor u qaadista awoodda iyo is-weydaarsiga khibradda militari. Wuxuu ka dambeeyay Guddi Wadajir ah oo Diseembar 2025 ka dhacay Doxa kana soo baxay heshiisyo iskaashi oo dhowr ah.",
+    "impact_so": "Waa qayb ka mid ah kala duwanaynta lammaanayaasha amni ee Khaliijka ee Soomaaliya kadib go'doonkii Imaaraadka.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-02-09-saudi-defence-pact",
+    "date": "2026-02-09",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Somalia and Saudi Arabia sign military cooperation agreement",
+    "summary": "Defence Minister Ahmed Moallim Fiqi and Saudi Defence Minister Prince Khalid bin Salman signed a military cooperation MoU in Riyadh covering training, equipment and defence technology.",
+    "impact": "Brought Riyadh in as a security partner; a Saudi-backed programme to train 5,107 Somali soldiers was later reported.",
+    "context": "Full terms were not disclosed; the deal is read against wider Saudi–UAE rivalry.",
+    "tags": [
+      "Saudi Arabia",
+      "defence",
+      "Gulf"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/2/10/somalia-saudi-arabia-sign-agreement-on-military-cooperation",
+        "type": "media",
+        "date": "2026-02-10"
+      },
+      {
+        "name": "Dawn",
+        "url": "https://www.dawn.com/news/1972220/s-arabia-somalia-ink-defence-agreement",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Soomaaliya iyo Sacuudi Carabiya oo saxiixay heshiis iskaashi militari",
+    "summary_so": "Wasiirka Difaaca Axmed Macallin Fiqi iyo Wasiirka Difaaca Sacuudiga Amiir Khaalid bin Salmaan ayaa Riyaad ku saxiixay heshiis is-afgarad oo iskaashi militari ah oo daboolaya tababar, qalab iyo tiknoolajiyadda difaaca.",
+    "impact_so": "Wuxuu Riyaad ka dhigay lammaane amni; markii dambe waxaa la soo sheegay barnaamij Sacuudigu taageerayo oo lagu tababarayo 5,107 askari oo Soomaaliyeed.",
+    "context_so": "Shuruudaha buuxa lama shaacin; heshiiska waxaa loo eegayaa xafiiltanka ballaaran ee Sacuudiga iyo Imaaraadka.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-02-au-psc-election",
+    "date": "2026-02-01",
+    "date_precision": "month",
+    "sector": "diplomacy",
+    "subcategory": "Multilateral",
+    "title": "Somalia wins first-ever seat on the AU Peace and Security Council",
+    "summary": "The AU Executive Council elected Somalia to the 15-member Peace and Security Council for 2026–2028 ahead of the 39th AU Summit; one report said it received 46 of 49 votes. Somalia formally took its seat in April 2026.",
+    "impact": "Gives Somalia a voice on the AU body that oversees AUSSOM and continental crisis response, alongside its UN Security Council seat.",
+    "tags": [
+      "African Union",
+      "Peace and Security Council"
+    ],
+    "sources": [
+      {
+        "name": "Somalia MFA",
+        "url": "https://web.mfa.gov.so/somalia-wins-historic-election-to-the-african-union-peace-and-security-council-2026-2028/",
+        "type": "government"
+      },
+      {
+        "name": "AUSSOM",
+        "url": "https://au-ssom.org/aussom-congratulates-somalia-on-election-to-the-au-peace-and-security-council/",
+        "type": "international"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202602120076.html",
+        "type": "media",
+        "date": "2026-02-12"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka dhinacyada badan",
+    "title_so": "Soomaaliya oo markii ugu horreysay kursi ka heshay Golaha Nabadda iyo Amniga ee Midowga Afrika",
+    "summary_so": "Golaha Fulinta ee Midowga Afrika ayaa Soomaaliya u doortay Golaha Nabadda iyo Amniga oo ka kooban 15 xubnood, muddada 2026–2028, ka hor Shirka 39-aad ee Midowga Afrika; warbixin ayaa sheegtay inay heshay 46 ka mid ah 49 cod. Soomaaliya waxay si rasmi ah u fadhiisatay kursigeeda Abriil 2026.",
+    "impact_so": "Waxay Soomaaliya cod ka siinaysaa hay'adda Midowga Afrika ee kormeerta AUSSOM iyo ka jawaabidda xiisadaha qaaradda, iyadoo ay weheliso kursigeeda Golaha Ammaanka ee Qaramada Midoobay.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-04-turkey-offshore-drilling",
+    "date": "2026-04-01",
+    "date_precision": "month",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Turkey begins first deepwater drilling off Somalia at Curad-1 well",
+    "summary": "Turkey's drillship Cagri Bey began drilling at the Curad-1 well offshore Somalia, Turkey's first overseas deepwater drilling campaign, following the 2024 hydrocarbon agreements and 2025 seismic survey.",
+    "impact": "The most concrete delivery yet of the Turkey–Somalia energy partnership.",
+    "context": "Commercial viability is unknown until drilling results are confirmed.",
+    "tags": [
+      "Turkey",
+      "oil and gas",
+      "drilling"
+    ],
+    "sources": [
+      {
+        "name": "World Oil",
+        "url": "https://worldoil.com/news/2026/4/12/turkiye-launches-first-overseas-deepwater-drilling-with-curad-1-well-offshore-somalia",
+        "type": "media",
+        "date": "2026-04-12"
+      },
+      {
+        "name": "Turkish Ministry of Energy",
+        "url": "https://enerji.gov.tr/news-detail?id=31801",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "title_so": "Turkiga oo ceelka Curad-1 ka bilaabay qodistii ugu horreysay ee biyaha qoto dheer ee badda Soomaaliya",
+    "summary_so": "Markabka qodista ee Turkiga ee Cagri Bey ayaa bilaabay qodista ceelka Curad-1 ee badda Soomaaliya, taasoo ah ololihii ugu horreeyay ee Turkiga ee qodista biyaha qoto dheer ee dibadda, kadib heshiisyadii hidrokarboonka ee 2024 iyo sahankii seismic-ka ee 2025.",
+    "impact_so": "Waa natiijadii ugu muuqatay ilaa hadda ee iskaashiga tamarta Turkiga iyo Soomaaliya.",
+    "context_so": "Waxtarka ganacsi lama oga ilaa natiijooyinka qodista la xaqiijiyo.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-10-04-alamein-declaration",
+    "date": "2026-10-04",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Peace & mediation",
+    "title": "Somalia joins Egypt, Sudan and Eritrea in El Alamein Joint Declaration",
+    "summary": "The leaders of Egypt, Sudan, Eritrea and Somalia met in New Alamein and issued a declaration rejecting any recognition of Somaliland, asserting that Red Sea governance belongs to coastal states, and backing downstream Nile water rights. A follow-up mechanism was set up.",
+    "impact": "Expanded the 2024 Asmara alignment into a four-state bloc supporting Somalia's territorial integrity.",
+    "context": "The summit came amid escalating conflict in Ethiopia; Addis Ababa accuses Egypt, Sudan and Eritrea of backing armed opponents, which they deny. Some outlets framed the meeting as a new regional alliance.",
+    "tags": [
+      "Egypt",
+      "Eritrea",
+      "Sudan",
+      "Red Sea"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates",
+        "type": "media",
+        "date": "2026-10-05"
+      },
+      {
+        "name": "Egypt Today",
+        "url": "https://www.egypttoday.com/Article/1/149862/Egypt-Sudan-Eritrea-Somalia-reject-Somaliland-recognition-unilateral-Nile-moves",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Nabadda iyo dhexdhexaadinta",
+    "title_so": "Soomaaliya oo ku biirtay Masar, Suudaan iyo Eritrea Baaqa Wadajirka ah ee El Alamein",
+    "summary_so": "Madaxda Masar, Suudaan, Eritrea iyo Soomaaliya ayaa ku kulmay New Alamein waxayna soo saareen baaq diidaya aqoonsi kasta oo Soomaaliland la siiyo, caddeynaya in maamulka Badda Cas uu iska leeyahay dowladaha xeebaha leh, kana taageeraya xuquuqda biyaha Niil ee dalalka hoose. Waxaa la sameeyay hannaan dabagal ah.",
+    "impact_so": "Wuxuu isbahaysigii Asmara ee 2024 u ballaariyay koox afar dowladood ah oo taageerta midnimada dhuleed ee Soomaaliya.",
+    "context_so": "Shirku wuxuu yimid xilli uu sii xoogeysanayo colaadda Itoobiya; Addis Ababa waxay ku eedeysaa Masar, Suudaan iyo Eritrea inay taageeraan mucaarad hubeysan, taasoo ay beeniyaan. Warbaahinta qaar ayaa kulanka ku tilmaamay isbahaysi gobolleed oo cusub.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-10-31-untmis-closes",
+    "date": "2026-10-31",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Sovereignty",
+    "title": "UN political mission in Somalia closes after two-year transition",
+    "summary": "UNTMIS ceased operations on 31 October 2026, in line with Security Council resolutions and the federal government's request, ending more than three decades of UN political missions in Somalia. Remaining functions passed to the UN Country Team.",
+    "impact": "A key milestone in the government's agenda of taking full responsibility for its own political and security affairs.",
+    "context": "Analysts raised concerns about gaps in electoral, human rights and reconciliation support after the handover.",
+    "tags": [
+      "UNTMIS",
+      "UN",
+      "transition"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement",
+        "type": "media",
+        "date": "2026-10-31"
+      },
+      {
+        "name": "Citizen Digital",
+        "url": "https://citizen.digital/article/un-mission-in-somalia-ends-october-31-after-successful-two-year-transition-n392798",
+        "type": "media"
+      },
+      {
+        "name": "Africa Is a Country",
+        "url": "https://africasacountry.com/2026/09/somalias-uncertain-hand-off",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "subcategory_so": "Madaxbannaanida",
+    "title_so": "Howlgalka siyaasadeed ee Qaramada Midoobay ee Soomaaliya oo xirmay kadib kala-guur laba sano ah",
+    "summary_so": "UNTMIS waxay joojisay howlaheeda 31 Oktoobar 2026, iyadoo la jaanqaadaysa qaraarada Golaha Ammaanka iyo codsiga dowladda federaalka, taasoo soo afjartay in ka badan soddon sano oo howlgallo siyaasadeed oo Qaramada Midoobay ay ka waday Soomaaliya. Howlihii haray waxaa loo wareejiyay Kooxda Waddanka ee Qaramada Midoobay.",
+    "impact_so": "Waa guul muhiim ah oo ku jirta ajendaha dowladda ee ah inay si buuxda mas'uuliyadda u qaado arrimaheeda siyaasadeed iyo amni.",
+    "context_so": "Falanqeeyayaal ayaa walaac ka muujiyay daldaloolo ka dhalan kara taageerada doorashooyinka, xuquuqda aadanaha iyo dib u heshiisiinta kadib wareejinta.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "dip-2026-11-19-uae-ambassador-expelled",
+    "date": "2026-11-19",
+    "date_precision": "day",
+    "sector": "diplomacy",
+    "subcategory": "Bilateral",
+    "title": "Somalia expels UAE ambassador after president accuses Abu Dhabi of interference",
+    "summary": "In a televised address on 17 November, President Mohamud accused the United Arab Emirates of signing port deals for Berbera, Bosaso and Kismayo with regional administrations, setting up military bases and forces outside federal command, and backing administrations opposed to Mogadishu. UAE presidential adviser Anwar Gargash replied on X, calling him the 'outgoing Somali president'. After a Council of Ministers meeting chaired by Prime Minister Hamza Abdi Barre, the government gave the UAE ambassador 72 hours to leave and recalled Somalia's ambassador to the UAE for consultations.",
+    "impact": "The sharpest break yet with a major Gulf investor and security partner, ten months after Somalia cancelled all its agreements with the UAE in January 2026.",
+    "context": "The president's allegations were not backed by published documents, and Gargash did not answer them point by point. Gargash and other critics linked the speech to the dispute over the president's mandate after the Supreme Court's 5 November ruling. The Council of Ministers took the decision at its meeting on Thursday 19 November.",
+    "tags": [
+      "UAE",
+      "sovereignty",
+      "Berbera",
+      "ports"
+    ],
+    "sources": [
+      {
+        "name": "Eastleigh Voice: Somalia orders UAE ambassador to leave within 72 hours, recalls envoy",
+        "url": "https://eastleighvoice.co.ke/somalia/425709/somalia-orders-uae-ambassador-to-leave-within-72-hours-recalls-envoy-as-diplomatic-dispute-deepens",
+        "type": "media",
+        "date": "2026-11-19"
+      },
+      {
+        "name": "Hiiraan Online: Somalia expels UAE ambassador, gives him 72 hours to leave",
+        "url": "https://www.hiiraan.com/news4/2026/Nov/206809/somalia_expels_uae_ambassador_gives_him_72_hours_to_leave_country.aspx",
+        "type": "media",
+        "date": "2026-11-19"
+      },
+      {
+        "name": "Somali Guardian: UAE's Gargash rejects Somalia president's interference claims",
+        "url": "https://www.somaliguardian.com/news/somalia-news/uae-gargash-rejects-somalia-president-interference-claims/",
+        "type": "media",
+        "date": "2026-11-18"
+      },
+      {
+        "name": "Dawan Africa: UAE adviser accuses Somali president of prioritising personal interests",
+        "url": "https://www.dawan.africa/news/uae-adviser-accuses-somali-president-of-prioritising-personal-interests-over-national-interests",
+        "type": "media",
+        "date": "2026-11-19"
+      }
+    ],
+    "verification": "verified",
+    "added": "2026-11-19",
+    "title_so": "Soomaaliya oo dalka ka saartay safiirka Imaaraadka ka dib markii madaxweynuhu ku eedeeyay Abu Dhabi faragelin",
+    "summary_so": "Khudbad telefishan oo uu jeediyay 17 Nofembar, Madaxweyne Xasan Sheekh Maxamuud ayaa ku eedeeyay Imaaraadka Carabta inuu heshiisyo ku saabsan dekedaha Berbera, Boosaaso iyo Kismaayo la galay maamullo goboleed, inuu dhisay saldhigyo milatari iyo ciidamo ka baxsan amarka federaalka, iyo inuu taageeray maamullada ka soo horjeeda Muqdisho. La-taliyaha madaxweynaha Imaaraadka, Anwar Gargash, ayaa ka jawaabay bogga X, isagoo ugu yeeray 'madaxweynaha Soomaaliyeed ee xilka ka degaya'. Kulan Golaha Wasiirada oo uu guddoominayay Ra'iisul Wasaare Xamsa Cabdi Barre kaddib, dowladdu waxay safiirka Imaaraadka siisay 72 saacadood inuu dalka uga baxo, waxayna safiirka Soomaaliya ee Imaaraadka dib ugu yeertay wadatashi.",
+    "impact_so": "Waa kala go'a ugu weyn ilaa hadda ee lala yeesho maalgashade iyo saaxiib ammaan oo waaweyn oo Khaliijka ah, toban bilood kaddib markii Soomaaliya ay Janaayo 2026 baajisay dhammaan heshiisyadii ay la lahayd Imaaraadka.",
+    "context_so": "Eedeymaha madaxweynaha laguma taageerin dukumentiyo la daabacay, Gargashna si qodob qodob ah ugama jawaabin. Gargash iyo dhaleeceeyayaal kale ayaa khudbadda ku xiray khilaafka muddo-xileedka madaxweynaha ee ka dambeeyay xukunkii Maxkamadda Sare ee 5 Nofembar. Golaha Wasiiradu go'aanka waxay ku gaareen kulankoodii Khamiista 19 Nofembar.",
+    "subcategory_so": "Xiriirka laba geesoodka ah",
+    "translation_so": "machine"
+  }
+]

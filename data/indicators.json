@@ -1,0 +1,673 @@
+[
+  {
+    "id": "domestic-revenue",
+    "name": "Federal government domestic revenue",
+    "unit": "US$ m",
+    "sector": "economy",
+    "description": "Federal Government of Somalia domestic (tax and non-tax) revenue, actual collections unless flagged. Excludes Federal Member State revenue. 2026 is the budgeted target.",
+    "series": [
+      {
+        "year": 2020,
+        "value": 211.23,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report (Table 1)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 229.56,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report (Table 1)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 262.67,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 330,
+        "source": "Ministry of Finance, Annual Report 2024 (IMF reports US$329m)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/Annual%20Report%20MoF%20-%202024).pdf"
+      },
+      {
+        "year": 2024,
+        "value": 369.4,
+        "source": "Ministry of Finance, Annual Report 2024",
+        "url": "https://mof.gov.so/sites/default/files/Publications/Annual%20Report%20MoF%20-%202024).pdf"
+      },
+      {
+        "year": 2025,
+        "value": 404.3,
+        "source": "The Rio Times, citing Accountant General / Ministry of Finance figures",
+        "url": "https://www.riotimesonline.com/somalia-budget-2027-us-1-26-billion-cabinet-2026/"
+      },
+      {
+        "year": 2026,
+        "value": 479,
+        "source": "The Rio Times, citing Ministry of Finance 2026 budget target",
+        "url": "https://www.riotimesonline.com/somalia-budget-2027-us-1-26-billion-cabinet-2026/",
+        "projection": true,
+        "note": "Budget target, not outturn"
+      }
+    ],
+    "headline": true,
+    "name_so": "Dakhliga gudaha ee dowladda federaalka",
+    "description_so": "Dakhliga gudaha (canshuur iyo aan canshuur ahayn) ee Dowladda Federaalka Soomaaliya, oo ah ururinta dhabta ah haddii aan si kale loo calaamadin. Kuma jiro dakhliga Dowlad Goboleedyada. 2026 waa bartilmaameedka miisaaniyadda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "external-debt",
+    "name": "External public debt",
+    "unit": "% of GDP",
+    "sector": "economy",
+    "description": "Public and publicly guaranteed external debt. Pre-relief end-2018 stock was US$5.3bn; after HIPC Completion Point the stock fell to about US$0.6bn at end-2023. The IMF put the present value of external debt at 4.9% of GDP in 2025.",
+    "series": [
+      {
+        "year": 2018,
+        "value": 64,
+        "source": "IMF, Key Questions on Somalia (US$5.3bn)",
+        "url": "https://www.imf.org/en/Countries/SOM/key-questions-on-somalia"
+      },
+      {
+        "year": 2023,
+        "value": 6,
+        "source": "IMF, Key Questions on Somalia (US$0.6bn; 'less than 6%')",
+        "url": "https://www.imf.org/en/Countries/SOM/key-questions-on-somalia",
+        "note": "Upper bound: 'less than 6 percent of GDP'"
+      },
+      {
+        "year": 2025,
+        "value": 4.9,
+        "source": "IMF staff report, third ECF review (PV of PPG external debt)",
+        "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1somea2025001-source-pdf.pdf.md",
+        "projection": true,
+        "note": "Present value, projected"
+      }
+    ],
+    "headline": true,
+    "name_so": "Deynta dadweynaha ee dibadda",
+    "description_so": "Deynta dibadda ee dadweynaha iyo tan uu dammaanad qaaday dadweynuhu. Kaydka deynta ka hor cafiska dhammaadkii 2018 wuxuu ahaa US$5.3bn; kadib Barta Dhammaystirka HIPC kaydku wuxuu hoos ugu dhacay qiyaastii US$0.6bn dhammaadkii 2023. IMF waxay qiimaha hadda (present value) ee deynta dibadda ku qiyaastay 4.9% GDP-da sannadkii 2025.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "gdp-growth",
+    "name": "Real GDP growth",
+    "unit": "%",
+    "sector": "economy",
+    "description": "Annual real GDP growth. IMF WEO October 2026 vintage; 2026 onward are IMF projections. The World Bank's May 2026 Economic Update gives similar figures (about 4% in 2023-24, about 3% in 2025, 2.8% projected for 2026).",
+    "series": [
+      {
+        "year": 2019,
+        "value": 3.6,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM"
+      },
+      {
+        "year": 2020,
+        "value": -2.7,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM"
+      },
+      {
+        "year": 2021,
+        "value": 3.5,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM"
+      },
+      {
+        "year": 2022,
+        "value": 2.8,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM"
+      },
+      {
+        "year": 2023,
+        "value": 4.2,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM"
+      },
+      {
+        "year": 2024,
+        "value": 4,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM"
+      },
+      {
+        "year": 2025,
+        "value": 3.1,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM"
+      },
+      {
+        "year": 2026,
+        "value": 2.3,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM",
+        "projection": true
+      },
+      {
+        "year": 2027,
+        "value": 2.7,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/SOM",
+        "projection": true
+      }
+    ],
+    "headline": true,
+    "name_so": "Korriinka wax soo saarka guud (GDP) ee dhabta ah",
+    "description_so": "Korriinka sannadlaha ah ee GDP-da dhabta ah. Nuqulka IMF WEO ee Oktoobar 2026; 2026 iyo wixii ka dambeeya waa saadaasha IMF. Cusboonaysiinta Dhaqaalaha ee Bangiga Adduunka ee May 2026 waxay bixisaa tirooyin la mid ah (qiyaastii 4% 2023-24, qiyaastii 3% 2025, iyo 2.8% oo la saadaaliyay 2026).",
+    "translation_so": "machine"
+  },
+  {
+    "id": "budget-size",
+    "name": "Federal budget (approved appropriation)",
+    "unit": "US$ m",
+    "sector": "economy",
+    "description": "Total approved federal budget for each fiscal year (calendar year). 2020-2022 values are the budgeted expenditure reported in the Ministry of Finance end-year report; 2023 onward are appropriations reported at approval. 2027 is a cabinet draft.",
+    "series": [
+      {
+        "year": 2020,
+        "value": 685.27,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report (budgeted expenditure)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 666.48,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report (budgeted expenditure)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 929.92,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report (budgeted expenditure)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 967.73,
+        "source": "Ministry of Finance, Budget Appropriation Act 2023",
+        "url": "https://archive.mof.gov.so/sites/default/files/Publications/The_Budget_Appropriation_Act_2023_%20Approved%20by%20Cabinet.pdf",
+        "note": "Later revised to about US$917m"
+      },
+      {
+        "year": 2024,
+        "value": 1080,
+        "source": "Dawan Africa (parliamentary approval, 9 Dec 2023)",
+        "url": "https://dawan.africa/news/somali-parliament-jointly-approves-dollar108-billion-budget-for-2024-fiscal-year",
+        "note": "Cabinet proposal was US$1,025.7m"
+      },
+      {
+        "year": 2025,
+        "value": 1342.48,
+        "source": "AllAfrica (cabinet-approved 2025 budget; passed by parliament Nov 2024)",
+        "url": "https://allafrica.com/stories/202410080142.html"
+      },
+      {
+        "year": 2026,
+        "value": 1386.81,
+        "source": "Radio Dalsan / The Rio Times (parliamentary approval, 23 Dec 2025)",
+        "url": "https://radiodalsan.com/2025/12/23/somali-parliament-passes-1-39-billion-2026-budget-after-joint-vote/"
+      },
+      {
+        "year": 2027,
+        "value": 1259.24,
+        "source": "The Rio Times (cabinet draft, 27 Oct 2026)",
+        "url": "https://www.riotimesonline.com/somalia-budget-2027-us-1-26-billion-cabinet-2026/",
+        "projection": true,
+        "note": "Draft awaiting parliament"
+      }
+    ],
+    "headline": true,
+    "name_so": "Miisaaniyadda federaalka (qoondaynta la ansixiyay)",
+    "description_so": "Wadarta miisaaniyadda federaalka ee la ansixiyay sannad maaliyadeed kasta (sannadka taariikhiga ah). Qiimayaasha 2020-2022 waa kharashaadka miisaaniyadeed ee lagu soo warramay warbixinta dhammaadka sannadka ee Wasaaradda Maaliyadda; 2023 iyo wixii ka dambeeya waa qoondaynta la soo weriyay markii la ansixiyay. 2027 waa qabyo-qoraal golaha wasiirrada.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "gdp-nominal",
+    "name": "Nominal GDP",
+    "unit": "US$ bn",
+    "sector": "economy",
+    "description": "GDP at current prices in US dollars (IMF WEO October 2026). 2026 onward are projections. Somalia's national accounts are compiled by the Somali National Bureau of Statistics with large uncertainty.",
+    "series": [
+      {
+        "year": 2019,
+        "value": 8.724,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2020,
+        "value": 8.705,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2021,
+        "value": 9.57,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2022,
+        "value": 10.301,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2023,
+        "value": 11.317,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2024,
+        "value": 12.347,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2025,
+        "value": 13.234,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2026,
+        "value": 14.82,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM",
+        "projection": true
+      },
+      {
+        "year": 2027,
+        "value": 16.017,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/SOM",
+        "projection": true
+      }
+    ],
+    "name_so": "GDP-da magaca ah (nominal)",
+    "description_so": "GDP-da qiimaha hadda jira ee doolarka Mareykanka (IMF WEO Oktoobar 2026). 2026 iyo wixii ka dambeeya waa saadaal. Xisaabaadka qaranka ee Soomaaliya waxaa diyaariya Hay'adda Tirakoobka Qaranka Soomaaliyeed, waxaana ku jira hubanti-la'aan weyn.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "inflation",
+    "name": "Consumer price inflation (annual average)",
+    "unit": "%",
+    "sector": "economy",
+    "description": "Average CPI inflation (IMF WEO October 2026). Somalia is largely dollarised, so inflation mainly reflects imported food and fuel prices. 2026 onward are projections.",
+    "series": [
+      {
+        "year": 2019,
+        "value": 4.7,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM"
+      },
+      {
+        "year": 2020,
+        "value": 4.1,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM"
+      },
+      {
+        "year": 2021,
+        "value": 4.6,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM"
+      },
+      {
+        "year": 2022,
+        "value": 6.8,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM"
+      },
+      {
+        "year": 2023,
+        "value": 6.2,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM"
+      },
+      {
+        "year": 2024,
+        "value": 5.5,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM"
+      },
+      {
+        "year": 2025,
+        "value": 3.7,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM"
+      },
+      {
+        "year": 2026,
+        "value": 6.3,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM",
+        "projection": true
+      },
+      {
+        "year": 2027,
+        "value": 5.5,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/SOM",
+        "projection": true
+      }
+    ],
+    "name_so": "Sicir-bararka qiimaha macaamiisha (celceliska sannadlaha)",
+    "description_so": "Celceliska sicir-bararka CPI (IMF WEO Oktoobar 2026). Soomaaliya waxay inta badan ku shaqeysaa doolarka, sidaas darteed sicir-bararku wuxuu inta badan ka tarjumayaa qiimaha cuntada iyo shidaalka la soo dejiyo. 2026 iyo wixii ka dambeeya waa saadaal.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "population",
+    "name": "Population (IMF estimate)",
+    "unit": "million",
+    "sector": "economy",
+    "description": "IMF WEO population estimates used to compute per-capita figures. Other estimates (e.g. UN) differ; Somalia has not held a census since 1975.",
+    "series": [
+      {
+        "year": 2019,
+        "value": 14.373,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM"
+      },
+      {
+        "year": 2020,
+        "value": 14.775,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM"
+      },
+      {
+        "year": 2021,
+        "value": 15.189,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM"
+      },
+      {
+        "year": 2022,
+        "value": 15.614,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM"
+      },
+      {
+        "year": 2023,
+        "value": 16.051,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM"
+      },
+      {
+        "year": 2024,
+        "value": 16.501,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM"
+      },
+      {
+        "year": 2025,
+        "value": 16.963,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM"
+      },
+      {
+        "year": 2026,
+        "value": 17.438,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM",
+        "projection": true
+      },
+      {
+        "year": 2027,
+        "value": 17.926,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/LP@WEO/SOM",
+        "projection": true
+      }
+    ],
+    "name_so": "Dadweynaha (qiyaasta IMF)",
+    "description_so": "Qiyaasaha dadweynaha ee IMF WEO ee loo adeegsado xisaabinta tirooyinka qofkiiba. Qiyaasaha kale (tusaale, Qaramada Midoobay) way ka duwan yihiin; Soomaaliya ma qaban tirakoob dadweyne tan iyo 1975.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "current-account",
+    "name": "Current account balance",
+    "unit": "% of GDP",
+    "sector": "economy",
+    "description": "Current account balance as % of GDP (IMF WEO October 2026); large deficits are financed mainly by remittances, grants and other transfers. 2026 onward are projections.",
+    "series": [
+      {
+        "year": 2019,
+        "value": -13.6,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2020,
+        "value": -11,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2021,
+        "value": -14.1,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2022,
+        "value": -18.7,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2023,
+        "value": -19.5,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2024,
+        "value": -20.2,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2025,
+        "value": -24.3,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM"
+      },
+      {
+        "year": 2026,
+        "value": -25.4,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM",
+        "projection": true
+      },
+      {
+        "year": 2027,
+        "value": -25.2,
+        "source": "IMF World Economic Outlook (October 2026)",
+        "url": "https://www.imf.org/external/datamapper/BCA_NGDPD@WEO/SOM",
+        "projection": true
+      }
+    ],
+    "name_so": "Dheelitirka xisaabta socota",
+    "description_so": "Dheelitirka xisaabta socota boqolkiiba GDP-da (IMF WEO Oktoobar 2026); dhimirka (deficit) weyn waxaa inta badan lagu maalgeliyaa xawaaladaha, deeqaha iyo wareejinno kale. 2026 iyo wixii ka dambeeya waa saadaal.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "external-grants",
+    "name": "External grants received on budget",
+    "unit": "US$ m",
+    "sector": "economy",
+    "description": "Grants (budget and project support) received by the federal budget, per Ministry of Finance reports. 2021 dip reflects suspension of budget support during the election impasse. 2026 is the budgeted amount.",
+    "series": [
+      {
+        "year": 2020,
+        "value": 285.59,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 146.98,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 459.24,
+        "source": "Ministry of Finance, 2022 End-Year Budget Performance Report",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf"
+      },
+      {
+        "year": 2024,
+        "value": 543.36,
+        "source": "Ministry of Finance, Annual Report 2024 (78.2% of target; +33% vs 2023)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/Annual%20Report%20MoF%20-%202024).pdf"
+      },
+      {
+        "year": 2026,
+        "value": 878.8,
+        "source": "The Rio Times, citing 2026 budget",
+        "url": "https://www.riotimesonline.com/somalia-budget-2027-us-1-26-billion-cabinet-2026/",
+        "projection": true,
+        "note": "Budgeted, not received"
+      }
+    ],
+    "name_so": "Deeqaha dibadda ee miisaaniyadda la soo maray",
+    "description_so": "Deeqaha (taageerada miisaaniyadda iyo mashaariicda) ee ay heshay miisaaniyadda federaalku, sida ay muujinayaan warbixinnada Wasaaradda Maaliyadda. Hoos u dhaca 2021 wuxuu ka tarjumayaa hakinta taageerada miisaaniyadda intii lagu jiray xiisadda doorashada. 2026 waa qaddarka miisaaniyadda.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "people-in-need",
+    "name": "People in need of humanitarian assistance",
+    "unit": "million",
+    "sector": "social",
+    "description": "People in need per the annual UN Humanitarian (Needs and) Response Plan. The 2026 drop partly reflects stricter needs definitions, not improved conditions.",
+    "series": [
+      {
+        "year": 2020,
+        "value": 5.2,
+        "source": "UN / OCHA, Somalia 2022 HRP (foreword)",
+        "url": "https://somalia.un.org/en/node/166074"
+      },
+      {
+        "year": 2021,
+        "value": 5.9,
+        "source": "UN / OCHA, Somalia 2022 HRP (foreword)",
+        "url": "https://somalia.un.org/en/node/166074"
+      },
+      {
+        "year": 2022,
+        "value": 7.7,
+        "source": "UN News, launch of 2022 HRP",
+        "url": "https://news.un.org/en/story/2021/12/1108412"
+      },
+      {
+        "year": 2023,
+        "value": 8.25,
+        "source": "UN Somalia, 2023 HRP",
+        "url": "https://somalia.un.org/en/node/219986"
+      },
+      {
+        "year": 2024,
+        "value": 6.9,
+        "source": "UN Somalia, 2024 HNRP",
+        "url": "https://somalia.un.org/en/260966-somalia-2024-humanitarian-needs-and-response-plan-hnrp"
+      },
+      {
+        "year": 2025,
+        "value": 5.98,
+        "source": "OCHA via ReliefWeb, 2025 HNRP summary",
+        "url": "https://reliefweb.int/report/somalia/somalia-2025-humanitarian-needs-and-response-plan-hnrp-summary"
+      },
+      {
+        "year": 2026,
+        "value": 4.8,
+        "source": "UN Somalia, 2026 HNRP launch",
+        "url": "https://somalia.un.org/en/308876-humanitarian-partners-seek-us852-million-assist-24-million-people-2026"
+      }
+    ],
+    "name_so": "Dadka u baahan gargaar bini'aadannimo",
+    "description_so": "Dadka u baahan gargaar sida uu muujinayo Qorshaha sannadlaha ah ee (Baahiyaha iyo) Jawaab-celinta Bini'aadannimo ee Qaramada Midoobay. Hoos u dhaca 2026 qayb ahaan wuxuu ka tarjumayaa qeexitaanno baahiyeed oo adag, ee ma aha hagaagga xaaladaha.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "ipc3-plus",
+    "name": "People in IPC Phase 3+ (Crisis or worse), peak analysis of the year",
+    "unit": "million",
+    "sector": "social",
+    "description": "Highest current-or-projected IPC Phase 3+ figure published in each year's main analysis (period noted). Projections are conditional on assistance levels and are not directly comparable across seasons.",
+    "series": [
+      {
+        "year": 2022,
+        "value": 6.7,
+        "source": "FSNAU/IPC, Sept 2022 (projection Oct-Dec 2022)",
+        "url": "https://fsnau.org/in-focus/nearly-67-million-people-across-somalia-face-crisis-ipc-phase-3-or-worse-acute-food-insecur",
+        "projection": true,
+        "note": "Projection; later revised"
+      },
+      {
+        "year": 2025,
+        "value": 4.4,
+        "source": "IPC via UN News, Feb 2025 (projection Apr-Jun 2025)",
+        "url": "https://news.un.org/en/story/2025/02/1160521",
+        "projection": true,
+        "note": "Projection"
+      },
+      {
+        "year": 2026,
+        "value": 6.5,
+        "source": "IPC via FAO, Feb 2026 (Feb-Mar 2026)",
+        "url": "https://www.fao.org/newsroom/detail/somalia-s-humanitarian-crisis-worsening-with-6.5-million-people-facing-high-levels-of-hunger--federal-government-and-united-nations-warn/en"
+      }
+    ],
+    "name_so": "Dadka ku jira IPC Wajiga 3+ (Xaalad Xasaradeed ama ka sii daran), falanqaynta ugu sarreysa sannadka",
+    "description_so": "Tirada ugu sarreysa ee IPC Wajiga 3+ ee hadda ama la saadaaliyay ee lagu daabacay falanqaynta ugu weyn ee sannad kasta (muddada waa la xusay). Saadaashu waxay ku xiran tahay heerarka gargaarka, si toos ahna looma barbardhigi karo xilliyada kala duwan.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "livestock-exports",
+    "name": "Livestock export earnings",
+    "unit": "US$ m",
+    "sector": "economy",
+    "description": "Value of live animal exports, as reported by media citing Ministry of Finance and Central Bank of Somalia data.",
+    "series": [
+      {
+        "year": 2023,
+        "value": 860.8,
+        "source": "The African Exponent, citing MoF / Central Bank",
+        "url": "https://www.africanexponent.com/how-livestock-became-somalias-first-billion-dollar-export-industry/"
+      },
+      {
+        "year": 2024,
+        "value": 969.9,
+        "source": "The African Exponent, citing MoF / Central Bank",
+        "url": "https://www.africanexponent.com/how-livestock-became-somalias-first-billion-dollar-export-industry/"
+      }
+    ],
+    "name_so": "Dakhliga dhoofinta xoolaha",
+    "description_so": "Qiimaha dhoofinta xoolaha nool, sida ay soo werisay warbaahintu iyadoo xigasho ka dhiganaysa xogta Wasaaradda Maaliyadda iyo Bankiga Dhexe ee Soomaaliya.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "remittances-mobile-money",
+    "name": "Remittances and mobile money (2024 snapshot)",
+    "unit": "US$ bn",
+    "sector": "economy",
+    "description": "Central Bank data reported in the Ministry of Finance 2024 Annual Report: total inward transfers US$6.2bn, of which US$2.7bn household remittances; reported mobile money transactions US$12.7bn; bank deposits US$2.2bn. Only one year is available from a verified official source.",
+    "series": [
+      {
+        "year": 2024,
+        "value": 2.7,
+        "source": "Ministry of Finance Annual Report 2024 (household remittances; total inward transfers US$6.2bn; mobile money transactions US$12.7bn)",
+        "url": "https://mof.gov.so/sites/default/files/Publications/Annual%20Report%20MoF%20-%202024).pdf"
+      }
+    ],
+    "name_so": "Xawaaladaha iyo lacagta mobilada (sawir guud 2024)",
+    "description_so": "Xogta Bankiga Dhexe ee lagu soo warramay Warbixinta Sannadlaha ah ee 2024 ee Wasaaradda Maaliyadda: wadarta lacagaha soo galay US$6.2bn, oo ay ka mid yihiin US$2.7bn oo xawaaladaha qoysaska ah; dhaqdhaqaaqa lacagta mobilada ee la soo weriyay US$12.7bn; keydka bangiyada US$2.2bn. Hal sano oo keliya ayaa laga heli karaa il rasmi ah oo la xaqiijiyay.",
+    "translation_so": "machine"
+  }
+]

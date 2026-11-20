@@ -1,0 +1,1580 @@
+[
+  {
+    "id": "pol-2022-05-hsm-elected",
+    "date": "2022-05-15",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Parliament elects Hassan Sheikh Mohamud president for a second, non-consecutive term",
+    "summary": "Members of both houses of the Federal Parliament elected Hassan Sheikh Mohamud president in a third-round vote held in a guarded hangar at Mogadishu's airport. He defeated incumbent Mohamed Abdullahi 'Farmaajo' by 214 votes to 110, according to the speaker's announced tally. Farmaajo conceded and Mohamud was sworn in the same day.",
+    "impact": "Ended more than a year of delayed, indirect elections and a mandate crisis that had turned violent in 2021; Mohamud became the first Somali president elected to two terms.",
+    "context": "The vote was indirect: about 329 MPs chosen through a clan-based process elected the president, not the public.",
+    "tags": [
+      "president",
+      "indirect election",
+      "Farmaajo"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2022/5/15/somalia-elects-hassan-sheikh-mohamud-as-president",
+        "type": "media",
+        "date": "2022-05-15"
+      },
+      {
+        "name": "UNSOM: International partners congratulate new president",
+        "url": "https://unsom.unmissions.org/node/100043721",
+        "type": "international",
+        "date": "2022-05"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka oo Xasan Sheekh Maxamuud u doortay madaxweyne mar labaad, xilli aan isku xigin",
+    "summary_so": "Xildhibaannada labada aqal ee Baarlamaanka Federaalka ayaa Xasan Sheekh Maxamuud u doortay madaxweyne, iyadoo codbixintu ay ku dhacday wareegga saddexaad, lagunana qabtay hangar si adag loo ilaalinayay oo ku yaal garoonka diyaaradaha ee Muqdisho. Wuxuu ka adkaaday madaxweynihii xilka hayay Maxamed Cabdullaahi 'Farmaajo', isagoo helay 214 cod, halka Farmaajo helay 110, sida uu ku dhawaaqay guddoomiyaha baarlamaanka. Farmaajo ayaa qiray guuldarrada, Xasan Sheekh Maxamuudna isla maalintaas ayuu dhaariyay.",
+    "impact_so": "Waxay soo afjartay in ka badan sannad oo doorashooyin dadban oo dib u dhacay iyo xiisad la xiriirta muddo-xileedka oo sannadkii 2021 isu beddeshay rabshado; Xasan Sheekh Maxamuud wuxuu noqday madaxweynihii ugu horreeyay ee Soomaaliyeed ee laba jeer la doorto.",
+    "context_so": "Codbixintu waxay ahayd mid dadban: qiyaastii 329 xildhibaan oo lagu soo xulay hannaan qabiil ku salaysan ayaa doortay madaxweynaha, ee ma ahayn shacabka.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2022-06-pm-hamza-barre",
+    "date": "2022-06-25",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Institutions",
+    "title": "Hamza Abdi Barre confirmed as prime minister",
+    "summary": "President Mohamud nominated MP Hamza Abdi Barre as prime minister on 15 June 2022. The House of the People endorsed him on 25 June 2022, and he succeeded Mohamed Hussein Roble.",
+    "impact": "Completed the formation of the new executive after the 2022 election; Barre remained prime minister into late 2026, making him one of the longest-serving premiers since 2012.",
+    "context": "Reports differ on the vote count (Reuters-based coverage says all 220 lawmakers present backed him; other tallies differ).",
+    "tags": [
+      "prime minister",
+      "parliament"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera: Somali president nominates Hamza Abdi Barre",
+        "url": "https://www.aljazeera.com/news/2022/6/15/somali-president-nominates-barre-as-prime-minister",
+        "type": "media",
+        "date": "2022-06-15"
+      },
+      {
+        "name": "VOA: Somalia parliament approves new prime minister",
+        "url": "https://www.voanews.com/a/somalia-parliament-approves-new-prime-minister/6632962.html",
+        "type": "media",
+        "date": "2022-06-25"
+      },
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2022/06/26/somali-mps-approve-new-prime-minister/",
+        "type": "media",
+        "date": "2022-06-26"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Xamsa Cabdi Barre oo loo ansixiyay Ra'iisul Wasaare",
+    "summary_so": "Madaxweyne Xasan Sheekh Maxamuud ayaa 15 Juun 2022 xildhibaan Xamsa Cabdi Barre u magacaabay Ra'iisul Wasaare. Golaha Shacabka ayaa ansixiyay 25 Juun 2022, wuxuuna xilka kala wareegay Maxamed Xuseen Rooble.",
+    "impact_so": "Wuxuu dhammaystiray dhismaha hay'adda fulinta ee cusub ka dib doorashadii 2022; Barre wuxuu xilka Ra'iisul Wasaaraha sii hayay ilaa dabayaaqadii 2026, taas oo ka dhigaysa mid ka mid ah ra'iisul wasaarayaasha ugu muddada dheer xilka haya tan iyo 2012.",
+    "context_so": "Warbixinnadu way ku kala duwan yihiin tirada codadka (warbixinno ku salaysan Reuters ayaa sheegay in dhammaan 220-kii xildhibaan ee goobta joogay ay taageereen; tirakoobyo kale way ka duwan yihiin).",
+    "subcategory_so": "Hay'adaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2022-08-cabinet",
+    "date": "2022-08-07",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Institutions",
+    "title": "75-member cabinet named and approved, including ex-al-Shabaab deputy leader",
+    "summary": "PM Barre announced a 75-member Council of Ministers on 2 August 2022 (26 ministers, 25 deputies, 24 state ministers). Former al-Shabaab deputy leader Mukhtar Robow was named Minister of Endowment and Religious Affairs. The House of the People approved the cabinet on 7 August.",
+    "impact": "Gave the new government a full executive; Robow's appointment signalled a defection-and-reintegration approach to the war against al-Shabaab.",
+    "context": "A newly appointed deputy minister resigned within hours; Robow's appointment drew criticism given his past role in the militant group.",
+    "tags": [
+      "cabinet",
+      "Mukhtar Robow"
+    ],
+    "sources": [
+      {
+        "name": "VOA: Former al-Shabab commander named to Somali cabinet",
+        "url": "https://www.voanews.com/a/former-al-shabab-commander-al-qaida-member-named-to-somali-cabinet/6683860.html",
+        "type": "media",
+        "date": "2022-08-02"
+      },
+      {
+        "name": "Africanews: Somalia parliament approves cabinet",
+        "url": "https://www.africanews.com/2022/08/08/somalia-parliament-approves-cabinet-as-mortar-fire-hits-mogadishu/",
+        "type": "media",
+        "date": "2022-08-08"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Golaha wasiirrada oo ka kooban 75 xubnood oo la magacaabay lana ansixiyay, oo uu ku jiro ku-xigeenkii hore ee Al-Shabaab",
+    "summary_so": "Ra'iisul Wasaare Barre ayaa 2 Ogoosto 2022 ku dhawaaqay Golaha Wasiirrada oo ka kooban 75 xubnood (26 wasiir, 25 wasiir ku-xigeen iyo 24 wasiiru dowlaad). Mukhtaar Roobow, oo hore u ahaa ku-xigeenka hoggaamiyaha Al-Shabaab, ayaa loo magacaabay Wasiirka Awqaafta iyo Arrimaha Diinta. Golaha Shacabka ayaa ansixiyay golaha wasiirrada 7 Ogoosto.",
+    "impact_so": "Wuxuu dowladda cusub siiyay hay'ad fulineed oo dhammaystiran; magacaabista Roobow waxay muujisay hannaan ku salaysan isdhiibid iyo dib-u-dhexgelin oo lagu wajahayo dagaalka ka dhanka ah Al-Shabaab.",
+    "context_so": "Wasiir ku-xigeen dhawaan la magacaabay ayaa is-casilay saacado gudahood; magacaabista Roobow waxay dhalisay dhaleeceyn iyadoo la eegayo doorkiisii hore ee kooxda hubaysan.",
+    "subcategory_so": "Hay'adaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2023-03-data-protection-act",
+    "date": "2023-03-01",
+    "date_precision": "month",
+    "sector": "politics",
+    "subcategory": "Legislation",
+    "title": "Data Protection Act 2023 signed into law",
+    "summary": "President Mohamud signed Somalia's first Data Protection Act in March 2023; it entered into force on 23 March 2023 after publication in the Official Bulletin. The law sets principles and legal bases for processing personal data and creates a Data Protection Authority empowered to investigate and levy penalties.",
+    "impact": "Provides the legal basis for privacy safeguards needed for digital ID, mobile money and e-government expansion.",
+    "context": "Sources differ on the exact signing date (21 or 22 March 2023).",
+    "tags": [
+      "data protection",
+      "digital",
+      "law"
+    ],
+    "sources": [
+      {
+        "name": "Digital Policy Alert: Signed Data Protection Act 2023",
+        "url": "https://digitalpolicyalert.org/event/17361-signed-data-protection-act-2023-including-data-protection-authority-governance",
+        "type": "ngo"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Sharciga Ilaalinta Xogta 2023 oo la saxiixay",
+    "summary_so": "Madaxweyne Xasan Sheekh Maxamuud ayaa bishii Maarso 2023 saxiixay Sharcigii ugu horreeyay ee Ilaalinta Xogta ee Soomaaliya; wuxuu dhaqan galay 23 Maarso 2023 ka dib markii lagu daabacay Faafinta Rasmiga ah. Sharcigu wuxuu dejinayaa mabaadi'da iyo saldhigyada sharciga ah ee lagu maareeyo xogta shakhsiga ah, wuxuuna dhisayaa Hay'adda Ilaalinta Xogta oo awood u leh inay baarto oo ganaaxdo.",
+    "impact_so": "Wuxuu bixiyaa saldhigga sharci ee ilaalinta sirta shakhsiga ee loo baahan yahay si loo ballaariyo aqoonsiga dhijitaalka ah, lacagaha moobaylka iyo dowladda elektaroonigga ah.",
+    "context_so": "Ilaha ayaa ku kala duwan taariikhda saxda ah ee la saxiixay (21 ama 22 Maarso 2023).",
+    "subcategory_so": "Sharci-dejinta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2023-05-ncc-electoral-model",
+    "date": "2023-05-27",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "National Consultative Council agrees one-person-one-vote electoral model",
+    "summary": "Meeting in Mogadishu from 24 to 27 May 2023, the National Consultative Council (federal leaders and member-state presidents, without Puntland) agreed an 'Agreement on the electoral model' providing for one-person-one-vote elections using closed-list proportional representation. It set local council elections for 30 June 2024 and state-level elections for 30 November 2024, and proposed a presidential ticket with a vice-president in place of a prime minister.",
+    "impact": "First formal commitment since 1969 to replace clan-based indirect elections with universal suffrage; it framed the constitutional and electoral reforms that followed.",
+    "context": "Puntland did not attend. Former president Sharif Sheikh Ahmed, Puntland's Said Deni and some MPs criticised the deal as bypassing the provisional constitution. The 2024 dates were later missed.",
+    "tags": [
+      "NCC",
+      "universal suffrage",
+      "electoral model"
+    ],
+    "sources": [
+      {
+        "name": "VOA (via GlobalSecurity): Somali leaders reach landmark political agreement",
+        "url": "https://www.globalsecurity.org/military/library/news/2023/05/mil-230528-voa01.htm",
+        "type": "media",
+        "date": "2023-05-28"
+      },
+      {
+        "name": "Africanews: Somalia reverts to direct vote, presidential rule",
+        "url": "https://www.africanews.com/2023/05/29/somalia-reverts-to-direct-vote-presidential-rule/",
+        "type": "media",
+        "date": "2023-05-29"
+      },
+      {
+        "name": "ConstitutionNet",
+        "url": "https://constitutionnet.org/node/19041",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Golaha Wadatashiga Qaranka oo isku raacay hannaan doorasho oo qof iyo cod ah",
+    "summary_so": "Kulan uu Muqdisho ku yeeshay 24 ilaa 27 May 2023, Golaha Wadatashiga Qaranka (hoggaamiyeyaasha federaalka iyo madaxweynayaasha dowlad goboleedyada, iyadoo Puntland aysan joogin) ayaa isku raacay 'Heshiiska hannaanka doorashada', kaas oo dhigaya doorashooyin qof iyo cod ah oo lagu qabanayo hannaanka matalaadda saamiga ah ee liiska xiran. Wuxuu doorashooyinka golaha deegaanka u qabtay 30 Juun 2024, doorashooyinka heer dowlad goboleedna 30 Nofembar 2024, wuxuuna soo jeediyay in madaxweynaha uu la tartamo madaxweyne ku-xigeen, beddelkii Ra'iisul Wasaare.",
+    "impact_so": "Waa ballanqaadkii rasmiga ahaa ee ugu horreeyay tan iyo 1969 in doorashooyinka dadban ee qabiilka ku salaysan lagu beddelo cod-bixin guud; wuxuu saldhig u noqday dib-u-habeynta dastuurka iyo doorashooyinka ee xigtay.",
+    "context_so": "Puntland kama soo qaybgalin. Madaxweynihii hore Shariif Sheekh Axmed, Saciid Deni oo ah madaxweynaha Puntland, iyo qaar ka mid ah xildhibaannada ayaa dhaleeceeyay heshiiska iyagoo sheegay inuu ka gudbayo dastuurka ku-meel-gaarka ah. Taariikhihii 2024 ayaa markii dambe la gaari waayay.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-01-puntland-deni",
+    "date": "2024-01-08",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "Said Deni re-elected Puntland president",
+    "summary": "Puntland's regional parliament in Garowe re-elected Said Abdullahi Deni in a third-round vote, 45 votes to 21 against Guled Salah Barre. He became the first Puntland president to win re-election.",
+    "impact": "Deni's renewed five-year mandate made him the leading federal-member-state opponent of Mogadishu's constitutional and electoral agenda.",
+    "context": "The vote was indirect (clan-selected legislators); Puntland had earlier abandoned plans for a direct vote.",
+    "tags": [
+      "Puntland",
+      "Deni",
+      "state election"
+    ],
+    "sources": [
+      {
+        "name": "Nation (Kenya)",
+        "url": "https://nation.africa/africa/news/said-abdullahi-deni-re-elected-president-of-somalia-s-puntland-region-4485590",
+        "type": "media",
+        "date": "2024-01-08"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://www.garoweonline.com/en/news/puntland/somalia-said-abdullahi-deni-re-elected-in-puntland-after-tough-contest",
+        "type": "media",
+        "date": "2024-01-08"
+      },
+      {
+        "name": "Horn Observer",
+        "url": "https://hornobserver.com/articles/2596/Deni-re-elected-as-Somalias-Puntland-President-in-contested-vote",
+        "type": "media",
+        "date": "2024-01-08"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Saciid Deni oo dib loogu doortay madaxweynaha Puntland",
+    "summary_so": "Baarlamaanka Puntland ee magaalada Garoowe ayaa dib u doortay Saciid Cabdullaahi Deni, iyadoo codbixintu ay ku dhacday wareegga saddexaad, isagoo helay 45 cod, halka Guuleed Saalax Barre helay 21. Wuxuu noqday madaxweynihii ugu horreeyay ee Puntland ee dib loo doorto.",
+    "impact_so": "Muddo-xileedka cusub ee shanta sannadood ah ee Deni wuxuu ka dhigay mucaaradka ugu weyn ee dowlad goboleedyada ka mid ah ee ka soo horjeeda ajandaha dastuurka iyo doorashooyinka ee Muqdisho.",
+    "context_so": "Codbixintu waxay ahayd mid dadban (xildhibaanno qabiil lagu soo xulay); Puntland ayaa horay uga tanaasushay qorshayaal doorasho toos ah.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-03-amendments-ch1-4",
+    "date": "2024-03-30",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Constitution",
+    "title": "Parliament approves amendments to Chapters 1-4 of the Provisional Constitution",
+    "summary": "Both houses approved amendments to Chapters 1-4 on 30 March 2024 (House of the People 212 of 275; Upper House 42 of 54, per ConstitutionNet). The changes provided for universal suffrage, extended federal terms from four to five years, capped the number of political parties at three, and allowed the president to appoint and dismiss the prime minister. President Mohamud signed the amendments the following day.",
+    "impact": "The first major completion step in a constitutional review stalled since 2012; it reshaped the balance of power toward the presidency.",
+    "context": "Over 70 MPs opposed the process as tantamount to a new constitution; Human Rights Watch warned of weakened child protections; Puntland withdrew recognition of the federal government the next day. A referendum is still required for final adoption.",
+    "tags": [
+      "constitution",
+      "amendments",
+      "universal suffrage"
+    ],
+    "sources": [
+      {
+        "name": "ConstitutionNet: From Provisional to Permanent Constitution?",
+        "url": "https://constitutionnet.org/news/voices/provisional-permanent-constitution-assessing-end-somalias-constitutional-review-process",
+        "type": "ngo",
+        "date": "2026-04-07"
+      },
+      {
+        "name": "VOA: Puntland voices opposition to revisions",
+        "url": "https://www.voanews.com/a/somalia-puntland-region-voices-opposition-to-revisions-to-provisional-constitution/7551064.html",
+        "type": "media",
+        "date": "2024-03-31"
+      },
+      {
+        "name": "Hiiraan Online: President signs amendments",
+        "url": "https://hiiraan.com/news4/2024/Apr/195691/somali_president_signs_constitution_amendments_despite_puntland_withdraws_recognition.aspx",
+        "type": "media",
+        "date": "2024-04"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka oo ansixiyay wax ka beddelka Cutubyada 1-4 ee Dastuurka Ku-meel-gaarka ah",
+    "summary_so": "Labada aqal ayaa 30 Maarso 2024 ansixiyay wax ka beddelka Cutubyada 1-4 (Golaha Shacabka 212 ka mid ah 275; Aqalka Sare 42 ka mid ah 54, sida ay sheegtay ConstitutionNet). Isbeddellada ayaa dhigayay cod-bixin guud, muddo-xileedka hay'adaha federaalka ka dhigay shan sannadood halkii afar, xisbiyada siyaasadda ku koobay saddex, waxayna madaxweynaha awood u siiyeen inuu magacaabo oo xilka ka qaado Ra'iisul Wasaaraha. Madaxweyne Xasan Sheekh Maxamuud ayaa saxiixay wax ka beddelka maalintii xigtay.",
+    "impact_so": "Waa tallaabadii ugu weynayd ee lagu dhammaystiray dib-u-eegista dastuurka oo hakad ku jirtay tan iyo 2012; waxay isku dheelitirka awoodda u wareejisay dhanka madaxtooyada.",
+    "context_so": "In ka badan 70 xildhibaan ayaa ka soo horjeestay hannaanka, iyagoo ku tilmaamay inuu la mid yahay dastuur cusub; Human Rights Watch ayaa ka digtay daciifinta ilaalinta carruurta; Puntland ayaa maalintii xigtay joojisay aqoonsiga dowladda federaalka. Weli waxaa loo baahan yahay afti si dastuurka si kama dambays ah loo ansixiyo.",
+    "subcategory_so": "Dastuurka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-03-puntland-withdraws",
+    "date": "2024-03-31",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "Puntland withdraws recognition of the federal government",
+    "summary": "Puntland's Council of Ministers said it no longer recognised the Federal Government's institutions after the March 2024 amendments, and would govern independently until a mutually agreed constitution was put to a referendum with Puntland's participation.",
+    "impact": "Removed the oldest federal member state from federal processes, including the National Consultative Council, for the remainder of the term.",
+    "context": "Puntland insists the 2012 Provisional Constitution is the only legitimate text; the federal government says the amendments were lawfully adopted.",
+    "tags": [
+      "Puntland",
+      "federalism",
+      "constitution"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/puntland/puntland-withdraws-recognition-of-the-federal-government-of-somalia",
+        "type": "media",
+        "date": "2024-03-31"
+      },
+      {
+        "name": "The EastAfrican (Reuters)",
+        "url": "https://theeastafrican.co.ke/tea/news/east-africa/somalia-puntland-disputed-constitutional-changes-4575450",
+        "type": "media",
+        "date": "2024-03-31"
+      },
+      {
+        "name": "JURIST",
+        "url": "https://www.jurist.org/news/2024/04/somalia-state-of-puntland-rejects-constitutional-amendments-and-withdraws-from-federal-government/",
+        "type": "media",
+        "date": "2024-04"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Puntland oo joojisay aqoonsiga dowladda federaalka",
+    "summary_so": "Golaha Wasiirrada Puntland ayaa sheegay inaysan mar dambe aqoonsanayn hay'adaha Dowladda Federaalka ka dib wax ka beddelkii Maarso 2024, iyo inay si madax-bannaan isu maamuli doonto ilaa dastuur si wadajir ah loogu heshiiyay loo qaado afti ay Puntland ka qayb qaadato.",
+    "impact_so": "Waxay dowlad goboleedka ugu da'da weyn ka saartay hannaanka federaalka, oo ay ku jiraan Golaha Wadatashiga Qaranka, inta ka hartay muddo-xileedka.",
+    "context_so": "Puntland waxay ku adkaysanaysaa in Dastuurka Ku-meel-gaarka ah ee 2012 uu yahay qoraalka kaliya ee sharciga ah; dowladda federaalka ayaa sheegaysa in wax ka beddelka si sharci ah loo ansixiyay.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-10-ncc-framework",
+    "date": "2024-10-30",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "NCC sets timetable: local elections June 2025, parliamentary and state elections September 2025",
+    "summary": "After month-long talks in Mogadishu, the National Consultative Council resolved to complete the electoral and boundaries commissions, send electoral bills to parliament, and hold direct local council elections in June 2025 and parliamentary and member-state presidential elections in September 2025.",
+    "impact": "Turned the one-person-one-vote commitment into a concrete calendar and legislative agenda.",
+    "context": "Puntland and Jubaland did not sign; Jubaland's president walked out. Critics condemned a one-year term extension for participating state presidents. The September 2025 dates were not met.",
+    "tags": [
+      "NCC",
+      "election timetable",
+      "Jubaland",
+      "Puntland"
+    ],
+    "sources": [
+      {
+        "name": "Villa Somalia: NCC concludes with key resolutions",
+        "url": "https://villasomalia.gov.so/national-consultative-council-concludes-with-key-resolutions-on-electoral-process-and-democratic-governance/",
+        "type": "government",
+        "date": "2024-10-30"
+      },
+      {
+        "name": "VOA: Somalia's leaders agree on framework for universal suffrage",
+        "url": "https://voanews.com/a/somalia-s-leaders-agree-on-framework-for-universal-suffrage/7845398.html",
+        "type": "media",
+        "date": "2024-10"
+      },
+      {
+        "name": "Horn Observer",
+        "url": "https://hornobserver.com/articles/3031/Somalias-NCC-Without-Puntland-and-Jubbaland-Concludes-with-Unilateral-Election-Plan-Deepening-Divisions",
+        "type": "media",
+        "date": "2024-10"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Golaha Wadatashiga Qaranka oo dejiyay jadwal: doorashooyinka deegaanka Juun 2025, baarlamaanka iyo dowlad goboleedyada Sebtembar 2025",
+    "summary_so": "Ka dib wadahadallo bil socday oo ka dhacay Muqdisho, Golaha Wadatashiga Qaranka ayaa go'aansaday in la dhammaystiro guddiyada doorashooyinka iyo xuduudaha, in sharciyada doorashada loo gudbiyo baarlamaanka, in doorashooyinka tooska ah ee golayaasha deegaanka la qabto Juun 2025, doorashooyinka baarlamaanka iyo madaxweynayaasha dowlad goboleedyadana Sebtembar 2025.",
+    "impact_so": "Wuxuu ballanqaadkii qof iyo codka u beddelay jadwal la taaban karo iyo ajande sharci-dejin.",
+    "context_so": "Puntland iyo Jubbaland ma saxiixin; madaxweynaha Jubbaland ayaa ka dhaqaaqay kulanka. Dhaleeceeyayaal ayaa cambaareeyay kordhinta sannad ah ee muddo-xileedka madaxweynayaasha dowlad goboleedyada ka qayb galay. Taariikhihii Sebtembar 2025 lama gaarin.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-11-electoral-parties-laws",
+    "date": "2024-11-01",
+    "date_precision": "month",
+    "sector": "politics",
+    "subcategory": "Legislation",
+    "title": "National Electoral Law and Political Parties Law approved",
+    "summary": "In November 2024 parliament completed passage of a national electoral law for one-person-one-vote elections and a law regulating political parties and associations. Together with the commission law, they formed the legal package for direct elections.",
+    "impact": "Provided the statutory basis for party registration and the 2025 Banadir local elections.",
+    "context": "Jubaland and Puntland opposed the laws, and Jubaland cited them when suspending ties with Mogadishu. In September 2026 the electoral commission itself asked parliament to review parts of the electoral law because of implementation difficulties.",
+    "tags": [
+      "electoral law",
+      "political parties",
+      "legislation"
+    ],
+    "sources": [
+      {
+        "name": "SONNA: Parliament approves Political Parties and Unions Act",
+        "url": "https://sonna.so/en/parliament-approves-political-parties-and-unions-federal-government-of-somalia-act/",
+        "type": "government",
+        "date": "2024-11-21"
+      },
+      {
+        "name": "Hiiraan Online: Lower house approves landmark electoral law",
+        "url": "https://hiiraan.com/news4/2024/Nov/199042/somali_lower_house_approves_landmark_electoral_law.aspx",
+        "type": "media",
+        "date": "2024-11"
+      },
+      {
+        "name": "Dawan Africa: Parliament approves election law amid regional opposition",
+        "url": "https://dawan.africa/news/somalias-parliament-approves-election-law-amid-regional-opposition",
+        "type": "media",
+        "date": "2024-11"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Sharciga Doorashooyinka Qaranka iyo Sharciga Xisbiyada Siyaasadda oo la ansixiyay",
+    "summary_so": "Bishii Nofembar 2024, baarlamaanka ayaa dhammaystiray ansixinta sharci doorasho qaran oo loogu talagalay doorashooyinka qof iyo codka ah iyo sharci habeeya xisbiyada iyo ururrada siyaasadda. Iyagoo la socda sharciga guddiga, waxay noqdeen xirmada sharciyeed ee doorashooyinka tooska ah.",
+    "impact_so": "Waxay bixiyeen saldhigga sharciyeed ee diiwaangelinta xisbiyada iyo doorashooyinkii deegaanka ee Banaadir ee 2025.",
+    "context_so": "Jubbaland iyo Puntland ayaa ka soo horjeestay sharciyada, Jubbalandna waxay u adeegsatay sabab markii ay xiriirka u jartay Muqdisho. Bishii Sebtembar 2026, guddiga doorashooyinka laftiisa ayaa ka codsaday baarlamaanka inuu dib u eego qaybo ka mid ah sharciga doorashada sababo la xiriira dhibaatooyin xagga fulinta ah.",
+    "subcategory_so": "Sharci-dejinta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-11-electoral-commission-law",
+    "date": "2024-11-16",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Legislation",
+    "title": "Parliament passes National Independent Electoral and Boundaries Commission law",
+    "summary": "Somalia's bicameral parliament unanimously approved the law establishing the National Independent Electoral and Boundaries Commission (NIEBC), with 173 members voting in favour and none against, according to Hiiraan Online.",
+    "impact": "Created the permanent body responsible for voter registration, boundary delimitation and direct elections.",
+    "context": "Puntland and Jubaland rejected the electoral laws passed in November 2024.",
+    "tags": [
+      "NIEBC",
+      "electoral commission",
+      "law"
+    ],
+    "sources": [
+      {
+        "name": "Hiiraan Online",
+        "url": "https://www.hiiraan.com/news4/2024/nov/198950/somali_parliament_approves_electoral_and_boundaries_commission_law.aspx",
+        "type": "media",
+        "date": "2024-11-16"
+      },
+      {
+        "name": "Dawan Africa",
+        "url": "https://dawan.africa/news/somalias-parliament-approves-law-to-establish-independent-electoral-commission",
+        "type": "media",
+        "date": "2024-11"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka oo ansixiyay sharciga Guddiga Madaxa-bannaan ee Doorashooyinka iyo Xuduudaha Qaranka",
+    "summary_so": "Baarlamaanka labada aqal ee Soomaaliya ayaa si buuxda u ansixiyay sharciga lagu dhisayo Guddiga Madaxa-bannaan ee Doorashooyinka iyo Xuduudaha Qaranka (NIEBC), iyadoo 173 xubnood ay ogolaadeen, cidna aysan diidin, sida uu sheegay Hiiraan Online.",
+    "impact_so": "Wuxuu dhisay hay'adda joogtada ah ee mas'uulka ka ah diiwaangelinta codbixiyeyaasha, xadeynta xuduudaha iyo doorashooyinka tooska ah.",
+    "context_so": "Puntland iyo Jubbaland ayaa diiday sharciyada doorashada ee la ansixiyay Nofembar 2024.",
+    "subcategory_so": "Sharci-dejinta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-11-niebc-commissioners",
+    "date": "2024-11-27",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Institutions",
+    "title": "Parliament approves members of the electoral commission",
+    "summary": "In a joint session the Federal Parliament approved the cabinet-nominated members of the National Independent Electoral and Boundaries Commission. The commission, chaired by Abdikarim Ahmed Hassan, went on to run voter registration and the Banadir local elections.",
+    "impact": "Operationalised the body that would administer Somalia's first direct elections in decades.",
+    "context": "Garowe Online reported chaotic scenes and 169 votes in favour; opposition and Puntland/Jubaland disputed the commission's independence.",
+    "tags": [
+      "NIEBC",
+      "electoral commission"
+    ],
+    "sources": [
+      {
+        "name": "SONNA: Parliament approves independent electoral commission",
+        "url": "https://sonna.so/en/somali-parliament-approves-independent-electoral-commission-to-strengthen-democracy/",
+        "type": "government",
+        "date": "2024-11-27"
+      },
+      {
+        "name": "Garowe Online: Chaos in parliament as MPs approve controversial poll commission",
+        "url": "https://garoweonline.com/en/news/somalia/chaos-in-somalia-parliament-as-mps-approve-controversial-poll-commission",
+        "type": "media",
+        "date": "2024-11"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka oo ansixiyay xubnaha guddiga doorashooyinka",
+    "summary_so": "Fadhi wadajir ah, Baarlamaanka Federaalka ayaa ku ansixiyay xubnaha Guddiga Madaxa-bannaan ee Doorashooyinka iyo Xuduudaha Qaranka ee uu soo magacaabay golaha wasiirrada. Guddiga, oo uu guddoomiye ka yahay Cabdikariin Axmed Xasan, ayaa markii dambe maamulay diiwaangelinta codbixiyeyaasha iyo doorashooyinka deegaanka ee Banaadir.",
+    "impact_so": "Wuxuu shaqo galiyay hay'adda maamuli doonta doorashooyinkii tooska ahaa ee ugu horreeyay ee Soomaaliya muddo tobanaan sannadood ah.",
+    "context_so": "Garowe Online ayaa sheegay in fadhigu ahaa mid buuq badan, iyo in 169 cod la ogolaaday; mucaaradka iyo Puntland/Jubbaland ayaa ku murmay madax-bannaanida guddiga.",
+    "subcategory_so": "Hay'adaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2024-11-jubaland-suspends-ties",
+    "date": "2024-11-28",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "Jubaland re-elects Ahmed Madobe and suspends ties with Mogadishu",
+    "summary": "Jubaland's assembly re-elected Ahmed Mohamed Islam 'Madobe' for a third term on 25 November 2024 in a process the federal government rejected. A Mogadishu court issued an arrest warrant for Madobe on treason charges, and Jubaland responded by suspending relations with the federal government, citing politicisation of aid and centralisation of power.",
+    "impact": "Made Jubaland the second member state, after Puntland, to cut ties, deepening the federal crisis ahead of elections.",
+    "context": "Federal and Jubaland forces clashed around Ras Kamboni in December 2024. Each side accuses the other of violating the constitution.",
+    "tags": [
+      "Jubaland",
+      "Madobe",
+      "federalism"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-faces-political-turmoil-as-jubaland-joins-puntland-in-suspending-fgs-ties",
+        "type": "media",
+        "date": "2024-11-28"
+      },
+      {
+        "name": "Somali Guardian",
+        "url": "https://www.somaliguardian.com/news/somalia-news/jubaland-cuts-ties-with-somalias-govt-as-dispute-escalates/",
+        "type": "media",
+        "date": "2024-11-28"
+      },
+      {
+        "name": "Addis Standard",
+        "url": "https://addisstandard.com/jubaland-suspends-ties-with-somalias-federal-government",
+        "type": "media",
+        "date": "2024-11"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Jubbaland oo dib u doortay Axmed Madoobe, xiriirkana u jartay Muqdisho",
+    "summary_so": "Golaha deegaanka Jubbaland ayaa 25 Nofembar 2024 dib ugu doortay Axmed Maxamed Islaam 'Madoobe' muddo-xileed saddexaad, hannaan ay dowladda federaalka diiday. Maxkamad ku taal Muqdisho ayaa soo saartay amar lagu xirayo Madoobe oo lagu eedeeyay khiyaano qaran, Jubbalandna waxay ku jawaabtay inay xiriirka u jarto dowladda federaalka, iyadoo ku sababaysay siyaasadeynta gargaarka iyo awood-isku-ururinta.",
+    "impact_so": "Waxay Jubbaland ka dhigtay dowlad goboleedkii labaad, Puntland ka dib, ee xiriirka jara, taasoo sii qoto dheerisay xiisadda federaalka ka hor doorashooyinka.",
+    "context_so": "Ciidamada federaalka iyo kuwa Jubbaland ayaa ku dagaallamay agagaarka Raas Kambooni bishii Diseembar 2024. Dhinac kastaa wuxuu dhinaca kale ku eedeeyaa inuu ku xadgudbay dastuurka.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-04-voter-registration",
+    "date": "2025-04-14",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Voter registration begins in Mogadishu, first in about five decades",
+    "summary": "The electoral commission launched voter registration for local council elections in Mogadishu's Shangani district, with all 16 Banadir districts to follow. NIEBC chair Abdikarim Ahmed Hassan led the launch.",
+    "impact": "First voter registration in the capital since the late 1960s, a prerequisite for one-person-one-vote elections.",
+    "context": "Opposition leaders accused the commission of favouring the president's camp; Garowe Online described the electoral body as disputed.",
+    "tags": [
+      "voter registration",
+      "Banadir",
+      "NIEBC"
+    ],
+    "sources": [
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2025/04/14/somalia-launches-national-voter-registration-campaign/",
+        "type": "media",
+        "date": "2025-04-14"
+      },
+      {
+        "name": "SONNA",
+        "url": "https://sonna.so/en/somalias-historic-voter-registration-begins-in-shangani-with-strong-security-presence-ensuring-public-confidence",
+        "type": "government",
+        "date": "2025-04"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://www.garoweonline.com/en/news/somalia/disputed-electoral-body-launches-voter-registration-ahead-of-mogadishu-elections",
+        "type": "media",
+        "date": "2025-04"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Diiwaangelinta codbixiyeyaasha oo ka bilaabatay Muqdisho, tii ugu horreysay muddo qiyaastii konton sannadood",
+    "summary_so": "Guddiga doorashooyinka ayaa diiwaangelinta codbixiyeyaasha ee doorashooyinka golaha deegaanka ka bilaabay degmada Shangaani ee Muqdisho, iyadoo ay xigi doonaan dhammaan 16-ka degmo ee Banaadir. Guddoomiyaha NIEBC Cabdikariin Axmed Xasan ayaa hoggaaminayay furitaanka.",
+    "impact_so": "Waa diiwaangelintii codbixiyeyaasha ee ugu horreysay ee caasimadda tan iyo dabayaaqadii 1960-meeyadii, waana shardi lagama maarmaan u ah doorashooyinka qof iyo codka ah.",
+    "context_so": "Hoggaamiyeyaasha mucaaradka ayaa guddiga ku eedeeyay inuu u janjeero garabka madaxweynaha; Garowe Online ayaa hay'adda doorashada ku tilmaamay mid lagu muransan yahay.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-05-jsp-launch",
+    "date": "2025-05-13",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "President launches Justice and Solidarity Party (JSP)",
+    "summary": "Hassan Sheikh Mohamud was elected chairman of the newly launched Justice and Solidarity Party in Mogadishu. PM Hamza Barre, Deputy PM Salah Jama and South West president Abdiaziz Laftagareen took deputy leadership roles, and the party drew in allies from Hirshabelle, Galmudug and South West.",
+    "impact": "Created the ruling party that went on to win the largest share of seats in the December 2025 Mogadishu local elections and to field state-level candidates in 2026.",
+    "context": "Sixteen opposition leaders, including former presidents and PMs, and the Jubaland government condemned the move as consolidating power; Laftagareen later broke with Mogadishu in 2026.",
+    "tags": [
+      "JSP",
+      "political parties",
+      "Hassan Sheikh Mohamud"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online: Analysis – power consolidation?",
+        "url": "https://garoweonline.com/en/news/somalia/analysis-power-consolidation-somalia-s-hassan-sheikh-launches-party-before-2026-vote",
+        "type": "media",
+        "date": "2025-05"
+      },
+      {
+        "name": "Somali Guardian",
+        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-forms-coalition-bloc-eyes-third-term-amid-vote-row/",
+        "type": "media",
+        "date": "2025-05-14"
+      },
+      {
+        "name": "Radio Dalsan: Opposition accuses president",
+        "url": "https://radiodalsan.com/english-news/289197/somali-opposition-accuses-president-hassan-sheikh-of-undermining-unity-federalism-through-new-political-party",
+        "type": "media",
+        "date": "2025-05"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Madaxweynaha oo daah-furay Xisbiga Caddaaladda iyo Wadajirka (JSP)",
+    "summary_so": "Xasan Sheekh Maxamuud ayaa loo doortay guddoomiyaha Xisbiga Caddaaladda iyo Wadajirka oo dhawaan lagu daah-furay Muqdisho. Ra'iisul Wasaare Xamsa Barre, Ra'iisul Wasaare ku-xigeen Saalax Jaamac iyo madaxweynaha Koonfur Galbeed Cabdicasiis Lafta-gareen ayaa qabtay jagooyinka hoggaamiye ku-xigeenada, xisbiguna wuxuu soo jiitay xulafo ka kala socda Hirshabeelle, Galmudug iyo Koonfur Galbeed.",
+    "impact_so": "Wuxuu dhisay xisbiga talada haya, kaas oo markii dambe ku guuleystay qaybta ugu badan ee kuraasta doorashooyinkii deegaanka ee Muqdisho ee Diseembar 2025, una soo bandhigay musharraxiin heer dowlad goboleed 2026.",
+    "context_so": "Lix iyo toban hoggaamiye mucaarad ah, oo ay ku jiraan madaxweynayaal iyo ra'iisul wasaarayaal hore, iyo dowladda Jubbaland ayaa cambaareeyay tallaabada, iyagoo ku tilmaamay awood-isku-ururin; Lafta-gareen ayaa markii dambe 2026 ka goostay Muqdisho.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-08-northeast-state",
+    "date": "2025-08-01",
+    "date_precision": "month",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "Northeast State formed from SSC-Khaatumo as sixth federal member state",
+    "summary": "The federal government completed formation of the Northeastern State, covering parts of Sool, Sanaag and Cayn, with an 83-member state parliament. Lawmakers elected former SSC-Khaatumo leader Abdikadir Ahmed Aw-Ali 'Firdhiye' as its first president in late August 2025.",
+    "impact": "Expanded the federation to six member states and brought Las Anod-area authorities formally into the federal system.",
+    "context": "Somaliland objects, claiming the territory; Puntland has also claimed parts of the region.",
+    "tags": [
+      "Northeast State",
+      "SSC-Khaatumo",
+      "federalism",
+      "Somaliland"
+    ],
+    "sources": [
+      {
+        "name": "AllAfrica: FGS minister – formation of Northeast administration completed",
+        "url": "https://allafrica.com/stories/202509010363.html",
+        "type": "media",
+        "date": "2025-09-01"
+      },
+      {
+        "name": "Hiiraan Online: Somalia announces official formation of northeastern federal state",
+        "url": "https://www.hiiraan.com/news4/2025/Sept/202750/somalia_announces_official_formation_of_northeastern_federal_state.aspx",
+        "type": "media",
+        "date": "2025-09"
+      },
+      {
+        "name": "AllAfrica: New North-East State parliament announced",
+        "url": "https://allafrica.com/stories/202508180082.html",
+        "type": "media",
+        "date": "2025-08-18"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dowlad Goboleedka Waqooyi Bari oo laga dhisay SSC-Khaatumo, noqdayna dowlad goboleedka lixaad ee xubinta ka ah federaalka",
+    "summary_so": "Dowladda federaalka ayaa dhammaystirtay dhismaha Dowlad Goboleedka Waqooyi Bari, oo ka kooban qaybo ka mid ah Sool, Sanaag iyo Cayn, iyadoo leh baarlamaan dowlad goboleed oo ka kooban 83 xubnood. Xildhibaannada ayaa dabayaaqadii Ogoosto 2025 u doortay Cabdiqaadir Axmed Aw-Cali 'Firdhiye', oo hore u ahaa hoggaamiyaha SSC-Khaatumo, madaxweynihii ugu horreeyay.",
+    "impact_so": "Wuxuu federaalka u ballaariyay lix dowlad goboleed, wuxuuna maamullada deegaanka Laascaanood si rasmi ah ugu soo biiriyay nidaamka federaalka.",
+    "context_so": "Soomaaliland ayaa diidan, iyadoo sheeganaysa dhulka; Puntland sidoo kale waxay sheegatay qaybo ka mid ah gobolka.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-08-nira-mass-registration",
+    "date": "2025-08-18",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Institutions",
+    "title": "National ID mass registration drive launched",
+    "summary": "The National Identification and Registration Authority (NIRA) began a pilot of mass registration for the free foundational digital ID in Mogadishu's Shangani and Boondheer districts, aiming to register all 3.5 million Mogadishu residents and 15 million people nationwide by 2029.",
+    "impact": "Fewer than 16% of Somalis held any government-issued ID in 2022; a national ID underpins voter rolls, banking KYC and social protection.",
+    "context": "Supported by World Bank projects; Puntland has disputed the federal ID scheme.",
+    "tags": [
+      "NIRA",
+      "national ID",
+      "World Bank"
+    ],
+    "sources": [
+      {
+        "name": "World Bank blog",
+        "url": "https://blogs.worldbank.org/en/nasikiliza/federal-republic-of-somalia-launches-mass-registration-drive-for-its-digital-id",
+        "type": "international",
+        "date": "2025-08"
+      },
+      {
+        "name": "Biometric Update",
+        "url": "https://www.biometricupdate.com/202509/somalia-kicks-off-mass-digital-id-registration-drive",
+        "type": "media",
+        "date": "2025-09"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Olole ballaaran oo diiwaangelinta aqoonsiga qaranka oo la bilaabay",
+    "summary_so": "Hay'adda Aqoonsiga iyo Diiwaangelinta Qaranka (NIRA) ayaa degmooyinka Shangaani iyo Boondheere ee Muqdisho ka bilaabatay tijaabo diiwaangelin ballaaran oo loogu talagalay aqoonsiga dhijitaalka ah ee aasaasiga ah ee lacag la'aanta ah, iyadoo hadafku yahay in la diiwaangeliyo dhammaan 3.5 milyan ee dadka deggan Muqdisho iyo 15 milyan oo qof oo dalka oo dhan ah marka la gaaro 2029.",
+    "impact_so": "Sannadkii 2022, in ka yar 16% Soomaalida ayaa haystay aqoonsi kasta oo dowladdu bixisay; aqoonsiga qaranku waa saldhigga liisaska codbixiyeyaasha, xaqiijinta macaamiisha bangiyada (KYC) iyo daryeelka bulshada.",
+    "context_so": "Waxaa taageera mashaariic Bangiga Adduunka; Puntland ayaa ku murmay qorshaha aqoonsiga federaalka.",
+    "subcategory_so": "Hay'adaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-08-electoral-deal",
+    "date": "2025-08-25",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Electoral deal with breakaway opposition faction: MPs to be directly elected, parliament to elect president",
+    "summary": "President Mohamud and four leaders who split from the opposition Somali Salvation Forum (including ex-PM Omar Abdirashid Sharmarke and ex-speakers Mohamed Mursal and Sharif Hassan Sheikh Adan) agreed that federal MPs would be elected by popular vote and would then elect the president. The deal retained a prime minister approved by parliament and a 10% threshold for national party recognition.",
+    "impact": "Partially reversed the direct presidential vote envisioned in 2023-2024 and became the basis of the March 2026 constitutional amendments.",
+    "context": "Other Salvation Forum leaders rejected the deal as personal positions of the signatories; Puntland and Jubaland were not party to it. The African Union welcomed it.",
+    "tags": [
+      "electoral model",
+      "opposition",
+      "Salvation Forum"
+    ],
+    "sources": [
+      {
+        "name": "Somali Guardian",
+        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-faction-strikes-surprise-electoral-deal-with-president-hassan-sheikh-mohamud/",
+        "type": "media",
+        "date": "2025-08-25"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-president-strikes-electoral-deal-with-opposition-faction-sparking-division",
+        "type": "media",
+        "date": "2025-08"
+      },
+      {
+        "name": "International IDEA Democracy Tracker, August 2025",
+        "url": "https://www.idea.int/democracytracker/report/somalia/august-2025",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Heshiis doorasho oo lala galay garab ka go'ay mucaaradka: xildhibaannada si toos ah ayaa loo dooranayaa, baarlamaankuna wuxuu dooranayaa madaxweynaha",
+    "summary_so": "Madaxweyne Xasan Sheekh Maxamuud iyo afar hoggaamiye oo ka go'ay Madasha Samatabixinta Soomaaliyeed ee mucaaradka (oo ay ku jiraan Ra'iisul Wasaarihii hore Cumar Cabdirashiid Sharmaarke iyo guddoomiyeyaashii hore ee baarlamaanka Maxamed Mursal iyo Shariif Xasan Sheekh Aadan) ayaa isku raacay in xildhibaannada federaalka lagu doorto cod shacab, ka dibna ay iyagu doortaan madaxweynaha. Heshiisku wuxuu sii hayay Ra'iisul Wasaare uu ansixiyo baarlamaanku iyo xad 10% ah oo loogu baahan yahay aqoonsiga xisbi heer qaran.",
+    "impact_so": "Wuxuu qayb ahaan dib u celiyay codbixintii tooska ahayd ee madaxweynaha ee la qorsheeyay 2023-2024, wuxuuna saldhig u noqday wax ka beddelkii dastuurka ee Maarso 2026.",
+    "context_so": "Hoggaamiyeyaasha kale ee Madasha Samatabixinta ayaa diiday heshiiska, iyagoo ku tilmaamay mowqif shakhsi ah oo kuwa saxiixay; Puntland iyo Jubbaland kama mid ahayn. Midowga Afrika ayaa soo dhaweeyay.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-09-no-extension-pledge",
+    "date": "2025-09-01",
+    "date_precision": "month",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "President publicly rules out term extension, pledges elections by 2026",
+    "summary": "President Mohamud said he had no intention of extending his term and pledged that national elections would be held on schedule in 2026.",
+    "impact": "Set a public benchmark against which the March 2026 term-extension amendments were later judged.",
+    "context": "Six months later parliament extended federal terms to five years, which the government argued applied to the sitting president.",
+    "tags": [
+      "term extension",
+      "Hassan Sheikh Mohamud",
+      "2026 elections"
+    ],
+    "sources": [
+      {
+        "name": "Hiiraan Online",
+        "url": "https://www.hiiraan.com/news4/2025/Sept/203046/somali_president_rules_out_term_extension_pledges_elections_by_2026.aspx",
+        "type": "media",
+        "date": "2025-09"
+      },
+      {
+        "name": "Horn Africa News",
+        "url": "https://hornafricanews.com/somali-president-hassan-rules-out-term-extension-pledges-timely-elections/",
+        "type": "media",
+        "date": "2025-09"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Madaxweynaha oo si cad u diiday kordhinta muddo-xileedka, ballanna qaaday doorashooyin 2026",
+    "summary_so": "Madaxweyne Xasan Sheekh Maxamuud ayaa sheegay inaanu lahayn wax damac ah oo uu ku kordhinayo muddo-xileedkiisa, wuxuuna ballan qaaday in doorashooyinka qaranka loo qaban doono sidii loo qorsheeyay 2026.",
+    "impact_so": "Wuxuu dejiyay halbeeg dadweyne oo markii dambe lagu qiimeeyay wax ka beddelkii kordhinta muddo-xileedka ee Maarso 2026.",
+    "context_so": "Lix bilood ka dib, baarlamaanka ayaa muddo-xileedka hay'adaha federaalka u kordhiyay shan sannadood, taas oo dowladdu ku doodday inay khusayso madaxweynaha xilka haya.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-10-banadir-registration-total",
+    "date": "2025-10-20",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Nearly one million voters registered in Banadir",
+    "summary": "The electoral commission reported 923,220 registered voters across Banadir's 16 districts at 56 registration centres ahead of the local council elections.",
+    "impact": "Established the first modern voter roll for the capital.",
+    "context": "Registration was limited to Banadir; no comparable rolls existed elsewhere before the 2026-2027 timetable.",
+    "tags": [
+      "voter registration",
+      "Banadir"
+    ],
+    "sources": [
+      {
+        "name": "SONNA",
+        "url": "https://sonna.so/en/nearly-one-million-voters-register-in-benadir-region-for-upcoming-election/",
+        "type": "government",
+        "date": "2025-10-20"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ku dhawaad hal milyan oo codbixiye oo laga diiwaangeliyay Banaadir",
+    "summary_so": "Guddiga doorashooyinka ayaa sheegay in 923,220 codbixiye laga diiwaangeliyay 16-ka degmo ee Banaadir, 56 xarumood oo diiwaangelin ah, ka hor doorashooyinka golaha deegaanka.",
+    "impact_so": "Wuxuu dhisay liiskii codbixiyeyaasha ee casriga ahaa ee ugu horreeyay ee caasimadda.",
+    "context_so": "Diiwaangelintu waxay ku koobnayd Banaadir; meelaha kale ma jirin liisas la mid ah ka hor jadwalka 2026-2027.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-11-nira-one-million",
+    "date": "2025-11-25",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Institutions",
+    "title": "National ID enrolment passes one million",
+    "summary": "At a national ID conference in Mogadishu on 24-25 November 2025, NIRA Director General Abdiwali Ali Abdulle said more than one million citizens had been enrolled and more than 24 public and private services had integrated the ID.",
+    "impact": "Marks early progress toward the target of 15 million IDs by 2029; the ID became required for passports and, from January 2026, domestic travel.",
+    "context": "Figures are self-reported by NIRA; the agency said $125 million is needed for nationwide rollout.",
+    "tags": [
+      "NIRA",
+      "national ID"
+    ],
+    "sources": [
+      {
+        "name": "Biometric Update",
+        "url": "https://www.biometricupdate.com/202511/somalia-to-integrate-more-govt-services-with-national-id-as-issuance-reaches-1m",
+        "type": "media",
+        "date": "2025-11-26"
+      },
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/one-million-citizens-registered-under-somalias-new-id-programme",
+        "type": "media",
+        "date": "2025-11"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Diiwaangelinta aqoonsiga qaranka oo dhaaftay hal milyan",
+    "summary_so": "Shir ku saabsan aqoonsiga qaranka oo Muqdisho ka dhacay 24-25 Nofembar 2025, Agaasimaha Guud ee NIRA Cabdiwali Cali Cabdulle ayaa sheegay in in ka badan hal milyan oo muwaadin la diiwaangeliyay, iyo in in ka badan 24 adeeg oo dowladeed iyo kuwo gaar loo leeyahay ay ku dareen aqoonsiga.",
+    "impact_so": "Waxay muujinaysaa horumar bilow ah oo loo socdo hadafka 15 milyan oo aqoonsi marka la gaaro 2029; aqoonsigu wuxuu noqday shardi looga baahan yahay baasaboorrada, iyo laga bilaabo Janaayo 2026, socdaalka gudaha.",
+    "context_so": "Tirooyinkan waxaa soo sheegtay NIRA laftigeeda; hay'addu waxay sheegtay in loo baahan yahay $125 milyan si loogu fidiyo dalka oo dhan.",
+    "subcategory_so": "Hay'adaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2025-12-banadir-local-elections",
+    "date": "2025-12-25",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Mogadishu holds first one-person-one-vote local elections in over 50 years",
+    "summary": "Banadir region voted for 390 local council seats across 16 districts, with 20 parties competing. The electoral commission reported 503,916 votes cast out of 918,890 registered voters (about 55% turnout). The president's Justice and Solidarity Party won the most seats.",
+    "impact": "First direct popular vote in the capital since 1969, a key test of the one-person-one-vote model.",
+    "context": "Main opposition groups boycotted and called the process unfree and unfair. The vote did not choose the mayor/governor, who remains appointed.",
+    "tags": [
+      "local elections",
+      "Banadir",
+      "Mogadishu",
+      "JSP"
+    ],
+    "sources": [
+      {
+        "name": "Hiiraan Online",
+        "url": "https://www.hiiraan.com/news4/2025/Dec/204017/mogadishu_begins_first_oneperson_onevote_local_elections_in_over_50_years.aspx",
+        "type": "media",
+        "date": "2025-12-25"
+      },
+      {
+        "name": "Raxanreeb Online: Results unveiled by NIEBC",
+        "url": "https://raxanreeb.com/historic-mogadishu-election-results-unveiled-by-niebc/",
+        "type": "media",
+        "date": "2026-01"
+      },
+      {
+        "name": "Somali Report",
+        "url": "https://somalireport.com/article/71/historic-day-in-somalia-as-mogadishu-residents-vote-in-direct-local-elections",
+        "type": "media",
+        "date": "2025-12-25"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Muqdisho oo qabatay doorashooyinkii deegaanka ee qof iyo codka ahaa ee ugu horreeyay muddo ka badan 50 sannadood",
+    "summary_so": "Gobolka Banaadir ayaa u codeeyay 390 kursi oo golaha deegaanka ah oo ku kala yaal 16 degmo, iyadoo 20 xisbi ay tartameen. Guddiga doorashooyinka ayaa sheegay in 503,916 cod la dhiibtay, halka codbixiyeyaasha diiwaangashan ay ahaayeen 918,890 (qiyaastii 55% ka-qaybgal). Xisbiga Caddaaladda iyo Wadajirka ee madaxweynaha ayaa helay kuraasta ugu badan.",
+    "impact_so": "Waa codbixintii shacab ee tooska ahayd ee ugu horreysay ee caasimadda tan iyo 1969, waana imtixaan muhiim u ah hannaanka qof iyo codka.",
+    "context_so": "Kooxaha ugu waaweyn ee mucaaradka ayaa qaadacay, iyagoo hannaanka ku tilmaamay mid aan xor iyo xalaal ahayn. Codbixintu ma dooran duqa magaalada/guddoomiyaha gobolka, kaas oo weli la magacaabo.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-03-constitution-ch5-15",
+    "date": "2026-03-04",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Constitution",
+    "title": "Parliament adopts remaining constitutional chapters and extends federal terms to five years",
+    "summary": "A joint sitting approved amendments to Chapters 5-15 (plus changes to Chapters 2 and 4), completing the review of the 2012 Provisional Constitution; President Mohamud signed them on 8 March. The text provides for a directly elected House of the People that elects the president, a PM approved by the House, a 10% party threshold, local government as a third tier, and five-year terms for parliament and the president.",
+    "impact": "Government calls it 'the official completion of the constitution'; the five-year term was applied to sitting institutions, pushing elections from 2026 to 2027.",
+    "context": "Reported vote counts differ (Reuters: 222 of 329 by acclamation; ConstitutionNet: 185 House and 37 Senate votes). Opposition parties and Puntland, Jubaland and later South West rejected it; 25 MPs were suspended after disruptions. A referendum is still required. In November 2026 the Supreme Court ruled the term extension did not apply to sitting officeholders.",
+    "tags": [
+      "constitution",
+      "term extension",
+      "2027 elections"
+    ],
+    "sources": [
+      {
+        "name": "CNBC Africa (Reuters)",
+        "url": "https://www.cnbcafrica.com/2026/somali-parliament-approves-constitution-change-to-extend-presidents-term-delay-election",
+        "type": "media",
+        "date": "2026-03-05"
+      },
+      {
+        "name": "ConstitutionNet",
+        "url": "https://constitutionnet.org/news/voices/provisional-permanent-constitution-assessing-end-somalias-constitutional-review-process",
+        "type": "ngo",
+        "date": "2026-04-07"
+      },
+      {
+        "name": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/world/5247786-somali-parliament-approves-constitution-change-extend-presidents-term-delay-election",
+        "type": "media",
+        "date": "2026-03"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka oo ansixiyay cutubyada dastuurka ee haray, muddo-xileedka hay'adaha federaalkana u kordhiyay shan sannadood",
+    "summary_so": "Fadhi wadajir ah ayaa lagu ansixiyay wax ka beddelka Cutubyada 5-15 (iyo isbeddello lagu sameeyay Cutubyada 2 iyo 4), taasoo dhammaystirtay dib-u-eegista Dastuurka Ku-meel-gaarka ah ee 2012; Madaxweyne Xasan Sheekh Maxamuud ayaa saxiixay 8 Maarso. Qoraalku wuxuu dhigayaa Golaha Shacabka oo si toos ah loo doorto kaas oo dooranaya madaxweynaha, Ra'iisul Wasaare uu ansixiyo Golaha Shacabka, xad 10% ah oo xisbiyada ah, dowladaha hoose oo noqda heerka saddexaad ee dowladda, iyo muddo-xileed shan sannadood ah oo baarlamaanka iyo madaxweynaha ah.",
+    "impact_so": "Dowladdu waxay ku tilmaamtay 'dhammaystirka rasmiga ah ee dastuurka'; muddo-xileedka shanta sannadood ah ayaa lagu dabaqay hay'adaha xilka haya, taasoo doorashooyinka ka riixday 2026 una wareejisay 2027.",
+    "context_so": "Tirooyinka codadka ee la soo sheegay way kala duwan yihiin (Reuters: 222 ka mid ah 329, iyadoo gacan-taag lagu ansixiyay; ConstitutionNet: 185 cod oo Golaha Shacabka ah iyo 37 cod oo Aqalka Sare ah). Xisbiyada mucaaradka iyo Puntland, Jubbaland iyo markii dambe Koonfur Galbeed ayaa diiday; 25 xildhibaan ayaa la hakiyay ka dib qalalaase. Weli waxaa loo baahan yahay afti. Bishii Nofembar 2026, Maxkamadda Sare ayaa xukuntay in kordhinta muddo-xileedku aysan khuseyn masuuliyiinta xilka haya.",
+    "subcategory_so": "Dastuurka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-03-south-west-severs-ties",
+    "date": "2026-03-17",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "South West State severs ties with federal government",
+    "summary": "South West State suspended all cooperation with Mogadishu, accusing the federal government of arming militias to unseat President Abdiaziz Laftagareen, a former JSP deputy leader. Officials linked the rupture to the constitutional amendments.",
+    "impact": "Made South West the third of six member states to cut ties with the federal government.",
+    "context": "The federal government denied plotting a coup; fighting followed in the region.",
+    "tags": [
+      "South West",
+      "Laftagareen",
+      "federalism"
+    ],
+    "sources": [
+      {
+        "name": "ThePrint (Reuters)",
+        "url": "https://theprint.in/world/somalias-south-west-state-says-it-has-severed-ties-with-the-federal-government/2881785",
+        "type": "media",
+        "date": "2026-03-17"
+      },
+      {
+        "name": "Algemeiner (Reuters)",
+        "url": "https://www.algemeiner.com/2026/03/22/somalias-south-west-state-says-it-has-severed-ties-with-the-federal-government/",
+        "type": "media",
+        "date": "2026-03-22"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dowlad Goboleedka Koonfur Galbeed oo xiriirka u jartay dowladda federaalka",
+    "summary_so": "Koonfur Galbeed ayaa hakisay dhammaan iskaashigii ay la lahayd Muqdisho, iyadoo dowladda federaalka ku eedaysay inay hubaynayso maleeshiyaad si xilka looga tuuro Madaxweyne Cabdicasiis Lafta-gareen, oo hore u ahaa hoggaamiye ku-xigeenka JSP. Saraakiisha ayaa kala go'a ku xiray wax ka beddelka dastuurka.",
+    "impact_so": "Waxay Koonfur Galbeed ka dhigtay dowlad goboleedkii saddexaad ee lixda ka mid ah ee xiriirka u jara dowladda federaalka.",
+    "context_so": "Dowladda federaalka ayaa beenisay inay qorshaynaysay afgambi; dagaallo ayaa markii dambe ka dhacay gobolka.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-03-baidoa-laftagareen-resigns",
+    "date": "2026-03-30",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "Federal army takes Baidoa; South West president Laftagareen resigns",
+    "summary": "The Somali National Army took control of Baidoa, South West's main city, and Laftagareen announced his resignation the same day, days after state lawmakers had re-elected him for five years in a vote Mogadishu rejected. An interim administration was set up.",
+    "impact": "Restored federal control over South West but by military means, setting a precedent for Mogadishu's handling of dissenting states.",
+    "context": "Reports conflict on who led the interim administration (state finance minister vs. federal deputy PM Jibril Abdirashid Haji Abdi). Fighting with Laftagareen loyalists continued into August 2026.",
+    "tags": [
+      "South West",
+      "Baidoa",
+      "federalism"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns",
+        "type": "media",
+        "date": "2026-03-31"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202604010762.html",
+        "type": "media",
+        "date": "2026-04-01"
+      },
+      {
+        "name": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/723132/international/africa/somali-army-takes-control-of-strategic-city-regional-leader-resigns",
+        "type": "media",
+        "date": "2026-03-30"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamada federaalka oo la wareegay Baydhabo; madaxweynaha Koonfur Galbeed Lafta-gareen oo is-casilay",
+    "summary_so": "Ciidanka Xoogga Dalka Soomaaliyeed ayaa la wareegay Baydhabo, magaalada ugu weyn ee Koonfur Galbeed, Lafta-gareenna isla maalintaas ayuu ku dhawaaqay is-casilaaddiisa, maalmo ka dib markii xildhibaannada dowlad goboleedka ay dib ugu doorteen shan sannadood codbixin ay Muqdisho diiday. Waxaa la dhisay maamul ku-meel-gaar ah.",
+    "impact_so": "Waxay dib u soo celisay maamulka federaalka ee Koonfur Galbeed, balse si ciidan, taasoo tusaale u dhigtay sida Muqdisho ula macaamilayso dowlad goboleedyada diidan.",
+    "context_so": "Warbixinnadu way isku khilaafsan yihiin cidda hoggaamisay maamulka ku-meel-gaarka ah (wasiirka maaliyadda dowlad goboleedka iyo Ra'iisul Wasaare ku-xigeenka federaalka Jibriil Cabdirashiid Xaaji Cabdi). Dagaallada lala galay taageerayaasha Lafta-gareen ayaa sii socday ilaa Ogoosto 2026.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-04-banadir-council-sworn-in",
+    "date": "2026-04-02",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Governance reform",
+    "title": "390 directly elected Mogadishu councillors sworn in",
+    "summary": "Banadir's 390 local councillors were sworn in at Somali National University after the Supreme Court validated the December 2025 results. The JSP took 177 seats, Towfiiq 49 and Ramaas 42.",
+    "impact": "Marks Mogadishu's shift from fully appointed to partly elected local administration.",
+    "context": "Opposition parties that boycotted do not recognise the council; the mayor remains appointed by the federal government.",
+    "tags": [
+      "local government",
+      "Banadir",
+      "JSP"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/somalias-banadir-region-swears-in-390-local-councillors",
+        "type": "media",
+        "date": "2026-04-02"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://www.hiiraan.com/news4/2026/Apr/204806/mogadishu_swears_in_390_council_members_after_first_oneperson_onevote_local_election.aspx",
+        "type": "media",
+        "date": "2026-04"
+      },
+      {
+        "name": "Radio Dalsan",
+        "url": "https://radiodalsan.com/2026/04/04/mogadishu-swears-in-first-directly-elected-local-council-after-historic-one-person-one-vote-polls/",
+        "type": "media",
+        "date": "2026-04-04"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "390 xildhibaan oo golaha deegaanka Muqdisho ah oo si toos ah loo doortay oo la dhaariyay",
+    "summary_so": "390-ka xildhibaan ee golaha deegaanka Banaadir ayaa lagu dhaariyay Jaamacadda Ummadda Soomaaliyeed ka dib markii Maxkamadda Sare ay ansixisay natiijooyinkii Diseembar 2025. JSP ayaa heshay 177 kursi, Towfiiq 49, Ramaasna 42.",
+    "impact_so": "Waxay muujinaysaa u wareegidda Muqdisho maamul deegaan oo gebi ahaanba la magacaabo una guuraya mid qayb ahaan la doorto.",
+    "context_so": "Xisbiyada mucaaradka ee qaadacay ma aqoonsana golaha; duqa magaalada weli waxaa magacaabta dowladda federaalka.",
+    "subcategory_so": "Dib-u-habeynta maamulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-04-parliament-mandate",
+    "date": "2026-04-14",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Federal Parliament's original four-year mandate lapses without elections",
+    "summary": "Parliament's four-year term, as originally set, ended on 14 April 2026 with no national election held. Speaker Adan Madobe said parliament would remain for another year under the March amendments; several MPs resigned, calling the extension unconstitutional.",
+    "impact": "Opened the formal mandate dispute that dominated 2026.",
+    "context": "Former president Farmaajo and Puntland warned of a constitutional vacuum; the government maintains the 2026 constitution lawfully extended the term.",
+    "tags": [
+      "parliament",
+      "mandate",
+      "term extension"
+    ],
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-14/somalia-parliament-s-mandate-expires-without-elections-in-sight",
+        "type": "media",
+        "date": "2026-04-14"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-parliament-mandate-expires-as-president-faces-30-day-countdown",
+        "type": "media",
+        "date": "2026-04"
+      },
+      {
+        "name": "ConstitutionNet",
+        "url": "https://constitutionnet.org/es/node/20101",
+        "type": "ngo",
+        "date": "2026-04"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Muddo-xileedkii asalka ahaa ee afarta sannadood ee Baarlamaanka Federaalka oo dhammaaday iyadoo aan doorasho la qabanin",
+    "summary_so": "Muddo-xileedka afarta sannadood ah ee baarlamaanka, sidii markii hore loo dejiyay, ayaa dhammaaday 14 Abriil 2026 iyadoo aan doorasho qaran la qabanin. Guddoomiyaha Aadan Madoobe ayaa sheegay in baarlamaanku sii jiri doono sannad kale iyadoo la raacayo wax ka beddelkii Maarso; dhowr xildhibaan ayaa is-casilay, iyagoo kordhinta ku tilmaamay mid ka baxsan dastuurka.",
+    "impact_so": "Wuxuu si rasmi ah u furay khilaafka muddo-xileedka ee xukumay sannadka 2026.",
+    "context_so": "Madaxweynihii hore Farmaajo iyo Puntland ayaa ka digay firaaq dastuuri ah; dowladdu waxay ku adkaysanaysaa in dastuurka 2026 uu si sharci ah u kordhiyay muddo-xileedka.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-05-protest-shooting",
+    "date": "2026-05-10",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Security forces fire on opposition protest in Mogadishu",
+    "summary": "Security forces opened fire on an opposition-led protest against the term extension in Mogadishu; the opposition said one person was killed and another injured.",
+    "impact": "Signalled escalation from political dispute to street confrontation ahead of the 15 May term date.",
+    "context": "AFP said it could not independently verify casualty figures.",
+    "tags": [
+      "protests",
+      "opposition",
+      "term extension"
+    ],
+    "sources": [
+      {
+        "name": "Africanews (AFP)",
+        "url": "https://www.africanews.com/2026/05/11/somali-security-forces-open-fire-on-protesters-in-mogadishu-killing-one/",
+        "type": "media",
+        "date": "2026-05-11"
+      },
+      {
+        "name": "The New Arab",
+        "url": "https://www.newarab.com/news/one-killed-somali-forces-break-protest-opposition",
+        "type": "media",
+        "date": "2026-05"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamada ammaanka oo rasaas ku furay bannaanbax mucaaradka ee Muqdisho",
+    "summary_so": "Ciidamada ammaanka ayaa rasaas ku furay bannaanbax uu hoggaaminayay mucaaradku oo looga soo horjeeday kordhinta muddo-xileedka ee Muqdisho; mucaaradka ayaa sheegay in hal qof la dilay, mid kalena lagu dhaawacay.",
+    "impact_so": "Wuxuu muujiyay in khilaafkii siyaasadeed u gudbay iska horimaad waddooyinka ah ka hor taariikhda muddo-xileedka ee 15 May.",
+    "context_so": "AFP ayaa sheegtay inaysan si madax-bannaan u xaqiijin karin tirada khasaaraha.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-05-talks-fail",
+    "date": "2026-05-15",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Government–Somali Future Council talks end without agreement",
+    "summary": "Talks in Mogadishu on 13-15 May 2026 between the federal government and the opposition Somali Future Council (Puntland's Deni, Jubaland's Madobe, ex-president Sharif Sheikh Ahmed and former PMs) on amendments, electoral arrangements and mandates ended without consensus, the African Union said.",
+    "impact": "No agreed electoral roadmap existed as the president's original term ran out on 15 May.",
+    "context": "The AU urged all parties to avoid hardening positions and return to dialogue.",
+    "tags": [
+      "Somali Future Council",
+      "dialogue",
+      "African Union"
+    ],
+    "sources": [
+      {
+        "name": "African Union Commission statement",
+        "url": "https://au.int/en/pressreleases/20260516/statement-african-union-commission-somalia",
+        "type": "international",
+        "date": "2026-05-16"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Wadahadallada Dowladda iyo Golaha Mustaqbalka Soomaaliyeed oo ku dhammaaday heshiis la'aan",
+    "summary_so": "Wadahadallo Muqdisho ka dhacay 13-15 May 2026 oo dhexmaray dowladda federaalka iyo Golaha Mustaqbalka Soomaaliyeed ee mucaaradka (Deni oo ah Puntland, Madoobe oo ah Jubbaland, madaxweynihii hore Shariif Sheekh Axmed iyo ra'iisul wasaarayaal hore) oo ku saabsanaa wax ka beddelka dastuurka, habka doorashooyinka iyo muddo-xileedyada ayaa ku dhammaaday is-afgarad la'aan, sida uu sheegay Midowga Afrika.",
+    "impact_so": "Ma jirin khariidad doorasho oo lagu heshiiyay markii muddo-xileedkii asalka ahaa ee madaxweynaha uu dhammaaday 15 May.",
+    "context_so": "Midowga Afrika ayaa ku booriyay dhammaan dhinacyada inay ka fogaadaan adkaynta mowqifyada oo ay ku laabtaan wadahadallada.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-05-presidential-term-date",
+    "date": "2026-05-15",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "President's original four-year term ends; government cites one-year extension",
+    "summary": "Four years after his election, Hassan Sheikh Mohamud remained in office, citing the March 2026 constitutional amendments that set five-year terms. The government planned parliamentary and presidential elections for 2027.",
+    "impact": "Somalia entered a period of contested legitimacy: the opposition declared the mandate expired, while most international partners continued to deal with the government.",
+    "context": "The opposition, Puntland and Jubaland rejected the extension; on 5 November 2026 the Supreme Court's Constitutional Division ruled the term had expired on this date.",
+    "tags": [
+      "term extension",
+      "mandate",
+      "Hassan Sheikh Mohamud"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online: President faces 30-day countdown",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-parliament-mandate-expires-as-president-faces-30-day-countdown",
+        "type": "media",
+        "date": "2026-04"
+      },
+      {
+        "name": "AllAfrica: Puntland warns of uncertainty as president's term set to end",
+        "url": "https://allafrica.com/stories/202604170044.html",
+        "type": "media",
+        "date": "2026-04-17"
+      },
+      {
+        "name": "Garowe Online: Supreme Court rules terms expired",
+        "url": "https://www.garoweonline.com/en/news/somalia/somalia-supreme-court-rules-president-parliament-terms-expired-orders-elections-within-90-days",
+        "type": "media",
+        "date": "2026-11-05"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Muddo-xileedkii asalka ahaa ee afarta sannadood ee madaxweynaha oo dhammaaday; dowladda oo ku doodaysa kordhin sannad ah",
+    "summary_so": "Afar sannadood ka dib doorashadiisa, Xasan Sheekh Maxamuud ayaa xilka sii hayay, isagoo ku tiirsan wax ka beddelkii dastuurka ee Maarso 2026 oo dejiyay muddo-xileed shan sannadood ah. Dowladdu waxay qorshaysay doorashooyinka baarlamaanka iyo madaxtooyada 2027.",
+    "impact_so": "Soomaaliya waxay gashay xilli sharcinimada lagu muransan yahay: mucaaradka ayaa ku dhawaaqay in muddo-xileedku dhammaaday, halka inta badan saaxiibbada caalamiga ahi ay sii wadeen la macaamilka dowladda.",
+    "context_so": "Mucaaradka, Puntland iyo Jubbaland ayaa diiday kordhinta; 5 Nofembar 2026, Qaybta Dastuuriga ah ee Maxkamadda Sare ayaa xukuntay in muddo-xileedku ku dhammaaday taariikhdan.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-06-mogadishu-fighting",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Deadly fighting in Mogadishu ahead of anti-government rally",
+    "summary": "Clashes erupted on 3 June 2026 near the homes of former PM Hassan Ali Khaire and former president Sharif Sheikh Ahmed ahead of a planned opposition protest against the term extension. UNHCR reported at least 13 killed, 189 wounded and about 12,500 households displaced; the government declared order restored on 5 June.",
+    "impact": "The worst political violence in the capital since the 2021 mandate crisis.",
+    "context": "Police blamed 'organised attacks' by armed militias; the opposition said security forces attacked its leaders' residences. The UN Secretary-General and US Embassy urged restraint.",
+    "tags": [
+      "Mogadishu",
+      "violence",
+      "opposition",
+      "term extension"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu",
+        "type": "media",
+        "date": "2026-06-05"
+      },
+      {
+        "name": "Arab News (AP)",
+        "url": "https://www.arabnews.com/node/2645949/world",
+        "type": "media",
+        "date": "2026-06"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dagaal dhimasho dhaliyay oo ka dhacay Muqdisho ka hor isu soo bax looga soo horjeeday dowladda",
+    "summary_so": "Iska horimaadyo ayaa 3 Juun 2026 ka qarxay agagaarka guryaha Ra'iisul Wasaarihii hore Xasan Cali Kheyre iyo madaxweynihii hore Shariif Sheekh Axmed, ka hor bannaanbax uu mucaaradku qorsheeyay oo looga soo horjeeday kordhinta muddo-xileedka. UNHCR ayaa sheegtay in ugu yaraan 13 qof la dilay, 189 la dhaawacay, qiyaastii 12,500 qoysna ay barakaceen; dowladda ayaa 5 Juun ku dhawaaqday in kala dambaynta dib loo soo celiyay.",
+    "impact_so": "Waa rabshadihii siyaasadeed ee ugu xumaa ee caasimadda tan iyo xiisaddii muddo-xileedka ee 2021.",
+    "context_so": "Booliska ayaa eedda saaray 'weerarro abaabulan' oo ay geysteen maleeshiyaad hubaysan; mucaaradka ayaa sheegay in ciidamada ammaanku ay weerareen hoyga hoggaamiyeyaashooda. Xoghayaha Guud ee Qaramada Midoobay iyo Safaaradda Mareykanka ayaa ku booriyay is-celin.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-06-madobe-south-west",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "Speaker Adan Madobe elected South West State president",
+    "summary": "South West state lawmakers in Baidoa elected federal House Speaker Adan Mohamed Nur 'Madobe' president with 88 of 90 votes. He took office on 11 June and handed over the speakership on 20 June.",
+    "impact": "Installed a Mogadishu-aligned leader in South West after the ouster of Laftagareen.",
+    "context": "Rival candidate Sharif Hassan Sheikh Adan withdrew, calling it a 'one-man election'; critics alleged federal interference, which President Mohamud denied.",
+    "tags": [
+      "South West",
+      "Madobe",
+      "state election"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/sheikh-aden-madobe-elected-president-of-south-west-state",
+        "type": "media",
+        "date": "2026-06-10"
+      },
+      {
+        "name": "Somali Guardian",
+        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-adan-madobe-elected-southwest-president/",
+        "type": "media",
+        "date": "2026-06-10"
+      },
+      {
+        "name": "SONNA: President congratulates Madobe",
+        "url": "https://sonna.so/en/article/president-hassan-sheikh-mohamud-congratulates-sheikh-adan-mohamed-nur-madobe-on-election-as-southwest-state-leader",
+        "type": "government",
+        "date": "2026-06"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Guddoomiye Aadan Madoobe oo loo doortay madaxweynaha Dowlad Goboleedka Koonfur Galbeed",
+    "summary_so": "Xildhibaannada Koonfur Galbeed ee Baydhabo ayaa guddoomiyaha Golaha Shacabka ee federaalka Aadan Maxamed Nuur 'Madoobe' u doortay madaxweyne, isagoo helay 88 ka mid ah 90 cod. Wuxuu xilka la wareegay 11 Juun, guddoomiyenimada baarlamaankana wuxuu wareejiyay 20 Juun.",
+    "impact_so": "Wuxuu Koonfur Galbeed ku dhaqan geliyay hoggaamiye la jaal ah Muqdisho ka dib xil ka qaadistii Lafta-gareen.",
+    "context_so": "Musharraxa kale Shariif Xasan Sheekh Aadan ayaa ka baxay tartanka, isagoo ku tilmaamay 'doorasho hal nin'; dhaleeceeyayaal ayaa sheegay faragelin federaal ah, taas oo Madaxweyne Xasan Sheekh Maxamuud beeniyay.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-08-new-speaker",
+    "date": "2026-08-10",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Institutions",
+    "title": "Abdulkadir Mohamed Nur elected Speaker of the House of the People",
+    "summary": "The House of the People elected Abdulkadir Mohamed Nur speaker with 142 of 171 ballots, replacing Adan Madobe.",
+    "impact": "Filled the speakership vacant since June.",
+    "context": "The Somali Future Council and Salvation Forum rejected the vote as a 'sham', arguing parliament's mandate had expired on 14 April 2026.",
+    "tags": [
+      "parliament",
+      "speaker"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/somalias-abdulkadir-mohamed-nur-elected-speaker-of-house-of-the-people",
+        "type": "media",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "The EastAfrican",
+        "url": "https://theeastafrican.co.ke/tea/news/east-africa/new-speaker-of-parliament-elected-amid-controversy-5554246",
+        "type": "media",
+        "date": "2026-08"
+      },
+      {
+        "name": "AllAfrica: Opposition challenges election of new speaker",
+        "url": "https://allafrica.com/stories/202608110266.html",
+        "type": "media",
+        "date": "2026-08-11"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Cabdulqaadir Maxamed Nuur oo loo doortay Guddoomiyaha Golaha Shacabka",
+    "summary_so": "Golaha Shacabka ayaa Cabdulqaadir Maxamed Nuur u doortay guddoomiye, isagoo helay 142 ka mid ah 171 cod, wuxuuna beddelay Aadan Madoobe.",
+    "impact_so": "Wuxuu buuxiyay jagada guddoomiyaha oo bannaanayd tan iyo Juun.",
+    "context_so": "Golaha Mustaqbalka Soomaaliyeed iyo Madasha Samatabixinta ayaa diiday codbixinta, iyagoo ku tilmaamay 'jilid', una dooday in muddo-xileedka baarlamaanku dhammaaday 14 Abriil 2026.",
+    "subcategory_so": "Hay'adaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-09-revenue-authority-bill",
+    "date": "2026-09-22",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Governance reform",
+    "title": "Senate passes National Revenue Authority Bill",
+    "summary": "The Upper House approved the Revenue Authority Bill on third reading. The cabinet-backed law would create a single national tax administration agency to replace fragmented revenue collection.",
+    "impact": "Domestic revenue mobilisation is central to public financial management reform under the PFM Reform Strategy 2026-2030.",
+    "context": "Final presidential assent had not been confirmed in available sources.",
+    "tags": [
+      "revenue",
+      "PFM",
+      "Senate"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/somalias-senate-passes-revenue-authority-bill",
+        "type": "media",
+        "date": "2026-09-22"
+      },
+      {
+        "name": "The Standard",
+        "url": "https://standardmedia.co.ke/business/africa/article/2001553468/somalia-advances-plan-to-establish-national-revenue-authority",
+        "type": "media",
+        "date": "2026"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Aqalka Sare oo ansixiyay Hindise-sharciyeedka Hay'adda Dakhliga Qaranka",
+    "summary_so": "Aqalka Sare ayaa akhrintii saddexaad ku ansixiyay Hindise-sharciyeedka Hay'adda Dakhliga. Sharcigan, oo uu taageero golaha wasiirradu, wuxuu dhisi doonaa hal hay'ad qaran oo maamusha canshuuraha, beddelna u noqota ururinta dakhliga ee kala firirsan.",
+    "impact_so": "Kordhinta dakhliga gudaha ayaa udub dhexaad u ah dib-u-habeynta maamulka maaliyadda dowladda ee hoos timaada Istaraatiijiyadda Dib-u-habeynta PFM 2026-2030.",
+    "context_so": "Saxiixa kama dambaysta ah ee madaxweynaha lagama xaqiijin ilaha la heli karo.",
+    "subcategory_so": "Dib-u-habeynta maamulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-10-niebc-timetable",
+    "date": "2026-10-15",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "Electoral commission sets 15 April 2027 parliamentary and 15 May 2027 presidential elections",
+    "summary": "The NIEBC announced that both houses of parliament would be elected on 15 April 2027 and the president on 15 May 2027. Party and voter registration was reopened from 1 to 22 November 2026, with a provisional voter list due on 21 January 2027.",
+    "impact": "First official national election calendar under the 2026 constitution.",
+    "context": "The opposition rejected it as 'election theft' made without political agreement. The 5 November Supreme Court ruling ordered elections within 90 days, conflicting with this calendar.",
+    "tags": [
+      "NIEBC",
+      "2027 elections",
+      "timetable"
+    ],
+    "sources": [
+      {
+        "name": "Horseed Media",
+        "url": "https://horseedmedia.net/somalia-announces-2027-parliamentary-and-presidential-election-schedule/426508/",
+        "type": "media",
+        "date": "2026-10-15"
+      },
+      {
+        "name": "Shabelle Media",
+        "url": "https://shabellemedia.com/somalia-sets-parliamentary-and-presidential-election-dates-for-2027/",
+        "type": "media",
+        "date": "2026-10"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202610150471.html",
+        "type": "media",
+        "date": "2026-10-15"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Guddiga doorashooyinka oo doorashada baarlamaanka u qabtay 15 Abriil 2027, tan madaxtooyadana 15 May 2027",
+    "summary_so": "NIEBC ayaa ku dhawaaqday in labada aqal ee baarlamaanka la dooran doono 15 Abriil 2027, madaxweynahana 15 May 2027. Diiwaangelinta xisbiyada iyo codbixiyeyaasha ayaa dib loo furay 1 ilaa 22 Nofembar 2026, iyadoo liiska ku-meel-gaarka ah ee codbixiyeyaasha la filayo 21 Janaayo 2027.",
+    "impact_so": "Waa jadwalkii doorasho qaran ee rasmiga ahaa ee ugu horreeyay ee hoos yimaada dastuurka 2026.",
+    "context_so": "Mucaaradka ayaa diiday, iyagoo ku tilmaamay 'doorasho xatooyo' oo aan lagu heshiin siyaasad ahaan. Xukunkii Maxkamadda Sare ee 5 Nofembar ayaa amray in doorashooyin la qabto 90 maalmood gudahood, taasoo ka hor imanaysa jadwalkan.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-10-galmudug",
+    "date": "2026-10-22",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Federalism",
+    "title": "JSP candidate Liibaan Ahmed Hassan elected Galmudug president",
+    "summary": "Galmudug state lawmakers elected Liibaan Ahmed Hassan of the Justice and Solidarity Party with 72 of 89 votes, after the Supreme Court annulled a 30 July vote. He took over from Ahmed Abdi Kaariye in early November.",
+    "impact": "Kept Galmudug aligned with the federal government ahead of the 2027 vote.",
+    "context": "The process followed an annulled first election; opposition figures congratulated him despite disputes over the process.",
+    "tags": [
+      "Galmudug",
+      "JSP",
+      "state election"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/liibaan-ahmed-hassan-formally-takes-over-as-galmudug-leader",
+        "type": "media",
+        "date": "2026-11-05"
+      },
+      {
+        "name": "Dawan Africa: Opposition congratulates Galmudug leader",
+        "url": "https://www.dawan.africa/news/somali-opposition-figures-congratulate-galmudug-leader-despite-disputes-over-election-process",
+        "type": "media",
+        "date": "2026-10"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Musharraxa JSP Liibaan Axmed Xasan oo loo doortay madaxweynaha Galmudug",
+    "summary_so": "Xildhibaannada Galmudug ayaa doortay Liibaan Axmed Xasan oo ka tirsan Xisbiga Caddaaladda iyo Wadajirka, isagoo helay 72 ka mid ah 89 cod, ka dib markii Maxkamadda Sare ay buriyay codbixintii 30 Luulyo. Wuxuu xilka kala wareegay Axmed Cabdi Kaariye horraantii Nofembar.",
+    "impact_so": "Waxay Galmudug ku haysay garabka dowladda federaalka ka hor doorashada 2027.",
+    "context_so": "Hannaanku wuxuu yimid ka dib doorashadii hore oo la buriyay; shakhsiyaad mucaarad ah ayaa u hambalyeeyay inkastoo uu jiray khilaaf ku saabsan hannaanka.",
+    "subcategory_so": "Federaalka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-11-chief-justice-dismissed",
+    "date": "2026-11-04",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Institutions",
+    "title": "President replaces Chief Justice amid pending term case",
+    "summary": "President Mohamud dismissed Chief Justice Bashe Yusuf Ahmed, citing complaints from judges and legal professionals, and reappointed former Chief Justice Ibrahim Idle Suleiman, who was sworn in on 7 November.",
+    "impact": "Triggered a direct clash between the executive and judiciary, as the court was hearing ex-president Sharif Sheikh Ahmed's challenge to the term extension.",
+    "context": "The Constitutional Division said removal required the Judicial Service Commission and parliament; the opposition called it a 'coup' against the court and alleged security forces seized the court, claims not independently verified. UN independent experts described the dismissal as unconstitutional.",
+    "tags": [
+      "judiciary",
+      "chief justice",
+      "rule of law"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa: President replaces chief justice",
+        "url": "https://www.dawan.africa/news/somalias-president-replaces-chief-justice-citing-complaints-from-judges",
+        "type": "media",
+        "date": "2026-11-04"
+      },
+      {
+        "name": "Dawan Africa: New Supreme Court chief sworn in",
+        "url": "https://www.dawan.africa/news/somalia-swears-in-new-supreme-court-chief-amid-dispute-over-governments-term",
+        "type": "media",
+        "date": "2026-11-07"
+      },
+      {
+        "name": "Somalia Today: Opposition calls dismissal a coup",
+        "url": "https://somaliatoday.com/politics/somali-opposition-calls-chief-justices-dismissal-a-coup-2026-11-08/",
+        "type": "media",
+        "date": "2026-11-08"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Madaxweynaha oo beddelay Guddoomiyaha Maxkamadda Sare iyadoo kiiska muddo-xileedka la eegayo",
+    "summary_so": "Madaxweyne Xasan Sheekh Maxamuud ayaa xilka ka qaaday Guddoomiyaha Maxkamadda Sare Bashe Yuusuf Axmed, isagoo ku sababeeyay cabashooyin ka yimid garsoorayaal iyo xirfadlayaal sharci, wuxuuna dib u magacaabay Guddoomiyihii hore Ibraahim Iidle Suleymaan, oo la dhaariyay 7 Nofembar.",
+    "impact_so": "Wuxuu dhaliyay iska horimaad toos ah oo u dhexeeya hay'adda fulinta iyo garsoorka, iyadoo maxkamaddu ay dhagaysanaysay dacwadda madaxweynihii hore Shariif Sheekh Axmed uu kaga soo horjeeday kordhinta muddo-xileedka.",
+    "context_so": "Qaybta Dastuuriga ah ayaa sheegtay in xil ka qaadista ay u baahnayd Guddiga Adeegga Garsoorka iyo baarlamaanka; mucaaradka ayaa ku tilmaamay 'afgambi' ka dhan ah maxkamadda, wuxuuna sheegay in ciidamada ammaanku ay la wareegeen maxkamadda, sheegashooyin aan si madax-bannaan loo xaqiijin. Khubaro madax-bannaan oo Qaramada Midoobay ah ayaa xil ka qaadista ku tilmaamay mid ka baxsan dastuurka.",
+    "subcategory_so": "Hay'adaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-11-supreme-court-ruling",
+    "date": "2026-11-05",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Constitution",
+    "title": "Supreme Court rules president's and parliament's terms expired, orders elections within 90 days",
+    "summary": "The Supreme Court's five-member Constitutional Division, ruling on a petition by former president Sharif Sheikh Ahmed, held that the 2026 amendments did not extend sitting institutions' terms. It found parliament's mandate ended on 14 April 2026 and the president's on 15 May 2026, limited the government to caretaker duties, ordered an electoral framework agreed within 30 days and elections within 90 days.",
+    "impact": "The country's top court sided with the opposition's reading of the mandate, deepening the legitimacy crisis.",
+    "context": "The court rejected Sharif's challenge to the amendment process itself for lack of standing. The ruling came a day after the president replaced the chief justice; the government has contested its legal force and kept the NIEBC's April/May 2027 timetable. Reports differ slightly on the ruling date (5-7 November).",
+    "tags": [
+      "Supreme Court",
+      "term extension",
+      "constitution",
+      "2026 elections"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://www.garoweonline.com/en/news/somalia/somalia-supreme-court-rules-president-parliament-terms-expired-orders-elections-within-90-days",
+        "type": "media",
+        "date": "2026-11-05"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202611060101.html",
+        "type": "media",
+        "date": "2026-11-06"
+      },
+      {
+        "name": "Washington Post (AP)",
+        "url": "https://www.washingtonpost.com/world/2026/11/06/somalia-elections-security-political-judicial-constitutional/8d3ea502-d9ec-11f1-930a-e08f8086f5ac_story.html",
+        "type": "media",
+        "date": "2026-11-06"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Maxkamadda Sare oo xukuntay in muddo-xileedka madaxweynaha iyo baarlamaanku dhammaaday, amartayna doorashooyin 90 maalmood gudahood ah",
+    "summary_so": "Qaybta Dastuuriga ah ee Maxkamadda Sare oo ka kooban shan xubnood, iyadoo go'aan ka gaaraysay dacwad uu gudbiyay madaxweynihii hore Shariif Sheekh Axmed, ayaa xukuntay in wax ka beddelka 2026 uusan kordhin muddo-xileedka hay'adaha xilka haya. Waxay go'aamisay in muddo-xileedka baarlamaanku ku dhammaaday 14 Abriil 2026, kan madaxweynahana 15 May 2026, waxayna dowladda ku xaddiday hawlo xil-gaarsiin ah, amartayna in qaab-dhismeed doorasho lagu heshiiyo 30 maalmood gudahood, doorashooyinkana la qabto 90 maalmood gudahood.",
+    "impact_so": "Maxkamadda ugu sarreysa dalka ayaa la safatay fasiraadda mucaaradka ee muddo-xileedka, taasoo sii qoto dheerisay xiisadda sharcinimada.",
+    "context_so": "Maxkamaddu waxay diiday dacwadda Shariif ee ka dhanka ahayd hannaanka wax ka beddelka laftiisa, maadaama uusan lahayn xaq uu ku dacweeyo. Xukunku wuxuu yimid maalin ka dib markii madaxweynuhu beddelay guddoomiyaha maxkamadda sare; dowladdu waxay ku murantay awoodda sharci ee xukunka, waxayna sii haysaa jadwalka Abriil/May 2027 ee NIEBC. Warbixinnadu wax yar ayay ku kala duwan yihiin taariikhda xukunka (5-7 Nofembar).",
+    "subcategory_so": "Dastuurka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "pol-2026-11-talks-boycott",
+    "date": "2026-11-14",
+    "date_precision": "day",
+    "sector": "politics",
+    "subcategory": "Elections",
+    "title": "President's election talks fail to open as opposition boycotts",
+    "summary": "A five-day dialogue on the electoral framework called by President Mohamud at Villa Somalia for 14-18 November did not open after the Somali Future Council refused the venue and demanded mediation by the US, UK, EU and Türkiye. Puntland and Jubaland rejected the invitation outright.",
+    "impact": "As of mid-November 2026 there is no agreed electoral framework, and the Supreme Court's 30-day deadline falls in early December.",
+    "context": "Villa Somalia said talks would 'open soon' and defended the NIEBC's April/May 2027 timetable. Two other opposition groups, former prime minister Omar Abdirashid Ali Sharmarke's National Unity Alliance and former president Farmaajo's Nabad iyo Nolol party, agreed in principle to attend but said they had not been told the venue. No new date was set, and this update found no report of a session opening by 19 November.",
+    "tags": [
+      "dialogue",
+      "Somali Future Council",
+      "2027 elections"
+    ],
+    "sources": [
+      {
+        "name": "Somali Guardian",
+        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-president-hassan-sheikh-fail-start-opposition-boycott/",
+        "type": "media",
+        "date": "2026-11-14"
+      },
+      {
+        "name": "Somalia Today",
+        "url": "https://somaliatoday.com/politics/somalia-election-talks-fail-to-open-as-opposition-stays-away-2026-11-14/",
+        "type": "media",
+        "date": "2026-11-14"
+      },
+      {
+        "name": "Suna Times",
+        "url": "http://sunatimes.com/articles/6650/Somalias-Political-Crisis-Deepens-as-Opposition-Boycotts-Hassan-Sheikhs-November-14-Talks-Amid-International-Pressure",
+        "type": "media",
+        "date": "2026-11"
+      },
+      {
+        "name": "Dawan Africa: Two Somali opposition blocs agree to talks with president",
+        "url": "https://www.dawan.africa/news/two-somali-opposition-blocs-agree-to-talks-with-president-demand-inclusive-process",
+        "type": "media",
+        "date": "2026-11-14"
+      },
+      {
+        "name": "Dawan Africa: Somali presidency says national dialogue to open 'soon'",
+        "url": "https://www.dawan.africa/news/somali-presidency-says-national-dialogue-to-open-soon",
+        "type": "media",
+        "date": "2026-11-14"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Wadahadallada doorashada ee madaxweynaha oo furmi waayay iyadoo mucaaradku qaadacay",
+    "summary_so": "Wadahadal shan maalmood ah oo ku saabsan qaab-dhismeedka doorashada, oo Madaxweyne Xasan Sheekh Maxamuud ugu yeeray Villa Soomaaliya 14-18 Nofembar, ayaan furmin ka dib markii Golaha Mustaqbalka Soomaaliyeed uu diiday goobta, kuna adkaystay in ay dhexdhexaadiyaan Mareykanka, Ingiriiska, Midowga Yurub iyo Turkiga. Puntland iyo Jubbaland ayaa si toos ah u diiday casuumaadda.",
+    "impact_so": "Ilaa bartamihii Nofembar 2026 ma jiro qaab-dhismeed doorasho oo lagu heshiiyay, waqtiga kama dambaysta ah ee 30-ka maalmood ee Maxkamadda Sarena wuxuu ku beegan yahay horraanta Diseembar.",
+    "context_so": "Villa Soomaaliya ayaa sheegtay in wadahadalladu 'dhawaan furmi doonaan', waxayna difaacday jadwalka Abriil/May 2027 ee NIEBC. Laba koox oo kale oo mucaarad ah, Isbahaysiga Midnimada Qaranka ee uu hoggaamiyo Ra'iisul Wasaarihii hore Cumar Cabdirashiid Cali Sharmaarke iyo xisbiga Nabad iyo Nolol ee madaxweynihii hore Farmaajo, ayaa mabda' ahaan ogolaaday inay ka qaybgalaan, balse waxay sheegeen in aan loo sheegin goobta. Taariikh cusub lama cayimin, cusboonaysiintanna ma helin war sheegaya in kal-fadhi furmay ilaa 19 Nofembar.",
+    "subcategory_so": "Doorashooyinka",
+    "translation_so": "machine",
+    "added": "2026-11-19"
+  }
+]

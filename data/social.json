@@ -1,0 +1,634 @@
+[
+  {
+    "id": "soc-2022-05-06-women-parliament",
+    "date": "2022-05-06",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Women's representation",
+    "title": "Women win about 20% of lower-house seats, short of the 30% target",
+    "summary": "The indirect elections for the House of the People concluded with 54 women elected, about 20% of MPs, down from 24% in 2016. The UN Independent Expert regretted that the 30% minimum quota was not met. This parliament elected President Hassan Sheikh Mohamud on 15 May 2022.",
+    "impact": "Sets the baseline for women's political representation under the current administration: roughly one in five MPs.",
+    "context": "Sources differ slightly on totals (e.g. 64 women, 19%, across both houses). The 30% quota is not legally entrenched, which advocates say explains repeated shortfalls.",
+    "tags": [
+      "women",
+      "parliament",
+      "gender quota"
+    ],
+    "sources": [
+      {
+        "name": "UN Somalia press release",
+        "url": "https://somalia.un.org/en/node/172528",
+        "type": "international"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2022/Apr/185684/feit_electoral_commission_announced_the_list_of_members_of_both_houses_of_the_somali_parliament.aspx",
+        "type": "media"
+      },
+      {
+        "name": "International IDEA Gender Quotas Database",
+        "url": "https://www.idea.int/data-tools/data/gender-quotas-database/country?country=206",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Haweenka oo helay qiyaastii 20% kuraasta aqalka hoose, oo ka hooseeya hadafka 30%",
+    "summary_so": "Doorashooyinka dadban ee Golaha Shacabka ayaa ku soo idlaaday iyadoo la doortay 54 haween ah, oo ah qiyaastii 20% xildhibaannada, taasoo hoos uga dhacday 24% sannadkii 2016. Khabiirka Madaxa-bannaan ee Qaramada Midoobay ayaa ka xumaaday in aan la gaarin qoondada ugu yar ee 30%. Baarlamaankan ayaa 15 May 2022 doortay Madaxweyne Xasan Sheekh Maxamuud.",
+    "impact_so": "Wuxuu dejinayaa heerka bilowga ah ee matalaadda siyaasadeed ee haweenka ee xilliga maamulka hadda jira: qiyaastii hal ka mid ah shantii xildhibaan.",
+    "context_so": "Ilaha ayaa wax yar ku kala duwan wadarta (tusaale ahaan 64 haween ah, 19%, labada aqal marka la isku daro). Qoondada 30% si sharci ah looma xididayn, taas oo u-doodayaashu sheegaan inay sababto in marar badan la gaari waayo.",
+    "subcategory_so": "Matalaadda haweenka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2022-06-22-baxnaano-drought-scaleup",
+    "date": "2022-06-22",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Social protection",
+    "title": "World Bank backs Baxnaano drought cash transfers to nearly 500,000 households",
+    "summary": "The World Bank announced support for nearly 500,000 households to cope with the drought through Baxnaano, Somalia's government-led national safety net programme run by the Ministry of Labour and Social Affairs with WFP.",
+    "impact": "Used the state's own cash-transfer system, rather than parallel aid channels, to respond to the 2022 drought.",
+    "tags": [
+      "Baxnaano",
+      "cash transfers",
+      "World Bank",
+      "drought"
+    ],
+    "sources": [
+      {
+        "name": "World Bank press release",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/06/22/world-bank-to-support-somalia-s-drought-response-through-cash-transfers-to-500-000-households",
+        "type": "international",
+        "date": "2022-06-22"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Bangiga Adduunka oo taageeray lacag caddaan ah oo abaarta loogu talagalay oo Baxnaano ku gaarsiinayo ku dhawaad 500,000 qoys",
+    "summary_so": "Bangiga Adduunka ayaa ku dhawaaqay taageero loogu talagalay ku dhawaad 500,000 qoys si ay ula qabsadaan abaarta, iyadoo loo marinayo Baxnaano, barnaamijka qaran ee shabakadda badbaadada ee ay dowladda Soomaaliya hoggaamiso, oo ay maamusho Wasaaradda Shaqada iyo Arrimaha Bulshada iyadoo la kaashanaysa WFP.",
+    "impact_so": "Waxaa loo adeegsaday nidaamka lacag-wareejinta ee dowladda laftigeeda, halkii la isticmaali lahaa kanaallo gargaar oo barbar socda, si looga jawaabo abaartii 2022.",
+    "subcategory_so": "Daryeelka bulshada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2022-12-13-famine-averted",
+    "date": "2022-12-13",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Drought response",
+    "title": "Famine narrowly averted in Somalia, UN says",
+    "summary": "The IPC update found that famine thresholds had not been crossed in late 2022, crediting humanitarian actors and local communities, but recorded 214,000 people in catastrophe (IPC 5) and projected famine for April–June 2023 without more aid. Drought displacement had grown to almost 1.3 million people.",
+    "impact": "Scaled-up assistance during the worst drought in decades prevented a formally declared famine, unlike in 2011.",
+    "context": "The UN stressed the underlying crisis had not improved, and the 2022 humanitarian plan had a shortfall of over $1 billion. Excess deaths still occurred.",
+    "tags": [
+      "drought",
+      "famine",
+      "IPC",
+      "OCHA"
+    ],
+    "sources": [
+      {
+        "name": "UN News",
+        "url": "https://news.un.org/en/node/1131662",
+        "type": "international",
+        "date": "2022-12-13"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/amp/news/2022/12/14/famine-averted-but-situation-catastrophic-in-somalia-un",
+        "type": "media",
+        "date": "2022-12-14"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Macluul ayaa si dirqi ah looga hortagay Soomaaliya, ayay tiri Qaramada Midoobay",
+    "summary_so": "Warbixinta cusub ee IPC ayaa lagu ogaaday in heerarka macluusha aan la gaarin dabayaaqadii 2022, iyadoo amaanta la siiyay hay'adaha bini'aadannimada iyo bulshooyinka deegaanka, balse waxay diiwaangelisay 214,000 qof oo ku jira xaalad masiibo ah (IPC 5), waxayna saadaalisay macluul inta u dhaxaysa Abriil iyo Juun 2023 haddii aan gargaar dheeraad ah la helin. Barakaca abaaraha ayaa gaaray ku dhawaad 1.3 milyan oo qof.",
+    "impact_so": "Gargaarka la xoojiyay xilligii abaarta ugu xumayd muddo tobanaan sannadood ah ayaa ka hortagay macluul si rasmi ah loogu dhawaaqo, si ka duwan sannadkii 2011.",
+    "context_so": "Qaramada Midoobay ayaa ku nuuxnuuxsatay in xiisadda salka u ahi aysan soo hagaagin, qorshaha bini'aadannimada ee 2022-na wuxuu lahaa yaraanta maalgelin oo ka badan $1 bilyan. Dhimasho dheeraad ah ayaa weli dhacday.",
+    "subcategory_so": "Wax ka qabashada abaarta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2023-02-28-post-deyr-ipc",
+    "date": "2023-02-28",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Drought response",
+    "title": "IPC: large-scale aid likely to avert famine through mid-2023",
+    "summary": "The post-Deyr 2022 assessment concluded that sustained multi-sector humanitarian assistance and Deyr rains would likely avert famine between January and June 2023, but projected 6.5 million people in crisis or worse between April and June.",
+    "impact": "Confirmed the drought response was holding off famine, while showing that around a third of the population remained acutely food insecure.",
+    "tags": [
+      "IPC",
+      "FSNAU",
+      "drought"
+    ],
+    "sources": [
+      {
+        "name": "FSNAU/IPC technical release (PDF)",
+        "url": "https://fsnau.org/downloads/Somalia-Multi-Partner-Technical-Release-on-Somalia-2022-Post-Deyr-Assessment-and-IPC-Analysis-Results-28-Feb-2023.pdf",
+        "type": "international",
+        "date": "2023-02-28"
+      },
+      {
+        "name": "FSNAU in focus",
+        "url": "https://fsnau.org/in-focus/large-scale-multi-sectoral-assistance-will-likely-avert-famine-ipc-phase-5-65-million-peopl",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "IPC: gargaar ballaaran ayaa suurtagal ah inuu ka hortago macluusha ilaa bartamaha 2023",
+    "summary_so": "Qiimaynta ka dambaysa Deyrta 2022 ayaa lagu soo gabagabeeyay in gargaar bini'aadannimo oo joogto ah oo dhinacyo badan leh iyo roobabka Deyrta ay u badan tahay inay ka hortagaan macluusha inta u dhaxaysa Janaayo iyo Juun 2023, balse waxay saadaalisay in 6.5 milyan oo qof ay ku jiri doonaan xaalad xiisad ama ka sii daran inta u dhaxaysa Abriil iyo Juun.",
+    "impact_so": "Waxay xaqiijisay in wax ka qabashada abaartu ay celinaysay macluusha, iyadoo isla markaana muujisay in qiyaastii saddex meelood meel dadweynaha ay weli la daalaa dhacayaan cunto-yaraan ba'an.",
+    "subcategory_so": "Wax ka qabashada abaarta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2023-05-gu-floods-beledweyne",
+    "date": "2023-05-01",
+    "date_precision": "month",
+    "sector": "social",
+    "subcategory": "Flood response",
+    "title": "Gu-season floods displace about 219,000, devastating Beledweyne",
+    "summary": "Flash and riverine floods affected at least 460,000 people and displaced nearly 219,000, according to OCHA, with the Shabelle river bursting its banks around Beledweyne in Hirshabelle. Government offices, schools and hospitals in the town were forced to close.",
+    "impact": "Floods struck communities just emerging from six failed rainy seasons, compounding displacement and malnutrition risks.",
+    "context": "The 2023 humanitarian response plan was only about 25% funded at the time.",
+    "tags": [
+      "floods",
+      "Beledweyne",
+      "Hirshabelle",
+      "displacement"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/flooding-in-somalia-displaces-200-000-people-/7092200.html",
+        "type": "media"
+      },
+      {
+        "name": "Down To Earth",
+        "url": "https://www.downtoearth.org.in/news/climate-change/after-catastrophic-drought-for-6-years-flash-floods-in-somalia-displace-200-000-89346",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Fatahaadaha xilliga Gu'ga oo barakiciyay qiyaastii 219,000, burburiyayna Beledweyne",
+    "summary_so": "Fatahaadaha degdegga ah iyo kuwa webiyada ayaa saameeyay ugu yaraan 460,000 qof, waxayna barakiciyeen ku dhawaad 219,000, sida ay sheegtay OCHA, iyadoo webiga Shabeelle uu ka buuxsamay agagaarka Beledweyne ee Hirshabeelle. Xafiisyada dowladda, iskuullada iyo isbitaallada magaalada ayaa lagu qasbay inay xirmaan.",
+    "impact_so": "Fatahaadaha ayaa ku dhuftay bulshooyin dhawaan ka soo kabanayay lix xilli-roobaad oo fashilmay, taasoo sii kordhisay khatarta barakaca iyo nafaqo-darrada.",
+    "context_so": "Qorshaha wax ka qabashada bini'aadannimada ee 2023 wuxuu xilligaas helay maalgelin qiyaastii 25% oo keliya.",
+    "subcategory_so": "Wax ka qabashada fatahaadda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2023-07-13-ascent-energy-access",
+    "date": "2023-07-13",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Electricity & water",
+    "title": "World Bank approves $100m ASCENT grant for clean energy access",
+    "summary": "The World Bank approved a $100 million IDA grant under the ASCENT programme to expand access to sustainable and clean energy in Somalia through private-sector participation. It complements the $150 million Somali Electricity Sector Recovery Project targeting 1.1 million households.",
+    "impact": "Aims to lower some of the world's highest electricity prices in a market where about 90% of power comes from isolated diesel mini-grids.",
+    "context": "Implementation and disbursement progress should be checked against World Bank project records.",
+    "tags": [
+      "electricity",
+      "solar",
+      "World Bank"
+    ],
+    "sources": [
+      {
+        "name": "World Bank project P181341",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181341",
+        "type": "international"
+      },
+      {
+        "name": "World Bank press release on SESRP",
+        "url": "https://www.worldbank.org/en/news/press-release/2021/12/09/a-150-million-electricity-recovery-project-aims-to-help-light-up-somalia",
+        "type": "international",
+        "date": "2021-12-09"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Bangiga Adduunka oo ansixiyay deeq $100 milyan ah oo ASCENT ah oo loogu talagalay helitaanka tamar nadiif ah",
+    "summary_so": "Bangiga Adduunka ayaa ansixiyay deeq IDA ah oo dhan $100 milyan oo hoos timaada barnaamijka ASCENT, si loo ballaariyo helitaanka tamar waarta oo nadiif ah ee Soomaaliya iyadoo la adeegsanayo ka-qaybgalka qaybta gaarka loo leeyahay. Waxay kaabaysaa Mashruuca Soo-kabashada Qaybta Korontada Soomaaliya ee $150 milyan ah, kaas oo beegsanaya 1.1 milyan oo qoys.",
+    "impact_so": "Waxay ujeeddadeedu tahay in la dhimo qiimaha korontada oo ka mid ah kuwa ugu sarreeya adduunka, suuq ay qiyaastii 90% korontadu ka timaado shabakado yaryar oo naafto ku shaqeeya oo go'doon ah.",
+    "context_so": "Horumarka fulinta iyo bixinta lacagta waa in lagu hubiyaa diiwaannada mashaariicda Bangiga Adduunka.",
+    "subcategory_so": "Korontada iyo biyaha",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2023-11-el-nino-floods",
+    "date": "2023-11-01",
+    "date_precision": "month",
+    "sector": "social",
+    "subcategory": "Flood response",
+    "title": "El Niño-driven Deyr floods prompt federal emergency declaration",
+    "summary": "The federal government declared an emergency as El Niño-enhanced Deyr rains caused flooding along the Juba and Shabelle rivers. By late November OCHA reported about 2 million affected, 750,000 displaced and nearly 100 deaths; SoDMA figures in late December put displacement at about 1.2 million.",
+    "impact": "One of the most destructive floods in decades, damaging at least 224 schools and farmland critical to drought recovery.",
+    "context": "Figures vary by date and source; no single final count was published.",
+    "tags": [
+      "El Niño",
+      "floods",
+      "SoDMA",
+      "OCHA"
+    ],
+    "sources": [
+      {
+        "name": "ReliefWeb/OCHA flood snapshot",
+        "url": "https://reliefweb.int/report/somalia/somalia-flood-situation-snapshot-6-november-2023",
+        "type": "international",
+        "date": "2023-11-06"
+      },
+      {
+        "name": "IRC press release",
+        "url": "https://www.rescue.org/press-release/17-million-people-somalia-urgent-need-following-devastating-floods-warns-irc",
+        "type": "ngo"
+      },
+      {
+        "name": "UNICEF Somalia Humanitarian SitRep Nov 2023 (PDF)",
+        "url": "https://www.unicef.org/sites/default/files/2023-12/Somalia-Humanitarian-SitRep-November-2023.pdf",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Fatahaadaha Deyrta ee El Niño oo keentay in dowladda federaalku ku dhawaaqdo xaalad degdeg ah",
+    "summary_so": "Dowladda federaalka ayaa ku dhawaaqday xaalad degdeg ah markii roobabka Deyrta ee uu xoojiyay El Niño ay sababeen fatahaad ka dhacday webiyada Jubba iyo Shabeelle. Dabayaaqadii Nofembar, OCHA ayaa sheegtay in qiyaastii 2 milyan la saameeyay, 750,000 la barakiciyay, ku dhawaad 100 qofna ay dhinteen; tirooyinka SoDMA ee dabayaaqadii Diseembar ayaa barakaca ku qiyaasay qiyaastii 1.2 milyan.",
+    "impact_so": "Waa mid ka mid ah fatahaadihii ugu burbur badnaa muddo tobanaan sannadood ah, iyadoo waxyeello u geysatay ugu yaraan 224 iskuul iyo dhul-beereed muhiim u ah soo-kabashada abaarta.",
+    "context_so": "Tirooyinku way ku kala duwan yihiin taariikhda iyo isha; lama daabicin tiro kama dambays ah oo keliya.",
+    "subcategory_so": "Wax ka qabashada fatahaadda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-02-16-polio-campaign",
+    "date": "2025-02-16",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Health",
+    "title": "Nationwide campaign targets 2.5 million children against polio",
+    "summary": "Health authorities, with WHO, UNICEF and GPEI, launched a four-day nOPV2 campaign across Jubaland, Hirshabelle, South West, Galmudug and Banadir targeting about 2.5 million children under five. Further rounds in 2025 included an integrated measles–PCV–polio campaign and a round reaching over 1.5 million children in Somaliland and Puntland.",
+    "impact": "Part of efforts to end one of the longest-running variant poliovirus outbreaks in the region; Somalia reached 600,000 of an estimated 1.5 million 'zero-dose' children the previous year.",
+    "context": "Insecurity and al-Shabaab-controlled areas continue to limit access for vaccinators.",
+    "tags": [
+      "polio",
+      "vaccination",
+      "UNICEF",
+      "WHO"
+    ],
+    "sources": [
+      {
+        "name": "UNICEF Somalia",
+        "url": "https://www.unicef.org/somalia/press-releases/somalia-launches-campaign-vaccinate-25-million-children-against-polio",
+        "type": "international",
+        "date": "2025-02-16"
+      },
+      {
+        "name": "WHO EMRO",
+        "url": "https://www.emro.who.int/somalia/news/somalia-launches-a-campaign-to-vaccinate-2-5-million-children-against-polio.html",
+        "type": "international"
+      },
+      {
+        "name": "WHO EMRO (northern campaign)",
+        "url": "https://www.emro.who.int/somalia/news/polio-campaign-reaches-more-than-1-5-million-children-in-northern-somalia.html",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Olole dalka oo dhan ah oo beegsanaya 2.5 milyan oo carruur ah oo looga hortagayo dabeysha",
+    "summary_so": "Mas'uuliyiinta caafimaadka, iyagoo kaashanaya WHO, UNICEF iyo GPEI, ayaa bilaabay olole afar maalmood ah oo nOPV2 ah oo ka socda Jubbaland, Hirshabeelle, Koonfur Galbeed, Galmudug iyo Banaadir, kaas oo beegsanaya qiyaastii 2.5 milyan oo carruur ah oo ka yar shan sano. Wareegyo kale oo 2025 ah waxaa ka mid ahaa olole isku dhafan oo jadeecada, PCV iyo dabeysha ah iyo wareeg gaaray in ka badan 1.5 milyan oo carruur ah oo ku nool Soomaaliland iyo Puntland.",
+    "impact_so": "Waa qayb ka mid ah dadaallada lagu soo afjarayo mid ka mid ah faafitaannada fayraska dabeysha ee nooca isbeddelay ee ugu muddada dheer gobolka; sannadkii hore Soomaaliya waxay gaartay 600,000 ka mid ah qiyaastii 1.5 milyan oo carruur ah oo 'aan weligood tallaal helin'.",
+    "context_so": "Amni-darrada iyo deegaannada ay Al-Shabaab maamusho ayaa weli xaddidaya gaaritaanka shaqaalaha tallaalka.",
+    "subcategory_so": "Caafimaadka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-05-aid-cuts-nutrition-closures",
+    "date": "2025-05-01",
+    "date_precision": "month",
+    "sector": "social",
+    "subcategory": "Health",
+    "title": "Donor cuts force closure of nutrition centres serving 55,000 children",
+    "summary": "Save the Children said at least 55,000 children would lose nutrition services after 121 of its centres closed, as US and other donor cuts hit Somalia. OCHA reported only 11% of the 2025 humanitarian plan was funded by end-April.",
+    "impact": "Marked the start of a sharp contraction in health and nutrition services after the dismantling of USAID, historically Somalia's largest humanitarian donor.",
+    "tags": [
+      "aid cuts",
+      "nutrition",
+      "USAID"
+    ],
+    "sources": [
+      {
+        "name": "ReliefWeb (Save the Children)",
+        "url": "https://reliefweb.int/report/somalia/somalia-over-55000-children-risk-illness-and-death-aid-cuts-force-nutrition-centres-close",
+        "type": "ngo"
+      },
+      {
+        "name": "Eastleigh Voice",
+        "url": "https://eastleighvoice.co.ke/ocha/155899/severe-funding-cuts-force-sharp-scale-back-of-humanitarian-aid-in-somalia-threatening-millions",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dhimista deeq-bixiyeyaasha oo keentay xiritaanka xarumo nafaqo oo u adeegayay 55,000 carruur ah",
+    "summary_so": "Hay'adda Save the Children ayaa sheegtay in ugu yaraan 55,000 carruur ah ay waayi doonaan adeegyada nafaqada ka dib markii 121 ka mid ah xarumaheeda la xiray, iyadoo dhimista Mareykanka iyo deeq-bixiyeyaal kale ay saameysay Soomaaliya. OCHA ayaa sheegtay in dhammaadkii Abriil kaliya 11% qorshaha bini'aadannimada ee 2025 la maalgeliyay.",
+    "impact_so": "Waxay calaamad u ahayd bilowga hoos u dhac weyn oo ku yimid adeegyada caafimaadka iyo nafaqada ka dib kala diristii USAID, oo taariikh ahaan ahayd deeq-bixiyaha bini'aadannimo ee ugu weyn Soomaaliya.",
+    "subcategory_so": "Caafimaadka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-05-cpj-journalists-targeted",
+    "date": "2025-05-01",
+    "date_precision": "month",
+    "sector": "social",
+    "subcategory": "Media freedom",
+    "title": "CPJ: at least 41 journalists arrested, assaulted or harassed in two months",
+    "summary": "The Committee to Protect Journalists documented at least 41 private-media journalists arrested, assaulted or harassed by security forces between mid-March and mid-May 2025, mostly linked to security reporting. The National Union of Somali Journalists recorded 72 media freedom violations in 2025.",
+    "impact": "Indicates a deteriorating environment for independent media during a tense pre-election period.",
+    "context": "Figures from different monitors use different methods and periods; RSF has also documented arrests in Somaliland and Puntland, outside federal control.",
+    "tags": [
+      "press freedom",
+      "CPJ",
+      "journalists"
+    ],
+    "sources": [
+      {
+        "name": "CPJ",
+        "url": "https://cpj.org/2025/05/alarming-escalation-at-least-41-journalists-targeted-since-march-in-somalia/",
+        "type": "ngo"
+      },
+      {
+        "name": "NUSOJ State of the Media Report 2026 (PDF)",
+        "url": "https://nusoj.org/wp-content/uploads/2026/04/State-of-the-media-report-2026-Final.pdf",
+        "type": "ngo"
+      },
+      {
+        "name": "RSF",
+        "url": "https://rsf.org/en/somalia-authorities-must-end-crackdown-independent-journalism-arrests-spike-somaliland",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "CPJ: ugu yaraan 41 wariye ayaa la xiray, la garaacay ama la dhibaateeyay laba bilood gudahood",
+    "summary_so": "Guddiga Ilaalinta Suxufiyiinta (CPJ) ayaa diiwaangeliyay ugu yaraan 41 wariye oo ka tirsan warbaahinta gaarka loo leeyahay oo ay ciidamada ammaanku xireen, garaaceen ama dhibaateeyeen inta u dhaxaysa bartamihii Maarso iyo bartamihii May 2025, kuwaas oo inta badan la xiriiray tebinta arrimaha amniga. Ururka Qaranka ee Suxufiyiinta Soomaaliyeed (NUSOJ) ayaa diiwaangeliyay 72 xadgudub oo ka dhan ah xorriyadda warbaahinta sannadkii 2025.",
+    "impact_so": "Waxay muujinaysaa jawi sii xumaanaya oo ay la kulmayso warbaahinta madax-bannaan xilli xiisad badan oo ka horreeya doorashooyinka.",
+    "context_so": "Tirooyinka hay'adaha kala duwan ee la socda waxay adeegsadaan habab iyo muddooyin kala duwan; RSF sidoo kale waxay diiwaangelisay xarig ka dhacay Soomaaliland iyo Puntland, oo ka baxsan maamulka federaalka.",
+    "subcategory_so": "Xorriyadda warbaahinta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-06-19-national-exams",
+    "date": "2025-06-19",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Education",
+    "title": "39,382 students sit national Grade 12 exams with new integrity measures",
+    "summary": "The 2024/25 national secondary exams ran from 14 to 19 June at 140 centres; 42% of candidates were girls. The ministry introduced QR-code candidate verification and digital attendance tracking, and included agricultural students for the first time.",
+    "impact": "Shows growing reach of the federal examination system across Banadir and federal member states, including Khatumo.",
+    "context": "Puntland and Somaliland run separate exams; a later SONNA report gave a slightly lower figure (38,471).",
+    "tags": [
+      "education",
+      "national exams"
+    ],
+    "sources": [
+      {
+        "name": "The Star (Kenya)",
+        "url": "https://www.the-star.co.ke/news/africa/2025-06-19-somalia-concludes-12th-grade-national-examination-for-2024-2025",
+        "type": "media",
+        "date": "2025-06-19"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202506160253.html",
+        "type": "media",
+        "date": "2025-06-16"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "39,382 arday oo galay imtixaannada qaran ee Fasalka 12-aad iyadoo la adeegsanayo tallaabooyin cusub oo daacadnimo",
+    "summary_so": "Imtixaannada qaran ee dugsiga sare ee 2024/25 ayaa socday 14 ilaa 19 Juun, waxayna ka dhaceen 140 xarumood; 42% ardayda imtixaanka gashay waxay ahaayeen gabdho. Wasaaraddu waxay soo bandhigtay xaqiijinta ardayda iyadoo la adeegsanayo koodhka QR iyo la socodka dhijitaalka ah ee joogitaanka, waxayna markii ugu horreysay ku dartay ardayda beeraha.",
+    "impact_so": "Waxay muujinaysaa sii fiditaanka nidaamka imtixaannada federaalka ee Banaadir iyo dowlad goboleedyada, oo ay ku jirto Khaatumo.",
+    "context_so": "Puntland iyo Soomaaliland waxay qabtaan imtixaanno gooni ah; warbixin dambe oo SONNA ah ayaa sheegtay tiro wax yar ka hooseysa (38,471).",
+    "subcategory_so": "Waxbarashada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-08-18-digital-id-mass-registration",
+    "date": "2025-08-18",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Digital ID",
+    "title": "NIRA launches mass registration drive for national digital ID",
+    "summary": "The National Identification and Registration Authority, created under the 2023 Identification and Registration Act, piloted mass registration in Mogadishu's Shangani and Boondheer districts, with plans to cover the city's 3.5 million residents. By March 2026 it had opened its 30th office abroad.",
+    "impact": "Somalia's first unified ID system in over three decades, to be linked to SIM registration, banking, passports and social protection.",
+    "context": "NIRA's aim of 15 million IDs by 2026 is ambitious; privacy safeguards and coverage outside government-held areas remain concerns.",
+    "tags": [
+      "digital ID",
+      "NIRA",
+      "World Bank"
+    ],
+    "sources": [
+      {
+        "name": "World Bank blog",
+        "url": "https://blogs.worldbank.org/en/nasikiliza/federal-republic-of-somalia-launches-mass-registration-drive-for-its-digital-id",
+        "type": "international"
+      },
+      {
+        "name": "Biometric Update",
+        "url": "https://www.biometricupdate.com/202509/somalia-kicks-off-mass-digital-id-registration-drive",
+        "type": "media"
+      },
+      {
+        "name": "Kenyans.co.ke",
+        "url": "https://www.kenyans.co.ke/news/122058-somalia-launches-id-registration-office-nairobi-embassy-ahead-border-reopening",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "NIRA oo bilowday olole ballaaran oo diiwaangelinta aqoonsiga dhijitaalka ah ee qaranka",
+    "summary_so": "Hay'adda Aqoonsiga iyo Diiwaangelinta Qaranka, oo lagu dhisay Sharciga Aqoonsiga iyo Diiwaangelinta ee 2023, ayaa degmooyinka Shangaani iyo Boondheere ee Muqdisho ka tijaabisay diiwaangelin ballaaran, iyadoo qorshaynaysa inay gaarto 3.5 milyan ee dadka deggan magaalada. Marka la gaaray Maarso 2026, waxay dibadda ka furtay xafiiskeedii 30-aad.",
+    "impact_so": "Waa nidaamkii aqoonsi ee mideysnaa ee ugu horreeyay ee Soomaaliya muddo ka badan soddon sannadood ah, waxaana lala xiriirin doonaa diiwaangelinta SIM-ka, bangiyada, baasaboorrada iyo daryeelka bulshada.",
+    "context_so": "Hadafka NIRA ee ah 15 milyan oo aqoonsi marka la gaaro 2026 waa mid hammi weyn leh; ilaalinta sirta shakhsiga iyo gaaritaanka meelaha ka baxsan deegaannada dowladdu maamusho ayaa weli walaac ah.",
+    "subcategory_so": "Aqoonsiga dhijitaalka ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-11-03-idp-law",
+    "date": "2025-11-03",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "IDPs & durable solutions",
+    "title": "Parliament passes landmark law on protection of internally displaced persons",
+    "summary": "The Upper House gave final approval to the IDP Protection and Durable Solutions Bill on 3 November 2025, after the House of the People passed it 136–4 in May. A UN report says it was enacted on 4 December 2025. It builds on the National Solutions Pathways Action Plan (2024–2029), which aims to move one million IDPs toward durable solutions.",
+    "impact": "Gives Somalia a dedicated legal framework for the rights and protection of internally displaced people, one of the world's largest displaced populations.",
+    "context": "A UN review noted the law does not reference the existing national durable solutions commission, creating ambiguity about institutional mandates.",
+    "tags": [
+      "IDPs",
+      "durable solutions",
+      "legislation"
+    ],
+    "sources": [
+      {
+        "name": "SONNA",
+        "url": "https://sonna.so/en/upper-house-approves-bill-on-internally-displaced-persons/",
+        "type": "government"
+      },
+      {
+        "name": "Dawan Africa",
+        "url": "https://dawan.africa/news/somali-senate-approves-bill-to-protect-idps",
+        "type": "media"
+      },
+      {
+        "name": "Ministry of Interior (MoIFAR)",
+        "url": "https://moifar.gov.so/en/?p=27526",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka oo ansixiyay sharci taariikhi ah oo ku saabsan ilaalinta barakacayaasha gudaha",
+    "summary_so": "Aqalka Sare ayaa 3 Nofembar 2025 si kama dambays ah u ansixiyay Hindise-sharciyeedka Ilaalinta Barakacayaasha Gudaha iyo Xalalka Waara, ka dib markii Golaha Shacabku ku ansixiyay 136–4 bishii May. Warbixin Qaramada Midoobay ayaa sheegaysa in la saxiixay 4 Diseembar 2025. Wuxuu ku dhisan yahay Qorshaha Waxqabadka Waddooyinka Xalalka Qaranka (2024–2029), kaas oo hadafkiisu yahay in hal milyan oo barakacayaal gudaha ah loo horseedo xalal waara.",
+    "impact_so": "Wuxuu Soomaaliya siinayaa qaab-dhismeed sharci oo gaar ah oo loogu talagalay xuquuqda iyo ilaalinta barakacayaasha gudaha, oo ka mid ah tirooyinka barakacayaasha ugu badan adduunka.",
+    "context_so": "Dib-u-eegis Qaramada Midoobay ayaa xustay in sharcigu uusan tixraacin guddiga qaran ee xalalka waara ee hadda jira, taasoo abuuraysa mugdi ku saabsan waajibaadka hay'adaha.",
+    "subcategory_so": "Barakacayaasha gudaha iyo xalalka waara",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-11-10-drought-emergency",
+    "date": "2025-11-10",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Drought response",
+    "title": "Government declares drought emergency after four failed rainy seasons",
+    "summary": "The federal government formally declared a drought emergency and appealed for international help. The IPC projected 6.5 million people in crisis or worse by March 2026, and 1.85 million children under five facing acute malnutrition.",
+    "impact": "Reflects renewed climate stress three years after the 2022 near-famine, now amid deep donor cuts.",
+    "context": "The 2025 humanitarian plan was only 23.7% funded as of 23 November; emergency food aid recipients fell from 1.1 million in August to 350,000 in November.",
+    "tags": [
+      "drought",
+      "IPC",
+      "humanitarian"
+    ],
+    "sources": [
+      {
+        "name": "UN News",
+        "url": "https://news.un.org/en/story/2025/11/1166456",
+        "type": "international",
+        "date": "2025-11-26"
+      },
+      {
+        "name": "WFP/FAO joint release",
+        "url": "https://www.wfp.org/news/somalias-humanitarian-crisis-worsening-65-million-people-facing-high-levels-hunger-federal",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dowladda oo ku dhawaaqday xaalad degdeg ah oo abaar ah ka dib afar xilli-roobaad oo fashilmay",
+    "summary_so": "Dowladda federaalka ayaa si rasmi ah ugu dhawaaqday xaalad degdeg ah oo abaar ah, waxayna codsatay gargaar caalami ah. IPC ayaa saadaalisay in 6.5 milyan oo qof ay ku jiri doonaan xaalad xiisad ama ka sii daran marka la gaaro Maarso 2026, iyo in 1.85 milyan oo carruur ah oo ka yar shan sano ay la kulmi doonaan nafaqo-darro ba'an.",
+    "impact_so": "Waxay muujinaysaa cadaadis cimilo oo dib u soo laabtay saddex sannadood ka dib macluushii ku dhawaad dhacday 2022, iyadoo hadda ay jirto dhimis weyn oo deeq-bixiyeyaasha ah.",
+    "context_so": "Qorshaha bini'aadannimada ee 2025 wuxuu helay maalgelin 23.7% oo keliya ilaa 23 Nofembar; dadka hela gargaarka cuntada degdegga ah ayaa hoos uga dhacay 1.1 milyan bishii Ogoosto ilaa 350,000 bishii Nofembar.",
+    "subcategory_so": "Wax ka qabashada abaarta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2025-12-10-baxnaano-four-million",
+    "date": "2025-12-10",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Social protection",
+    "title": "Baxnaano safety net has reached over four million Somalis",
+    "summary": "The World Bank reported that Baxnaano, Somalia's first national safety net programme, has delivered cash transfers to over four million people since launch. Households receive $20 per month, rising to up to $60 during national emergencies.",
+    "impact": "Establishes a state-run, shock-responsive social protection system able to scale up during droughts and floods.",
+    "context": "The programme remains heavily donor-financed through the World Bank and Somalia Multi-Partner Fund.",
+    "tags": [
+      "Baxnaano",
+      "social protection",
+      "World Bank"
+    ],
+    "sources": [
+      {
+        "name": "World Bank feature",
+        "url": "https://www.worldbank.org/en/news/feature/2025/12/10/turning-hope-into-action-investing-in-resilience-through-somalia-s-national-safety-net",
+        "type": "international",
+        "date": "2025-12-10"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Shabakadda badbaadada ee Baxnaano oo gaartay in ka badan afar milyan oo Soomaali ah",
+    "summary_so": "Bangiga Adduunka ayaa sheegay in Baxnaano, barnaamijkii ugu horreeyay ee shabakadda badbaadada qaranka ee Soomaaliya, uu lacag caddaan ah gaarsiiyay in ka badan afar milyan oo qof tan iyo markii la bilaabay. Qoysaskuna waxay helaan $20 bishii, taasoo kor u kacda ilaa $60 xilliyada xaaladaha degdegga ah ee qaranka.",
+    "impact_so": "Wuxuu dhisayaa nidaam daryeel bulsho oo ay dowladdu maamusho, oo ka jawaaba naxdinta, awoodna u leh in la ballaariyo xilliyada abaaraha iyo fatahaadaha.",
+    "context_so": "Barnaamijka weli wuxuu si weyn ugu tiirsan yahay maalgelinta deeq-bixiyeyaasha iyadoo loo marinayo Bangiga Adduunka iyo Sanduuqa Wadaagga ah ee Saaxiibbada Badan ee Soomaaliya.",
+    "subcategory_so": "Daryeelka bulshada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2026-06-20-national-exams",
+    "date": "2026-06-20",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Education",
+    "title": "Record 44,136 students sit 2026 secondary leaving exams",
+    "summary": "Prime Minister Hamza Abdi Barre launched the 2026 secondary school leaving exams, sat by 44,136 students at 158 centres across 58 districts, according to the Ministry of Education.",
+    "impact": "About 12% more candidates than in 2025 (39,382), reflecting expansion of secondary schooling.",
+    "context": "Political divisions with some federal member states affect participation; Puntland and Somaliland run separate systems.",
+    "tags": [
+      "education",
+      "national exams"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/more-than-44-000-students-sit-somalia-s-2026-secondary-school-exams",
+        "type": "media",
+        "date": "2026-06-20"
+      },
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/somalia-marks-record-national-exam-attendance-but-political-divides-persist",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Tiro rikoor ah oo 44,136 arday ah oo galay imtixaannada dhammaystirka dugsiga sare ee 2026",
+    "summary_so": "Ra'iisul Wasaare Xamsa Cabdi Barre ayaa daah-furay imtixaannada dhammaystirka dugsiga sare ee 2026, oo ay galeen 44,136 arday oo ku kala sugan 158 xarumood oo ku yaal 58 degmo, sida ay sheegtay Wasaaradda Waxbarashada.",
+    "impact_so": "Qiyaastii 12% arday ka badan kuwii 2025 (39,382), taasoo muujinaysa ballaarinta waxbarashada dugsiga sare.",
+    "context_so": "Kala qaybsanaanta siyaasadeed ee lala qabo qaar ka mid ah dowlad goboleedyada ayaa saameysa ka-qaybgalka; Puntland iyo Soomaaliland waxay leeyihiin nidaamyo gooni ah.",
+    "subcategory_so": "Waxbarashada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "soc-2026-08-21-health-facility-closures",
+    "date": "2026-08-21",
+    "date_precision": "day",
+    "sector": "social",
+    "subcategory": "Health",
+    "title": "UNICEF: 205 health and nutrition facilities closed as child malnutrition rises",
+    "summary": "UNICEF reported that 205 health and nutrition facilities had closed due to funding cuts, while admissions of severely malnourished children to stabilisation centres rose 32% in the first half of 2026. Nearly 1.9 million children were projected to be malnourished during the year.",
+    "impact": "Shows the human cost of the collapse in humanitarian financing for Somalia's health system.",
+    "context": "UN planning scenarios warned closures could reach 618 facilities under severe funding conditions.",
+    "tags": [
+      "health",
+      "malnutrition",
+      "aid cuts",
+      "UNICEF"
+    ],
+    "sources": [
+      {
+        "name": "UNICEF press release",
+        "url": "https://www.unicef.org/press-releases/hundreds-health-and-nutrition-facilities-closed-somalias-child-crisis-deepens",
+        "type": "international",
+        "date": "2026-08-21"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/amp/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says",
+        "type": "media",
+        "date": "2026-08-22"
+      },
+      {
+        "name": "UN News",
+        "url": "https://news.un.org/en/story/2026/08/1168184",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "UNICEF: 205 xarumood oo caafimaad iyo nafaqo ah oo xirmay iyadoo nafaqo-darrada carruurtu kordhayso",
+    "summary_so": "UNICEF ayaa sheegtay in 205 xarumood oo caafimaad iyo nafaqo ah ay xirmeen sababo la xiriira dhimista maalgelinta, halka carruurta nafaqo-darrada daran qaba ee la dhigayo xarumaha xasilinta ay kordheen 32% lixdii bilood ee ugu horreysay 2026. Ku dhawaad 1.9 milyan oo carruur ah ayaa la saadaaliyay inay nafaqo-darro la kulmaan sannadka gudihiisa.",
+    "impact_so": "Waxay muujinaysaa qiimaha bini'aadannimo ee burburka maalgelinta bini'aadannimada ee nidaamka caafimaadka Soomaaliya.",
+    "context_so": "Saadaalinta qorshaynta Qaramada Midoobay ayaa ka digtay in xiritaannadu gaari karaan 618 xarumood haddii xaaladda maalgelintu aad u xumaato.",
+    "subcategory_so": "Caafimaadka",
+    "translation_so": "machine"
+  }
+]

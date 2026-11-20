@@ -1,0 +1,1551 @@
+[
+  {
+    "id": "eco-2022-09-famine-projection",
+    "date": "2022-09-05",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Humanitarian",
+    "title": "IPC projects famine in Bay region as 2020-22 drought deepens",
+    "summary": "A multi-partner IPC technical release projected Famine (IPC Phase 5) for agropastoral populations in Baidoa and Burhakaba districts and displaced people in Baidoa town for October-December 2022, after an unprecedented run of failed rainy seasons. A September 2022 analysis put about 6.7 million people across Somalia in Crisis (IPC Phase 3) or worse for the same period, including roughly 300,000 in Catastrophe (IPC Phase 5).",
+    "impact": "Set the starting point for the new government's humanitarian and economic agenda: about 6.7 million people projected in IPC Phase 3+ in late 2022.",
+    "context": "The projection assumed humanitarian assistance would not be scaled up; it was a warning scenario, not a declaration of famine.",
+    "tags": [
+      "drought",
+      "famine",
+      "IPC",
+      "FSNAU"
+    ],
+    "sources": [
+      {
+        "name": "FSNAU/IPC Multi-Partner Technical Release on Famine Projection in Bay Region (5 Sep 2022)",
+        "url": "https://fsnau.org/downloads/Multi-Partner-Technical-Release-on-Famine-Projection-in-Bay-Region-of-Somalia-5-Sep-2022.pdf",
+        "type": "international",
+        "date": "2022-09-05"
+      },
+      {
+        "name": "FSNAU: Nearly 6.7 million people across Somalia face Crisis (IPC Phase 3) or worse",
+        "url": "https://fsnau.org/in-focus/nearly-67-million-people-across-somalia-face-crisis-ipc-phase-3-or-worse-acute-food-insecur",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "IPC waxay saadaalisay macluul ka dhacda gobolka Baay iyadoo abaarta 2020-22 ay sii xoogeysanayso",
+    "summary_so": "Warbixin farsamo oo IPC ay la wadaagtay hay'ado badan ayaa saadaalisay Macluul (IPC Wajiga 5) oo ku dhacda dadka beeraleyda-xoolaleyda ah ee degmooyinka Baydhabo iyo Buurhakaba iyo dadka ku barakacay magaalada Baydhabo muddada Oktoobar-Diseembar 2022, kadib xilliyo roobaad oo isku xiga oo aan horay loo arag oo fashilmay. Falanqayn la sameeyay Sebtembar 2022 ayaa lagu qiyaasay in qiyaastii 6.7 milyan oo qof oo ku nool Soomaaliya oo dhan ay ku jiraan Xaalad Xasaradeed (IPC Wajiga 3) ama ka sii daran muddadaas, oo ay ku jiraan qiyaastii 300,000 oo ku sugan Masiibo (IPC Wajiga 5).",
+    "impact_so": "Waxay dejisay barta laga bilaabayo ajandaha bini'aadannimo iyo dhaqaale ee dowladda cusub: qiyaastii 6.7 milyan oo qof ayaa la saadaaliyay inay ku jiraan IPC Wajiga 3+ dabayaaqadii 2022.",
+    "subcategory_so": "Arrimaha bini'aadannimada",
+    "context_so": "Saadaashu waxay ku salaysnayd in gargaarka bini'aadannimo aan la kordhin; waxay ahayd xaalad digniin ah, ma ahayn ku dhawaaqid macluul.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2022-12-fy2022-outturn",
+    "date": "2022-12-01",
+    "date_precision": "month",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "FY2022 domestic revenue reaches US$262.7m as budget support resumes",
+    "summary": "The Ministry of Finance's 2022 end-year report recorded domestic revenue of US$262.67 million, 105% of target and 14.4% above 2021. Grants rose to US$459.24 million (66.1% of target), up 212.5% year on year, after donors reopened budget support that had been suspended during the 2021-22 election impasse.",
+    "impact": "Domestic revenue grew from US$229.6m (2021) to US$262.7m (2022); grants roughly tripled from US$147m.",
+    "context": "Somalia's revenue-to-GDP ratio remained among the lowest in the world (about 3% for the federal government on IMF/World Bank measures).",
+    "tags": [
+      "revenue",
+      "budget",
+      "grants",
+      "Ministry of Finance"
+    ],
+    "sources": [
+      {
+        "name": "Ministry of Finance: 2022 End-Year Budget Performance Report",
+        "url": "https://mof.gov.so/sites/default/files/Publications/2022%20End-Year%20Budget%20Performance%20Report_1.pdf",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dakhliga gudaha ee sannadka maaliyadeed 2022 wuxuu gaaray US$262.7m iyadoo taageerada miisaaniyadda dib loo bilaabay",
+    "summary_so": "Warbixinta dhammaadka sannadka 2022 ee Wasaaradda Maaliyadda ayaa diiwaangelisay dakhli gudaha oo dhan US$262.67 milyan, oo ah 105% bartilmaameedka iyo 14.4% ka badan 2021. Deeqaha ayaa kor ugu kacay US$459.24 milyan (66.1% bartilmaameedka), oo 212.5% ka badan sannadkii hore, kadib markii deeq-bixiyeyaashu dib u furay taageerada miisaaniyadda oo la hakiyay intii lagu jiray xiisadda doorashada 2021-22.",
+    "impact_so": "Dakhliga gudaha wuxuu ka kordhay US$229.6m (2021) una gaaray US$262.7m (2022); deeqaha ayaa ku dhawaad saddex jibbaarmay laga soo bilaabo US$147m.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "context_so": "Saamiga dakhliga iyo GDP-da Soomaaliya ayaa weli ka mid ahaa kuwa ugu hooseeya adduunka (qiyaastii 3% dowladda federaalka marka loo eego cabbirrada IMF/Bangiga Adduunka).",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2022-12-budget-2023",
+    "date": "2022-12-01",
+    "date_precision": "month",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "Parliament approves 2023 federal budget of about US$968m",
+    "summary": "The Federal Parliament approved the 2023 budget in December 2022, and President Hassan Sheikh Mohamud signed it into law at the end of the month. The Budget Appropriation Act lists total appropriations of US$967,731,332, with domestic revenue projected at about US$283 million and the rest from grants.",
+    "impact": "First full-year budget of the new administration, close to US$1bn for the first time.",
+    "context": "Parliament later approved a revised 2023 budget of about US$917 million (per SONNA), and the Ministry's mid-year report cites a US$950 million figure, so totals vary by version.",
+    "tags": [
+      "budget",
+      "parliament",
+      "2023"
+    ],
+    "sources": [
+      {
+        "name": "Ministry of Finance: Budget Appropriation Act 2023",
+        "url": "https://archive.mof.gov.so/sites/default/files/Publications/The_Budget_Appropriation_Act_2023_%20Approved%20by%20Cabinet.pdf",
+        "type": "government"
+      },
+      {
+        "name": "Villa Somalia: President signs the 2023 national budget",
+        "url": "https://villasomalia.gov.so/president-hassan-sheikh-signs-the-2023-national-budget-into-affect/",
+        "type": "government"
+      },
+      {
+        "name": "Dawan Africa: Parliament approves $970 million budget for 2023",
+        "url": "https://www.dawan.africa/news/somali-parliament-jointly-approves-dollar970-million-budget-for-2023-financial-year",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka ayaa ansixiyay miisaaniyadda federaalka 2023 oo qiyaastii ah US$968m",
+    "summary_so": "Baarlamaanka Federaalka ayaa ansixiyay miisaaniyadda 2023 bishii Diseembar 2022, waxaana Madaxweyne Xasan Sheekh Maxamuud u saxiixay sharci ahaan dhammaadkii bishaas. Xeerka Qoondaynta Miisaaniyadda ayaa liis gareynaya wadarta qoondaynta oo ah US$967,731,332, iyadoo dakhliga gudaha lagu saadaaliyay qiyaastii US$283 milyan, inta kalena ay ka imanayso deeqo.",
+    "impact_so": "Miisaaniyaddii ugu horreysay ee sannad buuxa ah ee maamulka cusub, oo markii ugu horreysay ku dhawaatay US$1bn.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "context_so": "Baarlamaanka ayaa markii dambe ansixiyay miisaaniyad 2023 oo dib loo eegay oo qiyaastii ah US$917 milyan (sida ay sheegtay SONNA), warbixinta badhtamaha sannadka ee Wasaaraduna waxay xustay tiro dhan US$950 milyan, sidaas darteed wadartu way kala duwan tahay iyadoo ku xiran nuqulka.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2022-12-famine-averted",
+    "date": "2022-12-13",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Humanitarian",
+    "title": "Projected famine averted for late 2022 after aid scale-up",
+    "summary": "The December 2022 IPC update found that the famine projected for October-December 2022 in Baidoa and Burhakaba had not materialised, crediting the scale-up of humanitarian assistance. The UN warned the situation remained 'catastrophic' and that famine was still projected for April-June 2023 if aid fell. In February 2023 the IPC concluded large-scale assistance would likely avert famine through June 2023.",
+    "impact": "Famine (IPC Phase 5) was not declared in 2022-23, unlike in 2011 when about 260,000 people died.",
+    "context": "Excess deaths still occurred during the 2022 drought; averting a technical famine classification did not mean averting mortality. Humanitarian funding cuts from April 2023 were flagged as a risk.",
+    "tags": [
+      "drought",
+      "famine",
+      "IPC",
+      "humanitarian aid"
+    ],
+    "sources": [
+      {
+        "name": "UN News: Somalia - Famine narrowly averted, so far",
+        "url": "https://news.un.org/en/node/1131662",
+        "type": "international",
+        "date": "2022-12-13"
+      },
+      {
+        "name": "FSNAU/IPC Updated IPC Analysis Oct 2022-Jun 2023 (13 Dec 2022)",
+        "url": "https://fsnau.org/downloads/Multi-Partner-Technical-Release-on-Updated-IPC-Analysis-for-Somalia-fo-October-2022-to-June-2023-Final-(English)-13-Dec-2022.pdf",
+        "type": "international",
+        "date": "2022-12-13"
+      },
+      {
+        "name": "Al Jazeera: Famine averted but situation 'catastrophic' in Somalia",
+        "url": "https://www.aljazeera.com/amp/news/2022/12/14/famine-averted-but-situation-catastrophic-in-somalia-un",
+        "type": "media",
+        "date": "2022-12-14"
+      },
+      {
+        "name": "Mercy Corps: Somalia has avoided famine, but humanitarian situation remains dire",
+        "url": "https://www.mercycorps.org/press-room/somalia-has-avoided-famine-but-humanitarian-situation-remains-dire",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Macluushii la saadaaliyay dabayaaqadii 2022 waa laga hortagay kadib kororka gargaarka",
+    "summary_so": "Cusboonaysiinta IPC ee Diseembar 2022 ayaa ogaatay in macluushii la saadaaliyay muddada Oktoobar-Diseembar 2022 ee Baydhabo iyo Buurhakaba aysan dhicin, iyadoo arrintaas loo aaneeyay kororka gargaarka bini'aadannimo. Qaramada Midoobay ayaa ka digtay in xaaladdu ay weli tahay 'mid masiibo ah' iyo in macluul weli la saadaalinayo Abriil-Juun 2023 haddii gargaarku hoos u dhaco. Bishii Febraayo 2023, IPC waxay go'aamisay in gargaarka baaxadda leh uu u badan yahay inuu ka hortago macluul ilaa Juun 2023.",
+    "impact_so": "Macluul (IPC Wajiga 5) laguma dhawaaqin 2022-23, taasoo ka duwan 2011 markii qiyaastii 260,000 oo qof ay dhinteen.",
+    "subcategory_so": "Arrimaha bini'aadannimada",
+    "context_so": "Dhimasho dheeraad ah ayaa weli dhacday intii lagu jiray abaartii 2022; ka hortagga kala-saaridda farsamo ee macluushu macnaheedu ma ahayn ka hortagga dhimashada. Dhimista maalgelinta bini'aadannimo laga bilaabo Abriil 2023 ayaa loo tilmaamay khatar.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2023-06-somqr",
+    "date": "2023-06-01",
+    "date_precision": "month",
+    "sector": "economy",
+    "subcategory": "Monetary & banking",
+    "title": "Central Bank launches national QR payment standard (SOMQR)",
+    "summary": "The Central Bank of Somalia launched the Unified National Quick Response Code standard, SOMQR, in June 2023, enabling interoperable person-to-person and merchant payments and government collections such as taxes and fees across mobile money and bank platforms.",
+    "impact": "A building block for interoperable digital payments in a heavily mobile-money-based, dollarised economy.",
+    "tags": [
+      "central bank",
+      "digital payments",
+      "mobile money"
+    ],
+    "sources": [
+      {
+        "name": "Central Bank of Somalia: SOMQR launch",
+        "url": "https://centralbank.gov.so/somqr/",
+        "type": "government"
+      },
+      {
+        "name": "Africanews: New digital payment system to revolutionise business in Somalia",
+        "url": "https://www.africanews.com/2023/06/22/new-digital-payment-system-to-revolutionise-business-in-somalia/",
+        "type": "media",
+        "date": "2023-06-22"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Bankiga Dhexe wuxuu daah-furay heerka lacag-bixinta QR ee qaranka (SOMQR)",
+    "summary_so": "Bankiga Dhexe ee Soomaaliya ayaa bishii Juun 2023 daah-furay heerka Koodhka Jawaab-Degdegga ah ee Qaranka ee Midaysan, SOMQR, kaasoo suurtageliya lacag-bixinno is-dhexgal leh oo qof-ilaa-qof iyo ganacsato ah iyo ururinta dowladda sida canshuuraha iyo khidmadaha, iyadoo la adeegsanayo madalaha lacagta mobilada iyo bangiyada.",
+    "impact_so": "Tiir aasaasi ah oo loogu talagalay lacag-bixinno dijitaal ah oo is-dhexgal leh, dhaqaale si weyn ugu tiirsan lacagta mobilada isla markaana ku shaqeeya doolarka.",
+    "subcategory_so": "Lacagta iyo bangiyada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2023-07-russia-debt",
+    "date": "2023-07-27",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "Russia agrees to write off about US$684m of Somali debt",
+    "summary": "On the sidelines of the Russia-Africa summit in St Petersburg, Finance Minister Bihi Iman Egeh and Russian Deputy Finance Minister Timur Maksimov signed an agreement settling about US$684 million of Somalia's Soviet-era debt. Officials framed it as accelerating Somalia's path to the HIPC Completion Point.",
+    "impact": "Removed one of Somalia's largest bilateral claims (the IMF put debt owed to Russia at nearly US$695m in 2019).",
+    "context": "Reports differ on structure: some say part was written off immediately and part rescheduled; signing is dated 26 or 27 July in different reports.",
+    "tags": [
+      "Russia",
+      "bilateral debt",
+      "HIPC"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online: Russia writes off Somalia's $684 million debt",
+        "url": "https://www.garoweonline.com/en/news/somalia/russia-writes-off-somalia-s-684-million-debt",
+        "type": "media"
+      },
+      {
+        "name": "The Globe and Mail (Reuters): Somalia says Russia grants relief on debt worth $684 million",
+        "url": "https://theglobeandmail.com/world/article-somalia-says-russia-grants-relief-on-debt-worth-684-million-2/",
+        "type": "media"
+      },
+      {
+        "name": "SONNA: Russia waives $684 million debt owed by Somalia",
+        "url": "https://sonna.so/en/russia-waives-684-million-debt-owed-by-somalia-strengthening-bilateral-ties",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ruushka wuxuu ogolaaday inuu cafiyo qiyaastii US$684m oo deyn Soomaaliyeed ah",
+    "summary_so": "Shirka Ruushka iyo Afrika ee ka dhacay St Petersburg daraftiisa, Wasiirka Maaliyadda Biixi Iimaan Cige iyo Ku-xigeenka Wasiirka Maaliyadda Ruushka Timur Maksimov ayaa saxiixay heshiis lagu xallinayo qiyaastii US$684 milyan oo ka mid ah deynta Soomaaliya ee xilligii Midowgii Soofiyeeti. Saraakiishu waxay ku tilmaameen inuu dardar gelinayo waddada Soomaaliya ee loo marayo Barta Dhammaystirka HIPC.",
+    "impact_so": "Wuxuu meesha ka saaray mid ka mid ah dalabaadka laba-geesoodka ah ee ugu waaweyn ee Soomaaliya laga leeyahay (IMF waxay ku qiyaastay deynta Ruushka lagu leeyahay ku dhawaad US$695m sannadkii 2019).",
+    "subcategory_so": "Cafinta deynta",
+    "context_so": "Warbixinnadu way ku kala duwan yihiin qaab-dhismeedka: qaar ayaa sheegaya in qayb isla markiiba la cafiyay qaybna dib loo jadwaleeyay; saxiixa waxaa warbixinno kala duwan ku taariikhaysiiyay 26 ama 27 Luulyo.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2023-12-arms-embargo-lifted",
+    "date": "2023-12-01",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Trade & integration",
+    "title": "UN Security Council lifts arms embargo on the federal government",
+    "summary": "UN Security Council resolution 2714 (2023), adopted unanimously on 1 December 2023, ended the arms embargo on the Federal Government of Somalia first imposed in 1992. Measures targeting al-Shabaab remained under a separate regime.",
+    "impact": "Removed a long-standing sanctions marker that weighed on Somalia's risk perception, alongside debt relief and EAC accession in the same month.",
+    "context": "Primarily a security measure; any investment effect is indirect and not quantified by official sources. Some analysts raised concerns about weapons leakage.",
+    "tags": [
+      "UN Security Council",
+      "sanctions",
+      "investment climate"
+    ],
+    "sources": [
+      {
+        "name": "UN Digital Library: Resolution 2714 (2023)",
+        "url": "https://digitallibrary.un.org/record/4029177",
+        "type": "international",
+        "date": "2023-12-01"
+      },
+      {
+        "name": "UN Press: Security Council meeting coverage SC/15511",
+        "url": "https://press.un.org/2023/sc15511.doc.htm",
+        "type": "international",
+        "date": "2023-12-01"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Golaha Ammaanka ee Qaramada Midoobay wuxuu ka qaaday cunaqabateynta hubka dowladda federaalka",
+    "summary_so": "Qaraarka Golaha Ammaanka ee Qaramada Midoobay 2714 (2023), oo si wadajir ah loo ansixiyay 1 Diseembar 2023, ayaa soo afjaray cunaqabateynta hubka ee Dowladda Federaalka Soomaaliya oo markii ugu horreysay la saaray 1992. Tallaabooyinka lagu beegsanayo Al-Shabaab waxay ku sii jireen nidaam gooni ah.",
+    "impact_so": "Wuxuu meesha ka saaray calaamad cunaqabateyn oo muddo dheer jirtay oo saameyn ku lahayd sida loo arko khatarta Soomaaliya, isla bishii ay dhaceen cafinta deynta iyo ku biirista EAC.",
+    "subcategory_so": "Ganacsiga iyo is-dhexgalka",
+    "context_so": "Asal ahaan waa tallaabo amni; saameyn kasta oo maalgashi waa mid aan toos ahayn oo ilaha rasmiga ahi aysan qiyaasin. Falanqeeyayaal qaar ayaa walaac ka muujiyay in hubku gacmo khaldan galo.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2023-12-budget-2024",
+    "date": "2023-12-09",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "Parliament passes 2024 budget of about US$1.08bn",
+    "summary": "A joint session of the Federal Parliament approved the 2024 budget on 9 December 2023 by 186 votes to 3, reported at US$1.08 billion, up from about US$970 million for 2023. The cabinet's October 2023 proposal had been US$1,025,687,991, with most financing expected from development partners.",
+    "impact": "First federal budget above US$1bn.",
+    "context": "Hiiraan reported the parliament did not publish the final approved budget, so the exact enacted total is not confirmed in a published document; later audit reporting cited US$1.08bn approved with about 84% execution.",
+    "tags": [
+      "budget",
+      "parliament",
+      "2024"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa: Parliament approves $1.08 billion budget for 2024",
+        "url": "https://dawan.africa/news/somali-parliament-jointly-approves-dollar108-billion-budget-for-2024-fiscal-year",
+        "type": "media"
+      },
+      {
+        "name": "Hiiraan Online: Parliament approves over billion dollar federal budget for 2024",
+        "url": "https://hiiraan.com/news4/2023/Dec/194118/somali_parliament_approves_over_billion_dollar_federal_budget_for_2024.aspx",
+        "type": "media"
+      },
+      {
+        "name": "SONNA: Somali parliament approves government budget 2024",
+        "url": "https://sonna.so/en/somali-parliament-approves-government-budget-2024",
+        "type": "government"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka ayaa meel mariyay miisaaniyadda 2024 oo qiyaastii ah US$1.08bn",
+    "summary_so": "Kal-fadhi wadajir ah oo Baarlamaanka Federaalka ah ayaa 9 Diseembar 2023 ansixiyay miisaaniyadda 2024 iyadoo 186 cod ay taageereen 3-na ay diideen, waxaana la sheegay inay tahay US$1.08 bilyan, taasoo ka korodhay qiyaastii US$970 milyan ee 2023. Soo-jeedinta golaha wasiirrada ee Oktoobar 2023 waxay ahayd US$1,025,687,991, iyadoo maalgelinta inteeda badan laga filayay shuraakada horumarinta.",
+    "impact_so": "Miisaaniyaddii federaalka ee ugu horreysay ee dhaafta US$1bn.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "context_so": "Hiiraan ayaa sheegtay in baarlamaanku uusan daabicin miisaaniyadda kama dambaysta ah ee la ansixiyay, sidaas darteed wadarta saxda ah ee la meel mariyay lagama xaqiijin dukumenti la daabacay; warbixinno xisaab-xir oo dambe ayaa xusay US$1.08bn oo la ansixiyay iyo qiyaastii 84% fulin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2023-12-hipc-completion",
+    "date": "2023-12-13",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "Somalia reaches HIPC Completion Point: US$4.5bn in debt relief",
+    "summary": "The IMF and World Bank (IDA) boards determined that Somalia had reached the Completion Point under the Enhanced HIPC Initiative, the 37th country to do so. Total debt service savings are about US$4.5 billion, including about US$4.2bn under HIPC, MDRI and beyond-HIPC relief; the IMF portion was US$343.2m, IDA US$448.5m and the African Development Fund US$131.0m, with bilateral and commercial creditors accounting for about US$3bn.",
+    "impact": "External debt fell from US$5.3bn (64% of GDP) at end-2018 to about US$0.6bn (under 6% of GDP) by end-2023, restoring access to concessional finance.",
+    "context": "The process began with Decision Point in March 2020 under the previous administration; completion depended on reforms over several governments and on creditor delivery of bilateral agreements afterwards.",
+    "tags": [
+      "HIPC",
+      "IMF",
+      "World Bank",
+      "debt"
+    ],
+    "sources": [
+      {
+        "name": "IMF Press Release 23/438",
+        "url": "https://www.imf.org/en/News/Articles/2023/12/13/pr23438-imf-and-world-bank-announce-us-4-5-billion-in-debt-relief-for-somalia",
+        "type": "international",
+        "date": "2023-12-13"
+      },
+      {
+        "name": "World Bank press release",
+        "url": "https://www.worldbank.org/en/news/press-release/2023/12/13/imf-and-world-bank-announce-us-4-5-billion-in-debt-relief-for-somalia-afe-1223",
+        "type": "international",
+        "date": "2023-12-13"
+      },
+      {
+        "name": "IMF: Key Questions on Somalia",
+        "url": "https://www.imf.org/en/Countries/SOM/key-questions-on-somalia",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Soomaaliya waxay gaartay Barta Dhammaystirka HIPC: US$4.5bn oo cafinta deynta ah",
+    "summary_so": "Guddiyada IMF iyo Bangiga Adduunka (IDA) ayaa go'aamiyay in Soomaaliya ay gaartay Barta Dhammaystirka ee Hindisaha HIPC ee la Xoojiyay, iyadoo noqotay dalkii 37aad ee sidaas gaara. Wadarta keydka bixinta deynta waa qiyaastii US$4.5 bilyan, oo ay ku jiraan qiyaastii US$4.2bn oo cafis ah oo hoos yimaada HIPC, MDRI iyo cafiska ka baxsan HIPC; qaybta IMF waxay ahayd US$343.2m, IDA US$448.5m, Sanduuqa Horumarinta Afrika US$131.0m, halka deyn-bixiyeyaasha laba-geesoodka ah iyo kuwa ganacsiga ay lahaayeen qiyaastii US$3bn.",
+    "impact_so": "Deynta dibadda waxay ka dhacday US$5.3bn (64% GDP-da) dhammaadkii 2018 waxayna gaartay qiyaastii US$0.6bn (wax ka yar 6% GDP-da) dhammaadkii 2023, taasoo dib u soo celisay helitaanka maalgelinta dulsaarka jilicsan.",
+    "subcategory_so": "Cafinta deynta",
+    "context_so": "Hannaanku wuxuu ka bilaabmay Barta Go'aanka bishii Maarso 2020 xilligii maamulkii hore; dhammaystirku wuxuu ku xirnaa dib-u-habeyn ay sameeyeen dowlado dhowr ah iyo in deyn-bixiyeyaashu ay kadib fuliyaan heshiisyada laba-geesoodka ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2023-12-eac-accession-treaty",
+    "date": "2023-12-15",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Trade & integration",
+    "title": "Somalia signs Treaty of Accession to the East African Community",
+    "summary": "Following the EAC Heads of State summit's decision of 24 November 2023 to admit Somalia, President Hassan Sheikh Mohamud signed the Treaty of Accession at State House Entebbe on 15 December 2023, with summit chair Salva Kiir. Somalia then had six months to deposit its instrument of ratification.",
+    "impact": "Opened access to the EAC customs union and common market framework and to regional institutions.",
+    "context": "Membership obligations (Common External Tariff, standards, macro-convergence) require substantial customs and legal reforms; trade with most EAC states other than Kenya remained limited.",
+    "tags": [
+      "EAC",
+      "regional integration",
+      "trade"
+    ],
+    "sources": [
+      {
+        "name": "The New Times: Somalia signs Treaty of Accession with EAC",
+        "url": "https://newtimes.co.rw/article/13129/news/africa/somalia-signs-treaty-of-accession-with-eac",
+        "type": "media"
+      },
+      {
+        "name": "Africanews: Somalia signs treaty to formally join East African Community",
+        "url": "https://www.africanews.com/2023/12/16/somalia-signs-treaty-to-formally-join-east-african-community/",
+        "type": "media",
+        "date": "2023-12-16"
+      },
+      {
+        "name": "EAC: Somalia to sign Treaty of Accession today",
+        "url": "https://eac.int/press-releases/2989-somali-to-sign-treaty-of-accession-with-the-east-african-community-today",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Soomaaliya waxay saxiixday Heshiiska Ku-biirista Bulshada Bariga Afrika",
+    "summary_so": "Kadib go'aankii shirka Madaxda Dowladaha EAC ee 24 Nofembar 2023 ee lagu aqbalay Soomaaliya, Madaxweyne Xasan Sheekh Maxamuud ayaa Heshiiska Ku-biirista ku saxiixay Aqalka Dowladda ee Entebbe 15 Diseembar 2023, isagoo la jooga guddoomiyaha shirka Salva Kiir. Soomaaliya waxaa markaas la siiyay lix bilood si ay u gudbiso dukumentiga ansixinta.",
+    "impact_so": "Wuxuu furay helitaanka midowga kastamka iyo qaab-dhismeedka suuqa wadajirka ah ee EAC iyo hay'adaha gobolka.",
+    "subcategory_so": "Ganacsiga iyo is-dhexgalka",
+    "context_so": "Waajibaadka xubinnimada (Canshuurta Dibadda ee Wadajirka ah, heerarka tayada, iyo isu-dhawaanshaha dhaqaalaha guud) waxay u baahan yihiin dib-u-habeyn ballaaran oo kastam iyo sharci; ganacsiga lala yeesho inta badan dalalka EAC marka laga reebo Kenya wuxuu ahaa mid xaddidan.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2023-12-new-ecf",
+    "date": "2023-12-19",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "IMF approves new three-year ECF arrangement of about US$100m",
+    "summary": "The IMF Executive Board approved a 36-month Extended Credit Facility arrangement of SDR 75 million (about US$100 million), with an immediate disbursement of about US$40 million for budget support. It followed completion of the sixth and final review of the previous ECF on 13 December 2023.",
+    "impact": "Anchors post-HIPC reforms in revenue, public financial management, central bank governance and AML/CFT.",
+    "tags": [
+      "IMF",
+      "ECF"
+    ],
+    "sources": [
+      {
+        "name": "IMF Press Release 23/463",
+        "url": "https://www.imf.org/en/news/articles/2023/12/19/pr23463-somalia-imf-executive-board-approves-usd100-million-under-new-ecf-arrangement",
+        "type": "international",
+        "date": "2023-12-19"
+      },
+      {
+        "name": "IMF Press Release 23/437 (sixth review of previous ECF)",
+        "url": "https://www.imf.org/en/News/Articles/2023/12/13/pr23437-imf-concludes-the-sixth-review-of-the-extended-credit-facility-for-somalia",
+        "type": "international",
+        "date": "2023-12-13"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "IMF waxay ansixisay barnaamij cusub oo ECF ah oo saddex sano ah oo qiyaastii ah US$100m",
+    "summary_so": "Guddiga Fulinta ee IMF ayaa ansixiyay barnaamij 36 bilood ah oo Extended Credit Facility (ECF) ah oo dhan SDR 75 milyan (qiyaastii US$100 milyan), iyadoo isla markiiba la bixiyay qiyaastii US$40 milyan oo taageero miisaaniyadeed ah. Wuxuu ku xigay dhammaystirka dib-u-eegistii lixaad iyo tii ugu dambeysay ee ECF-gii hore 13 Diseembar 2023.",
+    "impact_so": "Wuxuu xoojinayaa dib-u-habeynta kadib HIPC ee dakhliga, maareynta maaliyadda dowladda, maamulka bankiga dhexe iyo la dagaallanka lacag-dhaqidda iyo maalgelinta argagixisada (AML/CFT).",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-03-eac-full-member",
+    "date": "2024-03-04",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Trade & integration",
+    "title": "Somalia becomes full EAC member as eighth Partner State",
+    "summary": "Somalia's Minister of Commerce and Industry deposited the instrument of ratification of the Treaty of Accession with EAC Secretary General Peter Mathuki in Arusha on 4 March 2024, completing its admission as the bloc's eighth Partner State.",
+    "impact": "Formal start of obligations and benefits under the EAC customs union and common market.",
+    "context": "Somalia still had to elect nine members of the East African Legislative Assembly and appoint an East African Court of Justice judge; tariff alignment is a multi-year process.",
+    "tags": [
+      "EAC",
+      "regional integration"
+    ],
+    "sources": [
+      {
+        "name": "EAC: Somalia finally joins EAC as the bloc's 8th Partner State",
+        "url": "https://eac.int/press-releases/3049-somalia-finally-joins-eac-as-the-bloc-s-8th-partner-state",
+        "type": "international",
+        "date": "2024-03-04"
+      },
+      {
+        "name": "The EastAfrican: Somalia gains full membership of East African Community",
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-gains-full-membership-of-east-african-community-4545276",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Soomaaliya waxay noqotay xubin buuxda oo EAC ah, iyadoo ah Dowladda Xubinta ah ee siddeedaad",
+    "summary_so": "Wasiirka Ganacsiga iyo Warshadaha Soomaaliya ayaa 4 Maarso 2024 ku gudbiyay dukumentiga ansixinta Heshiiska Ku-biirista Xoghayaha Guud ee EAC Peter Mathuki magaalada Arusha, taasoo dhammaystirtay ku biiritaankeeda iyadoo ah Dowladda Xubinta ah ee siddeedaad ee ururka.",
+    "impact_so": "Bilowga rasmiga ah ee waajibaadka iyo faa'iidooyinka hoos yimaada midowga kastamka iyo suuqa wadajirka ah ee EAC.",
+    "subcategory_so": "Ganacsiga iyo is-dhexgalka",
+    "context_so": "Soomaaliya waxaa weli looga baahnaa inay doorato sagaal xubnood oo Golaha Sharci-dejinta Bariga Afrika ah iyo inay magacawdo garsoore Maxkamadda Caddaaladda Bariga Afrika; waafajinta canshuuraha waa hannaan qaadanaya sannado badan.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-03-turkey-hydrocarbons-framework",
+    "date": "2024-03-07",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Natural resources",
+    "title": "Somalia and Turkey sign hydrocarbons cooperation agreement",
+    "summary": "Somalia and Turkey signed an intergovernmental agreement in Istanbul on 7 March 2024 covering exploration, appraisal, development and production of oil and gas onshore and offshore, weeks after a separate defence and maritime agreement.",
+    "impact": "Laid the legal basis for the first Turkish seismic and drilling campaigns off Somalia.",
+    "context": "Leaked texts reported by media suggested terms heavily favourable to Turkey (headlines cited rights to up to 90% of output); the full terms have not been officially published.",
+    "tags": [
+      "Turkey",
+      "oil and gas",
+      "TPAO"
+    ],
+    "sources": [
+      {
+        "name": "VOA: Turkey, Somalia announce agreement to explore for oil and gas",
+        "url": "https://www.voanews.com/a/turkey-somalia-announce-agreement-to-explore-for-oil-and-gas/7518959.html",
+        "type": "media",
+        "date": "2024-03-08"
+      },
+      {
+        "name": "The EastAfrican: Somalia, Turkey sign energy cooperation deal",
+        "url": "https://theeastafrican.co.ke/tea/business-tech/somalia-turkey-sign-energy-cooperation-deal-4548566",
+        "type": "media"
+      },
+      {
+        "name": "Somali Guardian: Turkey secures rights to 90 percent of oil and gas output, document shows",
+        "url": "https://www.somaliguardian.com/news/somalia-news/turkey-secures-rights-to-90-percent-of-oil-and-gas-output-in-somalia-deal-document-shows/",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Soomaaliya iyo Turkiga waxay saxiixeen heshiis iskaashi oo shidaal iyo gaas ah",
+    "summary_so": "Soomaaliya iyo Turkiga ayaa 7 Maarso 2024 magaalada Istanbul ku saxiixay heshiis dowladeed oo daboolaya sahaminta, qiimeynta, horumarinta iyo soo saarista shidaalka iyo gaaska ee berriga iyo badda, toddobaadyo kadib heshiis gaar ah oo difaac iyo badeed.",
+    "impact_so": "Wuxuu dhigay saldhigga sharci ee ololihii ugu horreeyay ee sahaminta seismic-ga iyo qodista ee Turkiga ee badda Soomaaliya.",
+    "subcategory_so": "Kheyraadka dabiiciga ah",
+    "context_so": "Qoraallo la daadiyay oo warbaahintu soo werisay ayaa muujiyay shuruudo si weyn Turkiga ugu janjeera (cinwaannada waxay xuseen xuquuq gaaraysa ilaa 90% wax soo saarka); shuruudaha oo dhammaystiran si rasmi ah looma daabicin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-03-imf-first-review",
+    "date": "2024-03-08",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "IMF staff reach agreement on first review of the new ECF",
+    "summary": "IMF staff and the Somali authorities reached a staff-level agreement on the first review of the ECF arrangement approved in December 2023, which the Executive Board subsequently completed in mid-2024.",
+    "impact": "Kept post-HIPC budget support from the IMF on track in the programme's first year.",
+    "tags": [
+      "IMF",
+      "ECF"
+    ],
+    "sources": [
+      {
+        "name": "IMF Press Release 24/77",
+        "url": "https://www.imf.org/en/news/articles/2024/03/08/pr-2477-somalia-staff-level-agreement-on-the-first-review-of-the-ecf-arrangement",
+        "type": "international",
+        "date": "2024-03-08"
+      },
+      {
+        "name": "Capital Ethiopia: IMF Executive Board concludes first review of ECF for Somalia",
+        "url": "https://capitalethiopia.com/2024/06/03/imf-executive-board-concludes-the-first-review-of-the-extended-credit-facility-for-somalia/",
+        "type": "media",
+        "date": "2024-06-03"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Shaqaalaha IMF waxay heshiis ka gaareen dib-u-eegista koowaad ee ECF-ga cusub",
+    "summary_so": "Shaqaalaha IMF iyo mas'uuliyiinta Soomaaliyeed ayaa heshiis heer shaqaale ah ka gaaray dib-u-eegista koowaad ee barnaamijka ECF ee la ansixiyay Diseembar 2023, kaasoo Guddiga Fulintu markii dambe dhammaystiray badhtamihii 2024.",
+    "impact_so": "Wuxuu sannadka koowaad ee barnaamijka sii wadi jiray taageerada miisaaniyadda ee IMF ee kadib HIPC.",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-03-paris-club",
+    "date": "2024-03-13",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "Paris Club creditors cancel over US$2bn (99%) of Somalia's debt",
+    "summary": "Following Completion Point, Paris Club creditors agreed to treat US$2,042 million of claims: US$1,227 million cancelled outright and US$815 million rescheduled, with creditors also offering voluntary bilateral cancellation of the rescheduled US$815 million. In total this is more than US$2.0 billion, 99% of debt owed to Paris Club members as of January 2023.",
+    "impact": "Largest single block of bilateral relief; implemented through subsequent bilateral agreements (e.g. US, France).",
+    "context": "Implementation depends on each creditor signing a bilateral agreement, which took months to years.",
+    "tags": [
+      "Paris Club",
+      "bilateral debt"
+    ],
+    "sources": [
+      {
+        "name": "Paris Club press release, 13 March 2024",
+        "url": "https://clubdeparis.org/sites/default/files/node/field_news_files/20240313-_pr_somalia_13_march_2024.pdf",
+        "type": "international",
+        "date": "2024-03-13"
+      },
+      {
+        "name": "The EastAfrican: Paris Club creditors agree to cancel over $2bn of Somali debt",
+        "url": "https://www.theeastafrican.co.ke/tea/business/paris-club-creditors-agree-to-cancel-over-2bn-of-somali-debt-4556304",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Deyn-bixiyeyaasha Naadiga Paris waxay cafiyeen in ka badan US$2bn (99%) deynta Soomaaliya",
+    "summary_so": "Kadib Barta Dhammaystirka, deyn-bixiyeyaasha Naadiga Paris ayaa ogolaaday inay wax ka qabtaan US$2,042 milyan oo dalabaad ah: US$1,227 milyan oo gebi ahaanba la cafiyay iyo US$815 milyan oo dib loo jadwaleeyay, iyadoo deyn-bixiyeyaashu ay sidoo kale soo bandhigeen cafis laba-geesood ah oo ikhtiyaari ah oo loogu talagalay US$815 milyan ee dib loo jadwaleeyay. Guud ahaan tani waa in ka badan US$2.0 bilyan, oo ah 99% deynta xubnaha Naadiga Paris lagu lahaa laga bilaabo Janaayo 2023.",
+    "impact_so": "Qaybta ugu weyn ee keliya ee cafinta laba-geesoodka ah; waxaa lagu fuliyay heshiisyo laba-geesood ah oo xigay (tusaale, Mareykanka, Faransiiska).",
+    "subcategory_so": "Cafinta deynta",
+    "context_so": "Fulintu waxay ku xiran tahay in deyn-bixiye kasta uu saxiixo heshiis laba-geesood ah, taasoo qaadatay bilo ilaa sannado.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-07-tpao-production-agreement",
+    "date": "2024-07-18",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Natural resources",
+    "title": "TPAO and Somali Petroleum Authority sign exploration and production agreement",
+    "summary": "Turkish Petroleum (TPAO) and the Somali Petroleum Authority signed a hydrocarbon exploration and production agreement covering three offshore blocks, giving Turkey exclusive exploration and production rights there.",
+    "impact": "Directly led to the Oruc Reis seismic survey (2024-25) and the Curad-1 well (2026).",
+    "context": "Critics questioned transparency and revenue-sharing terms; official texts were not published in full.",
+    "tags": [
+      "Turkey",
+      "TPAO",
+      "oil and gas",
+      "PSA"
+    ],
+    "sources": [
+      {
+        "name": "Daily Sabah: Türkiye, Somalia sign deal on cooperation in hydrocarbons field",
+        "url": "https://www.dailysabah.com/business/energy/turkiye-somalia-sign-deal-on-cooperation-in-hydrocarbons-field",
+        "type": "media"
+      },
+      {
+        "name": "Eastleigh Voice: Turkey secures rights to 90% of oil and gas output in deal with Somalia",
+        "url": "https://eastleighvoice.co.ke/oil%20and%20gas/141458/turkey-secures-rights-to-90-of-oil-and-gas-output-in-deal-with-somalia",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "TPAO iyo Hay'adda Batroolka Soomaaliya waxay saxiixeen heshiis sahamin iyo soo saarid",
+    "summary_so": "Shirkadda Batroolka Turkiga (TPAO) iyo Hay'adda Batroolka Soomaaliya ayaa saxiixay heshiis sahamin iyo soo saarid shidaal oo daboolaya saddex baloog oo badda ku yaal, kaasoo Turkiga siinaya xuquuq gaar ah oo sahamin iyo soo saarid ee meelahaas.",
+    "impact_so": "Wuxuu si toos ah u horseeday sahaminta seismic-ga ee Oruc Reis (2024-25) iyo ceelka Curad-1 (2026).",
+    "subcategory_so": "Kheyraadka dabiiciga ah",
+    "context_so": "Dhaleeceeyayaal ayaa su'aal ka keenay daahfurnaanta iyo shuruudaha qaybsiga dakhliga; qoraallada rasmiga ah si buuxda looma daabicin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-07-wb-dpf1",
+    "date": "2024-07-30",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "World Bank approves US$125m budget-support grant (DPF 1)",
+    "summary": "The World Bank Board approved a US$125 million IDA grant, the first of two Development Policy Financing operations for economic resilience, supporting essential public services and reforms including drought index insurance for 180,000 pastoralists, cheaper and greener electricity, and fisheries development.",
+    "impact": "Largest single on-budget grant in 2024; about US$122.2m disbursed on 22 August 2024.",
+    "tags": [
+      "World Bank",
+      "IDA",
+      "budget support"
+    ],
+    "sources": [
+      {
+        "name": "World Bank press release, 30 July 2024",
+        "url": "https://www.worldbank.org/en/news/press-release/2024/07/31/somalia-afe-taps-world-bank-support-to-promote-economic-resilience",
+        "type": "international",
+        "date": "2024-07-30"
+      },
+      {
+        "name": "World Bank project P501988",
+        "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P501988",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Bangiga Adduunka wuxuu ansixiyay deeq taageero miisaaniyadeed oo US$125m ah (DPF 1)",
+    "summary_so": "Guddiga Bangiga Adduunka ayaa ansixiyay deeq IDA ah oo dhan US$125 milyan, taasoo ah tii ugu horreysay ee laba hawlgal oo Maalgelinta Siyaasadda Horumarinta (DPF) ah oo loogu talagalay adkeysiga dhaqaalaha, kuna taageeraysa adeegyada aasaasiga ah ee dadweynaha iyo dib-u-habeyn ay ka mid yihiin caymiska abaarta ee ku salaysan tusmada oo loogu talagalay 180,000 oo xoolaley ah, koronto ka jaban oo ka nadiifsan, iyo horumarinta kalluumeysiga.",
+    "impact_so": "Deeqdii ugu weyneyd ee keliya ee miisaaniyadda dhex marta sannadkii 2024; qiyaastii US$122.2m ayaa la bixiyay 22 Ogoosto 2024.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-10-hobyo-port",
+    "date": "2024-10-08",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Infrastructure",
+    "title": "Agreement to develop Hobyo port with Turkish firm",
+    "summary": "Hobyo Investment Company signed an 80-year agreement with Turkish firm Metag Holding to build and operate a port at Hobyo (Galmudug), with reported investment of about US$70 million and construction slated to start in December 2024.",
+    "impact": "Intended to ease congestion at Mogadishu port and offer an alternative corridor to central Somalia and Ethiopia.",
+    "context": "Hobyo has had earlier announced port deals (e.g. Qatar in 2019) that did not materialise; construction progress should be tracked.",
+    "tags": [
+      "ports",
+      "Turkey",
+      "Galmudug"
+    ],
+    "sources": [
+      {
+        "name": "Bloomberg: Somalia to start development of $70 million port in December",
+        "url": "https://www.bloomberg.com/news/articles/2024-10-08/somalia-to-start-development-of-70-million-port-in-december",
+        "type": "media",
+        "date": "2024-10-08"
+      },
+      {
+        "name": "VOA Africa: Turkish firm agrees to expand ancient Somali Hobyo port",
+        "url": "https://www.voaafrica.com/a/7817114.html",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Heshiis lagu horumarinayo dekedda Hobyo oo lala galay shirkad Turki ah",
+    "summary_so": "Shirkadda Maalgashiga Hobyo ayaa heshiis 80 sano ah la saxiixatay shirkadda Turkiga ah ee Metag Holding si ay u dhisto una maamusho deked ku taal Hobyo (Galmudug), iyadoo maalgashiga la sheegay uu yahay qiyaastii US$70 milyan, dhismuhuna la qorsheeyay inuu bilaabmo Diseembar 2024.",
+    "impact_so": "Waxaa loogu talagalay inuu yareeyo culayska dekedda Muqdisho iyo inuu bixiyo waddo ganacsi oo kale oo loo maro bartamaha Soomaaliya iyo Itoobiya.",
+    "subcategory_so": "Kaabayaasha dhaqaalaha",
+    "context_so": "Hobyo waxaa horay loogu dhawaaqay heshiisyo deked (tusaale, Qatar 2019) oo aan hirgelin; horumarka dhismaha waa in la la socdaa.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-10-oruc-reis",
+    "date": "2024-10-25",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Natural resources",
+    "title": "Turkish seismic vessel Oruc Reis begins offshore survey",
+    "summary": "The Oruc Reis research vessel docked in Mogadishu on 25 October 2024 and began a seismic survey of three offshore blocks (about 4,464 km2). Turkey's energy minister said the 234-day mission was completed in mid-2025.",
+    "impact": "Produced the 3D seismic data used to site Somalia's first deepwater well.",
+    "tags": [
+      "Turkey",
+      "seismic",
+      "oil and gas"
+    ],
+    "sources": [
+      {
+        "name": "Hiiraan Online: Türkiye's Oruc Reis arrives off Somalia for seismic oil and gas survey",
+        "url": "https://www.hiiraan.com/news4/2024/oct/198636/t%C3%BCrkiye_s_oruc_reis_arrives_off_somalia_for_seismic_oil_and_gas_survey.aspx",
+        "type": "media",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Hurriyet Daily News: Oruç Reis vessel completes mission in Somali waters",
+        "url": "https://www.hurriyetdailynews.com/oruc-reis-vessel-completes-mission-in-somali-waters-210240",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Markabka sahaminta seismic-ga ee Turkiga Oruc Reis wuxuu bilaabay sahamin badeed",
+    "summary_so": "Markabka cilmi-baarista ee Oruc Reis ayaa 25 Oktoobar 2024 ku soo xirtay Muqdisho wuxuuna bilaabay sahamin seismic ah oo lagu sameynayo saddex baloog oo badda ku yaal (qiyaastii 4,464 km2). Wasiirka tamarta Turkiga ayaa sheegay in hawlgalkii 234-ta maalmood ahaa la dhammaystiray badhtamihii 2025.",
+    "impact_so": "Wuxuu soo saaray xogta seismic-ga 3D ee loo adeegsaday doorashada goobta ceelka biyaha qoto-dheer ee ugu horreeya Soomaaliya.",
+    "subcategory_so": "Kheyraadka dabiiciga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-10-imf-article-iv",
+    "date": "2024-10-31",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "IMF Article IV and second ECF review: growth upgraded to 4%",
+    "summary": "IMF staff concluded the 2024 Article IV consultation and reached a staff-level agreement on the second ECF review. Growth was upgraded to 4% for 2024 and 2025, inflation projected at 4.5% by end-2024, and the 2025 draft budget projected domestic revenue of 3.3% of GDP. Reforms cited include customs modernisation, a new income tax law, payroll integrity, extractives legal framework and plans to reintroduce the Somali shilling under a currency board.",
+    "impact": "Confirmed the macro framework after HIPC and set out the currency-reform timeline (18-24 months once prerequisites and financing are in place).",
+    "tags": [
+      "IMF",
+      "Article IV",
+      "ECF",
+      "currency"
+    ],
+    "sources": [
+      {
+        "name": "IMF Press Release 24/401",
+        "url": "https://www.imf.org/en/News/Articles/2024/10/31/pr-24401-somalia-imf-staff-conclude-aiv-discussions-and-reach-sla-on-the-2nd-rev-under-the-ecf",
+        "type": "international",
+        "date": "2024-10-31"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "IMF Article IV iyo dib-u-eegista labaad ee ECF: korriinka waxaa loo kordhiyay 4%",
+    "summary_so": "Shaqaalaha IMF ayaa soo gabagabeeyay wadatashiga Article IV ee 2024 waxayna heshiis heer shaqaale ah ka gaareen dib-u-eegista labaad ee ECF. Korriinka waxaa loo kordhiyay 4% sannadaha 2024 iyo 2025, sicir-bararka waxaa lagu saadaaliyay 4.5% dhammaadka 2024, qabyo-qoraalka miisaaniyadda 2025-na wuxuu dakhliga gudaha ku saadaaliyay 3.3% GDP-da. Dib-u-habeynta la xusay waxaa ka mid ah casriyeynta kastamka, sharci cusub oo canshuurta dakhliga, hufnaanta mushaarka, qaab-dhismeedka sharci ee macdanta iyo shidaalka, iyo qorshayaal dib loogu soo celinayo shilinka Soomaaliga iyadoo la adeegsanayo guddi lacageed (currency board).",
+    "impact_so": "Wuxuu xaqiijiyay qaab-dhismeedka dhaqaalaha guud kadib HIPC wuxuuna dejiyay jadwalka dib-u-habeynta lacagta (18-24 bilood marka shuruudaha horudhaca ah iyo maalgelintu diyaar noqdaan).",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-11-us-debt",
+    "date": "2024-11-05",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "United States cancels about US$1.14bn of Somali debt",
+    "summary": "US Ambassador Richard Riley and Finance Minister Bihi Iman Egeh signed a bilateral agreement forgiving about US$1.14 billion owed to the US, implementing the Paris Club deal. The US was Somalia's largest bilateral creditor.",
+    "impact": "Covered roughly a quarter of Somalia's remaining pre-relief debt and was described as the largest single component of the HIPC relief.",
+    "tags": [
+      "United States",
+      "bilateral debt",
+      "Paris Club"
+    ],
+    "sources": [
+      {
+        "name": "The EastAfrican: US cancels $1.1 billion of Somalia debt",
+        "url": "https://theeastafrican.co.ke/tea/business-tech/us-cancels-1-1-billion-of-somalia-debt-4815308",
+        "type": "media"
+      },
+      {
+        "name": "The World: US moves to cancel more than $1 billion in Somali debt",
+        "url": "https://theworld.org/segments/2024/11/07/us-moves-to-cancel-more-than-1-billion-in-somali-debt",
+        "type": "media",
+        "date": "2024-11-07"
+      },
+      {
+        "name": "AllAfrica: U.S. forgives $1.14 billion debt",
+        "url": "https://allafrica.com/stories/202411060151.html",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Mareykanka wuxuu cafiyay qiyaastii US$1.14bn oo deyn Soomaaliyeed ah",
+    "summary_so": "Safiirka Mareykanka Richard Riley iyo Wasiirka Maaliyadda Biixi Iimaan Cige ayaa saxiixay heshiis laba-geesood ah oo lagu cafinayo qiyaastii US$1.14 bilyan oo Mareykanka lagu lahaa, iyadoo la fulinayo heshiiskii Naadiga Paris. Mareykanku wuxuu ahaa deyn-bixiyaha laba-geesoodka ah ee ugu weyn ee Soomaaliya.",
+    "impact_so": "Wuxuu daboolay qiyaastii rubuc deynta Soomaaliya ee hartay ka hor cafiska, waxaana lagu tilmaamay qaybta keliya ee ugu weyn ee cafinta HIPC.",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-11-budget-2025",
+    "date": "2024-11-05",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "Parliament passes 2025 budget of about US$1.3bn",
+    "summary": "The bicameral parliament unanimously passed the 2025 Appropriation Act of about US$1.3 billion (cabinet figure US$1,342,476,311, approved in October 2024), up from about US$1.1 billion. Donors were expected to fund about 66.7% and domestic revenue about US$429 million.",
+    "impact": "Budget about 24% larger than the 2024 budget (US$1.08bn), mostly on expected external financing.",
+    "context": "Heavy reliance on grants exposed the budget to the 2025 aid cuts; total 2025 revenue reached only 69% of plan according to Accountant General figures reported in 2026.",
+    "tags": [
+      "budget",
+      "parliament",
+      "2025"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online: Somalia Parliament approves $1.3B budget, donors cover 66.7%",
+        "url": "https://www.garoweonline.com/en/news/somalia/somalia-parliament-approves-1-3b-budget-donors-cover-66-7",
+        "type": "media",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "AllAfrica: Somalia's Cabinet approves 2025 budget at $1.34 billion",
+        "url": "https://allafrica.com/stories/202410080142.html",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka ayaa meel mariyay miisaaniyadda 2025 oo qiyaastii ah US$1.3bn",
+    "summary_so": "Baarlamaanka labada aqal ayaa si wadajir ah u meel mariyay Xeerka Qoondaynta 2025 oo qiyaastii ah US$1.3 bilyan (tirada golaha wasiirrada US$1,342,476,311, oo la ansixiyay Oktoobar 2024), taasoo ka korodhay qiyaastii US$1.1 bilyan. Deeq-bixiyeyaasha ayaa la filayay inay maalgeliyaan qiyaastii 66.7%, dakhliga gudahana qiyaastii US$429 milyan.",
+    "impact_so": "Miisaaniyaddu waxay qiyaastii 24% ka weyneyd miisaaniyadda 2024 (US$1.08bn), inteeda badanna waxay ku tiirsaneyd maalgelin dibadeed oo la filayay.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "context_so": "Ku tiirsanaanta weyn ee deeqaha ayaa miisaaniyadda u bandhigtay dhimistii gargaarka ee 2025; wadarta dakhliga 2025 waxay gaartay oo keliya 69% qorshaha, sida ay muujinayaan tirooyinka Xisaabiyaha Guud ee la soo weriyay 2026.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-12-revenue-record",
+    "date": "2024-12-01",
+    "date_precision": "month",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "Domestic revenue hits record US$369.4m in 2024; income tax law follows",
+    "summary": "The Ministry of Finance's 2024 Annual Report recorded federal domestic revenue of US$369.4 million, up 12% from about US$330 million in 2023 and 6.7% above target. Income tax rose 48% to US$36.2m, sales tax 13.3% to US$46.8m and customs 10% to US$169.2m; inland revenue exceeded customs for the first time. Budget execution reached about 84% with no supplementary budget. A new Income Tax Bill tabled in mid-2024 was enacted in early 2025.",
+    "impact": "Revenue up about 41% from US$262.7m (2022) to US$369.4m (2024).",
+    "context": "Even so, the World Bank estimates consolidated domestic revenue at only about 6.2% of GDP in 2024 versus 15-17% in peers; external grants fell about 22% short of target in 2024.",
+    "tags": [
+      "revenue",
+      "tax reform",
+      "customs",
+      "income tax"
+    ],
+    "sources": [
+      {
+        "name": "Ministry of Finance: Annual Report 2024",
+        "url": "https://mof.gov.so/sites/default/files/Publications/Annual%20Report%20MoF%20-%202024).pdf",
+        "type": "government"
+      },
+      {
+        "name": "IMF staff report, third ECF review (June 2025)",
+        "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1somea2025001-source-pdf.pdf.md",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dakhliga gudaha wuxuu gaaray heer aan horay loo arag oo ah US$369.4m sannadkii 2024; sharciga canshuurta dakhliga ayaa ku xigay",
+    "summary_so": "Warbixinta Sannadlaha ah ee 2024 ee Wasaaradda Maaliyadda ayaa diiwaangelisay dakhliga gudaha ee federaalka oo dhan US$369.4 milyan, oo 12% ka korodhay qiyaastii US$330 milyan ee 2023 iyo 6.7% ka sarreeya bartilmaameedka. Canshuurta dakhliga ayaa 48% kor ugu kacday US$36.2m, canshuurta iibka 13.3% una gaartay US$46.8m, kastamkana 10% una gaaray US$169.2m; dakhliga gudaha ee aan kastamka ahayn ayaa markii ugu horreysay dhaafay kastamka. Fulinta miisaaniyadda waxay gaartay qiyaastii 84% iyadoo aan la samayn miisaaniyad dheeraad ah. Hindise Sharciyeed cusub oo Canshuurta Dakhliga ah oo la soo gudbiyay badhtamihii 2024 ayaa la ansixiyay horraantii 2025.",
+    "impact_so": "Dakhligu wuxuu qiyaastii 41% ka korodhay US$262.7m (2022) una gaaray US$369.4m (2024).",
+    "subcategory_so": "Maaliyadda dowladda",
+    "context_so": "Si kastaba ha ahaatee, Bangiga Adduunka wuxuu ku qiyaasay dakhliga gudaha ee la isku daray oo keliya qiyaastii 6.2% GDP-da sannadkii 2024, marka la barbardhigo 15-17% ee dalalka la midka ah; deeqaha dibadda waxay 2024 qiyaastii 22% ka hooseeyeen bartilmaameedka.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-12-livestock-record",
+    "date": "2024-12-01",
+    "date_precision": "month",
+    "sector": "economy",
+    "subcategory": "Trade & integration",
+    "title": "Livestock exports reach record of about US$970m in 2024",
+    "summary": "Somalia exported more than 6.4 million animals in 2024, including 5.9 million sheep and goats, worth about US$969.9 million according to Ministry of Finance and Central Bank figures, up from about US$860.8 million in 2023. Gulf markets, led by Saudi Arabia, buy roughly 90% of exports.",
+    "impact": "Livestock remained the main export, helped by disruptions to competitors such as Sudan and Australia's live sheep export phase-out.",
+    "context": "Figures are compiled by the media from official data; Saudi Arabia's 2016-2022 ban shows the sector's vulnerability to import bans and animal-health rules.",
+    "tags": [
+      "livestock",
+      "exports",
+      "Saudi Arabia"
+    ],
+    "sources": [
+      {
+        "name": "The African Exponent: How livestock became Somalia's first billion-dollar export industry",
+        "url": "https://www.africanexponent.com/how-livestock-became-somalias-first-billion-dollar-export-industry/",
+        "type": "media",
+        "date": "2026-07-29"
+      },
+      {
+        "name": "Eastleigh Voice: Somalia's livestock exports set to top Sh129 billion",
+        "url": "https://eastleighvoice.co.ke/sudan%20conflict/228818/somalia-s-livestock-exports-set-to-top-sh129-billion-as-war-and-bans-hit-rivals",
+        "type": "media"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Dhoofinta xoolaha waxay gaartay heer aan horay loo arag oo qiyaastii ah US$970m sannadkii 2024",
+    "summary_so": "Soomaaliya waxay sannadkii 2024 dhoofisay in ka badan 6.4 milyan oo xoolo ah, oo ay ku jiraan 5.9 milyan oo ido iyo ri' ah, oo qiimahoodu yahay qiyaastii US$969.9 milyan sida ay muujinayaan tirooyinka Wasaaradda Maaliyadda iyo Bankiga Dhexe, taasoo ka korodhay qiyaastii US$860.8 milyan ee 2023. Suuqyada Khaliijka, oo ay hoggaamiso Sacuudi Carabiya, ayaa iibsada qiyaastii 90% dhoofinta.",
+    "impact_so": "Xoolaha ayaa weli ahaa dhoofinta ugu weyn, iyagoo ka faa'iideystay carqaladaha ku dhacay tartamayaasha sida Suudaan iyo joojinta tartiib-tartiibka ah ee Australia ee dhoofinta idaha nool.",
+    "subcategory_so": "Ganacsiga iyo is-dhexgalka",
+    "context_so": "Tirooyinka waxaa warbaahintu ka soo ururisay xog rasmi ah; mamnuucii Sacuudi Carabiya ee 2016-2022 ayaa muujinaya sida uu qaybtani ugu nugul yahay mamnuucidda soo dejinta iyo xeerarka caafimaadka xoolaha.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2024-12-france-debt",
+    "date": "2024-12-02",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "France cancels US$145.6m of Somali debt",
+    "summary": "Finance Minister Bihi Egeh and Arnaud Suquet, French Ambassador to Kenya and Somalia, signed a bilateral agreement in Nairobi cancelling US$145.6 million of debt, implementing France's share of the March 2024 Paris Club deal.",
+    "impact": "Part of the bilateral follow-through on the >US$2bn Paris Club cancellation.",
+    "context": "One state-media report placed the signing in Paris; most reports say Nairobi.",
+    "tags": [
+      "France",
+      "bilateral debt",
+      "Paris Club"
+    ],
+    "sources": [
+      {
+        "name": "Goobjoog: France announces $145.6 million debt forgiveness to Somalia",
+        "url": "https://en.goobjoog.com/france-announces-145-6-million-debt-forgiveness-to-somalia",
+        "type": "media",
+        "date": "2024-12-03"
+      },
+      {
+        "name": "Hiiraan Online: Somalia secures nearly $150 million debt forgiveness from France",
+        "url": "https://hiiraan.com/news4/2024/Dec/199169/somalia_secures_nearly_150_million_debt_forgiveness_from_france.aspx",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Faransiiska wuxuu cafiyay US$145.6m oo deyn Soomaaliyeed ah",
+    "summary_so": "Wasiirka Maaliyadda Biixi Cige iyo Arnaud Suquet, Safiirka Faransiiska u fadhiya Kenya iyo Soomaaliya, ayaa magaalada Nairobi ku saxiixay heshiis laba-geesood ah oo lagu cafinayo US$145.6 milyan oo deyn ah, iyadoo la fulinayo qaybta Faransiiska ee heshiiskii Naadiga Paris ee Maarso 2024.",
+    "impact_so": "Qayb ka mid ah fulinta laba-geesoodka ah ee cafiskii Naadiga Paris ee ka badnaa US$2bn.",
+    "subcategory_so": "Cafinta deynta",
+    "context_so": "Hal warbixin oo warbaahinta dowladda ah ayaa sheegtay in saxiixu ka dhacay Paris; inta badan warbixinnadu waxay sheegayaan Nairobi.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-01-sips",
+    "date": "2025-01-01",
+    "date_precision": "month",
+    "sector": "economy",
+    "subcategory": "Monetary & banking",
+    "title": "Somali Instant Payment System (SIPS) goes live",
+    "summary": "The Somalia Payment Switch, a partnership of the Central Bank of Somalia and 13 commercial banks, launched the Somali Instant Payment System in early 2025 on BPC's SmartVista platform, with QR support. Seven banks connected at launch, with more banks and mobile money operators to follow and a link to the Pan-African Payment and Settlement System (PAPSS) targeted by end-2026.",
+    "impact": "First nationwide real-time interbank payment rail, aimed at interoperability between banks and mobile money.",
+    "context": "The Central Bank dates the launch to January 2025; public announcements were reported in late March 2025.",
+    "tags": [
+      "central bank",
+      "payments",
+      "SIPS",
+      "fintech"
+    ],
+    "sources": [
+      {
+        "name": "Central Bank of Somalia: National Payment System",
+        "url": "https://centralbank.gov.so/nps/",
+        "type": "government"
+      },
+      {
+        "name": "Finextra: Somalia opens nationwide instant payments network",
+        "url": "https://finextra.com/pressarticle/104907/somalia-opens-nationwide-instant-payments-network",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Nidaamka Lacag-bixinta Degdegga ah ee Soomaaliya (SIPS) ayaa shaqo bilaabay",
+    "summary_so": "Somalia Payment Switch, oo ah iskaashi u dhexeeya Bankiga Dhexe ee Soomaaliya iyo 13 bangi ganacsi, ayaa horraantii 2025 daah-furay Nidaamka Lacag-bixinta Degdegga ah ee Soomaaliya, oo ku shaqeeya madasha SmartVista ee shirkadda BPC, isla markaana taageera QR. Toddoba bangi ayaa ku xirmay markii la daah-furay, iyadoo bangiyo kale iyo shirkadaha lacagta mobilada ay ku xigi doonaan, waxaana bartilmaameed loo qabtay in lagu xiro Nidaamka Lacag-bixinta iyo Xisaab-xirka Pan-Afrikaanka (PAPSS) dhammaadka 2026.",
+    "impact_so": "Waddadii ugu horreysay ee lacag-bixinta waqtiga dhabta ah ee bangiyada dhexdooda ah ee dalka oo dhan, oo loogu talagalay is-dhexgalka bangiyada iyo lacagta mobilada.",
+    "subcategory_so": "Lacagta iyo bangiyada",
+    "context_so": "Bankiga Dhexe wuxuu daah-furka ku taariikhaysiiyay Janaayo 2025; ku dhawaaqyada dadweynaha waxaa la soo weriyay dabayaaqadii Maarso 2025.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-04-amf-debt",
+    "date": "2025-04-09",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "Arab Monetary Fund relief cuts external debt by US$306.5m",
+    "summary": "Somalia signed a debt relief agreement with the Arab Monetary Fund reducing its external debt by US$306.5 million, announced by Finance Minister Bihi Egeh.",
+    "impact": "Brought one of the larger non-Paris Club multilateral claims into the HIPC framework.",
+    "tags": [
+      "Arab Monetary Fund",
+      "multilateral debt"
+    ],
+    "sources": [
+      {
+        "name": "Ecofin Agency: Somalia signs $306.5mln debt relief deal with Arab Monetary Fund",
+        "url": "http://www.ecofinagency.com/finance/1004-46610-somalia-signs-306-5mln-debt-relief-deal-with-arab-monetary-fund",
+        "type": "media",
+        "date": "2025-04-10"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Cafiska Sanduuqa Lacagta Carabta wuxuu deynta dibadda ka dhimay US$306.5m",
+    "summary_so": "Soomaaliya waxay heshiis cafinta deynta ah la saxiixatay Sanduuqa Lacagta Carabta (AMF), kaasoo deynteeda dibadda ka dhimaya US$306.5 milyan, sida uu ku dhawaaqay Wasiirka Maaliyadda Biixi Cige.",
+    "impact_so": "Wuxuu mid ka mid ah dalabaadka badan-geesoodka ah ee waaweyn ee aan ka mid ahayn Naadiga Paris keenay qaab-dhismeedka HIPC.",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-04-starlink",
+    "date": "2025-04-13",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Infrastructure",
+    "title": "Regulator licenses Starlink satellite internet",
+    "summary": "The National Communications Authority granted SpaceX's Starlink an operating licence in Mogadishu on 13 April 2025, adding satellite broadband to a market served by the DARE1 and 2Africa subsea cables.",
+    "impact": "Aims to extend connectivity to rural areas; Somalia had about 5.1 million internet users (27.8% of the population) in early 2024.",
+    "context": "Affordability of Starlink terminals and subscriptions remains a constraint.",
+    "tags": [
+      "telecom",
+      "internet",
+      "Starlink"
+    ],
+    "sources": [
+      {
+        "name": "ITWeb Africa: Regulator grants Starlink license in Somalia",
+        "url": "https://itweb.africa/article/regulator-grants-starlink-license-in-somalia/LPp6VMrBkGNMDKQz",
+        "type": "media"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Hay'adda nidaamisa ayaa shatiga siisay internetka dayax-gacmeedka Starlink",
+    "summary_so": "Hay'adda Isgaarsiinta Qaranka ayaa 13 Abriil 2025 Muqdisho ku siisay Starlink oo ay leedahay SpaceX shati hawlgal, taasoo internet balaaran oo dayax-gacmeed ku soo kordhisay suuq ay u adeegaan fiilooyinka badda hoosteeda mara ee DARE1 iyo 2Africa.",
+    "impact_so": "Waxay ujeeddadu tahay in isku-xirka la gaarsiiyo deegaannada miyiga; Soomaaliya waxay lahayd qiyaastii 5.1 milyan oo isticmaalayaasha internetka ah (27.8% dadweynaha) horraantii 2024.",
+    "subcategory_so": "Kaabayaasha dhaqaalaha",
+    "context_so": "Awood u yeelashada qalabka iyo rukummada Starlink ayaa weli caqabad ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-05-menafatf",
+    "date": "2025-05-07",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Monetary & banking",
+    "title": "MENAFATF adopts Somalia's AML/CFT technical compliance report",
+    "summary": "MENAFATF's 40th Plenary in Amman adopted Somalia's technical compliance report on 7 May 2025, concluding the mutual evaluation process that began in 2023. Somalia must address remaining gaps under FATF follow-up procedures.",
+    "impact": "First formal assessment of Somalia's AML/CFT laws; important for correspondent banking and remittance channels.",
+    "context": "Security conditions prevented a standard on-site visit, so an alternative technical-compliance process was used; effectiveness has not been fully assessed.",
+    "tags": [
+      "FATF",
+      "MENAFATF",
+      "AML/CFT"
+    ],
+    "sources": [
+      {
+        "name": "Financial Reporting Center: MENAFATF adopts Somalia's Technical Compliance Report",
+        "url": "https://frc.gov.so/?p=6299",
+        "type": "government",
+        "date": "2025-05-07"
+      },
+      {
+        "name": "FATF: Somalia country page",
+        "url": "https://www.fatf-gafi.org/en/countries/detail/Somalia.html",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "MENAFATF waxay ansixisay warbixinta u hoggaansanaanta farsamo ee AML/CFT ee Soomaaliya",
+    "summary_so": "Shirweynihii 40aad ee MENAFATF ee ka dhacay Cammaan ayaa 7 May 2025 ansixiyay warbixinta u hoggaansanaanta farsamo ee Soomaaliya, taasoo soo gabagabeysay hannaanka qiimeynta wadaagga ah ee bilaabmay 2023. Soomaaliya waa inay wax ka qabato daldaloolada haray iyadoo raacaysa nidaamka la-socodka ee FATF.",
+    "impact_so": "Qiimeyntii rasmiga ahayd ee ugu horreysay ee sharciyada Soomaaliya ee la dagaallanka lacag-dhaqidda iyo maalgelinta argagixisada (AML/CFT); muhiim u ah xiriirka bangiyada caalamiga ah iyo kanaallada xawaaladaha.",
+    "subcategory_so": "Lacagta iyo bangiyada",
+    "context_so": "Xaaladaha amni ayaa ka hor istaagay booqasho goobeed oo caadi ah, sidaas darteed waxaa la adeegsaday hannaan kale oo u hoggaansanaan farsamo; waxtarka si buuxda looma qiimeyn.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-06-wb-seu10",
+    "date": "2025-06-30",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "World Bank: aid cuts are downsizing growth",
+    "summary": "The 10th Somalia Economic Update reported 4.0% growth in 2024 and inflation below 6%, but said declining foreign aid in 2025 would slow growth, with medium-term growth of 3-4%. It flagged Somalia's revenue-to-GDP ratio as one of the lowest in the world and noted a small federal fiscal surplus in 2024.",
+    "impact": "Marked the turn from post-HIPC optimism to aid-cut stress in 2025.",
+    "tags": [
+      "World Bank",
+      "growth",
+      "aid cuts"
+    ],
+    "sources": [
+      {
+        "name": "World Bank press release, 30 June 2025",
+        "url": "https://www.worldbank.org/en/news/press-release/2025/06/30/somalia-afe-economic-prospects-are-positive-but-foreign-aid-cuts-are-downsizing-growth",
+        "type": "international",
+        "date": "2025-06-30"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Bangiga Adduunka: dhimista gargaarka ayaa yareyneysa korriinka",
+    "summary_so": "Cusboonaysiinta Dhaqaalaha Soomaaliya ee 10aad ayaa sheegtay korriin 4.0% ah sannadkii 2024 iyo sicir-barar ka hooseeya 6%, laakiin waxay sheegtay in hoos u dhaca gargaarka dibadda ee 2025 uu hoos u dhigi doono korriinka, iyadoo korriinka muddada dhexe uu noqon doono 3-4%. Waxay tilmaantay in saamiga dakhliga iyo GDP-da Soomaaliya uu ka mid yahay kuwa ugu hooseeya adduunka, waxayna xustay dheeraad yar oo maaliyadeed oo federaal ah sannadkii 2024.",
+    "impact_so": "Wuxuu calaamad u ahaa u wareegidda rajadii kadib HIPC loona gudbay culayska dhimista gargaarka ee 2025.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-07-imf-third-review",
+    "date": "2025-07-09",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "IMF completes third ECF review amid aid cuts",
+    "summary": "The IMF Executive Board completed the third review of Somalia's ECF arrangement, enabling a disbursement of about US$10 million for budget support, after a staff-level agreement in May 2025.",
+    "impact": "Kept the programme on track as donor financing fell.",
+    "tags": [
+      "IMF",
+      "ECF"
+    ],
+    "sources": [
+      {
+        "name": "IMF Press Release 25/246",
+        "url": "https://www.imf.org/en/News/Articles/2025/07/09/pr25-somalia-imf-executive-board-concludes-the-third-review-of-the-extended-credit-facility",
+        "type": "international",
+        "date": "2025-07-09"
+      },
+      {
+        "name": "IMF Press Release 25/150 (staff-level agreement)",
+        "url": "https://www.imf.org/en/news/articles/2025/05/16/pr25150-somalia-imf-staff-completes-sla-on-the-3rd-review-of-the-ecf-arrangement",
+        "type": "international",
+        "date": "2025-05-16"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "IMF waxay dhammaystirtay dib-u-eegista saddexaad ee ECF iyadoo gargaarku hoos u dhacayo",
+    "summary_so": "Guddiga Fulinta ee IMF ayaa dhammaystiray dib-u-eegista saddexaad ee barnaamijka ECF ee Soomaaliya, taasoo suurtagelisay in la bixiyo qiyaastii US$10 milyan oo taageero miisaaniyadeed ah, kadib heshiis heer shaqaale ah oo la gaaray May 2025.",
+    "impact_so": "Wuxuu barnaamijka ku sii hayay jidkiisa iyadoo maalgelinta deeq-bixiyeyaashu hoos u dhacaysay.",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-08-wb-dpf2",
+    "date": "2025-08-07",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "World Bank approves second US$125m budget-support grant",
+    "summary": "The World Bank approved a second and final US$125 million IDA Development Policy Financing grant, supporting tax revenue and spending accountability, renewable energy (target of 50 MW renewable capacity by December 2026), microfinance and drought insurance, fisheries exports and broadband access.",
+    "impact": "Brought World Bank DPF budget support to US$250m over 2024-25.",
+    "tags": [
+      "World Bank",
+      "IDA",
+      "budget support",
+      "energy"
+    ],
+    "sources": [
+      {
+        "name": "World Bank press release, 7 August 2025",
+        "url": "https://www.worldbank.org/en/news/press-release/2025/08/08/world-bank-renews-support-for-reforms-to-boost-economic-resilience-in-the-federal-republic-of-somalia",
+        "type": "international",
+        "date": "2025-08-07"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Bangiga Adduunka wuxuu ansixiyay deeq labaad oo taageero miisaaniyadeed oo US$125m ah",
+    "summary_so": "Bangiga Adduunka ayaa ansixiyay deeq labaad oo ah tii ugu dambeysay oo IDA ah oo Maalgelinta Siyaasadda Horumarinta ah oo dhan US$125 milyan, taasoo taageeraysa dakhliga canshuuraha iyo la xisaabtanka kharashaadka, tamarta la cusboonaysiin karo (bartilmaameed ah 50 MW oo awood tamar la cusboonaysiin karo ah marka la gaaro Diseembar 2026), maalgelinta yaryar iyo caymiska abaarta, dhoofinta kalluunka iyo helitaanka internetka balaaran.",
+    "impact_so": "Wuxuu taageerada miisaaniyadda DPF ee Bangiga Adduunka gaarsiiyay US$250m muddada 2024-25.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-12-afdb-debt",
+    "date": "2025-12-03",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "African Development Bank grants full relief on ADF loans",
+    "summary": "The African Development Bank Group approved relief fully cancelling African Development Fund loans to Somalia covering 2024-2039, reducing external debt by US$17.68 million, following HIPC Completion Point.",
+    "impact": "Completes the AfDB's share of HIPC relief.",
+    "tags": [
+      "AfDB",
+      "multilateral debt"
+    ],
+    "sources": [
+      {
+        "name": "AllAfrica: AfDB Group grants full debt relief to Somalia following HIPC completion",
+        "url": "https://allafrica.com/stories/202512030645.html",
+        "type": "media",
+        "date": "2025-12-03"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Bangiga Horumarinta Afrika wuxuu bixiyay cafis buuxa oo amaahda ADF ah",
+    "summary_so": "Kooxda Bangiga Horumarinta Afrika (AfDB) ayaa ansixisay cafis gebi ahaanba tirtiraya amaahda Sanduuqa Horumarinta Afrika (ADF) ee Soomaaliya ee daboolaysa 2024-2039, kaasoo deynta dibadda ka dhimaya US$17.68 milyan, kadib Barta Dhammaystirka HIPC.",
+    "impact_so": "Wuxuu dhammaystirayaa qaybta AfDB ee cafinta HIPC.",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-12-imf-fourth-review",
+    "date": "2025-12-08",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Debt relief",
+    "title": "IMF completes fourth review and augments ECF by about US$40m",
+    "summary": "The IMF Executive Board completed the fourth ECF review and approved an augmentation of SDR 30 million (about US$40 million), enabling an immediate disbursement of about US$30 million for budget support. Total access rose to about US$140 million. The IMF said prospects had weakened in 2025-26 amid significant aid cuts and adverse weather after 4.1% growth in 2024.",
+    "impact": "Partial cushion against falling grants.",
+    "tags": [
+      "IMF",
+      "ECF",
+      "aid cuts"
+    ],
+    "sources": [
+      {
+        "name": "IMF Press Release 25/412",
+        "url": "https://www.imf.org/en/news/articles/2025/12/08/pr-25412-somalia-imf-concludes-4th-rev-of-ecf-arrangeme-and-approves-req-for-augmentation",
+        "type": "international",
+        "date": "2025-12-08"
+      },
+      {
+        "name": "IMF Press Release 25/341 (staff-level agreement)",
+        "url": "https://www.imf.org/en/news/articles/2025/10/10/pr-25341-somalia-imf-completes-agreement-on-the-4th-review-of-the-ecf-arrangement",
+        "type": "international",
+        "date": "2025-10-10"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "IMF waxay dhammaystirtay dib-u-eegista afraad waxayna ECF ku kordhisay qiyaastii US$40m",
+    "summary_so": "Guddiga Fulinta ee IMF ayaa dhammaystiray dib-u-eegista afraad ee ECF wuxuuna ansixiyay kordhin dhan SDR 30 milyan (qiyaastii US$40 milyan), taasoo suurtagelisay in isla markiiba la bixiyo qiyaastii US$30 milyan oo taageero miisaaniyadeed ah. Wadarta helitaanka ayaa kor ugu kacday qiyaastii US$140 milyan. IMF waxay sheegtay in rajadu daciiftay 2025-26 iyadoo ay jirto dhimis weyn oo gargaarka ah iyo cimilo xun, kadib korriin 4.1% ah sannadkii 2024.",
+    "impact_so": "Gaashaan qayb ahaaneed oo ka dhan ah hoos u dhaca deeqaha.",
+    "subcategory_so": "Cafinta deynta",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2025-12-budget-2026",
+    "date": "2025-12-23",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "Parliament approves 2026 budget of US$1.387bn",
+    "summary": "A joint session of parliament approved the 2026 budget of US$1,386,807,242 on 23 December 2025 by 174 votes to 4, with one abstention. The finance ministry expected US$479 million in domestic revenue and about US$879 million in grants.",
+    "impact": "Largest federal budget to date, roughly 3-5% above 2025 depending on which 2025 figure is used.",
+    "context": "The vote was reported as chaotic; about 63-65% of the plan relied on grants at a time of aid cuts, and only about US$2.2 million was reported as earmarked for drought management.",
+    "tags": [
+      "budget",
+      "parliament",
+      "2026"
+    ],
+    "sources": [
+      {
+        "name": "Radio Dalsan: Somali parliament passes $1.39 billion 2026 budget after joint vote",
+        "url": "https://radiodalsan.com/2025/12/23/somali-parliament-passes-1-39-billion-2026-budget-after-joint-vote/",
+        "type": "media",
+        "date": "2025-12-23"
+      },
+      {
+        "name": "Garowe Online: Parliament approves $1.38 billion 2026 budget amid chaos",
+        "url": "https://www.garoweonline.com/en/news/somalia/somalia-s-parliament-approves-1-38-billion-2026-budget-amid-chaos",
+        "type": "media"
+      },
+      {
+        "name": "AllAfrica: Somalia Parliament approves $1.38 billion budget for 2026",
+        "url": "https://allafrica.com/stories/202512240077.html",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka ayaa ansixiyay miisaaniyadda 2026 oo ah US$1.387bn",
+    "summary_so": "Kal-fadhi wadajir ah oo baarlamaanka ah ayaa 23 Diseembar 2025 ansixiyay miisaaniyadda 2026 oo dhan US$1,386,807,242, iyadoo 174 cod ay taageereen 4-na ay diideen, halka mid uu ka aamusay. Wasaaradda maaliyadda waxay filaysay US$479 milyan oo dakhli gudaha ah iyo qiyaastii US$879 milyan oo deeqo ah.",
+    "impact_so": "Miisaaniyadda federaalka ee ugu weyn ilaa hadda, oo qiyaastii 3-5% ka badan 2025 iyadoo ku xiran tirada 2025 ee la adeegsado.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "context_so": "Codbixinta waxaa lagu tilmaamay mid qas ah; qiyaastii 63-65% qorshaha wuxuu ku tiirsanaa deeqo xilli gargaarka la dhimayo, waxaana la sheegay in oo keliya qiyaastii US$2.2 milyan loo qoondeeyay maareynta abaarta.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-01-hnrp-2026",
+    "date": "2026-01-26",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Humanitarian",
+    "title": "UN launches US$852m 2026 humanitarian plan as needs outpace funding",
+    "summary": "The 2026 Humanitarian Needs and Response Plan estimated 4.8 million people in need and sought US$852 million to assist 2.4 million, about 40% less than the 2025 appeal. The plan prioritises 1.6 million people in extreme (Severity 4) conditions.",
+    "impact": "People in need fell from 8.25 million (2023) to 4.8 million (2026) on paper, but OCHA said the drop reflects stricter definitions, not improved conditions.",
+    "context": "By April 2026 the plan was only about 12% funded, reflecting global aid cuts.",
+    "tags": [
+      "OCHA",
+      "humanitarian",
+      "aid cuts"
+    ],
+    "sources": [
+      {
+        "name": "UN Somalia: Humanitarian partners seek US$852 million to assist 2.4 million people in 2026",
+        "url": "https://somalia.un.org/en/308876-humanitarian-partners-seek-us852-million-assist-24-million-people-2026",
+        "type": "international",
+        "date": "2026-01-26"
+      },
+      {
+        "name": "ReliefWeb: Somalia Humanitarian Needs and Response Plan 2026",
+        "url": "https://reliefweb.int/report/somalia/somalia-humanitarian-needs-and-response-plan-2026",
+        "type": "international"
+      },
+      {
+        "name": "Africanews: UN launches $852 million aid plan for Somalia",
+        "url": "https://www.africanews.com/2026/01/27/un-launches-852-million-aid-plan-for-somalia-amid-deepening-crisis/",
+        "type": "media",
+        "date": "2026-01-27"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Qaramada Midoobay waxay daah-furtay qorshe bini'aadannimo oo 2026 ah oo US$852m ah iyadoo baahiyuhu ka badan yihiin maalgelinta",
+    "summary_so": "Qorshaha Baahiyaha iyo Jawaab-celinta Bini'aadannimo ee 2026 ayaa ku qiyaasay 4.8 milyan oo qof inay u baahan yihiin gargaar, wuxuuna dalbaday US$852 milyan si loo caawiyo 2.4 milyan, taasoo qiyaastii 40% ka yar baaqii 2025. Qorshuhu wuxuu mudnaanta siinayaa 1.6 milyan oo qof oo ku sugan xaalado aad u daran (Heerka Darnaanta 4).",
+    "impact_so": "Dadka u baahan gargaarka waxay warqad ahaan ka dhaceen 8.25 milyan (2023) una dhaceen 4.8 milyan (2026), laakiin OCHA waxay sheegtay in hoos u dhacaasi ka tarjumayo qeexitaanno adag, ee uusan ahayn hagaagga xaaladaha.",
+    "subcategory_so": "Arrimaha bini'aadannimada",
+    "context_so": "Ilaa Abriil 2026 qorshaha waxaa la maalgeliyay oo keliya qiyaastii 12%, taasoo ka tarjumaysa dhimista gargaarka caalamiga ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-02-ipc-6-5m",
+    "date": "2026-02-24",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Humanitarian",
+    "title": "Hunger nearly doubles: 6.5 million in IPC Phase 3+",
+    "summary": "An IPC analysis released by the federal government and UN estimated 6.5 million people in Crisis (IPC Phase 3) or worse in February-March 2026, including over 2 million in Emergency (Phase 4), nearly double the level of August 2025, after the near-failure of the 2025 Deyr rains. More than 1.8 million children under five face acute malnutrition in 2026.",
+    "impact": "Food insecurity returned toward the 2022 peak, undermining the post-2023 recovery narrative.",
+    "context": "Coincides with sharp cuts to humanitarian funding; WFP warned food assistance could halt without new funds.",
+    "tags": [
+      "drought",
+      "IPC",
+      "food security"
+    ],
+    "sources": [
+      {
+        "name": "FAO: Somalia's humanitarian crisis worsening with 6.5 million facing high levels of hunger",
+        "url": "https://www.fao.org/newsroom/detail/somalia-s-humanitarian-crisis-worsening-with-6.5-million-people-facing-high-levels-of-hunger--federal-government-and-united-nations-warn/en",
+        "type": "international"
+      },
+      {
+        "name": "UN News, February 2026",
+        "url": "https://news.un.org/en/story/2026/02/1167026",
+        "type": "international"
+      },
+      {
+        "name": "ReliefWeb: IPC Acute Food Insecurity and Malnutrition Snapshot Jan-Jun 2026",
+        "url": "https://reliefweb.int/report/somalia/somalia-ipc-acute-food-insecurity-and-malnutrition-snapshot-january-june-2026",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Gaajadu waxay ku dhawaatay inay labanlaabanto: 6.5 milyan oo ku jira IPC Wajiga 3+",
+    "summary_so": "Falanqayn IPC ah oo ay soo saareen dowladda federaalka iyo Qaramada Midoobay ayaa ku qiyaastay 6.5 milyan oo qof inay ku jiraan Xaalad Xasaradeed (IPC Wajiga 3) ama ka sii daran muddada Febraayo-Maarso 2026, oo ay ku jiraan in ka badan 2 milyan oo ku sugan Xaalad Degdeg ah (Wajiga 4), taasoo ku dhawaad labanlaab ah heerkii Ogoosto 2025, kadib markii roobabkii Deyr ee 2025 ay ku dhawaadeen inay fashilmaan. In ka badan 1.8 milyan oo carruur ah oo ka yar shan sano ayaa la kulmaya nafaqo-darro ba'an sannadka 2026.",
+    "impact_so": "Cunto-yaridda waxay dib ugu soo laabatay heerkii ugu sarreeyay ee 2022, taasoo wiiqaysa sheekada soo kabashada kadib 2023.",
+    "subcategory_so": "Arrimaha bini'aadannimada",
+    "context_so": "Waxay ku beegan tahay dhimis weyn oo lagu sameeyay maalgelinta bini'aadannimo; WFP waxay ka digtay in gargaarka cuntadu joogsan karo haddii aan maalgelin cusub la helin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-04-curad-1-spud",
+    "date": "2026-04-12",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Natural resources",
+    "title": "Somalia's first offshore deepwater well, Curad-1, begins drilling",
+    "summary": "Turkey's drillship Cagri Bey, which left Mersin in February 2026 under naval escort, reached Mogadishu on 10 April 2026 and began drilling the Curad-1 well about 370 km offshore, in roughly 3,500 m of water with a planned total depth of 7,500 m. TPAO leads the operation.",
+    "impact": "First offshore well officially drilled in Somalia; a commercial discovery could transform public finances, though production would be years away.",
+    "context": "Reported durations range from 6-10 months; no discovery has been announced.",
+    "tags": [
+      "oil and gas",
+      "Turkey",
+      "TPAO",
+      "Curad-1"
+    ],
+    "sources": [
+      {
+        "name": "World Oil: Türkiye launches first overseas deepwater drilling with Curad-1 well offshore Somalia",
+        "url": "https://worldoil.com/news/2026/4/12/turkiye-launches-first-overseas-deepwater-drilling-with-curad-1-well-offshore-somalia",
+        "type": "media",
+        "date": "2026-04-12"
+      },
+      {
+        "name": "The National: Turkey sends offshore drilling ship to Somalia in first overseas mission",
+        "url": "https://www.thenationalnews.com/news/mena/2026/02/16/turkey-sends-offshore-drilling-ship-to-somalia-in-first-overseas-mission",
+        "type": "media",
+        "date": "2026-02-16"
+      },
+      {
+        "name": "Anadolu Agency: Türkiye sends drillship to Somalia for first overseas mission",
+        "url": "https://www.aa.com.tr/en/turkiye/turkiye-sends-drillship-to-somalia-for-first-overseas-mission/3830792",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ceelka biyaha qoto-dheer ee badda ee ugu horreeya Soomaaliya, Curad-1, ayaa qodiddiisa la bilaabay",
+    "summary_so": "Markabka qodista ee Turkiga Cagri Bey, oo ka ambabaxay Mersin bishii Febraayo 2026 isagoo ay ilaalinayaan ciidamo badeed, ayaa 10 Abriil 2026 gaaray Muqdisho wuxuuna bilaabay qodista ceelka Curad-1 oo qiyaastii 370 km ka fog xeebta, kuna yaal biyo qotodoodu qiyaastii tahay 3,500 m, iyadoo qotada guud ee la qorsheeyay ay tahay 7,500 m. TPAO ayaa hoggaaminaysa hawlgalka.",
+    "impact_so": "Ceelkii badda ee ugu horreeyay ee si rasmi ah looga qodo Soomaaliya; daah-furnaan ganacsi ayaa beddeli karta maaliyadda dowladda, inkastoo soo saaristu ay sannado ka fog tahay.",
+    "subcategory_so": "Kheyraadka dabiiciga ah",
+    "context_so": "Muddooyinka la soo weriyay waxay u dhexeeyaan 6-10 bilood; wax daah-furnaan ah laguma dhawaaqin.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-05-wb-seu11",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "World Bank: growth slows to about 3% as shocks and aid cuts bite",
+    "summary": "The 11th Somalia Economic Update estimated growth of about 3% in 2025, down from about 4% in 2023-24, with real GDP per capita roughly flat, and projected 2.8% in 2026 and 3.1% in 2027. Inflation was projected to rise to 6% in 2026. Electricity access reached 71% of households, but only 21% get more than eight hours a day.",
+    "impact": "Indicates that post-HIPC gains have not yet translated into rising per-capita incomes.",
+    "tags": [
+      "World Bank",
+      "growth",
+      "electricity"
+    ],
+    "sources": [
+      {
+        "name": "World Bank press release, 13 May 2026",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/05/13/somalia-growth-continues-but-shocks-and-aid-cuts-intensify-risks-to-jobs-and-livelihoods",
+        "type": "international",
+        "date": "2026-05-13"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Bangiga Adduunka: korriinka wuxuu hoos ugu dhacay qiyaastii 3% iyadoo dhibaatooyinka iyo dhimista gargaarku saameynayaan",
+    "summary_so": "Cusboonaysiinta Dhaqaalaha Soomaaliya ee 11aad ayaa ku qiyaastay korriin qiyaastii 3% ah sannadkii 2025, oo hoos uga dhacay qiyaastii 4% ee 2023-24, iyadoo GDP-da dhabta ah ee qofkiiba ay qiyaastii isku mid ahaatay, waxayna saadaalisay 2.8% sannadka 2026 iyo 3.1% sannadka 2027. Sicir-bararka waxaa la saadaaliyay inuu kor ugu kaco 6% sannadka 2026. Helitaanka korontada wuxuu gaaray 71% qoysaska, laakiin oo keliya 21% ayaa hela in ka badan siddeed saacadood maalintii.",
+    "impact_so": "Waxay muujinaysaa in guulihii kadib HIPC aysan weli u rogmin koror ku yimaada dakhliga qofkiiba.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-07-shilling",
+    "date": "2026-07-28",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Monetary & banking",
+    "title": "New Somali shilling project 'at advanced stage', no launch date",
+    "summary": "The Central Bank said the plan to reintroduce Somali shilling banknotes, under preparation for about eight years, had reached an advanced stage, with work on the monetary policy framework, central bank legislation and logistics. The deputy governor said the nationwide rollout needs more than US$70 million; no issuance date has been set.",
+    "impact": "Would restore a national currency in an economy run largely on US dollars and mobile money; the IMF-supported design is a currency board.",
+    "context": "Launch targets have repeatedly slipped (a 2024 date was anticipated in 2023). Lawmakers questioned the proposed exchange-rate provision, and the IMF stressed credibility depends on fiscal discipline and central bank independence.",
+    "tags": [
+      "central bank",
+      "currency",
+      "Somali shilling"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa: Somalia says new Somali shilling project enters advanced stage",
+        "url": "https://www.dawan.africa/news/somalia-says-new-somali-shilling-project-enters-advanced-stage",
+        "type": "media",
+        "date": "2026-07-28"
+      },
+      {
+        "name": "IMF Press Release 24/401 (currency board plan)",
+        "url": "https://www.imf.org/en/News/Articles/2024/10/31/pr-24401-somalia-imf-staff-conclude-aiv-discussions-and-reach-sla-on-the-2nd-rev-under-the-ecf",
+        "type": "international",
+        "date": "2024-10-31"
+      },
+      {
+        "name": "Bloomberg: Somalia to issue first new banknotes in more than three decades (2023)",
+        "url": "https://www.bloomberg.com/news/articles/2023-01-17/somalia-to-issue-first-new-banknotes-in-more-than-three-decades",
+        "type": "media",
+        "date": "2023-01-17"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Mashruuca shilinka Soomaaliga ee cusub 'wuxuu marayaa heer horumarsan', taariikh daah-furid ma leh",
+    "summary_so": "Bankiga Dhexe ayaa sheegay in qorshaha dib loogu soo celinayo warqadaha lacagta shilinka Soomaaliga, oo diyaarintiisu socotay qiyaastii siddeed sano, uu gaaray heer horumarsan, iyadoo shaqo lagu hayo qaab-dhismeedka siyaasadda lacagta, sharciga bankiga dhexe iyo saadka. Guddoomiye ku-xigeenka ayaa sheegay in faafinta dalka oo dhan ay u baahan tahay in ka badan US$70 milyan; taariikh soo saarid lama dejin.",
+    "impact_so": "Wuxuu dib u soo celin lahaa lacag qaran oo ka dhex shaqeysa dhaqaale inta badan ku socda doolarka Mareykanka iyo lacagta mobilada; naqshadda ay taageerto IMF waa guddi lacageed (currency board).",
+    "subcategory_so": "Lacagta iyo bangiyada",
+    "context_so": "Bartilmaameedyada daah-furka ayaa si isdaba joog ah dib u dhacay (taariikh 2024 ah ayaa la filayay 2023). Xildhibaanno ayaa su'aal ka keenay qodobka sicirka sarifka ee la soo jeediyay, IMF-na waxay carrabka ku adkeysay in kalsoonidu ay ku xiran tahay anshaxa maaliyadda iyo madaxbannaanida bankiga dhexe.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-10-budget-2027-draft",
+    "date": "2026-10-27",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "Cabinet approves smaller US$1.26bn draft budget for 2027",
+    "summary": "The Council of Ministers approved a draft 2027 budget of US$1,259,238,253, about 9.2% (US$127.6m) below 2026. Reported 2025 outturns show own revenue of US$404.3 million (up from US$369.3m) but total revenue of US$919.8 million, only 69% of plan, with project grants arriving at less than half of what was promised. The draft awaits parliamentary approval.",
+    "impact": "First nominal budget cut under the current administration, reflecting falling external financing.",
+    "context": "The ministry did not say whether the cut reflects expected aid cuts or a revenue plan; figures come from a single media report citing official documents.",
+    "tags": [
+      "budget",
+      "2027",
+      "aid cuts",
+      "revenue"
+    ],
+    "sources": [
+      {
+        "name": "The Rio Times: Somalia budget 2027 US$1.26 billion",
+        "url": "https://www.riotimesonline.com/somalia-budget-2027-us-1-26-billion-cabinet-2026/",
+        "type": "media",
+        "date": "2026-10-28"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Golaha wasiirrada ayaa ansixiyay qabyo-qoraal miisaaniyadeed oo 2027 ah oo ka yar, US$1.26bn",
+    "summary_so": "Golaha Wasiirrada ayaa ansixiyay qabyo-qoraalka miisaaniyadda 2027 oo dhan US$1,259,238,253, taasoo qiyaastii 9.2% (US$127.6m) ka hooseysa 2026. Natiijooyinka 2025 ee la soo weriyay waxay muujinayaan dakhli gudaha oo US$404.3 milyan ah (oo ka korodhay US$369.3m) laakiin wadarta dakhliga oo ah US$919.8 milyan, oo keliya 69% qorshaha, iyadoo deeqaha mashaariicdu ay yimaadeen wax ka yar kala badh wixii la ballanqaaday. Qabyo-qoraalku wuxuu sugayaa ansixinta baarlamaanka.",
+    "impact_so": "Dhimistii ugu horreysay ee miisaaniyadda (qiimaha magac ahaan) ee maamulka hadda jira, taasoo ka tarjumaysa hoos u dhaca maalgelinta dibadda.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "context_so": "Wasaaraddu ma sheegin in dhimistu ay ka tarjumayso dhimista gargaarka la filayo iyo in kale ama qorshe dakhli; tirooyinka waxay ka yimaadeen hal warbixin warbaahineed oo xigasho ka dhigatay dukumenti rasmi ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-10-curad-1-progress",
+    "date": "2026-10-29",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Natural resources",
+    "title": "Curad-1 well enters target zone; no discovery confirmed",
+    "summary": "The Somali Petroleum Authority chairman said drilling had passed into Early Cretaceous layers where signs of oil may appear, with about 2,000 m remaining and the target hoped for in December 2026. Core samples are being analysed jointly with Turkish experts.",
+    "impact": "Outcome will determine whether Somalia's offshore potential moves toward appraisal and production.",
+    "context": "No hydrocarbons discovery has been announced as of November 2026; officials' statements are preliminary.",
+    "tags": [
+      "oil and gas",
+      "Curad-1",
+      "TPAO"
+    ],
+    "sources": [
+      {
+        "name": "Dawan Africa: Somalia's first offshore oil well hits critical zone",
+        "url": "https://www.dawan.africa/news/somalias-first-offshore-oil-well-hits-critical-zone-petroleum-authority-says",
+        "type": "media",
+        "date": "2026-10-29"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Ceelka Curad-1 wuxuu galay aagga bartilmaameedka; daah-furnaan lama xaqiijin",
+    "summary_so": "Guddoomiyaha Hay'adda Batroolka Soomaaliya ayaa sheegay in qodistu ay gudubtay lakabyada Early Cretaceous oo ay ka muuqan karaan calaamado shidaal, iyadoo qiyaastii 2,000 m ay hartay, bartilmaameedkana la rajeynayo in la gaaro Diseembar 2026. Muunadaha dhagxaanta ayaa si wadajir ah loogu falanqaynayaa khubaro Turki ah.",
+    "impact_so": "Natiijadu waxay go'aamin doontaa in kheyraadka suurtagalka ah ee badda Soomaaliya ay u gudbayaan qiimeyn iyo soo saarid.",
+    "subcategory_so": "Kheyraadka dabiiciga ah",
+    "context_so": "Laga bilaabo Nofembar 2026 laguma dhawaaqin wax daah-furnaan shidaal ah; hadallada saraakiishu waa kuwo hordhac ah.",
+    "translation_so": "machine"
+  },
+  {
+    "id": "eco-2026-11-world-bank-budget-support-review",
+    "date": "2026-11-16",
+    "date_precision": "day",
+    "sector": "economy",
+    "subcategory": "Public finance",
+    "title": "Report: World Bank weighs suspending budget support after court ruling",
+    "summary": "Africa Intelligence reported on 16 November, as relayed by Somali Guardian, that the World Bank is considering a temporary suspension of budget support to the federal government after the Supreme Court ruled that the president's term ended in May 2026. Neither the World Bank nor the government has publicly confirmed the report.",
+    "impact": "Budget support has been projected at US$150 million or more a year recently, with the World Bank a major provider. A suspension would hit a government that relies on external grants for much of its budget.",
+    "context": "Single-source report, unconfirmed by either side. In 2021, when the previous president's term lapsed amid delayed elections, the World Bank, the EU and other partners suspended or withheld budget support. World Bank project financing, which is larger than budget support, was not reported to be affected.",
+    "tags": [
+      "World Bank",
+      "budget support",
+      "aid",
+      "mandate dispute"
+    ],
+    "sources": [
+      {
+        "name": "Somali Guardian (citing Africa Intelligence): World Bank weighs suspension of budget support to Somalia",
+        "url": "https://www.somaliguardian.com/news/somalia-news/world-bank-weighs-suspension-budget-support-somalia/",
+        "type": "media",
+        "date": "2026-11-16"
+      },
+      {
+        "name": "WardheerNews: World Bank weighs suspending budget support as Somalia's constitutional crisis deepens",
+        "url": "https://wardheernews.com/world-bank-weighs-suspending-budget-support-as-somalias-constitutional-crisis-deepens/",
+        "type": "media"
+      }
+    ],
+    "verification": "reported",
+    "added": "2026-11-19",
+    "title_so": "Warbixin: Bangiga Adduunka oo ka fiirsanaya joojinta taageerada miisaaniyadda kaddib xukunka maxkamadda",
+    "summary_so": "Africa Intelligence ayaa 16 Nofembar soo warisay, sida uu gudbiyay Somali Guardian, in Bangiga Adduunku uu ka fiirsanayo joojin ku-meel-gaar ah oo lagu sameeyo taageerada miisaaniyadda ee Dowladda Federaalka, kaddib markii Maxkamadda Sare ay xukuntay in muddo-xileedka madaxweynuhu dhammaaday May 2026. Bangiga Adduunka iyo dowladdu midkoodna si cad uma xaqiijin warbixinta.",
+    "impact_so": "Taageerada miisaaniyadda ayaa sannadihii dambe lagu qiyaasay US$150 milyan ama ka badan sannadkii, Bangiga Adduunkuna waa mid ka mid ah bixiyeyaasha ugu waaweyn. Joojin waxay saameyn ku yeelan lahayd dowlad qayb weyn oo miisaaniyaddeeda ah ku tiirsan deeqaha dibadda.",
+    "context_so": "Warbixin hal il ah, oo aan labada dhinac midna xaqiijin. Sannadkii 2021, markii muddo-xileedka madaxweynihii hore dhammaaday iyadoo doorashooyinku dib u dhaceen, Bangiga Adduunka, Midowga Yurub iyo saaxiibo kale ayaa hakiyay ama joojiyay taageerada miisaaniyadda. Lagama warramin in maalgelinta mashaariicda Bangiga Adduunka, oo ka weyn taageerada miisaaniyadda, ay saameyn ku yeelatay.",
+    "subcategory_so": "Maaliyadda dowladda",
+    "translation_so": "machine"
+  }
+]

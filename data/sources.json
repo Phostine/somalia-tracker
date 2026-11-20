@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Villa Somalia - Office of the President",
+    "url": "https://villasomalia.gov.so",
+    "type": "government",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Official site of the Office of the President: statements, decrees, presidential travel.",
+    "reliability_notes": "Primary source for what the presidency says. It reflects the government line and does not cover criticism. In 2026 the presidency's position on the term extension was contradicted by a Supreme Court ruling, so check its claims against independent reporting.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Bogga rasmiga ah ee Xafiiska Madaxweynaha: war-saxaafadeedyo, xeerar madaxweyne iyo safarrada madaxweynaha.",
+    "reliability_notes_so": "Il asal ah oo laga ogaado waxa madaxtooyadu sheegto. Waxay ka tarjumaysaa mowqifka dowladda mana soo bandhigto dhaleeceynta. Sannadkii 2026, mowqifka madaxtooyada ee ku saabsan kordhinta muddo xileedka waxaa ka horyimid xukun Maxkamadda Sare, sidaa darteed sheegashooyinkeeda ku hubi warbixinno madax-bannaan.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Office of the Prime Minister (OPM)",
+    "url": "https://opm.gov.so",
+    "type": "government",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Office of the Prime Minister: cabinet decisions, Council of Ministers communiqués.",
+    "reliability_notes": "Authoritative for cabinet decisions. Promotional in tone.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Xafiiska Ra'iisul Wasaaraha: go'aannada golaha wasiirrada iyo war-murtiyeedyada Golaha Wasiirrada.",
+    "reliability_notes_so": "Il la isku halleyn karo oo ku saabsan go'aannada golaha wasiirrada. Codkiisu wuxuu u janjeeraa xayaysiin.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Ministry of Finance",
+    "url": "https://mof.gov.so",
+    "type": "government",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "Budgets, fiscal reports, Annual Debt Management Reports, HIPC documents.",
+    "reliability_notes": "Fiscal and debt data are generally consistent with IMF/World Bank reporting and are among the more reliable government datasets. Press releases still frame results positively.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Miisaaniyadaha, warbixinnada maaliyadda, Warbixinnada Sannadlaha ah ee Maaraynta Deynta iyo dukumeentiyada HIPC.",
+    "reliability_notes_so": "Xogta maaliyadda iyo deynta guud ahaan waxay la jaanqaadaysaa warbixinnada IMF/Bangiga Adduunka, waxayna ka mid tahay xogta dowladda ee ugu kalsoonida badan. Hase yeeshee war-saxaafadeedyadu natiijooyinka waxay u soo bandhigaan si wanaagsan.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Central Bank of Somalia",
+    "url": "https://centralbank.gov.so",
+    "type": "government",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "Monetary policy, currency reform (new Somali shilling), banking licences and statistics.",
+    "reliability_notes": "Authoritative on banking regulation and currency announcements, so use it to check currency rumours. Statistical coverage remains limited.",
+    "url_check": "Homepage blocks automated requests (HTTP 403 bot protection) on 2026-11-19; site is live in normal browsers",
+    "description_so": "Siyaasadda lacagta, dib u habeynta lacagta (shilinka Soomaaliga ee cusub), ruqsadaha bangiyada iyo tirakoobka.",
+    "reliability_notes_so": "Il la isku halleyn karo oo ku saabsan nidaaminta bangiyada iyo ku dhawaaqyada lacagta, sidaa darteed u isticmaal hubinta warar xan ah oo ku saabsan lacagta. Baaxadda tirakoobku weli waa xaddidan tahay.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Ministry of Information, Culture & Tourism",
+    "url": "https://moi.gov.so",
+    "type": "government",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Official government communications and press accreditation.",
+    "reliability_notes": "Government communications arm. Reflects the official line. It also regulates media, and press-freedom groups have criticised media restrictions.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Isgaarsiinta rasmiga ah ee dowladda iyo aqoonsiga saxaafadda.",
+    "reliability_notes_so": "Waa gacanta isgaarsiinta dowladda. Waxay ka tarjumaysaa mowqifka rasmiga ah. Sidoo kale waxay nidaamisaa warbaahinta, kooxaha xorriyadda saxaafadduna waxay dhaleeceeyeen xannibaadaha warbaahinta.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Somali National News Agency (SONNA)",
+    "url": "https://sonna.so",
+    "type": "government",
+    "language": [
+      "so",
+      "en",
+      "ar"
+    ],
+    "description": "State news agency. Its sister state broadcaster is Somali National Television (sntv.so, homepage verified 2026-11-19).",
+    "reliability_notes": "State media. Reliable for what officials said and did, but it does not report critical or opposition perspectives.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Wakaaladda wararka ee dowladda. Hay'adda baahinta dowladda ee walaasheeda ah waa Telefishinka Qaranka Soomaaliyeed (sntv.so, bogga hore waxaa la xaqiijiyay 2026-11-19).",
+    "reliability_notes_so": "Warbaahin dowladeed. Waa la isku halleyn karaa marka laga hadlayo waxa mas'uuliyiintu sheegeen iyo waxay sameeyeen, balse ma soo tebiso aragtiyaha dhaleeceynta ama mucaaradka.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Somali National Bureau of Statistics (NBS)",
+    "url": "https://nbs.gov.so",
+    "type": "government",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "National statistics: CPI, GDP estimates, household surveys, population data.",
+    "reliability_notes": "The best official statistical source. Data are often lagged or revised, and coverage of insecure areas is limited.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Tirakoobka qaranka: CPI (tusaha qiimaha macaamiisha), qiyaasaha GDP, sahannada qoysaska iyo xogta dadweynaha.",
+    "reliability_notes_so": "Isha tirakoob ee rasmiga ah ee ugu wanaagsan. Xogtu inta badan way soo daahdaa ama dib ayaa loo eegaa, baaxadda deegaannada amni darrada lehna waa xaddidan tahay.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Ministry of Foreign Affairs & International Cooperation",
+    "url": "https://mfa.gov.so",
+    "type": "government",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "Diplomatic statements, bilateral agreements. Its verified X account regularly flags forged MFA documents.",
+    "reliability_notes": "Use it to confirm whether a 'ministry statement' is genuine (several forgeries were debunked in 2026). Positions are those of the government.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19 (redirects to web.mfa.gov.so)",
+    "description_so": "War-saxaafadeedyo diblomaasiyadeed iyo heshiisyo laba geesood ah. Koontadeeda X ee la xaqiijiyay waxay si joogto ah u calaamadeysaa dukumeentiyo been abuur ah oo loo nisbeeyay wasaaradda.",
+    "reliability_notes_so": "U isticmaal si aad u xaqiijiso in 'war-saxaafadeed wasaaradeed' uu dhab yahay (dhowr been abuur ah ayaa la beeniyay 2026). Mowqifyadu waa kuwa dowladda.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "UN Transitional Assistance Mission in Somalia (UNTMIS)",
+    "url": "https://untmis.unmissions.org",
+    "type": "international",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "UN political mission (successor to UNSOM): Secretary-General reports, statements, human rights reporting.",
+    "reliability_notes": "Credible and documented. Diplomatic language can understate problems.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Howlgal siyaasadeed oo Qaramada Midoobay ah (beddelka UNSOM): warbixinnada Xoghayaha Guud, war-saxaafadeedyo iyo warbixinnada xuquuqda aadanaha.",
+    "reliability_notes_so": "La isku halleyn karo oo diiwaangashan. Luqadda diblomaasiyadeed waxay yarayn kartaa baaxadda dhibaatooyinka.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "UN OCHA Somalia",
+    "url": "https://www.unocha.org/somalia",
+    "type": "international",
+    "language": [
+      "en"
+    ],
+    "description": "Humanitarian situation reports, funding and displacement data.",
+    "reliability_notes": "Authoritative humanitarian figures. Needs figures are planning estimates, not counts.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Warbixinnada xaaladda bini'aadannimo, xogta maalgelinta iyo barakaca.",
+    "reliability_notes_so": "Tirooyin bini'aadannimo oo la isku halleyn karo. Tirooyinka baahiyuhu waa qiyaasaha qorsheynta, ma aha tirakoob dhab ah.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "IMF - Somalia country page",
+    "url": "https://www.imf.org/en/countries/som",
+    "type": "international",
+    "language": [
+      "en"
+    ],
+    "description": "ECF programme reviews, Article IV reports, HIPC documents, debt sustainability analyses.",
+    "reliability_notes": "High-quality macroeconomic data. Figures are often projections and are revised between reviews.",
+    "url_check": "Homepage blocks automated requests (HTTP 403 bot protection) on 2026-11-19; site is live in normal browsers",
+    "description_so": "Dib u eegista barnaamijka ECF, warbixinnada Qodobka IV, dukumeentiyada HIPC iyo falanqaynta waaritaanka deynta.",
+    "reliability_notes_so": "Xog dhaqaale guud oo tayo sare leh. Tirooyinku inta badan waa saadaal, waxaana dib loo saxaa inta u dhexeysa dib u eegisyada.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "World Bank - Somalia",
+    "url": "https://www.worldbank.org/en/country/somalia",
+    "type": "international",
+    "language": [
+      "en"
+    ],
+    "description": "Somalia Economic Updates, project data, poverty and debt-relief reporting.",
+    "reliability_notes": "Rigorous, but some data are modelled because of survey gaps. Being a creditor, it has an interest in presenting its programmes positively.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19 (redirects to /ext/en/country/somalia)",
+    "description_so": "Warbixinnada Cusboonaysiinta Dhaqaalaha Soomaaliya, xogta mashaariicda, iyo warbixinnada saboolnimada iyo cafinta deynta.",
+    "reliability_notes_so": "Si adag ayaa loo diyaariyaa, balse xogta qaar waa la qaabeeyay (modelled) sababo la xiriira daldaloolada sahannada. Maadaama uu yahay deyn bixiye, wuxuu dan u leeyahay inuu barnaamijyadiisa si wanaagsan u soo bandhigo.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "FSNAU (FAO Food Security and Nutrition Analysis Unit - Somalia)",
+    "url": "https://fsnau.org",
+    "type": "international",
+    "language": [
+      "en"
+    ],
+    "description": "IPC food-security and nutrition analyses, technical releases, famine reviews. Global IPC platform: ipcinfo.org.",
+    "reliability_notes": "Leading technical source on hunger and famine classification. Use it before repeating any 'famine' claim.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Falanqaynta IPC ee sugnaanta cuntada iyo nafaqada, warbixinno farsamo iyo dib u eegista macluusha. Madasha caalamiga ah ee IPC: ipcinfo.org.",
+    "reliability_notes_so": "Isha farsamo ee ugu horreysa ee kala soocidda gaajada iyo macluusha. Isticmaal ka hor intaadan dib u sheegin sheegasho kasta oo 'macluul' ah.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "African Union",
+    "url": "https://au.int",
+    "type": "international",
+    "language": [
+      "en",
+      "fr",
+      "ar"
+    ],
+    "description": "AU Peace and Security Council communiqués, AUSSOM mandate documents.",
+    "reliability_notes": "Official AU positions. AUSSOM-related claims about battlefield control should be cross-checked with independent media.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "War-murtiyeedyada Golaha Nabadda iyo Amniga ee Midowga Afrika iyo dukumeentiyada waajibaadka AUSSOM.",
+    "reliability_notes_so": "Mowqifyada rasmiga ah ee Midowga Afrika. Sheegashooyinka AUSSOM ee ku saabsan gacan ku haynta goobaha dagaalka waa in lagu hubiyaa warbaahin madax-bannaan.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Hiiraan Online",
+    "url": "https://www.hiiraan.com",
+    "type": "media",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Long-running Somali news portal (since 1999). Original reporting plus aggregated wire and PesaCheck content.",
+    "reliability_notes": "Broadly reliable and diverse. Check whether an item is original, aggregated or opinion.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Bog wareed Soomaaliyeed oo muddo dheer jiray (tan iyo 1999). Warbixinno asal ah iyo sidoo kale nuxur laga soo ururiyay wakaaladaha wararka iyo PesaCheck.",
+    "reliability_notes_so": "Guud ahaan waa la isku halleyn karaa waana kala duwan yahay. Hubi in qoraalku yahay mid asal ah, mid la soo ururiyay ama ra'yi.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Garowe Online",
+    "url": "https://www.garoweonline.com",
+    "type": "media",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "Puntland-based independent outlet with national coverage.",
+    "reliability_notes": "Strong on Puntland, Jubaland and opposition sources. Its tone is often critical of Villa Somalia. Some stories rely on anonymous sources or secondary reports (for example Nordic Monitor on the Turkey oil deal).",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Warbaahin madax-bannaan oo saldhigeedu yahay Puntland, kana warramta guud ahaan dalka.",
+    "reliability_notes_so": "Way ku xoog badan tahay Puntland, Jubbaland iyo ilaha mucaaradka. Codkeedu inta badan wuxuu dhaleeceeyaa Villa Somalia. Sheekooyinka qaar waxay ku tiirsan yihiin ilo aan magacooda la sheegin ama warbixinno heer labaad ah (tusaale ahaan Nordic Monitor oo ku saabsan heshiiska shidaalka Turkiga).",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Somali Guardian",
+    "url": "https://www.somaliguardian.com",
+    "type": "media",
+    "language": [
+      "en"
+    ],
+    "description": "English-language Somali news site.",
+    "reliability_notes": "Breaks political stories, sometimes from single or anonymous sources. Generally labels unverified claims as such.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Bog wareed Soomaaliyeed oo ku qoran Ingiriisi.",
+    "reliability_notes_so": "Wuxuu soo saaraa sheekooyin siyaasadeed oo cusub, mararka qaar hal il ama ilo aan magacooda la sheegin. Guud ahaan sheegashooyinka aan la xaqiijin wuxuu u calaamadeeyaa sidaas.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Horn Observer",
+    "url": "https://hornobserver.com",
+    "type": "media",
+    "language": [
+      "en"
+    ],
+    "description": "Investigative and political reporting on Somalia and the Horn.",
+    "reliability_notes": "Investigative pieces are often based on leaked documents and insider sources. Verify them against official documents where possible.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Warbixinno baaritaan iyo siyaasadeed oo ku saabsan Soomaaliya iyo Geeska Afrika.",
+    "reliability_notes_so": "Qoraallada baaritaanka inta badan waxay ku saleysan yihiin dukumeentiyo la soo daadiyay iyo ilo gudaha ah. Haddii ay suurtagal tahay, ku hubi dukumeentiyo rasmi ah.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Goobjoog News",
+    "url": "https://en.goobjoog.com",
+    "type": "media",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Mogadishu-based radio/TV/online network.",
+    "reliability_notes": "Mainstream national outlet. Distinguish news from opinion columns, some of which are pro-government in framing.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Shabakad idaacad/telefishin/onlayn ah oo saldhigeedu yahay Muqdisho.",
+    "reliability_notes_so": "Warbaahin qaran oo caan ah. Kala saar wararka iyo maqaallada ra'yiga, kuwaasoo qaarkood u janjeera taageerada dowladda.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Radio Dalsan",
+    "url": "https://www.radiodalsan.com",
+    "type": "media",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Mogadishu radio and news site; also does fact-check style debunks.",
+    "reliability_notes": "Generally reliable on Mogadishu events. Some explainers align with the federal government's position.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Idaacad iyo bog wareed Muqdisho ku yaal; sidoo kale wuxuu sameeyaa beenin u eg xaqiijin xaqiiqo.",
+    "reliability_notes_so": "Guud ahaan waa la isku halleyn karaa marka laga hadlayo dhacdooyinka Muqdisho. Qaar ka mid ah sharraxaaddiisu waxay la jaanqaadaan mowqifka dowladda federaalka.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "VOA Somali",
+    "url": "https://www.voasomali.com",
+    "type": "media",
+    "language": [
+      "so"
+    ],
+    "description": "US government-funded Somali-language service.",
+    "reliability_notes": "Professional standards and field reporting. Its funding and operations were disrupted by US cuts in 2025.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Adeeg af-Soomaali ah oo ay maalgeliso dowladda Mareykanka.",
+    "reliability_notes_so": "Heerar xirfadeed iyo warbixinno goob joog ah. Maalgelinteeda iyo howlaheeda waxaa carqaladeeyay dhimista miisaaniyadda Mareykanka ee 2025.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "BBC Somali",
+    "url": "https://www.bbc.com/somali",
+    "type": "media",
+    "language": [
+      "so"
+    ],
+    "description": "BBC World Service Somali-language news.",
+    "reliability_notes": "High editorial standards. It is a public broadcaster, but its reporting is often critical of Somali governments.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Wararka af-Soomaaliga ee BBC World Service.",
+    "reliability_notes_so": "Heerar tifaftir oo sarreeya. Waa idaacad dadweyne, balse warbixinteedu inta badan waxay dhaleeceysaa dowladaha Soomaaliyeed.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Halqabsi",
+    "url": "https://halqabsi.com",
+    "type": "media",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Somali investigative and explanatory journalism outlet.",
+    "reliability_notes": "Data-driven, investigative stories. Check its sourcing on single-source pieces.",
+    "url_check": "Homepage responded (HTTP 202, bot check) on 2026-11-19",
+    "description_so": "Warbaahin Soomaaliyeed oo ku takhasustay saxaafadda baaritaanka iyo sharraxaadda.",
+    "reliability_notes_so": "Sheekooyin baaritaan oo xog ku saleysan. Hubi ilaha ay isticmaasho qoraallada hal il ku tiirsan.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Kaab TV",
+    "url": "https://kaabtv.com",
+    "type": "media",
+    "language": [
+      "so",
+      "en"
+    ],
+    "description": "Somali TV and online news.",
+    "reliability_notes": "Frequently publishes critical stories about Villa Somalia, some based on unnamed sources. Corroborate before citing.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Telefishin iyo wararka onlaynka ah ee Soomaaliyeed.",
+    "reliability_notes_so": "Si joogto ah ayuu u daabacaa sheekooyin dhaleeceynaya Villa Somalia, qaarkood ku saleysan ilo aan magacooda la sheegin. Xaqiiji ka hor intaadan tixraacin.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Somali Public Agenda",
+    "url": "https://www.somalipublicagenda.org",
+    "type": "ngo",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "Mogadishu-based public policy research think tank: governance, elections, public finance.",
+    "reliability_notes": "Independent, evidence-based research. Widely cited by donors.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Machad cilmi-baaris siyaasadeed oo saldhigiisu yahay Muqdisho: maamulka, doorashooyinka iyo maaliyadda dadweynaha.",
+    "reliability_notes_so": "Cilmi-baaris madax-bannaan oo caddeyn ku saleysan. Deeq-bixiyeyaashu si ballaaran ayay u tixraacaan.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Heritage Institute (HIPS)",
+    "url": "https://heritageinstitute.org",
+    "type": "ngo",
+    "language": [
+      "en",
+      "so"
+    ],
+    "description": "Mogadishu policy institute: state-building, security, elections.",
+    "reliability_notes": "Respected think tank. Its leadership has at times taken public political positions, so note authorship.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Machad siyaasadeed oo Muqdisho ku yaal: dowlad dhiska, amniga iyo doorashooyinka.",
+    "reliability_notes_so": "Machad fikir oo la ixtiraamo. Hoggaankiisu mararka qaar wuxuu qaatay mowqifyo siyaasadeed oo fagaare ah, sidaa darteed fiiro gaar ah u yeelo qoraaga.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Hiraal Institute",
+    "url": "https://hiraalinstitute.org",
+    "type": "ngo",
+    "language": [
+      "en"
+    ],
+    "description": "Security think tank focused on al-Shabaab finances and operations.",
+    "reliability_notes": "Valuable insider-sourced security research, but its methods are not always transparent. Its founders include former security officials.",
+    "url_check": "Homepage loaded (HTTP 200) on 2026-11-19",
+    "description_so": "Machad fikir oo amni oo diiradda saara maaliyadda iyo howlgallada Al-Shabaab.",
+    "reliability_notes_so": "Cilmi-baaris amni oo qiimo leh oo laga helay ilo gudaha ah, balse hababkiisu had iyo jeer ma aha kuwo daahfuran. Aasaasayaashiisa waxaa ka mid ah mas'uuliyiin amni oo hore.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "Africa Check",
+    "url": "https://africacheck.org",
+    "type": "ngo",
+    "language": [
+      "en",
+      "fr"
+    ],
+    "description": "Independent pan-African fact-checker (IFCN signatory); covers Somalia under the Meta programme.",
+    "reliability_notes": "High methodological standards. Cites its evidence.",
+    "url_check": "Homepage blocks automated requests (HTTP 403 bot protection) on 2026-11-19; site is live in normal browsers",
+    "description_so": "Xaqiijiye xaqiiqo oo madax-bannaan oo Afrika oo dhan ka shaqeeya (saxiixe IFCN); wuxuu Soomaaliya ka warramaa barnaamijka Meta hoostiisa.",
+    "reliability_notes_so": "Heerar habraac oo sarreeya. Wuxuu tixraacaa caddeymihiisa.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "PesaCheck",
+    "url": "https://pesacheck.org",
+    "type": "ngo",
+    "language": [
+      "en",
+      "so",
+      "sw",
+      "am",
+      "fr"
+    ],
+    "description": "Code for Africa's East African fact-checker; has a Mogadishu presence and publishes in Somali.",
+    "reliability_notes": "IFCN signatory with transparent methodology. Many Somalia checks are republished on Hiiraan and other sites.",
+    "url_check": "Homepage blocks automated requests (HTTP 403 bot protection) on 2026-11-19; site is live in normal browsers",
+    "description_so": "Xaqiijiyaha xaqiiqada Bariga Afrika ee Code for Africa; wuxuu xarun ku leeyahay Muqdisho wuxuuna ku daabacaa af-Soomaali.",
+    "reliability_notes_so": "Saxiixe IFCN ah oo leh habraac daahfuran. Xaqiijinno badan oo Soomaaliya ku saabsan ayaa dib loogu daabacaa Hiiraan iyo bogag kale.",
+    "translation_so": "machine"
+  },
+  {
+    "name": "AFP Fact Check",
+    "url": "https://factcheck.afp.com",
+    "type": "media",
+    "language": [
+      "en",
+      "fr"
+    ],
+    "description": "AFP's global fact-check desk, including AFP Africa and AFP Ethiopia.",
+    "reliability_notes": "IFCN signatory with strong verification standards.",
+    "url_check": "Homepage blocks automated requests (HTTP 403 bot protection) on 2026-11-19; site is live in normal browsers",
+    "description_so": "Qaybta xaqiijinta xaqiiqada caalamiga ah ee AFP, oo ay ku jiraan AFP Africa iyo AFP Ethiopia.",
+    "reliability_notes_so": "Saxiixe IFCN ah oo leh heerar xaqiijin oo adag.",
+    "translation_so": "machine"
+  }
+]

@@ -1,0 +1,8 @@
+# Stays on this computer only: drafts awaiting review, the review log, editor reports, local settings.
+data/pending.json
+updates/
+.claude/
+.DS_Store
+*.tmp
+# The live wire is rebuilt by the hosting workflow every 15 minutes, so it is not committed.
+data/wire.json

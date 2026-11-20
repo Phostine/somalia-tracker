@@ -1,0 +1,1805 @@
+[
+  {
+    "id": "sec-2022-08-hayat-hotel-siege",
+    "date": "2022-08-19",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Major incidents",
+    "title": "Al-Shabaab's 30-hour siege of Mogadishu's Hayat Hotel",
+    "summary": "Al-Shabaab gunmen stormed the Hayat Hotel in Mogadishu on the evening of 19 August 2022 after car bombs breached its gate. Security forces ended the siege about 30 hours later. The health minister put the death toll at 21, and dozens of hostages were freed.",
+    "impact": "It was the first major attack in Mogadishu since Hassan Sheikh Mohamud took office in May 2022. It came just before he declared 'total war' on the group.",
+    "context": "Reported death tolls rose during the siege, from 12 in early reports to 21. Recorded here as context, not as a government achievement.",
+    "tags": [
+      "al-Shabaab",
+      "Mogadishu",
+      "hotel attack"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2022/8/19/unidentified-attackers-seize-control-of-hotel-in-mogadishu",
+        "type": "media",
+        "date": "2022-08-19"
+      },
+      {
+        "name": "PBS NewsHour (AP)",
+        "url": "https://www.pbs.org/newshour/world/somali-security-forces-end-siege-at-hotel-in-which-21-were-killed",
+        "type": "media",
+        "date": "2022-08-21"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Hareeraynta 30-ka saacadood ahayd ee Al-Shabaab ku qaaday Hotel Hayat ee Muqdisho",
+    "summary_so": "Rag hubeysan oo ka tirsan Al-Shabaab ayaa fiidkii 19 Ogoosto 2022 xoog ku galay Hotel Hayat ee Muqdisho, kadib markii gaadiid qarxa ay jebiyeen albaabkiisa. Ciidamada ammaanka ayaa soo afjaray hareeraynta qiyaastii 30 saacadood kadib. Wasiirka caafimaadka ayaa sheegay in dhimashadu gaartay 21 qof, waxaana la sii daayay tobanaan qof oo la haystay.",
+    "impact_so": "Waxay ahayd weerarkii ugu weynaa ee Muqdisho ka dhaca tan iyo markii Xasan Sheekh Maxamuud xilka la wareegay May 2022. Waxay dhacday wax yar ka hor intii uusan ku dhawaaqin 'dagaal dhammaystiran' oo ka dhan ah kooxda.",
+    "context_so": "Tirada dhimashada ee la sheegay ayaa kordhay inta hareeraynta socotay, iyadoo ka kacday 12 warbixinnadii hore ilaa 21. Halkan waxaa loogu diiwaangeliyay macluumaad asal ah, ee looma tixgelin guul dowladeed.",
+    "subcategory_so": "Dhacdooyinka waaweyn",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2022-08-total-war-declaration",
+    "date": "2022-08-01",
+    "date_precision": "month",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "President declares 'total war' on al-Shabaab",
+    "summary": "In a televised speech in late August 2022, after the Hayat Hotel siege, President Hassan Sheikh Mohamud declared 'total war' on al-Shabaab. The campaign had three parts: military operations, cutting off the group's finances, and challenging its ideology. It built on clan uprisings against the group that had already started in central Somalia.",
+    "impact": "This set the framework for the 2022–23 offensive, the most effective push against al-Shabaab since 2016. Government and allied forces retook towns the group had held for a decade or more.",
+    "context": "Later assessments are much more critical. Analysts describe the offensive as stalled by mid-2023, and al-Shabaab won back much of the lost ground in 2025.",
+    "tags": [
+      "al-Shabaab",
+      "total war",
+      "Hassan Sheikh Mohamud"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/somalia-s-president-vows-total-war-against-al-shabab/6714508.html",
+        "type": "media",
+        "date": "2022-08-24"
+      },
+      {
+        "name": "Daily Monitor (Uganda)",
+        "url": "https://www.monitor.co.ug/uganda/news/somalia-president-vows-all-out-war-against-al-shabaab-3924444",
+        "type": "media"
+      },
+      {
+        "name": "News24 (AFP explainer)",
+        "url": "https://www.news24.com/world/africa/the-total-war-against-al-shabaab-in-somalia-20221126",
+        "type": "media",
+        "date": "2022-11-26"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Madaxweynaha oo ku dhawaaqay 'dagaal dhammaystiran' oo ka dhan ah Al-Shabaab",
+    "summary_so": "Khudbad telefishan laga sii daayay dabayaaqadii Ogoosto 2022, kadib hareeraynta Hotel Hayat, ayuu Madaxweyne Xasan Sheekh Maxamuud ku dhawaaqay 'dagaal dhammaystiran' oo ka dhan ah Al-Shabaab. Ololuhu wuxuu lahaa saddex qaybood: hawlgallo militari, goynta dhaqaalaha kooxda, iyo ka hortagga fikirkeeda. Wuxuu ku dhisnaa kacdoonno beeleed oo horay uga dhan ahaa kooxda oo ka bilowday bartamaha Soomaaliya.",
+    "impact_so": "Tani waxay dejisay qaab-dhismeedka weerarkii 2022–23, kaasoo ahaa dadaalkii ugu waxtarka badnaa ee ka dhan ah Al-Shabaab tan iyo 2016. Ciidamada dowladda iyo kuwa la safan ayaa dib u qabsaday magaalooyin ay kooxdu haysay toban sano ama ka badan.",
+    "context_so": "Qiimeyntii dambe ayaa aad u dhaleeceyn badan. Falanqeeyayaashu waxay sheegaan in weerarku istaagay bartamihii 2023, Al-Shabaabna waxay sanadkii 2025 dib u qabsatay inta badan dhulkii ay waysay.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2022-09-macawisley-uprising-hiiraan",
+    "date": "2022-09-01",
+    "date_precision": "month",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Clan militias (Macawisley) and the army push al-Shabaab out of parts of Hiiraan",
+    "summary": "From mid-2022, clan militias known as Macawisley, mainly from the Hawadle clan in Hiiraan, rose up against al-Shabaab. The Somali National Army and the African Union backed them. Between June and August 2022 they reportedly cleared at least 23 villages, and the offensive later spread into Middle Shabelle.",
+    "impact": "The community-backed model was the driving force behind the government's 2022–23 gains in Hirshabelle, including towns such as Moqokori.",
+    "context": "The alliance later frayed. Hawadle militias complained of little funding and support from Mogadishu and left some bases, and al-Shabaab retook Moqokori in July 2025.",
+    "tags": [
+      "Macawisley",
+      "Hiiraan",
+      "Hirshabelle",
+      "clan militias"
+    ],
+    "sources": [
+      {
+        "name": "Critical Threats (AEI) Africa File",
+        "url": "https://www.criticalthreats.org/print/brf_632367515208a",
+        "type": "ngo"
+      },
+      {
+        "name": "CTC Sentinel (West Point)",
+        "url": "https://ctc.westpoint.edu/the-2022-somali-offensive-against-al-shabaab-making-enduring-gains-will-require-learning-from-previous-failures/",
+        "type": "ngo"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/hawadle-clan-militias-left-to-fight-al-shabaab-alone-in-somalia-s-hiiraan-region",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Maleeshiyaad beeleed (Macawisley) iyo ciidamada oo Al-Shabaab ka saaray qaybo ka mid ah Hiiraan",
+    "summary_so": "Laga bilaabo bartamihii 2022, maleeshiyaad beeleed oo loo yaqaan Macawisley, oo badankoodu ka soo jeedaan beesha Xawaadle ee Hiiraan, ayaa kacdoon ka sameeyay Al-Shabaab. Ciidanka Xoogga Dalka Soomaaliyeed iyo Midowga Afrika ayaa taageeray. Inta u dhaxaysay Juun iyo Ogoosto 2022 waxaa la sheegay inay ka saareen kooxda ugu yaraan 23 tuulo, weerarkuna markii dambe wuxuu gaaray Shabeellaha Dhexe.",
+    "impact_so": "Qaabkan ay bulshadu taageerto ayaa ahaa awoodda ugu weyn ee ka dambaysay guulihii dowladda ee 2022–23 ee Hirshabeelle, oo ay ku jiraan magaalooyin sida Moqokori.",
+    "context_so": "Isbahaysigu markii dambe wuu dabcay. Maleeshiyaadka Xawaadle waxay ka cabanayeen maalgelin iyo taageero yar oo Muqdisho ka timaadda, waxayna ka baxeen saldhigyo qaar; Al-Shabaabna waxay dib u qabsatay Moqokori Luulyo 2025.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2022-10-zobe-twin-bombing",
+    "date": "2022-10-29",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Major incidents",
+    "title": "Twin car bombs at Mogadishu's Zobe junction kill at least 100",
+    "summary": "Two car bombs exploded minutes apart near the Ministry of Education at the busy Zobe junction in Mogadishu, and the second hit as people gathered to help victims. The president put the death toll at 100, with about 300 wounded. Al-Shabaab claimed the attack.",
+    "impact": "It was the deadliest attack in Somalia since the 2017 bombing at the same junction, and it showed the group could still strike the capital while the offensive went on.",
+    "context": "Some later tallies are higher; Wikipedia lists 121 dead, a figure not checked against a primary source. Recorded here as context.",
+    "tags": [
+      "al-Shabaab",
+      "Mogadishu",
+      "bombing",
+      "civilians"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2022/10/29/two-blasts-target-somalias-education-ministry-police",
+        "type": "media",
+        "date": "2022-10-29"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2022/10/30/1132664078/somalia-mogadishu-car-bomb-attacks-al-shabab",
+        "type": "media",
+        "date": "2022-10-30"
+      },
+      {
+        "name": "Nation (AFP)",
+        "url": "https://nation.africa/africa/news/death-toll-from-somalia-twin-bombings-climbs-to-100-4002886",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Laba gaari oo qarxay oo ka dhacay isgoyska Zoobe ee Muqdisho oo dilay ugu yaraan 100 qof",
+    "summary_so": "Laba gaari oo walxaha qarxa laga buuxiyay ayaa daqiiqado u dhexeeyaan ku qarxay meel u dhow Wasaaradda Waxbarashada ee isgoyska mashquulka badan ee Zoobe ee Muqdisho, qaraxa labaadna wuxuu dhacay markii dadku isugu soo baxeen inay caawiyaan dhibbanayaasha. Madaxweynaha ayaa sheegay in dhimashadu gaartay 100 qof, qiyaastii 300 kalena ay dhaawacmeen. Al-Shabaab ayaa sheegatay weerarka.",
+    "impact_so": "Wuxuu ahaa weerarkii ugu dhimashada badnaa ee Soomaaliya ka dhaca tan iyo qaraxii 2017 ee isla isgoyskaas, wuxuuna muujiyay in kooxdu weli weerari karto caasimadda iyadoo weerarku socdo.",
+    "context_so": "Tirakoobyo dambe qaar ayaa ka sarreeya; Wikipedia waxay qortay 121 dhimasho, tirada oo aan lala barbar dhigin il asal ah. Halkan waxaa loogu diiwaangeliyay macluumaad asal ah.",
+    "subcategory_so": "Dhacdooyinka waaweyn",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2022-12-adan-yabaal-liberated",
+    "date": "2022-12-05",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Army and Macawisley retake Adan Yabaal",
+    "summary": "On 5 December 2022 the Somali National Army and local Macawisley fighters entered Adan Yabaal in Middle Shabelle, about 220 km north of Mogadishu, without a fight. Al-Shabaab had held the town for about six years and used it as a training base. The group had withdrawn about two days earlier.",
+    "impact": "It was the biggest symbolic gain of the first phase in Hirshabelle, and ATMIS publicly congratulated the army.",
+    "context": "The town was almost empty when troops arrived; the government said al-Shabaab had forced residents out. Al-Shabaab recaptured Adan Yabaal on 16 April 2025.",
+    "tags": [
+      "Adan Yabaal",
+      "Middle Shabelle",
+      "Hirshabelle"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2022/12/7/somalia-forces-and-allies-retake-key-town-from-al-shabab",
+        "type": "media",
+        "date": "2022-12-07"
+      },
+      {
+        "name": "ATMIS press release",
+        "url": "https://atmis-au.org/atmis-congratulates-sna-on-the-liberation-of-adan-yabaal/",
+        "type": "international"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2022/Dec/188994/sna_reach_major_milestone_after_pushing_al_shabaab_from_former_stronghold.aspx",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamada iyo Macawisley oo dib u qabsaday Aadan Yabaal",
+    "summary_so": "5 Diseembar 2022, Ciidanka Xoogga Dalka Soomaaliyeed iyo dagaalyahanno Macawisley ah oo deegaanka ah ayaa dagaal la'aan ku galay Aadan Yabaal oo ku taal Shabeellaha Dhexe, qiyaastii 220 km waqooyiga Muqdisho. Al-Shabaab waxay magaalada haysatay qiyaastii lix sano, waxayna u isticmaashay saldhig tababar. Kooxdu waxay ka baxday qiyaastii laba maalmood ka hor.",
+    "impact_so": "Waxay ahayd guushii ugu calaamadda weyneyd ee wejigii koowaad ee Hirshabeelle, ATMIS-na si cad ayay ciidamada ugu hambalyeysay.",
+    "context_so": "Magaaladu waxay ku dhowayd inay faaruq tahay markii ciidamadu yimaadeen; dowladdu waxay sheegtay in Al-Shabaab ay dadka deegaanka si qasab ah uga saartay. Al-Shabaab ayaa dib u qabsatay Aadan Yabaal 16 Abriil 2025.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2022-12-eritrea-trained-troops-return",
+    "date": "2022-12-21",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Security sector reform",
+    "title": "First Eritrea-trained Somali troops return home",
+    "summary": "The first batch of the soldiers sent to Eritrea for training in 2019–2020 arrived back in Mogadishu on 21 December 2022. The defence minister said they would join the fight against al-Shabaab. The president said the full return would take until January.",
+    "impact": "The returnees added to the forces available for the offensive. Reports put the total sent to Eritrea at about 5,000.",
+    "context": "Families had protested that recruits were sent under false pretences. A UN report alleged that Somali soldiers fought in Ethiopia's Tigray war, which the government denied.",
+    "tags": [
+      "Eritrea",
+      "force generation",
+      "SNA"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/first-batch-of-somali-troops-trained-in-eritrea-arrives-home-/6885944.html",
+        "type": "media",
+        "date": "2022-12-21"
+      },
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2022/12/21/first-batch-of-somali-soldiers-returns-from-eritrea/",
+        "type": "media",
+        "date": "2022-12-21"
+      },
+      {
+        "name": "The East African (Reuters)",
+        "url": "https://www.theeastafrican.co.ke/tea/rest-of-africa/somalia-repatriates-troops-from-eritrea-4063956",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamadii Soomaaliyeed ee ugu horreeyay ee lagu tababaray Eritrea oo dalka dib ugu soo laabtay",
+    "summary_so": "Dufcaddii ugu horreysay ee askartii loo diray Eritrea si loogu tababaro sanadihii 2019–2020 ayaa 21 Diseembar 2022 dib ugu soo laabtay Muqdisho. Wasiirka gaashaandhigga ayaa sheegay inay ku biiri doonaan dagaalka ka dhanka ah Al-Shabaab. Madaxweynaha ayaa sheegay in soo laabashada oo dhan ay qaadan doonto ilaa Janaayo.",
+    "impact_so": "Kuwa soo laabtay waxay kordhiyeen ciidamada loo heli karo weerarka. Warbixinnadu waxay sheegeen in tirada guud ee loo diray Eritrea ay ahayd qiyaastii 5,000.",
+    "context_so": "Qoysas ayaa ka mudaaharaaday in dhallinyarada la qoray loo diray marmarsiiyo been ah. Warbixin Qaramada Midoobay ayaa ku eedaysay in askar Soomaaliyeed ay ka dagaallameen dagaalkii Tigray ee Itoobiya, taas oo dowladdu beenisay.",
+    "subcategory_so": "Dib-u-habeynta qaybta amniga",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-01-financial-war-accounts-closed",
+    "date": "2023-01-11",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "Government closes about 250 bank accounts linked to al-Shabaab",
+    "summary": "As part of the financial side of the campaign, officials said about 250 accounts linked to al-Shabaab had been closed at four banks. Network and data services were also cut on about 70 mobile phones used to move the group's money.",
+    "impact": "This was the first large-scale financial step against the group's income from extortion and 'taxation'. A deputy minister later claimed it had cut the group's income by half.",
+    "context": "The 50% figure is a government claim that has not been independently confirmed. A 2025 Global Initiative report found that the central bank struggled to enforce compliance and that many businesses started paying al-Shabaab again under threat.",
+    "tags": [
+      "terror financing",
+      "banks",
+      "mobile money"
+    ],
+    "sources": [
+      {
+        "name": "VOA (via GlobalSecurity)",
+        "url": "https://www.globalsecurity.org/military/library/news/2023/01/mil-230111-voa04.htm",
+        "type": "media",
+        "date": "2023-01-11"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/over-250-bank-accounts-linked-to-al-shabaab-closed-down-in-somalia",
+        "type": "media"
+      },
+      {
+        "name": "Global Initiative Against Transnational Organized Crime",
+        "url": "https://globalinitiative.net/analysis/disrupting-al-shabaabs-hold-on-mogadishus-economy/",
+        "type": "ngo",
+        "date": "2025-04-24"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Dowladda oo xirtay qiyaastii 250 akoon bangi oo lala xiriiriyay Al-Shabaab",
+    "summary_so": "Iyadoo qayb ka ah dhinaca dhaqaalaha ee ololaha, saraakiisha ayaa sheegay in qiyaastii 250 akoon oo lala xiriiriyay Al-Shabaab laga xiray afar bangi. Sidoo kale adeegyada shabakadda iyo xogta ayaa laga jaray qiyaastii 70 taleefan oo loo isticmaalayay wareejinta lacagta kooxda.",
+    "impact_so": "Tani waxay ahayd tallaabadii dhaqaale ee ugu horreysay ee baaxad weyn oo laga qaado dakhliga kooxda ee ka yimaada baad-goosiga iyo 'canshuuraha'. Ku-xigeen wasiir ayaa markii dambe sheegay inay dakhliga kooxda kala badh ka dhimtay.",
+    "context_so": "Tirada 50% waa sheegasho dowladeed oo aan si madax-bannaan loo xaqiijin. Warbixin 2025 oo uu soo saaray Global Initiative ayaa ogaatay in bangiga dhexe uu ku adkaatay inuu dhaqangeliyo u hoggaansanaanta, iyo in ganacsiyo badan ay dib u bilaabeen inay Al-Shabaab lacag siiyaan iyagoo la cabsi gelinayo.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-01-harardhere-galcad-ceel-dheer",
+    "date": "2023-01-16",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Galmudug phase: Harardhere, Galcad and Ceel Dheer retaken",
+    "summary": "Defence Minister Abdulkadir Mohamed Nur announced that the army, clan militias and allied forces had taken the coastal town of Harardhere and nearby Galcad on 16 January 2023. Ceel Dheer in Galgaduud was taken at about the same time. Al-Shabaab had held the area for more than a decade and largely withdrew without a fight.",
+    "impact": "Analysts called Harardhere, a former pirate base, perhaps the biggest prize of the campaign. These gains extended the offensive from Hirshabelle into Galmudug.",
+    "context": "After the August 2023 Cowsweyne attack, officials said troops pulled out of Ceel Dheer, Galcad and other Galmudug towns.",
+    "tags": [
+      "Harardhere",
+      "Ceel Dheer",
+      "Galmudug",
+      "Galcad"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/1/16/somalia-says-it-has-seized-key-port-town-from-al-shabaab",
+        "type": "media",
+        "date": "2023-01-16"
+      },
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/somali-forces-capture-two-towns-from-militants/6920089.html",
+        "type": "media",
+        "date": "2023-01-16"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2023/Jan/189525/somalia_governmnet_says_it_has_seized_another_key_town_from_al_shabab.aspx",
+        "type": "media",
+        "date": "2023-01-17"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Wejiga Galmudug: Xarardheere, Galcad iyo Ceel Dheer oo dib loo qabsaday",
+    "summary_so": "Wasiirka Gaashaandhigga Cabdulqaadir Maxamed Nuur ayaa ku dhawaaqay in ciidamada, maleeshiyaadka beelaha iyo ciidamo la safan ay 16 Janaayo 2023 qabsadeen magaalada xeebta ah ee Xarardheere iyo Galcad oo u dhow. Ceel Dheer oo ku taal Galgaduud ayaa la qabsaday qiyaastii isla waqtigaas. Al-Shabaab waxay deegaanka haysatay in ka badan toban sano, waxayna inta badan ka baxday dagaal la'aan.",
+    "impact_so": "Falanqeeyayaashu waxay ku tilmaameen Xarardheere, oo hore u ahayd saldhig burcad-badeed, inay suurtagal tahay inay ahayd abaalmarintii ugu weyneyd ee ololaha. Guulahani waxay weerarka ka ballaariyeen Hirshabeelle ilaa Galmudug.",
+    "context_so": "Kadib weerarkii Cowsweyne ee Ogoosto 2023, saraakiishu waxay sheegeen in ciidamadu ka baxeen Ceel Dheer, Galcad iyo magaalooyin kale oo Galmudug ah.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-01-clerics-conference",
+    "date": "2023-01-26",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "Clerics' conference rejects al-Shabaab ideology",
+    "summary": "More than 300 Somali religious scholars met in Mogadishu for four days from 23 January 2023. They declared that the extremist ideology of al-Shabaab and ISIS had no religious basis and set up a Supreme Council of clerics. The government presented the meeting as the ideological part of its campaign.",
+    "impact": "It gave the campaign religious backing to counter al-Shabaab's claim to Islamic legitimacy, a core part of the group's recruitment.",
+    "context": "Its effect is hard to measure; the attendance figure comes from VOA reporting.",
+    "tags": [
+      "ideology",
+      "religious leaders",
+      "counter-extremism"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/clerics-in-somalia-vow-to-counter-al-shabab/6937171.html",
+        "type": "media",
+        "date": "2023-01-27"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/muslim-clerics-in-somalia-denounce-religious-extremism",
+        "type": "media"
+      },
+      {
+        "name": "ATMIS press release (via Zawya)",
+        "url": "https://www.zawya.com/en/press-release/africa-press-releases/somali-clerics-denounce-religious-extremism-and-commend-the-government-on-the-offensive-against-terror-groups-k3505w85",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Shir culimo oo diiday fikirka Al-Shabaab",
+    "summary_so": "In ka badan 300 oo culimada diinta Soomaaliyeed ah ayaa afar maalmood ku shiray Muqdisho laga bilaabo 23 Janaayo 2023. Waxay ku dhawaaqeen in fikirka xagjirka ah ee Al-Shabaab iyo ISIS uusan lahayn sal diineed, waxayna dhiseen Gole Sare oo culimo ah. Dowladdu waxay shirka u soo bandhigtay inuu yahay qaybta fikirka ee ololaheeda.",
+    "impact_so": "Wuxuu ololaha siiyay taageero diineed oo looga hortago sheegashada Al-Shabaab ee sharciyadda Islaamiga ah, taas oo ah qayb muhiim u ah xubin-qorista kooxda.",
+    "context_so": "Saamayntiisa way adag tahay in la qiyaaso; tirada ka qaybgalayaasha waxay ka timid warbixinnada VOA.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-03-second-phase-frontline-states",
+    "date": "2023-03-26",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "Second phase announced for the south, with pledged help from neighbouring states",
+    "summary": "On 26 March 2023 the president announced a second phase of the offensive aimed at al-Shabaab strongholds in Jubaland and South West State. Djibouti, Ethiopia and Kenya reportedly pledged more than 30,000 soldiers to support it. The southern push, 'Operation Black Lion', was planned with these neighbouring states.",
+    "impact": "The aim was to move the campaign into al-Shabaab's southern core areas, where the group is strongest.",
+    "context": "The southern push was badly delayed, and forces stayed focused on central Somalia. South West State only announced the start of its second-phase operations in October 2023. The neighbouring states' troop pledges never fully materialised as planned.",
+    "tags": [
+      "second phase",
+      "Jubaland",
+      "South West",
+      "frontline states"
+    ],
+    "sources": [
+      {
+        "name": "International Crisis Group (CrisisWatch Somalia, March 2023)",
+        "url": "https://www.crisisgroup.org/sites/default/files/2023-04/somalia-mar-2023.pdf",
+        "type": "ngo"
+      },
+      {
+        "name": "ACLED Somalia situation update, April 2023",
+        "url": "https://acleddata.com/update/somalia-situation-update-april-2023-counter-insurgency-operation-gains-regional-support",
+        "type": "ngo"
+      },
+      {
+        "name": "CTC Sentinel (West Point)",
+        "url": "https://ctc.westpoint.edu/somalias-stalled-offensive-against-al-shabaab-taking-stock-of-obstacles/",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Waji labaad oo koonfurta loogu dhawaaqay, iyadoo dalalka deriska ah ay ballan qaadeen taageero",
+    "summary_so": "26 Maarso 2023, madaxweynaha ayaa ku dhawaaqay waji labaad oo weerarka ah oo lagu bartilmaameedsanayo saldhigyada adag ee Al-Shabaab ee Jubbaland iyo Koonfur Galbeed. Jabuuti, Itoobiya iyo Kenya ayaa la sheegay inay ballan qaadeen in ka badan 30,000 askari oo taageera. Dadaalka koonfurta, 'Hawlgalka Libaaxa Madow' (Operation Black Lion), ayaa lala qorsheeyay dalalkan deriska ah.",
+    "impact_so": "Ujeeddadu waxay ahayd in ololaha loo wareejiyo deegaannada udub-dhexaadka u ah Al-Shabaab ee koonfurta, halkaas oo ay kooxdu ugu xoog badan tahay.",
+    "context_so": "Dadaalka koonfurta si weyn ayuu dib u dhacay, ciidamaduna waxay diiradda saareen bartamaha Soomaaliya. Koonfur Galbeed waxay ku dhawaaqday bilowga hawlgallada wejiga labaad Oktoobar 2023 oo keliya. Ballanqaadyada ciidamada ee dalalka deriska ah waligood si buuxda uma hirgelin sidii loo qorsheeyay.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-03-uganda-trained-graduation",
+    "date": "2023-03-01",
+    "date_precision": "month",
+    "sector": "security",
+    "subcategory": "Security sector reform",
+    "title": "Somali and Ugandan presidents attend graduation of Uganda-trained troops",
+    "summary": "In March 2023 Presidents Hassan Sheikh Mohamud and Yoweri Museveni attended a graduation ceremony in Uganda for newly trained Somali soldiers. In May 2023 a group of Somali special forces also finished training at Uganda's 206 Commando Brigade Training Centre.",
+    "impact": "Bilateral training abroad was a key way of building up the national army ahead of the African Union's withdrawal.",
+    "context": "Official figures on how many Uganda-trained soldiers went on to serve in frontline units are limited.",
+    "tags": [
+      "Uganda",
+      "training",
+      "force generation"
+    ],
+    "sources": [
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2023/Mar/190404/somali_and_ugandan_presidents_attend_graduation_ceremony_for_newly_trained_somali_soldiers_in_kampala.aspx",
+        "type": "media"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/hassan-sheikh-in-uganda-for-graduation-of-somali-cadets",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Madaxweynayaasha Soomaaliya iyo Uganda oo ka qaybgalay qalin-jebinta ciidamo lagu tababaray Uganda",
+    "summary_so": "Maarso 2023, Madaxweynayaasha Xasan Sheekh Maxamuud iyo Yoweri Museveni ayaa Uganda kaga qaybgalay xaflad qalin-jebin oo loo sameeyay askar Soomaaliyeed oo tababar cusub soo dhammaystay. May 2023, koox ka tirsan ciidamada gaarka ah ee Soomaaliyeed ayaa sidoo kale tababar ku soo dhammaystay Xarunta Tababarka ee Guutada 206 Commando ee Uganda.",
+    "impact_so": "Tababarka laba-geesoodka ah ee dibadda ayaa ahaa hab muhiim ah oo lagu dhisayo ciidanka qaranka ka hor bixitaanka Midowga Afrika.",
+    "context_so": "Tirooyinka rasmiga ah ee inta askari ee lagu tababaray Uganda oo markii dambe ka shaqeeyay cutubyada safka hore way kooban yihiin.",
+    "subcategory_so": "Dib-u-habeynta qaybta amniga",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-05-buulo-mareer-attack",
+    "date": "2023-05-26",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Major incidents",
+    "title": "Al-Shabaab overruns Ugandan AU base at Buulo Mareer; 54 killed",
+    "summary": "Al-Shabaab used suicide car bombs to overrun the Ugandan ATMIS forward base at Buulo Mareer in Lower Shabelle, about 120 km from Mogadishu. President Museveni said 54 Ugandan soldiers were killed. Ugandan troops retook the base about a week later.",
+    "impact": "It was one of the deadliest attacks on African Union troops in years, and it came weeks before the first ATMIS drawdown deadline.",
+    "context": "Al-Shabaab claimed a much higher toll, which Uganda disputed. Museveni said two commanders who ordered a retreat would face court martial.",
+    "tags": [
+      "ATMIS",
+      "Uganda",
+      "Lower Shabelle"
+    ],
+    "sources": [
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2023/06/04/uganda-announces-54-of-its-au-soldiers-killed-in-may-26-somalia-attack",
+        "type": "media",
+        "date": "2023-06-04"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/museveni-al-shabaab-killed-54-ugandan-soldiers-in-somalia-attack",
+        "type": "media"
+      },
+      {
+        "name": "Nation (Kenya)",
+        "url": "https://nation.africa/africa/news/ugandan-troops-panicked-as-al-shabaab-stormed-buulo-mareer-au-base-yoweri-museveni-4249764",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Al-Shabaab oo la wareegtay saldhigga ciidamada Uganda ee AU ee Buulo Mareer; 54 la dilay",
+    "summary_so": "Al-Shabaab ayaa adeegsatay gaadiid ismiidaamin ah si ay ula wareegto saldhigga hore ee ciidamada Uganda ee ATMIS ee Buulo Mareer oo ku yaal Shabeellaha Hoose, qiyaastii 120 km Muqdisho u jira. Madaxweyne Museveni ayaa sheegay in 54 askari oo Ugandan ah la dilay. Ciidamada Uganda ayaa dib u qabsaday saldhigga qiyaastii toddobaad kadib.",
+    "impact_so": "Wuxuu ahaa mid ka mid ah weerarradii ugu dhimashada badnaa ee lagu qaado ciidamada Midowga Afrika sanado badan, wuxuuna dhacay toddobaadyo ka hor waqtigii kama dambaysta ahaa ee dhimista koowaad ee ATMIS.",
+    "context_so": "Al-Shabaab waxay sheegatay khasaare aad uga badan, taas oo Uganda ay ku murantay. Museveni ayaa sheegay in laba taliye oo amar ku bixiyay dib u gurasho ay wajihi doonaan maxkamad ciidan.",
+    "subcategory_so": "Dhacdooyinka waaweyn",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-06-atmis-phase1-drawdown",
+    "date": "2023-06-30",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "ATMIS completes first drawdown phase: 2,000 troops leave",
+    "summary": "The African Union mission (ATMIS) withdrew 2,000 troops by the 30 June 2023 deadline, 400 each from Burundi, Djibouti, Ethiopia, Kenya and Uganda. The phase began on 20 June with the handover of the Xaaji Cali base in Hirshabelle. Six to seven bases were handed to Somali forces.",
+    "impact": "It was the first concrete step in handing security over to Somali forces.",
+    "context": "Al-Shabaab attacks rose during the phase, especially in Lower Shabelle. Sources differ on whether six or seven bases changed hands.",
+    "tags": [
+      "ATMIS",
+      "drawdown",
+      "African Union"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://www.garoweonline.com/en/news/somalia/atmis-first-phase-withdrawal-of-troops-from-somalia-was-successful",
+        "type": "media"
+      },
+      {
+        "name": "The Star (Kenya)",
+        "url": "https://the-star.co.ke/news/2023-06-22-2000-troops-withdrawn-from-somalia-as-atmis-begins-drawdown",
+        "type": "media",
+        "date": "2023-06-22"
+      },
+      {
+        "name": "Ahram Online (AFP)",
+        "url": "https://english.ahram.org.eg/News/503958.aspx",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "ATMIS oo dhammaystay wejigii koowaad ee dhimista: 2,000 askari oo baxay",
+    "summary_so": "Hawlgalka Midowga Afrika (ATMIS) ayaa la baxay 2,000 askari ka hor waqtiga kama dambaysta ah ee 30 Juun 2023, 400 midkiiba ka yimid Burundi, Jabuuti, Itoobiya, Kenya iyo Uganda. Wejigu wuxuu bilaabmay 20 Juun markii saldhigga Xaaji Cali ee Hirshabeelle la wareejiyay. Lix ilaa toddoba saldhig ayaa loo wareejiyay ciidamada Soomaaliyeed.",
+    "impact_so": "Waxay ahayd tallaabadii ugu horreysay ee la taaban karo ee amniga loogu wareejinayo ciidamada Soomaaliyeed.",
+    "context_so": "Weerarrada Al-Shabaab ayaa kordhay inta wejigu socday, gaar ahaan Shabeellaha Hoose. Ilaha wararku way ku kala duwan yihiin in lix ama toddoba saldhig gacanta laga wareejiyay.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-08-ceel-buur-captured",
+    "date": "2023-08-25",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Army and Galmudug forces enter Ceel Buur",
+    "summary": "On 25 August 2023 the national army, Galmudug forces and local militias entered Ceel Buur district in Galgaduud after al-Shabaab fighters fled. The army chief announced the capture live on Facebook. The group had dominated the town for about 16 years.",
+    "impact": "Reuters called it a significant breakthrough, since the town had been a hub for al-Shabaab attacks across central Somalia.",
+    "context": "Government forces held it only briefly. After the Cowsweyne attack the next day, troops withdrew and Ceel Buur returned to al-Shabaab control. A week earlier, the government had said it would eliminate al-Shabaab within five months.",
+    "tags": [
+      "Ceel Buur",
+      "Galmudug",
+      "Galgaduud"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/amp/somali-army-captures-elbur-district-a-major-al-shabab-base/7241788.html",
+        "type": "media",
+        "date": "2023-08-25"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2023/Aug/192766/el_buur_district_recaptured_government_and_local_community_troops_regain_control.aspx",
+        "type": "media"
+      },
+      {
+        "name": "BusinessDay (Reuters) - 'five months' pledge",
+        "url": "https://www.businesslive.co.za/bd/world/africa/2023-08-18-five-months-to-eliminate-al-shabaab-somalia-says/",
+        "type": "media",
+        "date": "2023-08-18"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamada iyo ciidamada Galmudug oo galay Ceel Buur",
+    "summary_so": "25 Ogoosto 2023, ciidanka qaranka, ciidamada Galmudug iyo maleeshiyaad deegaan ayaa galay degmada Ceel Buur ee Galgaduud kadib markii dagaalyahannada Al-Shabaab ay carareen. Taliyaha ciidamada ayaa qabsashada ku dhawaaqay isagoo si toos ah uga hadlaya Facebook. Kooxdu waxay magaalada ka talinaysay qiyaastii 16 sano.",
+    "impact_so": "Reuters waxay ku tilmaantay horumar muhiim ah, maadaama magaaladu ay xarun u ahayd weerarrada Al-Shabaab ee bartamaha Soomaaliya.",
+    "context_so": "Ciidamada dowladdu waqti kooban oo keliya ayay haysteen. Kadib weerarkii Cowsweyne ee maalintii xigtay, ciidamadu way ka baxeen, Ceel Buurna waxay dib ugu noqotay gacanta Al-Shabaab. Toddobaad ka hor, dowladdu waxay sheegtay inay Al-Shabaab ku baabi'in doonto shan bilood gudahood.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-08-cowsweyne-setback",
+    "date": "2023-08-26",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Cowsweyne attack forces army out of newly taken Galmudug towns",
+    "summary": "On 26 August 2023 al-Shabaab hit a newly captured army base at Cowsweyne in Galmudug with car bombs and a large ground assault. Afterwards, government forces withdrew from Cowsweyne, Ceel Buur, Ceel Dheer, Masagaway, Galcad and Budbud. The government called the pullback 'strategic'.",
+    "impact": "It was the biggest reversal of the offensive so far. It undid much of the Galmudug phase and showed the army could not hold ground with long, exposed supply lines.",
+    "context": "Al-Shabaab claimed 178 soldiers were killed, which has not been verified. The government later admitted mistakes in failing to secure supply routes. Critics, including a former president, said the army's chain of command was badly damaged.",
+    "tags": [
+      "Cowsweyne",
+      "Galmudug",
+      "setback",
+      "withdrawal"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/7245333.html",
+        "type": "media"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/revealed-why-somalia-army-withdrew-from-liberated-towns",
+        "type": "media"
+      },
+      {
+        "name": "Nation (Kenya)",
+        "url": "https://nation.africa/africa/news/inside-somalia-second-battle-against-al-shabaab-4355680",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Weerarka Cowsweyne oo ciidamada ka saaray magaalooyin dhowaan laga qabsaday Galmudug",
+    "summary_so": "26 Ogoosto 2023, Al-Shabaab ayaa saldhig ciidan oo dhowaan la qabsaday oo ku yaal Cowsweyne ee Galmudug ku weerartay gaadiid qarxa iyo weerar dhulka ah oo ballaaran. Kadib, ciidamada dowladdu waxay ka baxeen Cowsweyne, Ceel Buur, Ceel Dheer, Masagaway, Galcad iyo Budbud. Dowladdu waxay dib u gurashada ku tilmaantay mid 'istaraatiiji ah'.",
+    "impact_so": "Waxay ahayd dib-u-dhacii ugu weynaa ee weerarka ilaa waqtigaas. Waxay burisay inta badan wejiga Galmudug, waxayna muujisay in ciidamadu aysan hayn karin dhul marka khadadka saadku dheer yihiin oo bannaan yihiin.",
+    "context_so": "Al-Shabaab waxay sheegatay in 178 askari la dilay, taas oo aan la xaqiijin. Dowladdu markii dambe waxay qiratay khaladaad ku saabsan sugidda waddooyinka saadka. Dhaleeceeyayaal, oo uu ku jiro madaxweyne hore, ayaa sheegay in silsiladda amarka ciidamada si xun u waxyeelloobay.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-09-atmis-pause-request",
+    "date": "2023-09-19",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "Somalia asks the UN for a 90-day pause in the ATMIS drawdown",
+    "summary": "In a letter dated 19 September 2023, National Security Adviser Hussein Sheikh Ali asked the Security Council to delay the planned withdrawal of 3,000 ATMIS troops by three months. He cited 'significant setbacks' and not enough Somali forces to take over. The Council agreed to keep authorising 17,626 personnel during the pause.",
+    "impact": "The request was an open admission that Somali forces were not ready to take over from ATMIS on the original schedule, and the second phase was delayed to the end of January 2024.",
+    "context": "The pause raised questions about funding, since troop-contributing countries faced extra costs.",
+    "tags": [
+      "ATMIS",
+      "drawdown",
+      "UN Security Council"
+    ],
+    "sources": [
+      {
+        "name": "UN Security Council letter S/2023/750",
+        "url": "https://digitallibrary.un.org/record/4023998",
+        "type": "international",
+        "date": "2023-09-28"
+      },
+      {
+        "name": "The East African",
+        "url": "https://theeastafrican.co.ke/tea/news/east-africa/somali-asks-un-security-council-to-delay-atmis-troop-drawdown-4377164",
+        "type": "media"
+      },
+      {
+        "name": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/africa/somalia-requests-un-security-council-to-pause-au-troops-withdrawal-for-3-months/2998973",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Soomaaliya oo Qaramada Midoobay ka codsatay hakin 90 maalmood ah oo ku saabsan dhimista ATMIS",
+    "summary_so": "Warqad ku taariikhaysan 19 Sebtembar 2023, La-taliyaha Amniga Qaranka Xuseen Sheekh Cali ayaa Golaha Ammaanka ka codsaday in saddex bilood dib loogu dhigo bixitaanka la qorsheeyay ee 3,000 askari oo ATMIS ah. Wuxuu tilmaamay 'dib-u-dhacyo waaweyn' iyo ciidamo Soomaaliyeed oo aan ku filnayn la wareegidda. Goluhu wuxuu ogolaaday inuu sii oggolaado 17,626 shaqaale inta hakintu socoto.",
+    "impact_so": "Codsigu wuxuu ahaa qirasho cad oo ah in ciidamada Soomaaliyeed aysan diyaar u ahayn inay ATMIS kala wareegaan jadwalkii asalka ahaa, wejiga labaadna waxaa dib loogu dhigay dhammaadka Janaayo 2024.",
+    "context_so": "Hakintu waxay keentay su'aalo ku saabsan maalgelinta, maadaama dalalka ciidamada keena ay la kulmeen kharash dheeraad ah.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-12-arms-embargo-lifted",
+    "date": "2023-12-01",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "UN Security Council lifts arms embargo on the Federal Government",
+    "summary": "On 1 December 2023 the Security Council unanimously adopted resolution 2714, lifting the arms embargo on the Federal Government of Somalia and its security forces that dated from 1992. A separate resolution renewed targeted sanctions and an arms embargo on al-Shabaab. The government must still report weapons imports to the Council.",
+    "impact": "It ended 31 years of restrictions and allows Somalia to buy heavy weapons directly for the fight against al-Shabaab, a long-standing goal of the government.",
+    "context": "Concerns remain about weapons and ammunition management and about arms leaking to armed groups. Somaliland and some analysts later raised such concerns about Egyptian arms deliveries.",
+    "tags": [
+      "arms embargo",
+      "UN Security Council",
+      "resolution 2714"
+    ],
+    "sources": [
+      {
+        "name": "UN press release SC/15511",
+        "url": "https://press.un.org/2023/sc15511.doc.htm",
+        "type": "international",
+        "date": "2023-12-01"
+      },
+      {
+        "name": "UN Digital Library - Resolution 2714 (2023)",
+        "url": "https://digitallibrary.un.org/record/4029177",
+        "type": "international"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2023/Dec/193986/un_security_council_lifts_arms_embargo_on_somalia_government.aspx",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Golaha Ammaanka ee Qaramada Midoobay oo ka qaaday Dowladda Federaalka cunaqabateynta hubka",
+    "summary_so": "1 Diseembar 2023, Golaha Ammaanka ayaa si wadajir ah u ansixiyay qaraarka 2714, kaasoo ka qaaday Dowladda Federaalka Soomaaliya iyo ciidamadeeda ammaanka cunaqabateynta hubka ee jirtay tan iyo 1992. Qaraar kale oo gaar ah ayaa cusboonaysiiyay cunaqabateynno bartilmaameedsan iyo cunaqabateynta hubka ee saaran Al-Shabaab. Dowladdu weli waa inay Golaha u soo gudbiso warbixinta hubka ay soo dejiso.",
+    "impact_so": "Waxay soo afjartay 31 sano oo xayiraado ah, waxayna Soomaaliya u oggolaanaysaa inay si toos ah u iibsato hub culus oo loogu talagalay dagaalka ka dhanka ah Al-Shabaab, taas oo muddo dheer ahayd hadaf dowladeed.",
+    "context_so": "Walaac ayaa weli ka jira maareynta hubka iyo rasaasta iyo hub u gudba kooxaha hubeysan. Soomaaliland iyo falanqeeyayaal qaar ayaa markii dambe walaacyo noocaas ah ka muujiyay hubka Masar keentay.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2023-12-piracy-resurgence",
+    "date": "2023-12-14",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Maritime",
+    "title": "Somali piracy returns with hijacking of the MV Ruen",
+    "summary": "Pirates hijacked the Maltese-flagged bulk carrier Ruen on 14 December 2023, the first successful hijacking of a merchant ship by Somali pirates since 2017. In March 2024 pirates seized the Bangladeshi bulk carrier MV Abdullah, possibly using the Ruen as a mother ship. The Indian Navy later freed the Ruen and its 17 crew.",
+    "impact": "It ended six years without piracy and put shipping off the Somali coast back at risk, at the same time as the Houthi attacks in the Red Sea.",
+    "context": "Analysts linked the resurgence to fewer warships in the area and the shipping industry's removal of the Indian Ocean 'high risk area' designation in 2023.",
+    "tags": [
+      "piracy",
+      "Ruen",
+      "MV Abdullah",
+      "Indian Ocean"
+    ],
+    "sources": [
+      {
+        "name": "gCaptain",
+        "url": "https://gcaptain.com/indian-navy-rescues-hijacked-ruen-from-somali-pirates",
+        "type": "media"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/3/12/twenty-armed-men-take-control-of-cargo-ship-off-somalia-say-watchdogs",
+        "type": "media",
+        "date": "2024-03-12"
+      },
+      {
+        "name": "gCaptain",
+        "url": "https://gcaptain.com/return-of-somali-pirates-adds-to-crisis-for-global-shipping/",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Burcad-badeedda Soomaaliyeed oo soo laabatay iyadoo la afduubay markabka MV Ruen",
+    "summary_so": "Burcad-badeed ayaa 14 Diseembar 2023 afduubay markabka xamuulka ee Ruen oo wata calanka Malta, taasoo ahayd afduubkii ugu horreeyay ee lagu guuleysto ee markab ganacsi oo ay burcad-badeed Soomaaliyeed sameeyaan tan iyo 2017. Maarso 2024, burcad-badeed ayaa qabsaday markabka xamuulka ee Bangladesh ee MV Abdullah, iyagoo laga yaabo inay Ruen u adeegsadeen markab hooyo. Ciidamada badda Hindiya ayaa markii dambe xoreeyay Ruen iyo 17-ka shaqaale ee saarnaa.",
+    "impact_so": "Wuxuu soo afjaray lix sano oo burcad-badeed la'aan ah, wuxuuna gaadiidka badda ee xeebaha Soomaaliya dib ugu celiyay khatar, isla waqtigii weerarrada Xuutiyiinta ee Badda Cas.",
+    "context_so": "Falanqeeyayaashu waxay soo laabashada ku xireen markab dagaal oo deegaanka ku yaraaday iyo in warshadaha gaadiidka baddu ay 2023 meesha ka saareen magacaabista 'deegaanka khatarta sare' ee Badweynta Hindiya.",
+    "subcategory_so": "Amniga badda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-02-atmis-phase2-complete",
+    "date": "2024-02-02",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "ATMIS completes second drawdown phase: 3,000 more troops leave",
+    "summary": "After the pause Somalia requested, ATMIS completed its second phase at the end of January 2024 and announced it in early February. It withdrew 3,000 troops. Seven bases were handed to the federal government and two (Sarille and Old Airport KDF) were closed.",
+    "impact": "The total cut since mid-2023 reached 5,000 troops, increasing the burden on Somali forces.",
+    "context": "The drawdown happened as al-Shabaab attacks continued, and the Somali army was still struggling to generate enough forces.",
+    "tags": [
+      "ATMIS",
+      "drawdown",
+      "bases"
+    ],
+    "sources": [
+      {
+        "name": "UNSOS",
+        "url": "https://unsos.unmissions.org/node/100040331",
+        "type": "international"
+      },
+      {
+        "name": "The East African",
+        "url": "https://theeastafrican.co.ke/tea/news/east-africa/atmis-completes-second-phase-of-somalia-drawdown-4508392",
+        "type": "media"
+      },
+      {
+        "name": "SpaceWar (AFP)",
+        "url": "https://www.spacewar.com/afp/240202190053.clpdh32q.html",
+        "type": "media",
+        "date": "2024-02-02"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "ATMIS oo dhammaystay wejiga labaad ee dhimista: 3,000 askari oo kale oo baxay",
+    "summary_so": "Kadib hakintii ay Soomaaliya codsatay, ATMIS waxay dhammaystay wejigeeda labaad dhammaadkii Janaayo 2024, waxayna ku dhawaaqday horraantii Febraayo. Waxay la baxday 3,000 askari. Toddoba saldhig ayaa loo wareejiyay dowladda federaalka, labana (Sarille iyo Old Airport KDF) waa la xiray.",
+    "impact_so": "Dhimista guud tan iyo bartamihii 2023 waxay gaartay 5,000 askari, taasoo kordhisay culayska saaran ciidamada Soomaaliyeed.",
+    "context_so": "Dhimistu waxay dhacday iyadoo weerarrada Al-Shabaab ay socdaan, ciidanka Soomaaliyeedna weli ay ku adkayd inuu helo ciidamo ku filan.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-02-turkey-defence-maritime-deal",
+    "date": "2024-02-21",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Maritime",
+    "title": "Parliament ratifies 10-year defence and maritime deal with Türkiye",
+    "summary": "Somalia and Türkiye signed a defence and economic cooperation agreement in Ankara on 8 February 2024. Both houses of parliament approved it by 213 votes out of 216. Under the 10-year deal Türkiye will help defend Somalia's coastline and rebuild its navy.",
+    "impact": "It is Somalia's most significant maritime security partnership, covering the country's long coastline.",
+    "context": "It was widely seen as a response to the January 2024 Ethiopia–Somaliland memorandum of understanding. Reports that Türkiye would get 30% of revenue from Somalia's exclusive economic zone have not been officially confirmed.",
+    "tags": [
+      "Türkiye",
+      "navy",
+      "maritime security"
+    ],
+    "sources": [
+      {
+        "name": "SONNA",
+        "url": "https://sonna.so/en/somali-parliament-ratifies-defense-and-economic-deal-with-turkey/",
+        "type": "government"
+      },
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/somalia-approves-defense-agreement-with-turkey-/7496758.html",
+        "type": "media"
+      },
+      {
+        "name": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2024/02/turkey-confirms-somalia-maritime-security-deal-amid-somaliland-tensions",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Baarlamaanka oo ansixiyay heshiis 10 sano ah oo difaac iyo badeed ah oo lala galay Turkiga",
+    "summary_so": "Soomaaliya iyo Turkiga ayaa 8 Febraayo 2024 magaalada Ankara ku saxiixay heshiis iskaashi difaac iyo dhaqaale. Labada aqal ee baarlamaanka ayaa ku ansixiyay 213 cod oo ka mid ah 216. Heshiiskan 10-ka sano ah, Turkigu wuxuu ka caawin doonaa difaaca xeebaha Soomaaliya iyo dib-u-dhiska ciidamadeeda badda.",
+    "impact_so": "Waa iskaashiga amniga badda ee ugu muhiimsan ee Soomaaliya, wuxuuna daboolayaa xeebta dheer ee dalka.",
+    "context_so": "Waxaa si ballaaran loo arkay inuu jawaab u yahay heshiiskii is-afgarad ee Itoobiya iyo Soomaaliland ee Janaayo 2024. Warbixinnada sheegaya in Turkigu heli doono 30% dakhliga aagga dhaqaalaha gaarka ah ee Soomaaliya si rasmi ah looma xaqiijin.",
+    "subcategory_so": "Amniga badda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-02-us-danab-bases",
+    "date": "2024-02-15",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Security sector reform",
+    "title": "US agrees to build up to five bases for the Danab Brigade",
+    "summary": "Somalia and the United States signed an agreement for the US to build up to five military bases for the Danab Brigade, the army's US-trained elite commando unit. The project is valued at more than $100 million.",
+    "impact": "The bases support the planned expansion of Danab, the army's most capable unit, which has led many operations against al-Shabaab.",
+    "context": "No public source confirms that all five bases have been completed. Critics question the long-term sustainability of Danab and the risk that elite units get drawn into political disputes.",
+    "tags": [
+      "Danab",
+      "United States",
+      "special forces"
+    ],
+    "sources": [
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/a/7489376.html",
+        "type": "media"
+      },
+      {
+        "name": "Africanews (AP)",
+        "url": "https://www.africanews.com/2024/02/16/us-to-build-5-new-military-bases-for-somali-army-which-faces-a-rebellion-by-an-extremist-g",
+        "type": "media",
+        "date": "2024-02-16"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/index.php/en/news/somalia/us-set-to-build-five-military-bases-for-somalia-s-army",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Mareykanka oo oggolaaday inuu u dhiso ilaa shan saldhig Guutada Danab",
+    "summary_so": "Soomaaliya iyo Mareykanka ayaa saxiixay heshiis uu Mareykanku ugu dhisayo ilaa shan saldhig militari Guutada Danab, oo ah cutubka kumaandoosta ee xulka ah ee ciidamada oo uu Mareykanku tababaray. Mashruuca waxaa lagu qiyaasay in ka badan $100 milyan.",
+    "impact_so": "Saldhigyadu waxay taageerayaan ballaarinta la qorsheeyay ee Danab, cutubka ugu awoodda badan ciidamada, kaasoo hoggaamiyay hawlgallo badan oo ka dhan ah Al-Shabaab.",
+    "context_so": "Ma jiro il guud oo xaqiijinaysa in shanta saldhig oo dhan la dhammaystiray. Dhaleeceeyayaashu waxay su'aal ka keenaan sii jiritaanka mustaqbalka fog ee Danab iyo khatarta ah in cutubyada xulka ah lagu soo jiido khilaafaadka siyaasadeed.",
+    "subcategory_so": "Dib-u-habeynta qaybta amniga",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-03-turksom-gorgor-graduations",
+    "date": "2024-03-01",
+    "date_precision": "month",
+    "sector": "security",
+    "subcategory": "Security sector reform",
+    "title": "Turkish-trained Gorgor brigade sworn in; further graduations through 2026",
+    "summary": "In March 2024 the president attended the swearing-in of a newly graduated Gorgor brigade trained at TURKSOM, the Turkish military academy in Mogadishu. More Gorgor and officer classes graduated in July 2025 and January 2026. Türkiye also trains Somali commandos in Türkiye.",
+    "impact": "Gorgor is regarded as one of the army's most capable units, and TURKSOM, open since 2017, has trained thousands of Somali troops.",
+    "context": "Exact numbers of graduates differ between reports, and some outlet dates are inconsistent.",
+    "tags": [
+      "Türkiye",
+      "TURKSOM",
+      "Gorgor",
+      "training"
+    ],
+    "sources": [
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2024/Mar/195359/somali_president_attends_swearing_in_of_newly_graduated_sna_gorgor_brigade.aspx",
+        "type": "media"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202507040052.html",
+        "type": "media",
+        "date": "2025-07-04"
+      },
+      {
+        "name": "Radio Dalsan",
+        "url": "https://radiodalsan.com/2026/01/08/somalias-defense-minister-and-army-chief-graduate-gorgor-special-forces-trained-at-turksom/",
+        "type": "media",
+        "date": "2026-01-08"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Guutada Gorgor ee uu Turkigu tababaray oo la dhaariyay; qalin-jebinno kale oo socday ilaa 2026",
+    "summary_so": "Maarso 2024, madaxweynaha ayaa ka qaybgalay dhaarinta guuto Gorgor ah oo dhowaan qalin-jebisay oo lagu tababaray TURKSOM, akadeemiyadda militariga Turkiga ee Muqdisho. Fasallo kale oo Gorgor iyo saraakiil ah ayaa qalin-jebiyay Luulyo 2025 iyo Janaayo 2026. Turkigu wuxuu sidoo kale dalkiisa ku tababaraa kumaandoos Soomaaliyeed.",
+    "impact_so": "Gorgor waxaa loo arkaa mid ka mid ah cutubyada ugu awoodda badan ciidamada, TURKSOM-na, oo furnayd tan iyo 2017, waxay tababartay kumanaan askari oo Soomaaliyeed.",
+    "context_so": "Tirooyinka saxda ah ee qalin-jebiyayaasha way ku kala duwan yihiin warbixinnada, taariikhaha warbaahinta qaarna isma waafaqsana.",
+    "subcategory_so": "Dib-u-habeynta qaybta amniga",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-06-atmis-phase3",
+    "date": "2024-06-15",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "ATMIS third drawdown phase begins with Bariire base handover",
+    "summary": "ATMIS began its third phase by handing over the Bariire base in Lower Shabelle on 15 June 2024. At Somalia's request, the planned cut of 4,000 troops was split into two stages, by 30 June and 30 September 2024. Since 2023, the mission's three phases transferred 21 bases to Somali forces.",
+    "impact": "This prepared the ground for ATMIS to be replaced by a smaller mission at the end of 2024.",
+    "context": "Sources disagree on how many troops actually left in phase 3. Somalia asked to keep half of the troops due out in June, which shows ongoing doubts about whether its forces were ready.",
+    "tags": [
+      "ATMIS",
+      "drawdown",
+      "Bariire"
+    ],
+    "sources": [
+      {
+        "name": "Eastleigh Voice",
+        "url": "https://eastleighvoice.co.ke/ATMIS/50770/atmis-begins-third-phase-of-troop-drawdown-from-somalia-hands-over-bariire-base?amp=1",
+        "type": "media"
+      },
+      {
+        "name": "The New Times (Rwanda)",
+        "url": "https://www.newtimes.co.rw/article/21882/news/africa/au-mission-in-somalia-completes-third-phase-of-troops-drawdown",
+        "type": "media"
+      },
+      {
+        "name": "Amani Africa",
+        "url": "https://amaniafrica-et.org/atmisdrawdownand-fgs-preparations-phase-3/",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Wejiga saddexaad ee dhimista ATMIS oo ku bilaabmay wareejinta saldhigga Bariire",
+    "summary_so": "ATMIS waxay wejigeeda saddexaad ku bilowday wareejinta saldhigga Bariire ee Shabeellaha Hoose 15 Juun 2024. Codsi Soomaaliya kadib, dhimista la qorsheeyay ee 4,000 askari waxaa loo qaybiyay laba marxaladood, ilaa 30 Juun iyo 30 Sebtembar 2024. Tan iyo 2023, saddexda waji ee hawlgalka waxay ciidamada Soomaaliyeed u wareejiyeen 21 saldhig.",
+    "impact_so": "Tani waxay u xaartay in ATMIS lagu beddelo hawlgal ka yar dhammaadka 2024.",
+    "context_so": "Ilaha wararku isma waafaqsana inta askari ee dhab ahaan baxday wejiga 3. Soomaaliya waxay codsatay in la sii hayo kala badh ciidamadii la filayay inay baxaan Juun, taasoo muujinaysa shaki joogto ah oo ku saabsan diyaar-garowga ciidamadeeda.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-08-lido-beach-attack",
+    "date": "2024-08-02",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Major incidents",
+    "title": "Al-Shabaab attack on Mogadishu's Lido Beach kills at least 32",
+    "summary": "On the evening of 2 August 2024 a suicide bomber blew himself up and gunmen stormed a beachfront hotel at Lido Beach. Police said 32 people were killed and 63 wounded, almost all civilians. Al-Shabaab claimed the attack.",
+    "impact": "As of January 2026, AP described it as the most recent major al-Shabaab attack in Mogadishu.",
+    "context": "Later reports raised the toll to 37; higher figures circulating online are unverified. Recorded here as context.",
+    "tags": [
+      "al-Shabaab",
+      "Mogadishu",
+      "Lido Beach",
+      "civilians"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/8/3/al-shabab-lido-beach-attack-somalia-mogadishu",
+        "type": "media",
+        "date": "2024-08-03"
+      },
+      {
+        "name": "PBS NewsHour (AP)",
+        "url": "https://www.pbs.org/newshour/world/al-shabab-claims-responsibility-for-attack-on-beach-hotel-in-somalias-capital-that-killed-32",
+        "type": "media"
+      },
+      {
+        "name": "Dawn (AFP) - toll 37",
+        "url": "https://www.dawn.com/news/1849981",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Weerar Al-Shabaab ku qaaday xeebta Liido ee Muqdisho oo dilay ugu yaraan 32 qof",
+    "summary_so": "Fiidkii 2 Ogoosto 2024, nin ismiidaamiye ah ayaa is qarxiyay, rag hubeysanna xoog ku galeen hotel ku yaal xeebta Liido. Booliska ayaa sheegay in 32 qof la dilay, 63 kalena ay dhaawacmeen, kuwaas oo ku dhowaad dhammaantood ahaa shacab. Al-Shabaab ayaa sheegatay weerarka.",
+    "impact_so": "Ilaa Janaayo 2026, AP waxay ku tilmaantay inuu yahay weerarkii ugu dambeeyay ee waaweyn ee Al-Shabaab ka geysato Muqdisho.",
+    "context_so": "Warbixinno dambe ayaa tirada dhimashada kor ugu qaaday 37; tirooyin ka sarreeya oo internetka ku faafaya lama xaqiijin. Halkan waxaa loogu diiwaangeliyay macluumaad asal ah.",
+    "subcategory_so": "Dhacdooyinka waaweyn",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-08-egypt-defence-pact-arms",
+    "date": "2024-08-14",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "Egypt–Somalia defence pact and first Egyptian arms deliveries",
+    "summary": "Presidents Hassan Sheikh Mohamud and Abdel Fattah el-Sisi signed a defence pact in Cairo on 14 August 2024. Two Egyptian military planes carrying weapons and ammunition landed in Mogadishu in late August. In September an Egyptian warship delivered more arms, including artillery and anti-tank weapons.",
+    "impact": "These were the largest arms deliveries since the embargo was lifted. Egypt also committed troops to the new AU mission.",
+    "context": "The pact deepened tensions with Ethiopia over its deal with Somaliland. As of late 2026, Egyptian troop deployment numbers and timing remain unclear in public reporting, and reported figures range from about 1,100 to 10,000.",
+    "tags": [
+      "Egypt",
+      "arms",
+      "AUSSOM"
+    ],
+    "sources": [
+      {
+        "name": "Al-Monitor",
+        "url": "https://al-monitor.com/originals/2024/08/egypt-sends-military-aid-somalia-tensions-soar-ethiopia",
+        "type": "media"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/amp/news/2024/9/23/egypt-delivers-second-stockpile-of-weapons-to-somalia-amid-ethiopia-tension",
+        "type": "media",
+        "date": "2024-09-23"
+      },
+      {
+        "name": "Library of Congress Global Legal Monitor",
+        "url": "https://www.loc.gov/item/global-legal-monitor/2024-09-25/egypt-somalia-military-cooperation-agreement-signed/",
+        "type": "international",
+        "date": "2024-09-25"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Heshiiska difaaca Masar iyo Soomaaliya iyo hubkii ugu horreeyay ee Masar keentay",
+    "summary_so": "Madaxweynayaasha Xasan Sheekh Maxamuud iyo Cabdifattaax as-Siisi ayaa 14 Ogoosto 2024 magaalada Qaahira ku saxiixay heshiis difaac. Laba diyaaradood oo militari oo Masri ah oo sida hub iyo rasaas ayaa dabayaaqadii Ogoosto ka degay Muqdisho. Sebtembar, markab dagaal oo Masri ah ayaa keenay hub kale, oo ay ku jiraan madaafiic iyo hubka lidka taangiyada.",
+    "impact_so": "Kuwani waxay ahaayeen hubkii ugu badnaa ee la keeno tan iyo markii cunaqabateynta hubka la qaaday. Masar waxay sidoo kale ballan qaaday inay ciidamo u dirto hawlgalka cusub ee AU.",
+    "context_so": "Heshiisku wuxuu sii xoojiyay xiisadda Itoobiya ee ku saabsan heshiiskeeda Soomaaliland. Ilaa dabayaaqada 2026, tirada iyo waqtiga dirista ciidamada Masar weli ma cadda warbixinnada guud, tirooyinka la sheegayna waxay u dhexeeyaan qiyaastii 1,100 ilaa 10,000.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-12-puntland-operation-hilaac",
+    "date": "2024-12-01",
+    "date_precision": "month",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "Puntland launches Operation Hilaac against ISIS-Somalia in Cal Miskaad",
+    "summary": "Puntland launched Operation Hilaac against ISIS-Somalia in the Cal Miskaad mountains of Bari region, with its defence forces, maritime police and counter-terrorism police. US Africa Command and the UAE provided air support. In early 2025 ISIS hit back with suicide attacks in the Togjaceel valley.",
+    "impact": "It was the largest campaign against ISIS-Somalia, whose Cal Miskaad base is linked to the global ISIS financial network.",
+    "context": "Puntland ran the operation independently, not under federal command, while its relations with Mogadishu were strained. Most battlefield figures come from Puntland officials.",
+    "tags": [
+      "ISIS-Somalia",
+      "Puntland",
+      "Cal Miskaad",
+      "Operation Hilaac"
+    ],
+    "sources": [
+      {
+        "name": "ADF Magazine",
+        "url": "https://adf-magazine.com/2025/01/puntland-security-forces-recruit-clans-in-the-fight-against-islamic-state-terrorists",
+        "type": "media",
+        "date": "2025-01-01"
+      },
+      {
+        "name": "VOA (via GlobalSecurity)",
+        "url": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250305-voa03.htm",
+        "type": "media",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/puntland-forces-dislodge-isis-from-strategic-bases-winning-big-in-hilaac-operation",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Puntland oo hawlgalka Hilaac ka bilowday Cal Miskaad oo ka dhan ah ISIS-Soomaaliya",
+    "summary_so": "Puntland waxay hawlgalka Hilaac ka bilowday buuraha Cal Miskaad ee gobolka Bari, iyadoo ka dhan ah ISIS-Soomaaliya, waxaana ka qaybgalay ciidamadeeda difaaca, booliska badda iyo booliska la dagaallanka argagixisada. Taliska Mareykanka ee Afrika (AFRICOM) iyo Imaaraadka Carabta ayaa bixiyay taageero cirka ah. Horraantii 2025, ISIS waxay ku jawaabtay weerarro ismiidaamin ah oo ka dhacay dooxada Togjaceel.",
+    "impact_so": "Wuxuu ahaa ololihii ugu weynaa ee ka dhan ah ISIS-Soomaaliya, oo saldhigeeda Cal Miskaad lala xiriiriyo shabakadda dhaqaale ee caalamiga ah ee ISIS.",
+    "context_so": "Puntland waxay hawlgalka u wadday si madax-bannaan, oo aan hoos imaanayn taliska federaalka, iyadoo xiriirkeeda Muqdisho uu xumaa. Tirooyinka badankood ee goobta dagaalka waxay ka yimaadeen saraakiisha Puntland.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2024-12-aussom-authorized",
+    "date": "2024-12-27",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "Security Council authorises AUSSOM to replace ATMIS from 1 January 2025",
+    "summary": "On 27 December 2024 the Security Council adopted resolution 2767 by 14 votes to 0, with the US abstaining. It authorised the AU Support and Stabilization Mission in Somalia (AUSSOM) to replace ATMIS from 1 January 2025. The Council noted that Somali forces had taken over from about 7,000 ATMIS troops withdrawn since 2022.",
+    "impact": "It kept an international force in place, with about 11,000 authorised troops, as Somalia continued to take over its own security.",
+    "context": "AUSSOM started without agreed troop contributors because of disputes over Ethiopia's role and Egypt's entry. Funding was made conditional on applying resolution 2719, which the US opposed.",
+    "tags": [
+      "AUSSOM",
+      "ATMIS",
+      "resolution 2767",
+      "African Union"
+    ],
+    "sources": [
+      {
+        "name": "UN press release SC/15955",
+        "url": "https://press.un.org/en/2024/sc15955.doc.htm",
+        "type": "international",
+        "date": "2024-12-27"
+      },
+      {
+        "name": "UN Digital Library - Resolution 2767 (2024)",
+        "url": "https://digitallibrary.un.org/record/4070382",
+        "type": "international"
+      },
+      {
+        "name": "Amani Africa",
+        "url": "https://amaniafrica-et.org/the-new-au-somalia-mission-aussom-is-atmis-by-another-name-but-with-more-problems/",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Golaha Ammaanka oo u oggolaaday AUSSOM inay ATMIS beddesho laga bilaabo 1 Janaayo 2025",
+    "summary_so": "27 Diseembar 2024, Golaha Ammaanka ayaa ansixiyay qaraarka 2767 iyadoo 14 cod ay taageereen 0-na ay diideen, Mareykankuna ka aamusay. Wuxuu u oggolaaday Hawlgalka Taageerada iyo Xasilinta Midowga Afrika ee Soomaaliya (AUSSOM) inuu beddelo ATMIS laga bilaabo 1 Janaayo 2025. Goluhu wuxuu xusay in ciidamada Soomaaliyeed ay la wareegeen mas'uuliyadda qiyaastii 7,000 askari oo ATMIS ah oo la saaray tan iyo 2022.",
+    "impact_so": "Wuxuu meesha ku hayay ciidan caalami ah, oo leh qiyaastii 11,000 askari oo la oggolaaday, iyadoo Soomaaliya ay sii wadday la wareegidda amnigeeda.",
+    "context_so": "AUSSOM waxay bilaabatay iyadoo aan la isku raacin dalalka ciidamada keenaya, sababo la xiriira khilaafaadka ku saabsan doorka Itoobiya iyo ku soo biirista Masar. Maalgelinta waxaa shardi looga dhigay dhaqangelinta qaraarka 2719, kaas oo Mareykanku diidanaa.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-02-al-shabaab-counteroffensive",
+    "date": "2025-02-20",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Al-Shabaab launches major counter-offensive in Middle Shabelle",
+    "summary": "On 20 February 2025 al-Shabaab attacked government positions in Middle Shabelle with explosives-laden vehicles. In March it pushed into towns about 15 km from Mogadishu and set up checkpoints on the Afgooye and Balcad roads. By mid-May 2025 it had retaken most of the Middle Shabelle territory it lost after 2022.",
+    "impact": "It was the most serious reversal of the 'total war' campaign, putting the group's forces near the capital again.",
+    "context": "Government forces quickly retook some locations, such as Balcad, and launched counter-operations in mid-2025. Each side's claims about specific towns conflict.",
+    "tags": [
+      "al-Shabaab",
+      "Middle Shabelle",
+      "counter-offensive",
+      "setback"
+    ],
+    "sources": [
+      {
+        "name": "FDD's Long War Journal",
+        "url": "https://longwarjournal.org/archives/2025/03/shabaab-mounts-coordinated-assault-north-of-mogadishu.php",
+        "type": "ngo",
+        "date": "2025-03-03"
+      },
+      {
+        "name": "Hiiraan Online",
+        "url": "https://hiiraan.com/news4/2025/Mar/200516/shabaab_s_deadliest_offensive_in_months_pushes_toward_mogadishu.aspx",
+        "type": "media"
+      },
+      {
+        "name": "CTC Sentinel (West Point)",
+        "url": "https://ctc.westpoint.edu/somalia-at-a-crossroads-resurgent-insurgents-fragmented-politics-and-the-uncertain-future-of-aussom/",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Al-Shabaab oo weerar-celin ballaaran ka bilowday Shabeellaha Dhexe",
+    "summary_so": "20 Febraayo 2025, Al-Shabaab ayaa fariisimaha dowladda ee Shabeellaha Dhexe ku weerartay gaadiid walxaha qarxa laga buuxiyay. Maarso, waxay u soo gudubtay magaalooyin qiyaastii 15 km Muqdisho u jira, waxayna isbaarooyin ka dhigtay waddooyinka Afgooye iyo Balcad. Bartamihii May 2025, waxay dib u qabsatay inta badan dhulkii Shabeellaha Dhexe ee ay waysay kadib 2022.",
+    "impact_so": "Waxay ahayd dib-u-dhacii ugu culus ee ololaha 'dagaalka dhammaystiran', iyadoo ciidamada kooxda mar kale soo dhoweeyay caasimadda.",
+    "context_so": "Ciidamada dowladdu waxay si degdeg ah dib ugu qabsadeen goobo qaar, sida Balcad, waxayna bartamihii 2025 bilaabeen hawlgallo jawaab ah. Sheegashooyinka dhinac kasta ee ku saabsan magaalooyin gaar ah way is diidan yihiin.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-03-presidential-convoy-attack",
+    "date": "2025-03-18",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Major incidents",
+    "title": "Al-Shabaab bomb targets presidential convoy in Mogadishu",
+    "summary": "On 18 March 2025 a bomb exploded near the presidential palace as President Hassan Sheikh Mohamud's convoy left for the airport, on his way to the Middle Shabelle front. The president was unharmed, and al-Shabaab claimed the attack. A Reuters journalist saw four bodies at the scene.",
+    "impact": "Reuters noted it was the first attack directly targeting Mohamud since 2014, and it came at the height of the group's counter-offensive.",
+    "context": "Reported death tolls range from one to four. Recorded here as context.",
+    "tags": [
+      "al-Shabaab",
+      "Mogadishu",
+      "assassination attempt"
+    ],
+    "sources": [
+      {
+        "name": "The East African (Reuters)",
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somali-militants-target-presidential-convoy-in-bomb-attack-4970380",
+        "type": "media"
+      },
+      {
+        "name": "The Star Malaysia (Reuters)",
+        "url": "https://www.thestar.com.my/news/world/2025/03/18/somali-militants-target-presidential-convoy-in-bomb-attack-president-safe",
+        "type": "media",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-al-shabaab-targets-president-s-convoy-in-mogadishu",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Qarax Al-Shabaab oo lagu bartilmaameedsaday kolonyada madaxweynaha ee Muqdisho",
+    "summary_so": "18 Maarso 2025, qarax ayaa ka dhacay meel u dhow madaxtooyada markii kolonyada Madaxweyne Xasan Sheekh Maxamuud ay u ambabaxday garoonka diyaaradaha, isagoo u socday safka hore ee Shabeellaha Dhexe. Madaxweynaha waxba kama gaarin, Al-Shabaabna waxay sheegatay weerarka. Weriye ka tirsan Reuters ayaa goobta ku arkay afar meyd.",
+    "impact_so": "Reuters waxay xustay inuu ahaa weerarkii ugu horreeyay ee si toos ah loogu bartilmaameedsado Xasan Sheekh tan iyo 2014, wuxuuna dhacay xilligii ay ugu sarreysay weerar-celinta kooxda.",
+    "context_so": "Tirooyinka dhimashada ee la sheegay waxay u dhexeeyaan hal ilaa afar. Halkan waxaa loogu diiwaangeliyay macluumaad asal ah.",
+    "subcategory_so": "Dhacdooyinka waaweyn",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-04-adan-yabaal-lost",
+    "date": "2025-04-16",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Al-Shabaab retakes Adan Yabaal",
+    "summary": "On 16 April 2025 al-Shabaab recaptured Adan Yabaal, the Middle Shabelle town retaken by the government in December 2022, and the village of Aboorey after two weeks of fighting. The president then gave a public statement on the setback in the campaign.",
+    "impact": "Losing the most symbolic gain of 2022 showed how much of the first-phase territory had not been held.",
+    "context": "Crisis Group described a series of government losses from February 2025 in areas taken during 2022–23. Arab News reported that donors were losing confidence.",
+    "tags": [
+      "Adan Yabaal",
+      "Middle Shabelle",
+      "setback"
+    ],
+    "sources": [
+      {
+        "name": "International Crisis Group (via ecoi.net)",
+        "url": "https://www.ecoi.net/en/document/2129847.html",
+        "type": "ngo"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202504170378.html",
+        "type": "media",
+        "date": "2025-04-17"
+      },
+      {
+        "name": "Arab News",
+        "url": "https://www.arabnews.com/world/somalia-donors-losing-faith-as-al-shabab-surges-2609104",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Al-Shabaab oo dib u qabsatay Aadan Yabaal",
+    "summary_so": "16 Abriil 2025, Al-Shabaab ayaa dib u qabsatay Aadan Yabaal, magaalada Shabeellaha Dhexe ee dowladdu dib u qabsatay Diseembar 2022, iyo tuulada Aboorey, kadib laba toddobaad oo dagaal ah. Madaxweynaha ayaa markaas bayaan guud ka soo saaray dib-u-dhaca ololaha.",
+    "impact_so": "Luminta guushii ugu calaamadda weyneyd ee 2022 waxay muujisay inta badan dhulkii wejiga koowaad ee aan la haynin.",
+    "context_so": "Crisis Group waxay ka warrantay khasaarooyin isdaba-joog ah oo dowladdu ku qabtay laga bilaabo Febraayo 2025 deegaanno la qabsaday 2022–23. Arab News waxay ka warrantay in deeq-bixiyayaashu ay kalsoonida lumiyeen.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-05-cal-miskaad-gains",
+    "date": "2025-05-01",
+    "date_precision": "month",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "Puntland forces take ISIS strongholds in the Cal Miskaad mountains",
+    "summary": "During 2025 Puntland forces, backed by US air strikes, took key ISIS-Somalia mountain bases in Cal Miskaad. Late-May reports said they had captured Miiraale, described as the group's last known hideout in the range. In September Puntland President Said Abdullahi Deni said more than 2,000 ISIS fighters had been neutralised.",
+    "impact": "ISIS-Somalia lost most of its mountain bases, a major setback for the group's main stronghold in Somalia.",
+    "context": "Deni's figure is a claim by an interested party. A former Puntland police chief estimated that close to 200 fighters remained. Fighting continued into late 2025.",
+    "tags": [
+      "ISIS-Somalia",
+      "Puntland",
+      "Cal Miskaad"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/index.php/en/news/somalia/puntland-forces-seize-key-mountain-strongholds-from-isis-in-major-offensive",
+        "type": "media"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202509290048.html",
+        "type": "media",
+        "date": "2025-09-29"
+      },
+      {
+        "name": "Airwars",
+        "url": "https://airwars.org/?p=414361",
+        "type": "ngo"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "Ciidamada Puntland oo qabsaday saldhigyada adag ee ISIS ee buuraha Cal Miskaad",
+    "summary_so": "Sanadkii 2025, ciidamada Puntland, oo ay taageerayeen duqeymo cirka ah oo Mareykan ah, ayaa qabsaday saldhigyo buuraleed oo muhiim u ah ISIS-Soomaaliya ee Cal Miskaad. Warbixinno dabayaaqadii May ayaa sheegay inay qabsadeen Miiraale, oo lagu tilmaamay meeshii ugu dambaysay ee la og yahay ee kooxdu ku dhuuman jirtay ee buuraha. Sebtembar, Madaxweynaha Puntland Siciid Cabdullaahi Deni ayaa sheegay in in ka badan 2,000 dagaalyahan oo ISIS ah la dhabar jebiyay.",
+    "impact_so": "ISIS-Soomaaliya waxay lumisay inta badan saldhigyadeeda buuraha, taasoo dib-u-dhac weyn ku ahayd saldhigga ugu weyn ee kooxda ee Soomaaliya.",
+    "context_so": "Tirada Deni waa sheegasho dhinac dan ku leh. Taliye hore oo booliska Puntland ah ayaa qiyaasay in ku dhowaad 200 dagaalyahan ay hareen. Dagaalku wuxuu socday ilaa dabayaaqadii 2025.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-07-moqokori-lost",
+    "date": "2025-07-07",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Al-Shabaab captures Moqokori in Hiiraan",
+    "summary": "On 7 July 2025 al-Shabaab took Moqokori in Hiiraan after suicide car bomb attacks on government positions there and in nearby Gumare. This ended a two-month campaign in the area. Tardo and Mahas were also lost in July, and UNHCR reported about 22,800 people displaced from Mahas.",
+    "impact": "Crisis Group called the fall of Moqokori a considerable blow to Mogadishu and the clan militias that had driven the group out in 2022–23. It gave al-Shabaab a corridor across Hiiraan and Middle Shabelle.",
+    "context": "Al-Shabaab claimed it killed more than 40 soldiers, which has not been verified.",
+    "tags": [
+      "Moqokori",
+      "Hiiraan",
+      "setback",
+      "Macawisley"
+    ],
+    "sources": [
+      {
+        "name": "International Crisis Group (via AllAfrica)",
+        "url": "https://allafrica.com/stories/202507100003.html",
+        "type": "ngo",
+        "date": "2025-07-10"
+      },
+      {
+        "name": "FDD's Long War Journal",
+        "url": "https://www.longwarjournal.org/archives/2025/07/shabaab-seizes-two-towns-in-central-somalia.php",
+        "type": "ngo"
+      },
+      {
+        "name": "EUAA Somalia security situation - Hiraan",
+        "url": "https://www.euaa.europa.eu/somalia-security-situation/241-hiraan",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Al-Shabaab oo qabsatay Moqokori ee Hiiraan",
+    "summary_so": "7 Luulyo 2025, Al-Shabaab ayaa qabsatay Moqokori ee Hiiraan kadib weerarro gaadiid ismiidaamin ah oo lagu qaaday fariisimaha dowladda ee halkaas iyo Gumare oo u dhow. Tani waxay soo afjartay olole laba bilood ah oo deegaanka ka socday. Tardo iyo Maxaas ayaa sidoo kale la lumiyay Luulyo, UNHCR-na waxay sheegtay in qiyaastii 22,800 qof ay ka barakaceen Maxaas.",
+    "impact_so": "Crisis Group waxay dhicitaanka Moqokori ku tilmaantay dharbaaxo weyn oo ku dhacday Muqdisho iyo maleeshiyaadka beelaha ee kooxda ka saaray 2022–23. Waxay Al-Shabaab siisay marin ka gudba Hiiraan iyo Shabeellaha Dhexe.",
+    "context_so": "Al-Shabaab waxay sheegatay inay dishay in ka badan 40 askari, taas oo aan la xaqiijin.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-08-lower-shabelle-counteroperations",
+    "date": "2025-08-01",
+    "date_precision": "month",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Government counter-operations retake Bariire, Awdheegle and Sabiid",
+    "summary": "In August 2025 Somali and AU forces launched operations in Lower Shabelle, and the government announced a new offensive to retake Middle Shabelle towns. By October the defence minister said the army had retaken Awdheegle, Bariire, Sabiid and Caanoole. AP reported that Bariire had changed hands several times during the year.",
+    "impact": "These were the first significant government recoveries after the 2025 losses, protecting the approaches to Mogadishu.",
+    "context": "Control in Lower Shabelle remains fluid. Al-Shabaab has destroyed bridges and cut access to several riverside towns.",
+    "tags": [
+      "Lower Shabelle",
+      "Bariire",
+      "Awdheegle",
+      "AUSSOM"
+    ],
+    "sources": [
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202508040134.html",
+        "type": "media",
+        "date": "2025-08-04"
+      },
+      {
+        "name": "AllAfrica",
+        "url": "https://allafrica.com/stories/202510060099.html",
+        "type": "media",
+        "date": "2025-10-06"
+      },
+      {
+        "name": "Africanews (AP)",
+        "url": "https://www.africanews.com/2026/01/08/somalias-national-army-brings-total-war-to-al-shabab-militants/",
+        "type": "media",
+        "date": "2026-01-08"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Hawlgallo jawaab ah oo dowladda oo dib u qabsaday Bariire, Awdheegle iyo Sabiid",
+    "summary_so": "Ogoosto 2025, ciidamada Soomaaliyeed iyo kuwa AU ayaa hawlgallo ka bilaabay Shabeellaha Hoose, dowladduna waxay ku dhawaaqday weerar cusub oo dib loogu qabsanayo magaalooyinka Shabeellaha Dhexe. Ilaa Oktoobar, wasiirka gaashaandhigga ayaa sheegay in ciidamadu dib u qabsadeen Awdheegle, Bariire, Sabiid iyo Caanoole. AP waxay sheegtay in Bariire ay gacan ka gacan u gudubtay dhowr jeer sanadkaas.",
+    "impact_so": "Kuwani waxay ahaayeen soo-celintii ugu horreysay ee muhiimka ah ee dowladda kadib khasaarooyinkii 2025, iyagoo ilaaliyay marinnada loo maro Muqdisho.",
+    "context_so": "Gacan ku haynta Shabeellaha Hoose weli ma deggana. Al-Shabaab waxay burburisay buundooyin, waxayna jartay marinnada loo maro dhowr magaalo oo webiga ku teedsan.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-09-aussom-funding-gap",
+    "date": "2025-09-29",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "AUSSOM faces a funding gap of about $180 million",
+    "summary": "At the UN General Assembly in September 2025, AU officials warned that a budget shortfall of about $180 million risked paralysing AUSSOM. The shortfall included unpaid troop allowances and debts inherited from earlier missions. Efforts to fund the mission from UN assessed contributions under resolution 2719 stalled because of US opposition.",
+    "impact": "Uncertain funding threatens troop rotations and the mission's ability to support Somali forces. Troop allowances alone cost an estimated $166.5 million a year.",
+    "context": "A January 2026 analysis said no major new pledges came from a September 2025 financing event. Some troop-contributing countries reportedly stopped rotating troops.",
+    "tags": [
+      "AUSSOM",
+      "funding",
+      "resolution 2719"
+    ],
+    "sources": [
+      {
+        "name": "The Star (Kenya)",
+        "url": "https://www.the-star.co.ke/news/africa/2025-09-29-deadlock-over-somalia-missions-180m-funding-gap",
+        "type": "media",
+        "date": "2025-09-29"
+      },
+      {
+        "name": "IPI Global Observatory",
+        "url": "https://theglobalobservatory.org/2026/01/with-aussoms-funding-challenges-here-to-stay-what-are-the-options-for-the-missions-future-in-somalia/",
+        "type": "ngo",
+        "date": "2026-01-01"
+      },
+      {
+        "name": "Daily Maverick (ISS)",
+        "url": "https://www.dailymaverick.co.za/article/2025-02-19-funding-for-somalias-new-au-peace-mission-hangs-in-balance.md",
+        "type": "media",
+        "date": "2025-02-19"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "AUSSOM oo wajahaysa dhiman maalgelin oo qiyaastii $180 milyan ah",
+    "summary_so": "Shirka Golaha Guud ee Qaramada Midoobay ee Sebtembar 2025, saraakiisha AU ayaa ka digay in dhiman miisaaniyadeed oo qiyaastii $180 milyan ah uu khatar ku yahay inuu curyaamiyo AUSSOM. Dhimanka waxaa ku jiray mushaharaadka ciidamada oo aan la bixin iyo deymo laga dhaxlay hawlgalladii hore. Dadaallada lagu maalgelinayo hawlgalka lacagaha qasabka ah ee Qaramada Midoobay ee hoos yimaada qaraarka 2719 ayaa istaagay sababo la xiriira diidmada Mareykanka.",
+    "impact_so": "Maalgelinta aan la hubin waxay khatar gelinaysaa wareegga ciidamada iyo awoodda hawlgalka ee taageeridda ciidamada Soomaaliyeed. Mushaharaadka ciidamada oo keliya waxaa lagu qiyaasaa $166.5 milyan sanadkii.",
+    "context_so": "Falanqeyn Janaayo 2026 ayaa sheegtay in aan wax ballanqaad cusub oo waaweyn ah laga helin dhacdo maalgelin oo dhacday Sebtembar 2025. Dalal ka mid ah kuwa ciidamada keena ayaa la sheegay inay joojiyeen wareejinta ciidamadooda.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-10-godka-jilacow-prison-attack",
+    "date": "2025-10-04",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Major incidents",
+    "title": "Al-Shabaab attacks NISA's Godka Jilacow prison in Mogadishu",
+    "summary": "On 4 October 2025 at least seven al-Shabaab gunmen, some disguised as security personnel, attacked the Godka Jilacow prison run by the intelligence agency NISA near the presidential palace. The attack began with a suicide truck bomb at the gate. Security forces ended the six-hour siege and killed all the attackers.",
+    "impact": "The attack showed the group could still reach high-security sites in central Mogadishu.",
+    "context": "The government said no officers or civilians were killed and no prisoners escaped. Other reports said at least three security officers died, and Long War Journal reported that attackers were freeing prisoners.",
+    "tags": [
+      "al-Shabaab",
+      "Mogadishu",
+      "NISA",
+      "prison"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/10/5/al-shabab-fighters-killed-in-mogadishu-prison-assault-somalia-confirms",
+        "type": "media",
+        "date": "2025-10-05"
+      },
+      {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/2025/10/06/seven-al-shabab-militants-dead-after-deadly-prison-attack-in-mogadishu/",
+        "type": "media",
+        "date": "2025-10-06"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Al-Shabaab oo weerartay xabsiga Godka Jilacow ee NISA ee Muqdisho",
+    "summary_so": "4 Oktoobar 2025, ugu yaraan toddoba nin oo hubeysan oo Al-Shabaab ah, qaarkood oo u labbisnaa sida ciidamada ammaanka, ayaa weeraray xabsiga Godka Jilacow oo ay maamusho hay'adda sirdoonka NISA, kuna yaal meel u dhow madaxtooyada. Weerarku wuxuu ku bilaabmay baabuur ismiidaamin ah oo albaabka lagu qarxiyay. Ciidamada ammaanka ayaa soo afjaray hareeraynta lixda saacadood socotay, waxayna dileen dhammaan weerarradii.",
+    "impact_so": "Weerarku wuxuu muujiyay in kooxdu weli gaari karto goobaha amniga adag ee bartamaha Muqdisho.",
+    "context_so": "Dowladdu waxay sheegtay in aan sarkaal ama shacab la dilin, maxbuusna uusan baxsan. Warbixinno kale ayaa sheegay in ugu yaraan saddex sarkaal oo ammaanka ah ay dhinteen, Long War Journal-na waxay sheegtay in weerarradu ay sii deynayeen maxaabiis.",
+    "subcategory_so": "Dhacdooyinka waaweyn",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-11-hellas-aphrodite-piracy",
+    "date": "2025-11-06",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Maritime",
+    "title": "EU navy frees tanker Hellas Aphrodite from Somali pirates",
+    "summary": "On 6 November 2025 pirates boarded the Maltese-flagged tanker Hellas Aphrodite about 560 nautical miles southeast of Eyl. A Spanish frigate from the EU's Operation Atalanta freed it about 30 hours later, and all 24 crew were safe. On 11 November EU and Indian naval forces seized the pirates' mother ship, an Iranian-flagged dhow.",
+    "impact": "International naval forces responded quickly, but the incident showed that pirate groups can still operate hundreds of miles offshore.",
+    "context": "Somali state forces were not involved; maritime security still depends heavily on foreign navies. Sources differ on whether it was the first successful boarding since 2018 or since 2024.",
+    "tags": [
+      "piracy",
+      "EUNAVFOR Atalanta",
+      "Indian Ocean"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/11/7/eu-naval-force-nears-ship-seized-by-pirates-off-somali-coast",
+        "type": "media",
+        "date": "2025-11-07"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2025/11/12/eu-and-indian-navies-take-over-ship-used-by-somali-pirates-to-seize-malta-flagged-tanker",
+        "type": "media",
+        "date": "2025-11-12"
+      },
+      {
+        "name": "EUNAVFOR Atalanta",
+        "url": "https://eunavfor.eu/node/42134",
+        "type": "international"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamada badda Midowga Yurub oo burcad-badeed Soomaaliyeed ka xoreeyay markabka shidaalka Hellas Aphrodite",
+    "summary_so": "6 Nofembar 2025, burcad-badeed ayaa fuulay markabka shidaalka ee Hellas Aphrodite oo wata calanka Malta, qiyaastii 560 mayl badeed koonfur-bari ka xigta Eyl. Markab dagaal oo Isbaanish ah oo ka tirsan Hawlgalka Atalanta ee Midowga Yurub ayaa xoreeyay qiyaastii 30 saacadood kadib, dhammaan 24-ka shaqaale ahna way badbaadeen. 11 Nofembar, ciidamada badda Midowga Yurub iyo Hindiya ayaa qabsaday markabkii hooyada ahaa ee burcad-badeedda, oo ahaa doonni wata calanka Iiraan.",
+    "impact_so": "Ciidamada badda caalamiga ah ayaa si degdeg ah uga jawaabay, laakiin dhacdadu waxay muujisay in kooxaha burcad-badeeddu ay weli ka hawlgali karaan boqollaal mayl oo xeebta ka fog.",
+    "context_so": "Ciidamada dowladda Soomaaliya kuma lug lahayn; amniga baddu weli wuxuu si weyn ugu tiirsan yahay ciidamada badda ee shisheeye. Ilaha wararku way ku kala duwan yihiin inay ahayd fuulitaankii ugu horreeyay ee lagu guuleysto tan iyo 2018 ama tan iyo 2024.",
+    "subcategory_so": "Amniga badda",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-12-us-airstrikes-record",
+    "date": "2025-12-17",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "US air strikes in Somalia reach a record in 2025",
+    "summary": "US Africa Command carried out more than 100 air strikes in Somalia in 2025, compared with 10 in 2024. This passed the previous annual record of 63 set in 2019. Many of the strikes supported Puntland's campaign against ISIS-Somalia, and others targeted al-Shabaab.",
+    "impact": "Air power became a key support to Somali and Puntland ground operations after a January 2025 directive gave AFRICOM commanders more authority to order strikes.",
+    "context": "There are concerns about civilian harm; reports cited a November 2025 strike in Jamaame that killed 12 civilians, including eight children. Annual totals differ by source and counting method.",
+    "tags": [
+      "United States",
+      "AFRICOM",
+      "air strikes"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/12/17/us-dramatically-escalates-air-strikes-on-somalia-under-trump-this-year",
+        "type": "media",
+        "date": "2025-12-17"
+      },
+      {
+        "name": "Air & Space Forces Magazine",
+        "url": "https://www.airandspaceforces.com/us-has-doubled-its-airstrikes-in-somalia-surpassing-2024-levels/",
+        "type": "media"
+      },
+      {
+        "name": "Stars and Stripes",
+        "url": "https://www.stripes.com/theaters/africa/2025-11-24/somalia-airstrikes-africom-19870528.html",
+        "type": "media",
+        "date": "2025-11-24"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Duqeymaha cirka ee Mareykanka ee Soomaaliya oo gaaray heer aan hore loo arag sanadkii 2025",
+    "summary_so": "Taliska Mareykanka ee Afrika (AFRICOM) ayaa sanadkii 2025 Soomaaliya ka fuliyay in ka badan 100 duqeyn oo cirka ah, marka la barbar dhigo 10 sanadkii 2024. Tani waxay dhaaftay heerkii hore ee sanadeed ee 63 oo la dhigay 2019. Duqeymaha intooda badan waxay taageerayeen ololaha Puntland ee ka dhanka ah ISIS-Soomaaliya, qaar kalena waxay bartilmaameedsadeen Al-Shabaab.",
+    "impact_so": "Awoodda cirku waxay noqotay taageero muhiim u ah hawlgallada dhulka ee Soomaaliya iyo Puntland, kadib amar Janaayo 2025 oo taliyayaasha AFRICOM siiyay awood dheeraad ah oo ay ku amri karaan duqeymo.",
+    "context_so": "Waxaa jira walaac ku saabsan waxyeellada shacabka; warbixinnadu waxay xuseen duqeyn Nofembar 2025 ka dhacday Jamaame oo dishay 12 shacab ah, oo ay ku jiraan siddeed carruur ah. Wadarta sanadlaha ahi way ku kala duwan tahay ilaha iyo habka tirinta.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2025-12-aussom-renewed",
+    "date": "2025-12-23",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "International partners",
+    "title": "Security Council extends AUSSOM through 2026",
+    "summary": "On 23 December 2025 the Security Council unanimously adopted resolution 2809, extending AUSSOM's mandate to 31 December 2026 with a ceiling of 11,826 uniformed personnel. The resolution also set a timeline for closing the UN Transitional Assistance Mission (UNTMIS). Sanctions on al-Shabaab were renewed separately by resolution 2806 on 12 December.",
+    "impact": "It keeps international troops in place for another year while Somali forces remain under pressure.",
+    "context": "Long-term funding remains unresolved, and observers said the mission's future depends on sustainable financing and continued security sector reform.",
+    "tags": [
+      "AUSSOM",
+      "UN Security Council",
+      "resolution 2809"
+    ],
+    "sources": [
+      {
+        "name": "SONNA",
+        "url": "https://sonna.so/en/un-security-council-unanimously-extends-aussom-mandate-through-2026-sets-timeline-for-untmis-closure/",
+        "type": "government"
+      },
+      {
+        "name": "AUSSOM",
+        "url": "https://au-ssom.org/aussom-welcomes-the-un-security-councils-renewal-of-its-mandate/",
+        "type": "international"
+      },
+      {
+        "name": "Security Council Report",
+        "url": "https://www.securitycouncilreport.org/whatsinblue/2025/12/somalia-vote-on-aussom-mandate-renewal.php",
+        "type": "ngo"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Golaha Ammaanka oo AUSSOM u kordhiyay ilaa dhammaadka 2026",
+    "summary_so": "23 Diseembar 2025, Golaha Ammaanka ayaa si wadajir ah u ansixiyay qaraarka 2809, kaasoo waqtiga hawlgalka AUSSOM u kordhiyay ilaa 31 Diseembar 2026, iyadoo xadka sare uu yahay 11,826 shaqaale oo labbis ciidan leh. Qaraarku wuxuu sidoo kale dejiyay jadwal lagu xirayo Hawlgalka Kaalmada Kumeelgaarka ah ee Qaramada Midoobay (UNTMIS). Cunaqabateynta Al-Shabaab waxaa si gaar ah loogu cusboonaysiiyay qaraarka 2806 oo soo baxay 12 Diseembar.",
+    "impact_so": "Wuxuu ciidamada caalamiga ah meesha ku hayaa sanad kale, iyadoo ciidamada Soomaaliyeed ay weli cadaadis ku jiraan.",
+    "context_so": "Maalgelinta mustaqbalka fog weli lama xallin, goob-joogayaashuna waxay sheegeen in mustaqbalka hawlgalku ku xiran yahay maalgelin waarta iyo sii wadidda dib-u-habeynta qaybta amniga.",
+    "subcategory_so": "Saaxiibada caalamiga ah",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2026-01-kudhaa-retaken",
+    "date": "2026-01-22",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Danab and Jubaland forces retake Kudhaa a day after al-Shabaab seized it",
+    "summary": "Al-Shabaab overran Jubaland army positions in Kudhaa, Badhaadhe district, Lower Juba, on 21 January 2026. The next day Jubaland forces and the army's US-trained Danab commandos retook the area in a coordinated operation.",
+    "impact": "The quick recapture showed Danab working effectively with a federal member state's forces, even while political relations between Mogadishu and Jubaland were tense.",
+    "context": "Reported casualties differ widely: government-side sources claimed 130 to 250 militants killed, while another report said 113 Jubaland soldiers died. None of these figures has been independently verified.",
+    "tags": [
+      "Danab",
+      "Jubaland",
+      "Kudhaa",
+      "Lower Juba"
+    ],
+    "sources": [
+      {
+        "name": "Garowe Online",
+        "url": "https://garoweonline.com/en/news/somalia/somali-forces-retake-coastal-town-of-kudhaa-after-heavy-fighting-with-al-shabab",
+        "type": "media"
+      },
+      {
+        "name": "Dawan Africa",
+        "url": "https://dawan.africa/news/jubaland-forces-recapture-kudhaa-from-al-shabaab",
+        "type": "media"
+      },
+      {
+        "name": "Arab News",
+        "url": "https://www.arabnews.pk/node/2630408/world",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamada Danab iyo Jubbaland oo dib u qabsaday Kudhaa maalin kadib markii Al-Shabaab qabsatay",
+    "summary_so": "Al-Shabaab ayaa 21 Janaayo 2026 la wareegtay fariisimaha ciidamada Jubbaland ee Kudhaa, degmada Badhaadhe, Jubbada Hoose. Maalintii xigtay, ciidamada Jubbaland iyo kumaandoosta Danab ee ciidamada oo uu Mareykanku tababaray ayaa deegaanka dib u qabsaday hawlgal la isku duway.",
+    "impact_so": "Dib-u-qabsashada degdegga ah waxay muujisay Danab oo si wax ku ool ah ula shaqaynaya ciidamada dowlad goboleed xubin ka ah federaalka, xitaa iyadoo xiriirka siyaasadeed ee Muqdisho iyo Jubbaland uu xiisad lahaa.",
+    "context_so": "Khasaaraha la sheegay si weyn ayuu u kala duwan yahay: ilo dhinaca dowladda ah ayaa sheegay in 130 ilaa 250 dagaalyahan la dilay, halka warbixin kale ay sheegtay in 113 askari oo Jubbaland ah ay dhinteen. Tirooyinkan midna si madax-bannaan looma xaqiijin.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2026-03-baidoa-federal-takeover",
+    "date": "2026-03-30",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Territory",
+    "title": "Federal army takes Baidoa; South West leader resigns",
+    "summary": "On 30 March 2026 the national army took control of most of Baidoa, the largest city in South West State. This came two weeks after the state administration under Abdiaziz Laftagareen cut ties with Mogadishu over constitutional amendments, and Laftagareen resigned. Forces loyal to him attacked the city in May and again on 17 August 2026, when the army said it drove them out.",
+    "impact": "This was a conflict between the federal government and a member state, not a gain against al-Shabaab. It drew army units into internal fighting and displaced more than 50,000 people, according to UN OCHA.",
+    "context": "The amendments, which extended the president's term by a year, are disputed by opposition and some state leaders. The defence ministry accused Laftagareen's forces of fighting alongside al-Shabaab, which has not been independently verified.",
+    "tags": [
+      "Baidoa",
+      "South West State",
+      "federal-state conflict",
+      "displacement"
+    ],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns",
+        "type": "media",
+        "date": "2026-03-31"
+      },
+      {
+        "name": "ReliefWeb (UN OCHA)",
+        "url": "https://reliefweb.int/report/somalia/flash-12-over-50000-people-displaced-following-political-escalation-baidoa-south-west-state",
+        "type": "international"
+      },
+      {
+        "name": "Al Jazeera - August clashes",
+        "url": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa",
+        "type": "media",
+        "date": "2026-08-17"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidanka federaalka oo la wareegay Baydhabo; hoggaamiyaha Koonfur Galbeed oo is casilay",
+    "summary_so": "30 Maarso 2026, ciidanka qaranka ayaa la wareegay inta badan Baydhabo, magaalada ugu weyn Koonfur Galbeed. Tani waxay dhacday laba toddobaad kadib markii maamulka dowlad goboleedka ee uu hoggaaminayay Cabdicasiis Laftagareen uu xiriirka u jaray Muqdisho sababo la xiriira wax ka beddelka dastuurka, Laftagareenna wuu is casilay. Ciidamo daacad u ah ayaa magaalada weeraray May iyo mar kale 17 Ogoosto 2026, markaas oo ciidanku sheegay inuu ka saaray.",
+    "impact_so": "Tani waxay ahayd colaad u dhaxaysa dowladda federaalka iyo dowlad goboleed xubin ka ah, ee ma ahayn guul laga gaaray Al-Shabaab. Waxay cutubyo ciidan ku jiidday dagaal gudaha ah, waxayna barakicisay in ka badan 50,000 qof, sida ay sheegtay UN OCHA.",
+    "context_so": "Wax ka beddelka dastuurka, oo muddada madaxweynaha sanad ku kordhiyay, waxaa ku murmay mucaaradka iyo hoggaamiyeyaal dowlad goboleed qaar. Wasaaradda gaashaandhigga ayaa ku eedaysay ciidamada Laftagareen inay la dagaallamayeen Al-Shabaab, taas oo aan si madax-bannaan loo xaqiijin.",
+    "subcategory_so": "Gacan ku haynta dhulka",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2026-06-mogadishu-clashes",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Major incidents",
+    "title": "Security forces and opposition militias clash in Mogadishu",
+    "summary": "On 3–4 June 2026 government troops and militias allied to opposition leaders fought in several Mogadishu districts ahead of a planned anti-government rally. Buildings were hit by gunfire and mortar shells. The fighting eased after mediation by the NISA director.",
+    "impact": "The dispute over the president's term led to armed confrontation in the capital, diverting security forces from the fight against al-Shabaab.",
+    "context": "No official casualty figures were released; the UN said there were deaths and civilian injuries. Police described 'organized attacks' by militias, while the opposition said security forces targeted the homes of former leaders. The US Embassy called the violence 'reckless'.",
+    "tags": [
+      "Mogadishu",
+      "opposition",
+      "term extension",
+      "political violence"
+    ],
+    "sources": [
+      {
+        "name": "WTOP (AP)",
+        "url": "https://wtop.com/world/2026/06/armed-clashes-erupt-in-somalias-capital-ahead-of-a-planned-anti-government-demonstration/",
+        "type": "media",
+        "date": "2026-06-04"
+      },
+      {
+        "name": "Arab News",
+        "url": "https://www.arabnews.com/node/2645949/world",
+        "type": "media"
+      },
+      {
+        "name": "The Star Malaysia (Reuters)",
+        "url": "https://www.thestar.com.my/news/world/2026/06/04/somali-military-and-opposition-allied-militias-trade-fire-ahead-of-anti-government-protests",
+        "type": "media",
+        "date": "2026-06-04"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Ciidamada ammaanka iyo maleeshiyaadka mucaaradka oo ku dagaallamay Muqdisho",
+    "summary_so": "3–4 Juun 2026, ciidamada dowladda iyo maleeshiyaad la safan hoggaamiyeyaasha mucaaradka ayaa ku dagaallamay dhowr degmo oo Muqdisho ah, ka hor bannaanbax ka dhan ah dowladda oo la qorsheeyay. Dhismayaal ayaa ku dhacay rasaas iyo hoobiyeyaal. Dagaalku wuu dejiyay kadib dhexdhexaadin uu sameeyay agaasimaha NISA.",
+    "impact_so": "Khilaafka ku saabsan muddada madaxweynaha wuxuu horseeday iska horimaad hubeysan oo ka dhacay caasimadda, kaasoo ciidamada ammaanka ka leexiyay dagaalka ka dhanka ah Al-Shabaab.",
+    "context_so": "Lama soo saarin tirooyin rasmi ah oo khasaaraha ah; Qaramada Midoobay waxay sheegtay in ay jireen dhimasho iyo dhaawacyo shacab. Booliska ayaa ka hadlay 'weerarro abaabulan' oo maleeshiyaadku geysteen, halka mucaaradku sheegay in ciidamada ammaanku ay bartilmaameedsadeen guryaha hoggaamiyeyaal hore. Safaaradda Mareykanka ayaa rabshadaha ku tilmaantay 'kuwo aan masuuliyad lahayn'.",
+    "subcategory_so": "Dhacdooyinka waaweyn",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2026-10-senior-leaders-killed-claims",
+    "date": "2026-10-06",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "NISA says it killed veteran Amniyat commander, its fourth leadership claim of 2026",
+    "summary": "On 6 October 2026 NISA said that Bashir Ahmed Haji Nunow, a long-time commander of al-Shabaab's Amniyat intelligence wing, had been killed in Jilib on 1 October in an operation with 'international partners'. Somalia also announced the deaths of senior figures in January, July and August 2026.",
+    "impact": "If confirmed, the deaths would remove experienced figures from the group's intelligence and leadership structure. NISA says Nunow planned the 2017 Mogadishu truck bombing.",
+    "context": "Al-Shabaab has not confirmed any of the four deaths. A past claim, about Maalim Ayman in 2023, was contradicted by a UN monitoring report, and analysts say leadership losses do not necessarily reduce the group's strength.",
+    "tags": [
+      "NISA",
+      "al-Shabaab leadership",
+      "Amniyat"
+    ],
+    "sources": [
+      {
+        "name": "FDD's Long War Journal",
+        "url": "https://www.longwarjournal.org/archives/2026/10/somalia-claims-to-have-killed-another-senior-shabaab-leader.php",
+        "type": "ngo",
+        "date": "2026-10-09"
+      }
+    ],
+    "verification": "reported",
+    "title_so": "NISA oo sheegtay inay dishay taliye waayeel ah oo Amniyaad ah, sheegashadeedii afraad ee hoggaamiye ee 2026",
+    "summary_so": "6 Oktoobar 2026, NISA ayaa sheegtay in Bashiir Axmed Xaaji Nuunow, oo muddo dheer ahaa taliye ka tirsan Amniyaadka, garabka sirdoonka Al-Shabaab, lagu dilay Jilib 1 Oktoobar hawlgal lala galay 'saaxiibo caalami ah'. Soomaaliya waxay sidoo kale ku dhawaaqday dhimashada xubno sare oo kale Janaayo, Luulyo iyo Ogoosto 2026.",
+    "impact_so": "Haddii la xaqiijiyo, dhimashooyinkani waxay meesha ka saari lahaayeen shakhsiyaad khibrad leh oo ka tirsan qaab-dhismeedka sirdoonka iyo hoggaanka kooxda. NISA waxay sheegtay in Nuunow uu qorsheeyay qaraxii baabuurka xamuulka ee Muqdisho ee 2017.",
+    "context_so": "Al-Shabaab ma xaqiijin midkoodna afarta dhimasho. Sheegasho hore, oo ku saabsanayd Macallin Aymen 2023, waxaa beeniyay warbixin kormeer oo Qaramada Midoobay, falanqeeyayaashuna waxay sheegaan in khasaaraha hoggaanku uusan daruuri ahayn inuu yareeyo awoodda kooxda.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2026-10-jameeca-battle",
+    "date": "2026-10-26",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "Heavy losses in Bay region battle near Jameeca",
+    "summary": "On 26 October 2026 al-Shabaab attacked an army convoy advancing from Leego toward Jameeca village in Burhakaba district, Bay region, using explosives-laden vehicles. The defence ministry said about 75 militants were killed and 56 wounded, and it did not disclose army casualties. An officer in the convoy told AP he saw at least 20 dead soldiers.",
+    "impact": "Observers called it the army's deadliest engagement of 2026, showing that al-Shabaab can still inflict heavy losses on offensive operations in the south.",
+    "context": "Al-Shabaab claimed 321 soldiers were killed. AP reported that none of the figures could be independently verified.",
+    "tags": [
+      "Bay region",
+      "Burhakaba",
+      "al-Shabaab",
+      "SNA"
+    ],
+    "sources": [
+      {
+        "name": "Taipei Times (AP)",
+        "url": "https://www.taipeitimes.com/News/world/archives/2026/10/29/2003866831",
+        "type": "media",
+        "date": "2026-10-29"
+      },
+      {
+        "name": "Dawan Africa",
+        "url": "https://www.dawan.africa/news/somalia-says-75-al-shabaab-fighters-killed-in-bay-region-clash",
+        "type": "media"
+      }
+    ],
+    "verification": "verified",
+    "title_so": "Khasaare culus oo ka dhashay dagaal ka dhacay gobolka Baay meel u dhow Jameeca",
+    "summary_so": "26 Oktoobar 2026, Al-Shabaab ayaa gaadiid walxaha qarxa laga buuxiyay ku weerartay kolonyo ciidan oo ka soo dhaqaaqday Leego kuna socotay tuulada Jameeca ee degmada Buurhakaba, gobolka Baay. Wasaaradda gaashaandhigga ayaa sheegtay in qiyaastii 75 dagaalyahan la dilay 56 kalena la dhaawacay, mana shaacin khasaaraha ciidamada. Sarkaal ka mid ahaa kolonyada ayaa AP u sheegay inuu arkay ugu yaraan 20 askari oo dhintay.",
+    "impact_so": "Goob-joogayaashu waxay ku tilmaameen dagaalkii ugu dhimashada badnaa ee ciidamada ee 2026, kaasoo muujiyay in Al-Shabaab ay weli khasaare culus u geysan karto hawlgallada weerarka ee koonfurta.",
+    "context_so": "Al-Shabaab waxay sheegatay in 321 askari la dilay. AP waxay sheegtay in tirooyinkan midna aan si madax-bannaan loo xaqiijin karin.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  },
+  {
+    "id": "sec-2026-11-leego-hiraan-strikes",
+    "date": "2026-11-17",
+    "date_precision": "day",
+    "sector": "security",
+    "subcategory": "Counter-terrorism",
+    "title": "Strikes around Leego and in Hiraan as US strikes in 2026 pass 90",
+    "summary": "AFRICOM said it struck al-Shabaab near Leego in Lower Shabelle on 12 November, amid several days of reported clashes in the area. On 17 November the intelligence agency NISA said two operations around Moqokori in Hiraan, supported by AUSSOM and international partners, killed two al-Shabaab members, including a local finance chief, and seriously wounded three commanders. AFRICOM's own count put US strikes in Somalia in 2026 at 92 or more by mid-November.",
+    "impact": "Shows a sustained air campaign. 2026 already exceeds every year before 2025, which set the record with at least 124 US strikes.",
+    "context": "NISA's casualty figures were not independently confirmed. A journalist citing Somali security officials reported that al-Shabaab killed at least eight Danab special forces soldiers in an ambush near Yaqbirweyne on 12 November; this is single-sourced and the government has not confirmed it.",
+    "tags": [
+      "al-Shabaab",
+      "air strikes",
+      "AFRICOM",
+      "NISA",
+      "Danab"
+    ],
+    "sources": [
+      {
+        "name": "Anadolu Agency: Airstrikes in Somalia's Hiran region kill 2 al-Shabaab members, wound 3",
+        "url": "https://www.aa.com.tr/en/africa/airstrikes-in-somalia-s-hiran-region-kill-2-al-shabaab-members-wound-3/4128101",
+        "type": "media",
+        "date": "2026-11-17"
+      },
+      {
+        "name": "Antiwar.com: US launches another strike in Somalia (citing AFRICOM and New America)",
+        "url": "https://news.antiwar.com/2026/11/16/us-launches-another-strike-in-somalia-as-it-continues-heavy-bombing-campaign/",
+        "type": "media",
+        "date": "2026-11-16"
+      }
+    ],
+    "verification": "reported",
+    "added": "2026-11-19",
+    "title_so": "Duqeymo ka dhacay agagaarka Leego iyo Hiiraan iyadoo duqeymaha Mareykanka ee 2026 ay dhaafeen 90",
+    "summary_so": "AFRICOM ayaa sheegtay inay 12 Nofembar duqeyn ku qaadday Al-Shabaab meel u dhow Leego oo ka tirsan Shabeellaha Hoose, iyadoo la sheegay dagaallo dhowr maalmood socday oo deegaankaas ka dhacay. 17 Nofembar, hay'adda sirdoonka NISA ayaa sheegtay in laba howlgal oo ka dhacay agagaarka Moqokori ee gobolka Hiiraan, oo ay taageerayeen AUSSOM iyo saaxiibo caalami ah, lagu dilay laba xubnood oo Al-Shabaab ah, oo uu ku jiro masuul maaliyadeed oo deegaanka ah, saddex taliye oo kalena si daran loogu dhaawacay. Tirakoobka AFRICOM laftigeeda ayaa muujinaya in duqeymaha Mareykanka ee Soomaaliya ka dhacay 2026 ay gaareen 92 ama ka badan bartamihii Nofembar.",
+    "impact_so": "Waxay muujinaysaa olole duqeymo cireed oo joogto ah. 2026 waxay hore u dhaaftay sannad kasta oo ka horreeyay 2025, sannadkaas oo dhigay rikoorka ugu sarreeya oo ah ugu yaraan 124 duqeymood oo Mareykan ah.",
+    "context_so": "Tirada khasaaraha ee NISA si madax-bannaan looma xaqiijin. Weriye ka soo xigtay saraakiil ammaanka Soomaaliyeed ayaa sheegay in Al-Shabaab ay 12 Nofembar ku dishay ugu yaraan siddeed askari oo ka tirsan ciidamada gaarka ah ee Danab weerar gaadmo ah oo ka dhacay meel u dhow Yaaqbariweyne; warkan hal il ayuu ka yimid, dowladduna ma xaqiijin.",
+    "subcategory_so": "La dagaallanka argagixisada",
+    "translation_so": "machine"
+  }
+]

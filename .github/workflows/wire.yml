@@ -1,0 +1,30 @@
+# Publishes the site to GitHub Pages and keeps the live wire fresh.
+# Runs on every push (an editor's approved changes) and every 15 minutes (wire refresh).
+# The wire is not committed: each run downloads the currently published data/wire.json (so the 21-day archive
+# carries over), adds new headlines, and redeploys. Drafts awaiting review are never in the repository.
+name: Publish site and live wire
+on:
+  schedule: [{ cron: "*/15 * * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+permissions: { contents: read, pages: write, id-token: write }
+concurrency: { group: pages, cancel-in-progress: false }
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.deploy.outputs.page_url }}" }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: Carry over the published wire archive
+        run: curl -fsSL "${{ steps.pages.outputs.base_url }}/data/wire.json" -o data/wire.json || echo "No published wire yet"
+      - run: node scripts/fetch_wire.js
+      - name: Build site folder
+        run: rsync -a --exclude .git --exclude .github --exclude scripts ./ _site/
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: _site }
+      - id: deploy
+        uses: actions/deploy-pages@v4
